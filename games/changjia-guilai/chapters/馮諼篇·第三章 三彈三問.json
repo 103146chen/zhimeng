@@ -672,7 +672,7 @@
             "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
             "characterName": "馮諼",
             "expression": "悲慟",
-            "position": "left",
+            "position": "right",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -843,6 +843,15 @@
       "id": "0e385059-2d3c-4d53-93f6-c7ecc2b1c9f7",
       "name": "出記",
       "blocks": [
+        {
+          "id": "d556efd4-2ac7-4f03-a157-60829e050d22",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
+        },
         {
           "id": "9804aec4-1bc0-47cd-9926-68bdbf010668",
           "type": "narration",
@@ -1380,7 +1389,7 @@
             "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
             "characterName": "馮諼",
             "expression": "決然",
-            "position": "left",
+            "position": "right",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,

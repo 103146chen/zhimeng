@@ -284,7 +284,7 @@
             "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
             "characterName": "馮諼",
             "expression": "平靜",
-            "position": "left",
+            "position": "right",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -362,6 +362,15 @@
       "name": "布局-狗盜",
       "blocks": [
         {
+          "id": "d1cc4351-b6b5-4652-b31d-56d87802db1c",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
+        },
+        {
           "id": "63325a35-35ae-45a9-b51a-1d1b7c08fdd6",
           "type": "scene",
           "props": {
@@ -403,7 +412,7 @@
             "characterId": "5d9b6311-5353-473f-a239-22c8c4861605",
             "characterName": "狗盜之徒",
             "expression": "狡黠",
-            "position": "left",
+            "position": "right",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -621,6 +630,15 @@
       "id": "dba4d103-e453-43f2-aeb6-1b16c8b125b5",
       "name": "布局-分玉",
       "blocks": [
+        {
+          "id": "c0824a14-ad44-468c-8832-cd946544bbe1",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
+        },
         {
           "id": "24961566-1421-4a5c-8e76-c5698eba7d48",
           "type": "scene",
@@ -853,7 +871,7 @@
             "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
             "characterName": "馮諼",
             "expression": "冷冽",
-            "position": "left",
+            "position": "right",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,

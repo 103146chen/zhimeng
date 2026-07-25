@@ -606,7 +606,7 @@
             "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
             "characterName": "道旁乞丐",
             "expression": "平靜",
-            "position": "left",
+            "position": "right",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -825,6 +825,15 @@
       "id": "709c7ec7-8176-46d7-a815-31c400a15178",
       "name": "函谷外",
       "blocks": [
+        {
+          "id": "bd5afa75-ca93-4a19-a154-2a2c0242f98f",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
+        },
         {
           "id": "1fc247f6-e2e9-45e7-a4ed-be10248860f0",
           "type": "scene",
@@ -1093,7 +1102,7 @@
             "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
             "characterName": "馮諼",
             "expression": "冷冽",
-            "position": "left",
+            "position": "right",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,

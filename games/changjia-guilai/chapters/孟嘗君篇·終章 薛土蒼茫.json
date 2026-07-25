@@ -322,7 +322,7 @@
             "characterId": "08497ae5-7888-4803-816d-1e70056f8a26",
             "characterName": "自剄賢者",
             "expression": "怒",
-            "position": "left",
+            "position": "center",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -385,6 +385,15 @@
       "id": "3646ce3a-4839-4e85-97c2-dd94c3f00b14",
       "name": "歸薛",
       "blocks": [
+        {
+          "id": "580bd0d7-a459-4637-92f4-3382d1d5308d",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
+        },
         {
           "id": "677f218d-96ac-4e69-8109-b78b2bca7300",
           "type": "scene",

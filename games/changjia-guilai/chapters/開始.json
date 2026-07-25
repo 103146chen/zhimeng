@@ -7,7 +7,7 @@
       "name": "main",
       "blocks": [
         {
-          "id": "blk-1784948834763-9agvbs",
+          "id": "f092b752-f591-46ea-aded-ecf1872b1738",
           "type": "showExtensionUI",
           "props": {
             "disabled": false,
@@ -21,7 +21,7 @@
           }
         },
         {
-          "id": "blk-1784965146080-r10a94",
+          "id": "8f054e4a-18b0-4878-a189-7cab570f058f",
           "type": "storyParagraph",
           "props": {
             "disabled": false,

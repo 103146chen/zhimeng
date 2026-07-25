@@ -93,7 +93,7 @@
             "characterId": "bd5fb7cd-9442-4ad6-a690-8fe3000c4422",
             "characterName": "田嬰",
             "expression": "平靜",
-            "position": "left",
+            "position": "right",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -121,19 +121,7 @@
           "content": [
             {
               "type": "text",
-              "text": "勿舉——不要養。兩個字，就是你來到這個世上領到的第一份",
-              "styles": {}
-            },
-            {
-              "type": "text",
-              "text": "禮物",
-              "styles": {
-                "bold": true
-              }
-            },
-            {
-              "type": "text",
-              "text": "。",
+              "text": "勿舉——不要養。兩個字，就是你來到這個世上領到的第一份禮物。",
               "styles": {}
             }
           ]
@@ -162,7 +150,7 @@
             "characterId": "14bd0ad5-ed5a-45a6-bd94-a3c22acd8df7",
             "characterName": "田文之母",
             "expression": "憂懼",
-            "position": "left",
+            "position": "center",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -251,7 +239,7 @@
             "characterId": "bd5fb7cd-9442-4ad6-a690-8fe3000c4422",
             "characterName": "田嬰",
             "expression": "怒",
-            "position": "left",
+            "position": "right",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -356,7 +344,7 @@
             "characterId": "bd5fb7cd-9442-4ad6-a690-8fe3000c4422",
             "characterName": "田嬰",
             "expression": "平靜",
-            "position": "left",
+            "position": "right",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -427,7 +415,7 @@
             "characterId": "bd5fb7cd-9442-4ad6-a690-8fe3000c4422",
             "characterName": "田嬰",
             "expression": "沉吟",
-            "position": "left",
+            "position": "right",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -530,7 +518,7 @@
             "characterId": "bd5fb7cd-9442-4ad6-a690-8fe3000c4422",
             "characterName": "田嬰",
             "expression": "沉吟",
-            "position": "left",
+            "position": "right",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -667,7 +655,7 @@
             "characterId": "bd5fb7cd-9442-4ad6-a690-8fe3000c4422",
             "characterName": "田嬰",
             "expression": "沉吟",
-            "position": "left",
+            "position": "right",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -724,7 +712,7 @@
             "characterId": "14bd0ad5-ed5a-45a6-bd94-a3c22acd8df7",
             "characterName": "田文之母",
             "expression": "平靜",
-            "position": "left",
+            "position": "center",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -771,6 +759,15 @@
       "id": "734d49a1-3c96-4694-a336-05ebc5ae28dd",
       "name": "諫父",
       "blocks": [
+        {
+          "id": "8afd2b92-7e13-41d9-acd7-980c3fd3e8b9",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
+        },
         {
           "id": "dcd3e3e6-ca9c-4797-8c4b-f577b9491fad",
           "type": "scene",
@@ -870,7 +867,7 @@
             "characterId": "bd5fb7cd-9442-4ad6-a690-8fe3000c4422",
             "characterName": "田嬰",
             "expression": "平靜",
-            "position": "left",
+            "position": "right",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -920,7 +917,7 @@
             "characterId": "bd5fb7cd-9442-4ad6-a690-8fe3000c4422",
             "characterName": "田嬰",
             "expression": "平靜",
-            "position": "left",
+            "position": "right",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -970,7 +967,7 @@
             "characterId": "bd5fb7cd-9442-4ad6-a690-8fe3000c4422",
             "characterName": "田嬰",
             "expression": "沉吟",
-            "position": "left",
+            "position": "right",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -1059,7 +1056,7 @@
             "characterId": "bd5fb7cd-9442-4ad6-a690-8fe3000c4422",
             "characterName": "田嬰",
             "expression": "沉吟",
-            "position": "left",
+            "position": "right",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -1130,7 +1127,7 @@
             "characterId": "bd5fb7cd-9442-4ad6-a690-8fe3000c4422",
             "characterName": "田嬰",
             "expression": "沉吟",
-            "position": "left",
+            "position": "right",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -1217,7 +1214,7 @@
             "characterId": "bd5fb7cd-9442-4ad6-a690-8fe3000c4422",
             "characterName": "田嬰",
             "expression": "沉吟",
-            "position": "left",
+            "position": "right",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -1248,6 +1245,15 @@
       "id": "7d15119c-97d8-4ac0-9c87-17d5626ac48d",
       "name": "主家待客",
       "blocks": [
+        {
+          "id": "2f5931cb-82ae-4a41-9a0b-923a693f487d",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
+        },
         {
           "id": "24e1b1ea-088c-4fa7-9ad5-d33e748c5add",
           "type": "narration",

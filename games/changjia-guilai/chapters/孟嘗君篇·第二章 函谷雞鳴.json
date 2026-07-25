@@ -320,7 +320,7 @@
             "characterId": "08497ae5-7888-4803-816d-1e70056f8a26",
             "characterName": "秦廷近臣",
             "expression": "平靜",
-            "position": "left",
+            "position": "center",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -352,6 +352,15 @@
               "styles": {}
             }
           ]
+        },
+        {
+          "id": "03d57e1f-a36d-42c9-b810-40c982d9a37b",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
         },
         {
           "id": "057d1624-da7b-464b-8d73-d7b183b99ce8",
@@ -543,7 +552,7 @@
             "characterId": "5d9b6311-5353-473f-a239-22c8c4861605",
             "characterName": "狗盜之徒",
             "expression": "平靜",
-            "position": "left",
+            "position": "right",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -616,7 +625,7 @@
             "characterId": "5d9b6311-5353-473f-a239-22c8c4861605",
             "characterName": "狗盜之徒",
             "expression": "狡黠",
-            "position": "left",
+            "position": "right",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -788,6 +797,15 @@
       "name": "盜裘",
       "blocks": [
         {
+          "id": "311e4b22-9d99-4669-bb02-4643297a364b",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
+        },
+        {
           "id": "e98b6a4b-3c4d-4b4c-9f8c-06a29dcef2b8",
           "type": "narration",
           "props": {
@@ -939,7 +957,7 @@
             "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
             "characterName": "道旁乞丐",
             "expression": "平靜",
-            "position": "left",
+            "position": "right",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -1158,6 +1176,15 @@
       "id": "a2c44ea3-3b93-4cf8-864a-3b04142ff17a",
       "name": "函谷",
       "blocks": [
+        {
+          "id": "2dc26c52-1783-4f76-ad35-faa3ef3717a3",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
+        },
         {
           "id": "76267570-5819-4568-b079-8bb500358b4a",
           "type": "scene",

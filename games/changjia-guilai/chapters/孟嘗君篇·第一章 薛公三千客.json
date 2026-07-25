@@ -141,7 +141,7 @@
             "characterId": "08497ae5-7888-4803-816d-1e70056f8a26",
             "characterName": "座中門客",
             "expression": "平靜",
-            "position": "left",
+            "position": "center",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -188,6 +188,15 @@
       "id": "36d3369c-9981-4559-9517-a984fcfe9052",
       "name": "夜宴",
       "blocks": [
+        {
+          "id": "c5789b7a-f104-48c5-96ff-099d660cf4d7",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
+        },
         {
           "id": "e59dae2b-74bf-4722-85a7-e3f8e9d42f61",
           "type": "scene",
@@ -246,7 +255,7 @@
             "characterId": "08497ae5-7888-4803-816d-1e70056f8a26",
             "characterName": "下席怒客",
             "expression": "怒",
-            "position": "left",
+            "position": "center",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -287,7 +296,7 @@
             "characterId": "08497ae5-7888-4803-816d-1e70056f8a26",
             "characterName": "下席怒客",
             "expression": "怒",
-            "position": "left",
+            "position": "center",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -376,7 +385,7 @@
             "characterId": "08497ae5-7888-4803-816d-1e70056f8a26",
             "characterName": "下席怒客",
             "expression": "慚愧",
-            "position": "left",
+            "position": "center",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -698,6 +707,15 @@
       "id": "b4d294a9-842f-438f-9571-4eb85ebfa92e",
       "name": "宴後",
       "blocks": [
+        {
+          "id": "8b88dde1-e869-4b69-81ab-1c695d179239",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
+        },
         {
           "id": "56b1a94c-ee54-41b0-a09b-5b2cf70dc5fa",
           "type": "narration",
@@ -1192,6 +1210,15 @@
       "name": "流民後",
       "blocks": [
         {
+          "id": "64865794-db57-4d01-92fe-4e0c5f03811b",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
+        },
+        {
           "id": "066aca0c-dd27-41af-827f-67de05b24fa6",
           "type": "narration",
           "props": {
@@ -1261,7 +1288,7 @@
             "characterId": "5d9b6311-5353-473f-a239-22c8c4861605",
             "characterName": "狗盜之徒",
             "expression": "狡黠",
-            "position": "left",
+            "position": "right",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -1286,7 +1313,7 @@
             "characterId": "08497ae5-7888-4803-816d-1e70056f8a26",
             "characterName": "上席門客",
             "expression": "訕笑",
-            "position": "left",
+            "position": "center",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -1327,7 +1354,7 @@
             "characterId": "5d9b6311-5353-473f-a239-22c8c4861605",
             "characterName": "狗盜之徒",
             "expression": "平靜",
-            "position": "left",
+            "position": "right",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -1595,6 +1622,15 @@
       "name": "秦聘",
       "blocks": [
         {
+          "id": "d16cb726-3f8d-4dbe-8a04-03546593a8fc",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
+        },
+        {
           "id": "f08cbf58-d8b1-4eef-ac25-b08d7b22b7f9",
           "type": "narration",
           "props": {
@@ -1666,7 +1702,7 @@
             "characterId": "08497ae5-7888-4803-816d-1e70056f8a26",
             "characterName": "座中門客",
             "expression": "平靜",
-            "position": "left",
+            "position": "center",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,

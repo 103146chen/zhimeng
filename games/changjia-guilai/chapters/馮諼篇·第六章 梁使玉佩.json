@@ -160,7 +160,7 @@
             "characterId": "63a52479-7708-4b17-968e-e5814a760051",
             "characterName": "魏使",
             "expression": "恭敬",
-            "position": "left",
+            "position": "right",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -299,6 +299,15 @@
       "id": "32bf26d2-cf2e-4fc2-bbcf-fe9e7bfba9d4",
       "name": "玉佩認出",
       "blocks": [
+        {
+          "id": "c381c98c-0273-4ba8-bce0-9d2d3b7df6f8",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
+        },
         {
           "id": "235f3ee7-a90a-4341-88d2-149243cfa06d",
           "type": "scene",
@@ -677,7 +686,7 @@
             "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
             "characterName": "馮諼",
             "expression": "微笑",
-            "position": "left",
+            "position": "right",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -708,6 +717,15 @@
       "id": "8e51a9ed-ceff-456d-8941-e0ac9a802f1c",
       "name": "高枕之後",
       "blocks": [
+        {
+          "id": "6fb8a975-74bc-4489-ba93-5bf6b43b00f2",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
+        },
         {
           "id": "43ceee06-09d7-4b97-8ec3-c9ccb9df7c4f",
           "type": "narration",
@@ -957,7 +975,7 @@
             "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
             "characterName": "馮諼",
             "expression": "低語",
-            "position": "left",
+            "position": "right",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,

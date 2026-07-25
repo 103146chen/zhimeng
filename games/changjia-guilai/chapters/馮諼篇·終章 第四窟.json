@@ -807,6 +807,15 @@
           ]
         },
         {
+          "id": "bd25660b-d244-410c-b3a2-272c6caf4ba1",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
+        },
+        {
           "id": "ceb2e874-f664-48a9-875a-b83e4d1d6f07",
           "type": "scene",
           "props": {

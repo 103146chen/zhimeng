@@ -109,7 +109,7 @@
             "characterId": "63a52479-7708-4b17-968e-e5814a760051",
             "characterName": "魏使",
             "expression": "恭敬",
-            "position": "left",
+            "position": "right",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -125,6 +125,15 @@
               "styles": {}
             }
           ]
+        },
+        {
+          "id": "f8277912-4d00-4d6d-9262-0a794d61b521",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
         },
         {
           "id": "b4ed3091-d6b5-4f05-b405-64affb0e0f40",
@@ -365,7 +374,7 @@
             "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
             "characterName": "馮諼",
             "expression": "決然",
-            "position": "left",
+            "position": "right",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -505,6 +514,15 @@
       "name": "齊王恐懼",
       "blocks": [
         {
+          "id": "8091cc77-e4f2-43d8-a2ce-5222b0a975ea",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
+        },
+        {
           "id": "0a9921b1-4c8f-4417-968a-fe5ff69c1151",
           "type": "scene",
           "props": {
@@ -575,7 +593,7 @@
             "characterId": "715733c5-4c4b-47db-837f-2a15b9b4c2dc",
             "characterName": "齊太傅",
             "expression": "惶恐",
-            "position": "left",
+            "position": "center",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -638,6 +656,15 @@
       "id": "8f7cbd78-c091-466b-86ee-adbc8dc87069",
       "name": "客復來",
       "blocks": [
+        {
+          "id": "e2355bf4-f812-4e3a-8c5c-34e675a88be1",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
+        },
         {
           "id": "2b9c7472-de0a-47a4-99a6-267753ff1c38",
           "type": "narration",
@@ -827,7 +854,7 @@
             "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
             "characterName": "馮諼",
             "expression": "微笑",
-            "position": "left",
+            "position": "right",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -945,7 +972,7 @@
             "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
             "characterName": "馮諼",
             "expression": "平靜",
-            "position": "left",
+            "position": "right",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -961,6 +988,15 @@
               "styles": {}
             }
           ]
+        },
+        {
+          "id": "5050f5c1-f583-48a3-93a5-77837264675b",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
         },
         {
           "id": "27928e84-ab23-4ae3-a47a-dc10e248bdd1",
@@ -1036,7 +1072,7 @@
             "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
             "characterName": "馮諼",
             "expression": "微笑",
-            "position": "left",
+            "position": "right",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -1129,6 +1165,15 @@
       "id": "e0f75b17-a871-4157-b7c4-966410cbf78b",
       "name": "章末",
       "blocks": [
+        {
+          "id": "93f0783f-81f2-43ff-b946-d3446a1ecc8a",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
+        },
         {
           "id": "d6b49f05-fe3c-46ff-8217-bdb5569d35cc",
           "type": "narration",

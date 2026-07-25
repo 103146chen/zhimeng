@@ -301,6 +301,15 @@
       "name": "債務加身",
       "blocks": [
         {
+          "id": "29d50246-c2e1-4e91-99b1-109db1a676dc",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
+        },
+        {
           "id": "a513d7ca-c8cf-40f4-b2e5-3b6994e0f9fc",
           "type": "narration",
           "props": {
@@ -422,6 +431,15 @@
           ]
         },
         {
+          "id": "b60be9f1-6876-4d66-8f21-e5b8e79dc7c1",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
+        },
+        {
           "id": "498a6da8-0e90-43fa-8f06-f299bd11ce74",
           "type": "scene",
           "props": {
@@ -513,7 +531,7 @@
             "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
             "characterName": "馮諼",
             "expression": "少年",
-            "position": "left",
+            "position": "right",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -653,6 +671,15 @@
       "name": "負劍流亡",
       "blocks": [
         {
+          "id": "a19190b2-01f4-4337-9152-307921432fb2",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
+        },
+        {
           "id": "cdcdacf5-8e45-45eb-b62e-0dbb0b25cf14",
           "type": "scene",
           "props": {
@@ -739,7 +766,7 @@
             "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
             "characterName": "馮諼",
             "expression": "冷冽",
-            "position": "left",
+            "position": "right",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
@@ -842,7 +869,7 @@
             "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
             "characterName": "馮諼",
             "expression": "低語",
-            "position": "left",
+            "position": "right",
             "showCharacter": true,
             "keepCharacter": true,
             "keepDialogue": true,
