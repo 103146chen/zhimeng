@@ -1,0 +1,2195 @@
+{
+  "id": "f84180cd-ec31-4c1b-9ff0-d76361e7113f",
+  "name": "孟嘗君篇·第三章 彈鋏之客",
+  "fragments": [
+    {
+      "id": "b9e23c68-714b-4ae7-96f9-a56d63db28c2",
+      "name": "main",
+      "blocks": [
+        {
+          "id": "3a7afd45-269c-4267-96c9-b2b14593b4bb",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "9e645682-cf1c-45c3-baed-b41d56adfcee",
+            "sceneName": "臨淄相府正堂",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "800",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "56e956be-a25d-467d-a0d9-45a9ee94d994",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "bgm",
+            "uri": "bgm/bgm_20_enduring.mp3",
+            "volume": "70",
+            "loop": "true",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "fc096491-a425-4c5b-b42b-434e1208e592",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "函谷關的雞鳴聲，隨你一路傳回了臨淄。齊王親出郊迎，執你的手說了許多話，你一句也沒有記住——你只記得咸陽獄裡的霉味，和雪夜裡那句「快著死，還是慢著活」。自秦歸來，你重登相位，朝堂上下再無人敢輕言「薛公養客三千，無用」四字：滿座公卿都知道，救薛公出函谷的，正是他們最看不起的雞鳴狗盜之徒。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "73175165-4c69-4ec9-a6df-037d84fe65ae",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "只是你也漸漸察覺，王執你手時，眼睛看的不是你，是你身後——你身後站著三千客，站著薛地萬戶，站著「天下知有孟嘗君，不知有齊王」這句越傳越響的話。名重於主，古來不是福氣。這株刺眼下還小，你把它按在心底，不去想。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ea5ce7c7-61d1-4592-9339-da66ca569b3d",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "於是天下之士，益發歸你如流水。傳舍、幸舍、代舍三等客館，屋簷一路接到了坊牆外；每日投書自薦的簡冊，在門房堆得像一垛新收的柴。是年春，又有一人使人來屬，說是願寄食門下。你在正堂見他：身量瘦長，一襲洗舊的褐衣，腳下一雙磨穿了底的草鞋，腰間橫一柄劍——劍也是舊的，連劍穗都沒有。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "5576182d-ecf5-4381-b0c0-36b57477a9c1",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5e9c0bd-260c-426e-b6d9-8fc8100d43bb",
+            "characterName": "孟嘗君",
+            "expression": "平靜",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「客何好？」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ae48b3df-da07-46e0-a77c-e7373ee8ca53",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
+            "characterName": "馮諼",
+            "expression": "平靜",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「客無好也。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "06c4f94f-b8bd-45ac-b974-359900f86ed8",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5e9c0bd-260c-426e-b6d9-8fc8100d43bb",
+            "characterName": "孟嘗君",
+            "expression": "疑慮",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「客何能？」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "709395d1-5d41-45d0-934a-45e58a84f744",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
+            "characterName": "馮諼",
+            "expression": "平靜",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「客無能也。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ad58fdd6-9dae-453e-8f0a-3333f61ec3b3",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "堂下響起一片壓不住的竊笑。自薦之客，你見過誇談天下的、擊劍請試的、當場背誦先王之法的——說自己一無所好、一無所能的，這是頭一個。那人立在堂中，眼睛半闔著，任笑聲從身上滾過去，像一塊立了很多年的碑。笑聲停了，他還立著；彷彿來的不是求食之客，是來收帳的債主。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "48bd1ca1-49aa-4a61-8d12-ec302bf303b7",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "無好無能之客。你——",
+            "choices": "[{\"text\":\"笑而受之：「諾。」\",\"mode\":\"jump\",\"fragmentId\":\"172d45b6-c13f-4745-a4af-1dbb5cb1931c\"},{\"text\":\"放下筆，親自問他名里來處\",\"mode\":\"jump\",\"fragmentId\":\"ed85a9f0-a085-4d28-ae69-b4ea34fa2e15\"},{\"text\":\"揮手交予傳舍長安置，不再過問\",\"mode\":\"jump\",\"fragmentId\":\"db4d3e15-7fdd-4ebf-957d-6cebbcb9b779\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "172d45b6-c13f-4745-a4af-1dbb5cb1931c",
+      "name": "受客-笑受",
+      "blocks": [
+        {
+          "id": "1ce473bd-63f7-4139-a08e-446bea830839",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你笑而受之，只答了一個字：「諾。」笑裡有一點自嘲——門下三千客，什麼樣的沒有？多一個「無能」的，正好湊個全。你沒有看見，那人聽到這個「諾」字時，半闔的眼睛睜開了一線。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ca11645e-c182-42b9-b7dd-3312581e3ccb",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "左右卻把你這一笑讀成了另一個意思：君笑之，是賤之也。主君一個眼色，底下人自有一百種辦法奉行——於是安置在最末等的傳舍，食以草具：粗糲的飯食，連一星葷腥也無。你日理萬機，並不知道你的一個笑，已經替一個人定了一年的柴米。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d1303b68-16ff-49ed-8f84-503801d608e8",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "f262bbee-fdc1-4076-9aa4-d4426bac840e"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ed85a9f0-a085-4d28-ae69-b4ea34fa2e15",
+      "name": "受客-親問",
+      "blocks": [
+        {
+          "id": "7067b5a8-8640-4d95-8fb8-916e8345ce59",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你放下筆，親自問他名姓鄉里。「馮諼，齊人。」聲音不高，字卻咬得極穩。你隨口再問：「先生自何處來？」他頓了一頓——那停頓短得幾乎察覺不到——答：「自四方來。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e6326295-9da9-4749-a057-ab749acb7fda",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "器量",
+            "op": "+=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "7005dc11-a4a7-48a8-8387-ac890a71b053",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你親手在名籍上記下「馮諼」二字。無好，無能，四方來。你想：肯把自己說得這樣乾淨的人，要麼真是一無所有，要麼，是把所有的東西都收在了你看不見的地方。只是左右見你未曾吩咐待遇，仍循例將他安置末舍，食以草具。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "1bcdc139-0667-40a4-aa1f-7466fb22c1d9",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "f262bbee-fdc1-4076-9aa4-d4426bac840e"
+          }
+        }
+      ]
+    },
+    {
+      "id": "db4d3e15-7fdd-4ebf-957d-6cebbcb9b779",
+      "name": "受客-不問",
+      "blocks": [
+        {
+          "id": "c3f9578c-6ac1-4898-b361-1d5696b4b70f",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你頭也未抬，揮了揮手。無好無能之客，名籍上多一行字而已——這樣的日子，這樣的人，你一個月要見十幾個。傳舍長把他領了下去，末等的舍，草具的食，一切依例。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "259ec067-f37d-45e9-893b-d7f716aab673",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "器量",
+            "op": "-=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "bc898e67-4456-4ddb-8a37-840b10e40a8d",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你不曾看他第二眼。你不知道的是，堂中那人離去前，卻把你看了很久——像商人驗一塊璞，像匠人量一段材。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "4b96f6a9-38a8-436d-b3f0-c91cb012f553",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "f262bbee-fdc1-4076-9aa4-d4426bac840e"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f262bbee-fdc1-4076-9aa4-d4426bac840e",
+      "name": "草具",
+      "blocks": [
+        {
+          "id": "2b539eb8-a1b4-40c8-8d96-693fd08de80a",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "aa0a2e7c-f196-4c9e-bbc3-1fc700e10a02",
+            "sceneName": "薛公府邸",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "600",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "738b2b29-5841-45b1-bd4d-1ca0a544a743",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "末等傳舍的日子，是草蓆、陶碗、一日兩餐的豆飯藜羹。同舍的下客各有營生：抄書的抄書，說項的說項，唯獨這位馮先生什麼也不做，每日抱著那柄舊劍坐在廊下曬太陽，像一尊不肯開口的門神。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "fa029375-28e1-4eca-b67b-9292b9a46b67",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "有下客拿他取笑：「先生無好無能，日日抱劍——莫非這劍能當飯吃？」他連眼皮都沒有抬：「不能。」「那先生抱它作甚？」他沉默了一會兒，說：「怕它涼。」滿舍哄笑，笑他瘋。這段閒話後來輾轉傳到你耳中，你也只當一句瘋話，笑過便忘了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "b37698a4-ffbb-447e-b91e-aa2badfccb54",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "居有頃——約莫過了旬月。那一日暮食之後，傳舍裡忽然響起一種奇怪的聲音：不是琴，不是筑，是劍鋏叩著廊柱，一下，一下，敲出一個蒼涼的調子。然後有人和著調子唱起來，嗓音沙啞，卻穿透了整座客館——",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "08941e4d-e2e4-4614-981f-0d3ebe3d6871",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "8ef1ffa7-5868-4d04-9ef4-4784486f035f",
+            "sceneName": "CG·三彈其鋏",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "500",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "81759f71-8c13-4aa9-9aae-e74223270d75",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "SE",
+            "soundId": "",
+            "uri": "se/se_sword_ring.mp3",
+            "volume": "90",
+            "loop": "false",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "6b06dcc4-1d7e-4dfa-8b45-d9ac1e38ded7",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
+            "characterName": "馮諼",
+            "expression": "平靜",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「長鋏歸來乎！[wait=700]食無魚！」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "dccbca6b-708b-4432-9893-1b7a3e5adf26",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "aa0a2e7c-f196-4c9e-bbc3-1fc700e10a02",
+            "sceneName": "薛公府邸",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "500",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "03f9c347-60da-4b01-bead-ebcc88d6486a",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "長劍啊，我們回去吧——吃飯連條魚都沒有。歌只有一句，翻來覆去地唱，唱得不急不惱，倒像哄著什麼人入睡。滿舍下客先是笑，笑著笑著又覺得那調子鑽心，說不出的難受。左右聽不下去，把這事報到了你的案前，語氣裡帶著等看熱鬧的意思：君上收的那位「無能」先生，嫌飯食粗了。堂下已有人押上了賭注，賭薛公這回是逐客，還是給魚。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "1467056b-94d5-4638-b0cb-9edb996f19c1",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "無功之客，彈劍求魚。你——",
+            "choices": "[{\"text\":\"「食之，比門下之客。」\",\"mode\":\"jump\",\"fragmentId\":\"20850d57-1ad1-4410-a1c1-5a5209c64cd1\"},{\"text\":\"傳話問他：無能之人，何以求魚\",\"mode\":\"jump\",\"fragmentId\":\"45e8cd24-4f59-4c85-b857-ca71e17e53b0\"},{\"text\":\"由他歌去，不予理會\",\"mode\":\"jump\",\"fragmentId\":\"89855c31-e6ca-4700-ad72-0c4135976b9c\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "20850d57-1ad1-4410-a1c1-5a5209c64cd1",
+      "name": "魚-比客",
+      "blocks": [
+        {
+          "id": "a50ad595-f6a7-46c8-a58b-a527e793d2fc",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5e9c0bd-260c-426e-b6d9-8fc8100d43bb",
+            "characterName": "孟嘗君",
+            "expression": "平靜",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「食之，比門下之客。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "59f62172-f28b-4ffc-ba60-544aec5f1332",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你不假思索。左右愕然：無功而升等，門下的規矩往哪裡放？你擱下筆，只說了一句：「客既肯來，便是要吃飯的。連客人碗裡的魚都要計較，文養士三千，養的是什麼？」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c7a59979-4043-437a-9e21-005ab6435d6a",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "器量",
+            "op": "+=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "14ad8e94-3dde-46b3-9675-db5631616d6b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "當夜，中等幸舍的食案上，那位馮先生對著一尾鮮魚吃得從容。廊下再沒有歌聲。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "3b421633-3f53-4bef-8f58-2aed0a059a88",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "e5f110c1-98fd-40b3-8b21-70acf2bdacd0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "45e8cd24-4f59-4c85-b857-ca71e17e53b0",
+      "name": "魚-問之",
+      "blocks": [
+        {
+          "id": "3f43b0ec-1a74-4a2a-9a9c-6ba0cfbe881a",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你命人傳話過去：「先生自言無好無能。魚，何為而求？」話原封不動地帶了回來，回答也原封不動地帶了回來——",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "06741e12-c600-4295-9a4b-f5541db48ffe",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
+            "characterName": "馮諼",
+            "expression": "平靜",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「無能之人，亦有口腹。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "1938f5ae-ba9b-4186-a330-79a421494c80",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你失笑。這話近乎無賴，卻無可辯駁——無能是他自己說的，要吃飯也是他自己說的，兩句都是實話。你揮揮手：食之，比門下之客。魚給了，你心裡卻多了一分留意：這人答話，一個字都不肯多，也一個字都不肯少。三千客裡巧言令色的你見得多了，惜字如金到這個地步的，只此一人。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "3660bd83-11b1-43ae-b350-d7c6a2987698",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "e5f110c1-98fd-40b3-8b21-70acf2bdacd0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "89855c31-e6ca-4700-ad72-0c4135976b9c",
+      "name": "魚-由他",
+      "blocks": [
+        {
+          "id": "227c6f17-9642-424e-aee9-ca58852e0e97",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你把回報擱在一邊：由他歌去。三千客裡混飯吃的不知凡幾，會哭的孩子有奶——這個口子不能開。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "8b7806fe-d497-4df1-9a1e-b601f33a2ec8",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "可那歌聲不停。一連數日，暮食之後，劍鋏叩柱之聲準時響起，「長鋏歸來乎」五個字磨得滿舍下客心浮氣躁。管事的來訴了三回苦。第四回，你終於煩了，揮手：「給他魚，堵上他的嘴。」魚是給了，體面沒有給——這一層，唱歌的人和聽歌的人，都聽得明白。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "80123e43-29da-4ca7-a0a1-0d8c100d6fd5",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "器量",
+            "op": "-=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "8d5e9e22-f9df-40de-8a5f-d90e37e77364",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "e5f110c1-98fd-40b3-8b21-70acf2bdacd0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "e5f110c1-98fd-40b3-8b21-70acf2bdacd0",
+      "name": "車歌",
+      "blocks": [
+        {
+          "id": "4248cbaf-da6f-42e5-8523-05b38e39e27f",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "魚的事過去了，傳舍安靜了些時日。居有頃，那個調子又響了起來——還是劍鋏叩柱，還是那副沙啞嗓子，只是詞換了：",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "8c1a12be-141d-4a2c-86e9-21d1b19f8347",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "SE",
+            "soundId": "",
+            "uri": "se/se_sword_ring.mp3",
+            "volume": "90",
+            "loop": "false",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "8df62a30-b9f9-4f3c-b9c7-3ebee24b0dd3",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
+            "characterName": "馮諼",
+            "expression": "平靜",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「長鋏歸來乎！[wait=700]出無車！」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c3fd0034-5211-44f2-898b-4c94eb5c1aa0",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "這回左右皆笑之。魚給了要車，車給了只怕要騎馬佩玉了——得寸進尺，貪而無饜，下客們拿這歌當笑話講，編成謠子在灶間傳唱，笑話一路講到了你的堂前。連上等代舍的貴客都託人帶話：君上仁厚，然門下規矩一壞，三千人人人彈鋏，府庫將何以堪？",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d6737a59-1965-437b-9b68-d27faf4bfc6a",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "得魚而歌車。你——",
+            "choices": "[{\"text\":\"「為之駕，比門下之車客。」\",\"mode\":\"jump\",\"fragmentId\":\"d59a44e3-d99b-48fa-9813-85fc7bd49aac\"},{\"text\":\"予府中舊車一乘，夠用便是\",\"mode\":\"jump\",\"fragmentId\":\"f1f5a407-6e99-4c88-8b63-86f566c73056\"},{\"text\":\"傳話：客有三等，車有定數\",\"mode\":\"jump\",\"fragmentId\":\"c24866db-6732-41e7-bba5-795892220e0b\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d59a44e3-d99b-48fa-9813-85fc7bd49aac",
+      "name": "車-比車客",
+      "blocks": [
+        {
+          "id": "7eca7755-48c7-48ea-a4e0-b1d28b13796b",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5e9c0bd-260c-426e-b6d9-8fc8100d43bb",
+            "characterName": "孟嘗君",
+            "expression": "平靜",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「為之駕，比門下之車客。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "af705f04-99ff-4eca-a1a2-c7c36ec265a1",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "堂下譁然更甚——上等代舍，出入乘車，那是門下最尊的客遇。你由著他們譁然。你想的是另一件事：一個「無好無能」的人要車做什麼？要車的人，總是有地方要去、有事情要辦的人。他不說，你便給了看看。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "78a01759-ffb3-46bd-9376-c79b8f0453fe",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "器量",
+            "op": "+=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "a9891866-7e8d-4f63-8c88-db281dbd34e4",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "be4ad196-82ae-45a3-9325-a782927ed6dc"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f1f5a407-6e99-4c88-8b63-86f566c73056",
+      "name": "車-下乘",
+      "blocks": [
+        {
+          "id": "9e09eeee-5b39-4a19-b354-2fc00877cb6f",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你給了——府中最舊的一乘，車轅上的漆都剝落了。夠代步，不夠體面。管事的問要不要換副新轡頭充充場面，你說不必：他要的若是車，這就是車；他要的若是臉面，那就讓他再唱一首來換。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "f9f9062d-b607-4f1c-9bdd-4861bda41d8a",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "他坦然受之，並不嫌棄。破車出入，褐衣舊劍，倒自有一副旁若無人的氣度。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "65816fc5-a9bb-4151-abde-98583df2ddaa",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "be4ad196-82ae-45a3-9325-a782927ed6dc"
+          }
+        }
+      ]
+    },
+    {
+      "id": "c24866db-6732-41e7-bba5-795892220e0b",
+      "name": "車-有差",
+      "blocks": [
+        {
+          "id": "00236ee3-8bf9-401f-bbd6-b4c35981e2cb",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你讓左右傳話過去：「客有三等，車有定數。先生之等，未至車客。」話說得平正，門規也確是如此——只是誰都聽得出，這是拿規矩做的一堵牆。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "5f4776c2-3493-4444-8f73-fa10cb763a4f",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "數日後你聽說，下坐有位老客看不過去，私下把自己的車讓了給他。他也不推辭，坦然受之。傳到你耳中時，你竟說不清心裡是什麼滋味——門客替主君全了一個「不肯給」的吝字，這體面，比不給更難看。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "5e39d485-821e-4fa1-a5b1-82b2cce21b8b",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "器量",
+            "op": "-=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "a3db4403-934d-4e4f-be11-08e8c2f51d17",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "be4ad196-82ae-45a3-9325-a782927ed6dc"
+          }
+        }
+      ]
+    },
+    {
+      "id": "be4ad196-82ae-45a3-9325-a782927ed6dc",
+      "name": "家歌",
+      "blocks": [
+        {
+          "id": "332ea43a-1b65-448a-bcb3-f1d99e93acc6",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "於是門下多了一道風景：馮先生乘其車，揭其劍，出入臨淄，逢故人便揚聲道——「孟嘗君客我！」孟嘗君拿我當客待了！左右報與你聽，都當是小人乍富、得意忘形。你聽著卻覺得奇怪：他那樣一個一字不肯多說的人，偏偏這五個字，說得滿城皆知——像在替你揚名，又像在替誰驗證著什麼。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "2f7c67f2-14c4-45b8-b55a-029acd505649",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "還有一樁小事，夾在門房的日誌裡，當時誰也沒有留意：那乘車三五日便出城一趟，總是往南。南邊，過了泗水就是薛地。回來時，車上照舊空空，只有車轍比去時深——像是載過什麼重物，又在半路卸下了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "83260a5e-4e85-4635-813a-00944c3a8f7e",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "又居有頃。那個調子第三次響起來的時候，整座傳舍都靜了——",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "5b7f7ad1-3185-4a9c-ba3c-32c908a539df",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "SE",
+            "soundId": "",
+            "uri": "se/se_sword_ring.mp3",
+            "volume": "90",
+            "loop": "false",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "99ff3473-6c6c-4754-9290-cc41d8b8279f",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
+            "characterName": "馮諼",
+            "expression": "平靜",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「長鋏歸來乎！[wait=700]無以為家！」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "82240dfb-c1c0-4ad7-b9e0-e409d23df6d7",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "這一回，連笑聲都沒有了。左右皆惡之：魚也與了，車也與了，如今竟歌「無以為家」——貪而不知足，一至於此！有位素有清名的老客當堂拂袖而起——",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "f9dd010d-6027-420c-b6ef-7405589a064c",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "08497ae5-7888-4803-816d-1e70056f8a26",
+            "characterName": "老客",
+            "expression": "怒",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「客養於主，天下之通義也！魚與之，車與之，今且求『家』——明日，將求薛乎？！」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "8d9c7ce3-9d94-4ee3-a3ae-84afa44f65d7",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "求家之後，就該求你的封邑了——這話說得誅心，堂上卻無一人替那褐衣人分辯。滿堂賓客的目光都聚到你的臉上，等著看薛公的雅量，這一次還撐不撐得住。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "5bcb2ea2-43d4-4ccc-af75-ec0148eb34e5",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "三彈其鋏，舉座皆惡。你——",
+            "choices": "[{\"text\":\"問左右：「馮公有親乎？」\",\"mode\":\"jump\",\"fragmentId\":\"f94d4b5e-3026-40d8-a99a-8977e17135a0\"},{\"text\":\"召至堂前，當面責問其求\",\"mode\":\"jump\",\"fragmentId\":\"86b7c1ad-d495-4152-a937-4e831f843787\"},{\"text\":\"當眾冷笑，斥其貪而不知足\",\"mode\":\"jump\",\"fragmentId\":\"b6f4d362-5229-4626-a74c-1e29ad0bb145\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f94d4b5e-3026-40d8-a99a-8977e17135a0",
+      "name": "家-問親",
+      "blocks": [
+        {
+          "id": "949d7eb3-ad24-48d0-aa46-a4c44f0df0bb",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5e9c0bd-260c-426e-b6d9-8fc8100d43bb",
+            "characterName": "孟嘗君",
+            "expression": "沉思",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「馮公有親乎？」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e3ef0fdd-2d04-435c-9bb7-c271985a485e",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "滿堂等你發作，你卻問了這麼一句。左右一怔，對曰：「有老母。」你即刻使人給其食用，無使乏——米糧布帛，按月送到老人門上。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "a44d2c80-132f-4f47-ad5f-b3843cb5ee9e",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "送糧的人回來，說老人家住在城南陋巷，傭織度日，十指的繭比織機的梭還硬。見了米糧，老人不謝，也不推，只攥著來人的袖子問了一句：「我兒在貴府——可曾惹禍？」來人答不曾，老人才鬆了手，朝著相府的方向，遙遙拜了三拜。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "2870b71f-0749-42c8-8ea8-ec83d7de9aab",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "器量",
+            "op": "+=",
+            "aKind": "lit",
+            "aLit": "2",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "98dc2e7d-391f-4f89-bea4-f5381ea84c61",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "散堂之後，有客問你為何不惡其貪。你想了想，說：「魚，是他的口腹；車，是他的行止；家——」你頓了頓。「『無以為家』四個字，你們聽出的是貪。文聽出的，是一個把家丟在了什麼地方的人。」你自己也是從「不許活」裡撿回來的性命，這種丟法，你認得。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "36bcb713-6163-484e-94db-691ca550b8f9",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "93139f03-85ad-4b8d-9445-9f0da1cd2c45"
+          }
+        }
+      ]
+    },
+    {
+      "id": "86b7c1ad-d495-4152-a937-4e831f843787",
+      "name": "家-面責",
+      "blocks": [
+        {
+          "id": "561778d2-5c08-409a-9b79-dd7c1ab909cb",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5e9c0bd-260c-426e-b6d9-8fc8100d43bb",
+            "characterName": "孟嘗君",
+            "expression": "強忍",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「先生三彈其鋏。魚與矣，車與矣，先生之求，欲至何極？」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "3da4ee76-01c6-485e-ae1f-455effcbfb29",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你把他召到堂前，當面問了。語氣壓著，火沒有壓住。他不謝罪，不辯解，垂手立著，半晌，只回了四個字——",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e4d82d1f-e790-401f-9414-a2996a5baaaa",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
+            "characterName": "馮諼",
+            "expression": "平靜",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「臣有老母。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "7e3f5435-2d3e-4b89-9e25-eb1e82917ee3",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你盯著他看了很久。老母。他自己可以食草具、乘破車、被滿城當笑話——輪到老母，他寧可頂著「貪而不知足」的罵名再彈一次鋏。你拂袖：「給。」使人給其母食用，無使乏。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "9e886b8d-fea5-4dcd-8703-7c6d20c3daab",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "給了，心裡那筆帳，也記下了。夜裡你問自己為何還是給了——不是憐憫。是你認得那種站姿：把自己站成一塊石頭，好讓身後的人淋不著雨。很多年前，也有一個女人在田氏深宅裡那樣站過，身後護著的，是五月初五生的那個孩子。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c13a5bca-eab7-483a-8b03-76f32f5253d2",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "93139f03-85ad-4b8d-9445-9f0da1cd2c45"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b6f4d362-5229-4626-a74c-1e29ad0bb145",
+      "name": "家-當眾斥",
+      "blocks": [
+        {
+          "id": "b8ab574d-2c34-4f69-a35f-c7d973067f66",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5e9c0bd-260c-426e-b6d9-8fc8100d43bb",
+            "characterName": "孟嘗君",
+            "expression": "怒",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「無好無能，鋏倒彈得好！齊國的規矩，客養於主；先生的規矩，倒是主養於客了！」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "5a632e10-bb89-40bd-a01e-bf2708c96ffb",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "滿堂哄笑，笑聲像潮水一樣把堂中那個褐衣的身影淹了進去。他垂著手，一動不動地立著，把每一聲笑都受完了，然後朝你長長一揖，退了出去。自始至終，沒有辯一個字。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e8b847d2-c9bb-4230-88a0-401ee1fbd916",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "器量",
+            "op": "-=",
+            "aKind": "lit",
+            "aLit": "2",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "caba27b7-9185-4c9a-9729-e82deda2a4ae",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "曾當眾折辱馮諼",
+            "op": "=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "d6b9fdf1-d125-4a3e-a299-7613dc3b2028",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "數日後左右來報：查過了，他確有一位老母，在鄉間傭織度日。你礙於堂上放過的話，不好改口，只淡淡吩咐：「依舊例，與些米糧。」米糧送到了，話也傳開了——薛公門下，彈鋏可以得魚得車，得不到的，是把你當人看。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "f434cc44-9e29-41cf-903b-50773021cc37",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "93139f03-85ad-4b8d-9445-9f0da1cd2c45"
+          }
+        }
+      ]
+    },
+    {
+      "id": "93139f03-85ad-4b8d-9445-9f0da1cd2c45",
+      "name": "不復歌",
+      "blocks": [
+        {
+          "id": "0ab49459-647b-4495-b4f1-47eb7d638b33",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "於是馮諼不復歌。傳舍恢復了安靜，安靜得像從來沒有人彈過劍。他依舊每日抱劍坐在廊下，依舊無所作為。名籍上「馮諼」二字底下，依舊是一片空白。日子一長，連拿他當笑話講的人都懶了——三千客中一粒沙，沉下去，也就沉下去了。只有傳舍的老僕後來說起：那位先生夜裡不睡，常對著劍坐到雞鳴，也不點燈。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "4d29e9ba-4490-45ec-9534-47f60bb3b220",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "連你自己，也幾乎忘了門下有這麼一個人。相府的日子太滿了：朝會、聘使、賓宴、王前奏對。偶爾車駕出入，瞥見廊下那個抱劍的身影，你會想起「長鋏歸來」的調子——想起來，也就過去了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "4f614aaa-b1f0-4a2a-b385-657c9529f8d8",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "期年之後，先沉不住氣的是你的府庫。薛地的計吏捧著簡冊入府，一筆一筆攤在你面前：邑入幾何，客用幾何，貸出的息錢幾何，收回的又幾何。三千客的飯，是拿薛地的貢賦與息錢餵著的——邑萬戶，息錢貸出去年復一年，償者十之二三，逋者十之七八。簡冊末尾一行小字，計吏不敢念出聲：再收不回來，客館的釜甑，撐不過明歲春荒。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "5fe88f20-981d-4908-b6ed-37967155ce5a",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你出記，貼於門下，問諸客：「誰習計會，能為文收責於薛者乎？」記貼了三日，三千客中無一人署名。肯陪你飲宴的滿座，肯替你擊築的成行，肯替你算帳的沒有——收債是苦差，更是髒差：討債於貧民，賢名要臭在鄉里；收不齊數目，又要開罪於主君。兩頭不是人的事，賢士不為。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c75dc8ac-a412-42f4-b7bb-c1e72377b16b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "第三夜你獨對著那張空記自嘲：養士三千，號稱得士；一紙催債的記，照出來的卻是三千個側過去的臉。第四日清晨，門下來報——記上多了一個字：「能。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "aa2cc77a-bf5c-49d7-acc8-564ff6df176c",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5e9c0bd-260c-426e-b6d9-8fc8100d43bb",
+            "characterName": "孟嘗君",
+            "expression": "疑慮",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「此誰也？」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "b9da6064-b6b9-44c7-a32c-2938aa6ee95f",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "08497ae5-7888-4803-816d-1e70056f8a26",
+            "characterName": "左右",
+            "expression": "平靜",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「乃歌夫『長鋏歸來』者也。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "fefb980d-e4ce-48f5-8a74-dedd15671943",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5e9c0bd-260c-426e-b6d9-8fc8100d43bb",
+            "characterName": "孟嘗君",
+            "expression": "微笑",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「客果有能也！吾負之，未嘗見也。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "4f103ae5-7c74-4892-a50c-8fe35459c91f",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "d4a9003c-9548-471a-9f5a-151b1818ed06"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d4a9003c-9548-471a-9f5a-151b1818ed06",
+      "name": "請見",
+      "blocks": [
+        {
+          "id": "bdcbd341-e967-4f58-a066-42a6ec24a015",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "9e645682-cf1c-45c3-baed-b41d56adfcee",
+            "sceneName": "臨淄相府正堂",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "600",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "1bba730a-b549-4049-a021-d2e751ac3520",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "左右原以為，你召他來是要考較的，甚至備好了帳吏在側，只等戳穿一個素餐之客的西洋鏡。你卻屏退了帳吏。一個在你門下白吃了一年飯、被你上上下下輕慢了一年的人，肯接三千客無人肯接的差事——無論他能不能，這一「肯」字，先值得你低一次頭。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "8c02c716-a5c5-4c97-a8d9-c1fe39500609",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你請而見之。他來時仍是一襲舊褐，只是那柄長鋏解了下來，橫在膝上。一年了，劍還是那柄劍，人還是那個人，彷彿門下這一年的冷暖笑罵，都不曾在他身上留下印子。你整衣，向他長揖謝罪——",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "784a3881-3195-47e2-9212-5c017b4e6cd4",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5e9c0bd-260c-426e-b6d9-8fc8100d43bb",
+            "characterName": "孟嘗君",
+            "expression": "平靜",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「文倦於事，憒於憂，而性懧愚，沉於國家之事，開罪於先生。先生不羞，乃有意欲為收責於薛乎？」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "da6d8777-0b40-43ee-bd08-4b635c05f337",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
+            "characterName": "馮諼",
+            "expression": "平靜",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「願之。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "aea0404c-8021-4be1-85bc-c9745b706508",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "兩個字，答得乾脆得近乎蹊蹺。三千客避之不及的差事，他彷彿等了很久。他不問傭金，不求隨從，不討體面的官憑印信，只問了一件事：券契藏於何處，共幾車。堂中一時安靜，你打量著眼前這個「無好無能」的人，忽然覺得自己從來沒有看清過他。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "703270b4-099f-4edb-9a64-22338b085b3b",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "臨行在即。你——",
+            "choices": "[{\"text\":\"執其手，以薛地根本相托\",\"mode\":\"jump\",\"fragmentId\":\"42567018-fed3-4cb6-b297-af8ea9cf31fe\"},{\"text\":\"考較他錢穀計會之學\",\"mode\":\"jump\",\"fragmentId\":\"fd4e04b6-81ed-4a81-84b9-a03f07dc5508\"},{\"text\":\"細看他膝上那柄長鋏\",\"mode\":\"jump\",\"fragmentId\":\"1237c359-c4ea-462f-bcdd-7431b92660b2\",\"visibleIf\":\"{\\\"conditions\\\":[{\\\"left\\\":\\\"留意劍鞘紋\\\",\\\"op\\\":\\\">=\\\",\\\"rightKind\\\":\\\"literal\\\",\\\"rightLiteral\\\":\\\"1\\\"}],\\\"logicOp\\\":\\\"and\\\"}\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "42567018-fed3-4cb6-b297-af8ea9cf31fe",
+      "name": "劍-執手",
+      "blocks": [
+        {
+          "id": "4ec06aa5-d44d-4569-910f-8b037f18c1cc",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5e9c0bd-260c-426e-b6d9-8fc8100d43bb",
+            "characterName": "孟嘗君",
+            "expression": "平靜",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「薛者，先人丘墓所在，文之根本也。邑中之民，皆吾父祖之遺人。[wait=500]託付先生了。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "b87f6117-e340-45bc-82f7-d074611df4d6",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你執其手，殷殷相托。薛地於你，不是簡冊上的萬戶邑入——是父親的封土，是祖先的丘墓，是你五歲那年第一次被抱上城樓時，看見的那一片炊煙。這些你沒有說，可你握著他的手說「根本」二字時，掌心的力道替你說了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "06b6116d-681c-4520-8ac7-a96c49490f23",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你看見他的眼睫微微一動——那雙永遠半闔的眼睛裡，有什麼東西極快地掠了過去，快得你來不及看清。他俯首：「諾。」這一個「諾」字，比他一年來說過的所有話加起來都重。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d03e298f-5355-4c61-b087-04a233555a01",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "器量",
+            "op": "+=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "3aee0f4f-4821-4acc-81ef-39bbf6622c4d",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "8e007727-e020-4641-a1d2-ac01600b1b7d"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fd4e04b6-81ed-4a81-84b9-a03f07dc5508",
+      "name": "劍-問學",
+      "blocks": [
+        {
+          "id": "de71acbb-6bca-4246-a0b3-cb170108fe4d",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你考較他錢穀刀筆之學：息錢幾何而不傷本，逋負幾等而可蠲貸，鄉里質劑如何驗真偽。他一一對答，條理分明——卻不像積年老吏背誦律令，倒像一個人把薛地的帳，在心裡翻來覆去算過了許多年，連哪一鄉的年成薄、哪一里的息錢重，都如數家珍。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "2cd69723-0c84-4a9b-9931-52bac019fe7c",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「先生到過薛地？」你隨口一問。堂中靜了一瞬——短得像簡冊翻過一頁。他垂目：「賤子四方之人，何處不曾到過。」答得依舊滴水不漏，只是這一次，你分明覺得那不是回答，是一扇輕輕闔上的門。你按下心頭那一絲異樣，沒有再問——門下不問來歷，是你自己立的規矩。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ffe2e4ee-53a3-498b-9cdf-a0683b09a067",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "8e007727-e020-4641-a1d2-ac01600b1b7d"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1237c359-c4ea-462f-bcdd-7431b92660b2",
+      "name": "劍-細看",
+      "blocks": [
+        {
+          "id": "87fd199e-24fe-46b6-b33d-37bb70efb40d",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你的目光落在他膝上那柄長鋏上。黑鞘，舊皮，鞘身一路盤著細密的雲雷紋，紋路轉到鞘尾處，藏著一個小小的「工」字戳記——",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "8f9ca1ae-2af2-4b89-9d45-34572dff2d76",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你見過這個紋樣。[wait=800]雪。荒驛。斷牆下那個指路的乞丐。秦地官道上的那一夜，車燈掃過他腰間，就是這樣的黑鞘，這樣的雲雷紋。薛地工坊的紋，你當年在函谷道上想不明白它為什麼會在秦地——如今，它就橫在你的堂上，橫在一個自稱「無好無能」的人膝頭。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "315edbfe-75fe-46af-a625-e05fd976f3cd",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "認出舊鋏",
+            "op": "=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "d419b086-65cd-4e14-83c5-f420e08d94f7",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你抬起眼。他也正看著你——不閃，不避，眼中無波，彷彿在等你問，又彷彿篤定你不會問。堂中靜了一息。你終究把話嚥了回去：門下不問來歷，是你自己立的規矩。可這個結，從秦地打到今日，越打越緊了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "84eaf463-08cb-426d-86f5-489ea8f8f828",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "8e007727-e020-4641-a1d2-ac01600b1b7d"
+          }
+        }
+      ]
+    },
+    {
+      "id": "8e007727-e020-4641-a1d2-ac01600b1b7d",
+      "name": "辭行",
+      "blocks": [
+        {
+          "id": "2931c1b0-f25e-499c-ab8e-cc7af1a788b4",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "於是約車治裝，載券契而行。薛地萬戶的債券裝了滿滿一車：每一枚合券剖為兩半，右券在府，左券在民，竹片相擊，一路作響——那聲音聽在帳吏耳中是錢，聽在薛地萬戶人家耳中，是懸在梁上的刀。臨行，車馬已備於府門。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "50d2f6bd-dcf6-485c-bc3c-44a618785f95",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "帳吏臨行前再三向你進言：薛地民風刁頑，逋債成習，此行務請君上明示——是要錢，還是要名。要錢，就得容催債的人黑著臉做事；要名，這一車券契，只怕去多少回多少。你聽完，看著府門外那個抱劍立在車轅旁的身影，開了口。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "55425a40-ea7c-4c66-a449-9ca7079d6242",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "臨行，你囑咐他——",
+            "choices": "[{\"text\":\"「息錢有籍，如數收之。倉廩所繫，不得不取。」\",\"mode\":\"vars\",\"varOps\":[{\"key\":\"薛地民心\",\"op\":\"-=\",\"aKind\":\"lit\",\"aLit\":\"1\",\"aVar\":\"\",\"bKind\":\"none\",\"bLit\":\"\",\"bVar\":\"\",\"binOp\":\"+\"}]},{\"text\":\"「貧不能償者，寬限之。取之有度，毋迫於民。」\",\"mode\":\"vars\",\"varOps\":[{\"key\":\"薛地民心\",\"op\":\"+=\",\"aKind\":\"lit\",\"aLit\":\"1\",\"aVar\":\"\",\"bKind\":\"none\",\"bLit\":\"\",\"bVar\":\"\",\"binOp\":\"+\"}]},{\"text\":\"「昔年府中所留薛地流民之言，文未嘗忘。民有大艱，先報文知。」\",\"mode\":\"vars\",\"varOps\":[{\"key\":\"薛地民心\",\"op\":\"+=\",\"aKind\":\"lit\",\"aLit\":\"1\",\"aVar\":\"\",\"bKind\":\"none\",\"bLit\":\"\",\"bVar\":\"\",\"binOp\":\"+\"},{\"key\":\"器量\",\"op\":\"+=\",\"aKind\":\"lit\",\"aLit\":\"1\",\"aVar\":\"\",\"bKind\":\"none\",\"bLit\":\"\",\"bVar\":\"\",\"binOp\":\"+\"}],\"visibleIf\":\"{\\\"conditions\\\":[{\\\"left\\\":\\\"收留薛地流民\\\",\\\"op\\\":\\\">=\\\",\\\"rightKind\\\":\\\"literal\\\",\\\"rightLiteral\\\":\\\"1\\\"}],\\\"logicOp\\\":\\\"and\\\"}\"}]"
+          }
+        },
+        {
+          "id": "6c3d9a9d-0fda-4d91-b5f1-d94f457c03f5",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "他一一應了。登車之前，卻忽然回身，問了一句誰都沒有想到的話——",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "1465f37e-29ba-4098-9658-03947097313a",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
+            "characterName": "馮諼",
+            "expression": "平靜",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「責畢收，以何市而反？」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "256c070b-cf22-41a5-b0ad-711cb9183982",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "債收齊之後，用這筆錢買些什麼回來？這一問問得奇——收債的人，問的卻是採買。你笑了，隨口道：",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "0aa8a7ba-c527-49d1-8ba5-24e881e3532a",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5e9c0bd-260c-426e-b6d9-8fc8100d43bb",
+            "characterName": "孟嘗君",
+            "expression": "微笑",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「視吾家所寡有者。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "369287b5-7039-461e-825a-94d587f50e3b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "看我家缺什麼，就買什麼吧。你說這話時，想的是珍玩，是良馬，或者什麼都不買——一句再尋常不過的客套。他卻深深看了你一眼。那一眼很慢，從你的臉，到你身後滿堂的鐘鼎珠玉，再回到你的臉上，彷彿把這七個字一個一個收進了懷裡，掂了掂分量。然後他長揖，登車。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "18a13290-ecd7-42b8-ab49-e0fcca51cc9e",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "車轔轔出了臨淄南門，往薛地去了。你在府門前站了一會兒，忽然想起一年前他入府那日，也是這樣一個春晨，也是這樣一柄舊劍。你不知道的是，「視吾家所寡有者」這句隨口之言，即將以你萬萬想不到的方式，被人一字一字地兌現。彈鋏之歌你聽了三次；第四次響起來的時候——那不再是歌，是薛地沖天的火光。",
+              "styles": {}
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1183 @@
+{
+  "id": "46c14771-017b-4baf-9344-b50b19c94fa3",
+  "name": "孟嘗君篇·第六章 三窟高枕",
+  "fragments": [
+    {
+      "id": "1e6719e0-1767-4427-a4be-bc850891f58d",
+      "name": "main",
+      "blocks": [
+        {
+          "id": "38aba132-06e9-4af8-a324-1a5cfb207c18",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "aa0a2e7c-f196-4c9e-bbc3-1fc700e10a02",
+            "sceneName": "薛公府邸",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "700",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "19052009-508d-453a-92cb-4b07b6bc71f2",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "bgm",
+            "uri": "bgm/bgm_10_peaceful_xue.mp3",
+            "volume": "75",
+            "loop": "true",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "91e057b8-905b-400d-9f72-0fea1a959f75",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "馮諼西去之後，薛地的日子靜得出奇。你做起了一個真正的封君：課農桑，理訟獄，聽薛民在市集上討價還價。罷相的煩憂，竟被這份煙火氣一日一日地磨淡了。你甚至有些習慣了這份清閒——比起臨淄相府裡步步驚心的權柄，薛地這一方水土，倒像是把你這半生繃緊的弦，悄悄鬆了下來。只是每到夜深，你仍會想起那一行西去的車馬——五十乘車、五百斤金（或那被你削去了一半的家當），如今換成了什麼，你一無所知。你甚至不確定，那個人還會不會回來。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ba6c5876-20b3-4674-aa92-d8816a13d37f",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "直到那一日，薛城的北門忽然喧騰起來。斥候飛報：梁國的聘使到了——不是尋常使節，是黃金千斤、彩車百乘、旌旗蔽日的大聘之儀，一路逶迤，直奔薛公府而來。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "7e012d32-d10c-40d7-8548-eadff05075e6",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你迎出府門，幾乎不敢相信眼前。梁國以「上將軍」之位相聘，虛左以待，禮數之隆重，遠超你當年在齊為相之時。為首的魏使趨前行禮，姿態恭謹到了極點——你一個被齊國罷黜的失勢封君，何德何能，值得強魏如此屈尊？",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "0757fc71-85a7-4f19-b6c4-5f34c49a440e",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "薛地的百姓也都被驚動了，扶老攜幼地擠在道旁，看那一車車黃金、一列列彩旗。他們交頭接耳：連魏國都搶著要薛公哩！你聽在耳中，心緒卻很複雜——這潑天的體面，來得太蹊蹺、太是時候了。天下哪有平白掉下來的富貴？你隱隱覺得，這一切的背後，站著一個人的影子。那個人此刻不在薛地，卻彷彿無處不在。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "4af85fd0-fe2a-4032-82a0-047f0a30b046",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "63a52479-7708-4b17-968e-e5814a760051",
+            "characterName": "魏使",
+            "expression": "恭敬",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「敝國之君，虛上將軍之位以待薛公久矣。黃金千斤、文車百乘，聊表微忱。[wait=500]願薛公勿辭。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "b4ed3091-d6b5-4f05-b405-64affb0e0f40",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "c5c447e1-4a82-4206-a4f2-a1463ffc057c",
+            "sceneName": "物·玉佩",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "400",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "5e6dc756-82a3-42d7-af7b-2ad43b332e64",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你正要答話，目光卻被那魏使腰間的一物絆住了——一枚舊玉佩，色澤溫潤，卻是斷過又接的樣式，玉緣一道舊痕，分明是從整塊玉上剖下來的半邊。這玉……你莫名地覺得眼熟，彷彿在什麼地方見過它的另一半，卻怎麼也想不起來。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ae50ccfe-8321-448c-b64f-a4c47d169dd9",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "aa0a2e7c-f196-4c9e-bbc3-1fc700e10a02",
+            "sceneName": "薛公府邸",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "400",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "67903ec0-3524-413f-aeb5-bd15104122e7",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "那枚眼熟的舊玉——你",
+            "choices": "[{\"text\":\"忍不住開口，動問這玉佩的來歷\",\"mode\":\"jump\",\"fragmentId\":\"35bcf98f-69ef-4088-a23a-91331b4707f3\"},{\"text\":\"只當是使節尋常佩飾，不以為意\",\"mode\":\"jump\",\"fragmentId\":\"f08ef212-3b2f-4bd5-81ca-1f20c2663065\"},{\"text\":\"心中存疑，卻不動聲色地記下了它\",\"mode\":\"jump\",\"fragmentId\":\"3b2b6838-eae5-4ca5-811c-82484c09bf70\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "35bcf98f-69ef-4088-a23a-91331b4707f3",
+      "name": "玉佩-追問",
+      "blocks": [
+        {
+          "id": "dc54b7be-5e57-4bf8-ac18-ff785347bc14",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5e9c0bd-260c-426e-b6d9-8fc8100d43bb",
+            "characterName": "孟嘗君",
+            "expression": "疑慮",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「使者這枚玉佩……式樣別致，像是剖自一塊整玉。文似曾在何處見過它的另一半，敢問，此玉有何來歷？」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c6ce3aa7-6b99-4a60-a933-022c049c4ae4",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "那魏使的神色，極輕微地變了一瞬。他握了握那枚玉，答得滴水不漏：「此乃敝國一位故人相贈的信物。故人有言——他日若見此玉之主，便是敝國該還一份舊情之時。」他不肯多說，你也不便深問。可「還一份舊情」六個字，你記住了。你只是想不通：魏國要還的舊情，怎麼會落到你一個齊人頭上？",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "3486df6a-2801-4e3b-bfcc-e308cf35bb22",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "追問玉佩",
+            "op": "=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "417f80bf-9da5-4dbd-acf1-8c39e08f3983",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "697e0298-c913-4778-9c75-a08b4e3229b7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f08ef212-3b2f-4bd5-81ca-1f20c2663065",
+      "name": "玉佩-不問",
+      "blocks": [
+        {
+          "id": "a85cf135-0e68-417b-ad68-bace0baf78ba",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你到底沒有問。使節佩玉，本是常事，何況此刻千斤黃金、百乘彩車就在眼前，那份潑天的殊榮壓過了一切。你把那一絲眼熟的異樣，隨手擱在了心底最不起眼的角落——多年以後你才會知道，你擱下的，是一把能解開整盤棋的鑰匙。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "74f70b88-e243-4c0e-9144-159898ae9e8c",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "697e0298-c913-4778-9c75-a08b4e3229b7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "3b2b6838-eae5-4ca5-811c-82484c09bf70",
+      "name": "玉佩-暗記",
+      "blocks": [
+        {
+          "id": "f4a64418-5858-4123-9698-eac88b31f912",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你沒有問出口，卻不動聲色地把那玉佩的樣式、那道舊痕，牢牢記在了心裡。焚券、劍鞘、如今又是這玉——這一年多來，你身邊像是有一隻看不見的手，一次次留下同一種筆跡的痕跡。你隱隱覺得，這些散落的異樣總有一天會串成一條線；只是眼下，你還缺著最要緊的那幾顆珠子。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ae67ee18-0e41-44b4-8a21-7971f0dd3bd7",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "追問玉佩",
+            "op": "=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "fb4324e8-538c-45f3-83f4-d906e88c52c0",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "697e0298-c913-4778-9c75-a08b4e3229b7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "697e0298-c913-4778-9c75-a08b4e3229b7",
+      "name": "先驅之誡",
+      "blocks": [
+        {
+          "id": "94bdb805-9dd0-4701-9fa7-9994088b155a",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "就在你權衡是否應聘之際，一騎快馬搶在使節車隊之前，馳入了薛城——是馮諼。他從大梁一路先驅而歸，未及拂去征塵，便屏退左右，急急向你進言：",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "5bd155a1-9537-4021-af63-81417718ef8e",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
+            "characterName": "馮諼",
+            "expression": "決然",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「千金，重幣也；百乘，顯使也。[wait=500]齊其聞之矣。梁使三反，君必固辭勿往——這一聘，不是為了讓君去梁，是為了讓齊王，聽見梁國來聘。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "3d662afa-d0e2-4a0f-bf9e-e9c5535a900f",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你這才恍然。原來馮諼西行說梁，圖的根本不是那個上將軍之位。他要的，是這黃金千斤、彩車百乘一路招搖，把「連強魏都爭搶孟嘗君」的消息，堂堂正正地送進臨淄王宮——去撬動那個罷黜了你的人。這第二個窟，鑿的不是魏國，是齊王的心。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "9b70028d-5109-4401-aed8-cc8202154c79",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "梁使就在堂外。你——",
+            "choices": "[{\"text\":\"全然信馮諼之計，安坐固辭，三反不動\",\"mode\":\"jump\",\"fragmentId\":\"4e90a8b0-6d1c-4a59-bf77-86dcbc311997\"},{\"text\":\"依言固辭，心裡卻捏著一把汗\",\"mode\":\"jump\",\"fragmentId\":\"560e48d1-f118-4525-9fd1-5e2a12fc6100\"},{\"text\":\"上將軍之位當前，幾乎心動——賴馮諼力阻\",\"mode\":\"jump\",\"fragmentId\":\"1d3540e7-f1ed-48a0-8fca-bde5cfac4bab\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "4e90a8b0-6d1c-4a59-bf77-86dcbc311997",
+      "name": "辭聘-安坐",
+      "blocks": [
+        {
+          "id": "1dfefe3f-b6ff-49b0-9bc8-e17933e3f09c",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你安坐堂上，以「德薄不敢當」婉辭了梁使。使者去而復返，一反、再反、三反，禮愈重，辭愈恭，你也一次比一次辭得從容。你已經全然信了馮諼——他既說這是一著棋，你便安心做那枚棋子上的君，靜看棋局。梁使三返而不得，這消息，插了翅膀似地往臨淄飛去。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d4c44dfa-95c0-42a2-9001-be2dd5c24225",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "060d27a4-8907-4a7a-b60f-e27ae0995088"
+          }
+        }
+      ]
+    },
+    {
+      "id": "560e48d1-f118-4525-9fd1-5e2a12fc6100",
+      "name": "辭聘-捏汗",
+      "blocks": [
+        {
+          "id": "f26391e2-d1a1-42f5-bb8c-60894ee288e7",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你依馮諼之言，一一回絕了梁使。話說得體面，心裡卻沒有底：萬一齊王那邊毫無動靜，這潑天的富貴豈不白白推掉？三返之間，你面上安坐如山，袖中的手卻攥出了汗。直到馮諼在你耳邊低聲說了句「君且再等三日」，你才勉強按住了那份不安。棋，你信了一半，另一半，你在賭。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d0a97c74-9312-41d1-9b51-521e42041e9b",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "060d27a4-8907-4a7a-b60f-e27ae0995088"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1d3540e7-f1ed-48a0-8fca-bde5cfac4bab",
+      "name": "辭聘-心動",
+      "blocks": [
+        {
+          "id": "52e2f984-27aa-4a1c-9502-e56adfe451e3",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "說不心動是假的。上將軍，虛左之位——齊國不要你，強魏搶著要你，這口被罷相咽下的氣，眼看就能吐出來。你幾乎要點頭應聘了。馮諼卻搶上一步，只低低說了一句：「君今日入梁，明日齊王便再無忌憚；君今日固辭，齊王夜不能寐。孰輕孰重？」你悚然一驚，把到了嘴邊的「準」字，硬生生咽了回去。這一關，是馮諼替你把住的。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "4cd49a67-d1c1-4a64-9dfd-fba24def6e73",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "060d27a4-8907-4a7a-b60f-e27ae0995088"
+          }
+        }
+      ]
+    },
+    {
+      "id": "060d27a4-8907-4a7a-b60f-e27ae0995088",
+      "name": "齊王恐懼",
+      "blocks": [
+        {
+          "id": "0a9921b1-4c8f-4417-968a-fe5ff69c1151",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "aa0a2e7c-f196-4c9e-bbc3-1fc700e10a02",
+            "sceneName": "薛公府邸",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "600",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "f9e5342c-b6dc-4698-9d09-4def5643bd89",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "bgm",
+            "uri": "bgm/bgm_11_temple.mp3",
+            "volume": "75",
+            "loop": "true",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "08cb5e8b-c582-46f8-8a3c-8f2c5e0f0fd4",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "果然。梁使三反的消息傳到臨淄，齊國君臣恐懼了。連強魏都要以上將軍之位爭搶的人，若真去了敵國，那是把孟嘗君的名望、薛地的民心，連人帶地送給了對手。更可怕的是——薛地與齊只一步之遙，孟嘗君若挾魏自重，便是心腹之患。齊王坐不住了。他這才明白，當日那一道「不敢以先王之臣為臣」的體面詔書，是親手把一柄利器，推到了敵國的手邊。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d2cb9dfc-d8ad-4a5f-9d8a-93d69d12a835",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "數日後，齊國的太傅親至薛地，齎黃金千斤、文車二駟、佩劍一口，捧著齊王的親筆封書，登門謝罪。當年那個「不敢以先王之臣為臣」的齊王，如今在書裡把姿態放得極低：",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "82a739d2-981c-4c91-af06-cbdd651e942a",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "715733c5-4c4b-47db-837f-2a15b9b4c2dc",
+            "characterName": "齊太傅",
+            "expression": "惶恐",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「王曰：寡人不祥，被於宗廟之祟，沉於諂諛之臣，開罪於君。[wait=500]寡人不足為也——願君顧先王之宗廟，姑反國統萬人乎！」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "4c3f7742-f640-4a7c-b485-6ddb387ae489",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "寡人糊塗，受了讒臣的蒙蔽，得罪了您。看在先王宗廟的份上，還請您回來，替寡人統理萬民吧。復相的詔書，來得比當初罷相的那一道，謙卑了何止十倍。第二個窟，成了——齊王親手把你請回了臨淄，而且，是求著你回去的。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c27888d9-d5d7-4ef8-abe7-02992c70bd21",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你捧著那封謝罪的封書，一時百感交集。同樣是這個齊王，一年前一句「不敢以先王之臣為臣」，把你趕出了臨淄；一年後又是他，捧著金車服劍，求你回去。人還是那個人，變的只是那桿看不見的秤——秤上的砝碼，是薛地的民心，是梁國的爭搶，是先王的宗廟。而這些砝碼，是誰，一枚一枚，替你悄悄壓上去的？你望向西方，馮諼還在歸途，可你彷彿已經看見他那半闔的眼睛。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "28b1ef8b-4547-47f7-9944-ed69dc1f457b",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "8f7cbd78-c091-466b-86ee-adbc8dc87069"
+          }
+        }
+      ]
+    },
+    {
+      "id": "8f7cbd78-c091-466b-86ee-adbc8dc87069",
+      "name": "客復來",
+      "blocks": [
+        {
+          "id": "2b9c7472-de0a-47a4-99a6-267753ff1c38",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你復相的消息一傳開，另一樁事也隨之而來：當初你罷相時，那些棄你而去、頭也不回的門客，如今又一個一個地回來了，堵在相府門外求見，臉上堆著昔日的笑，彷彿從不曾離開過。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "09e79d30-f9ad-468a-8f34-e57cc0e55a42",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你想起就國那日走空的長廊，想起那一張張從容抽身的背影。一股怒氣直衝上來——養兵千日，這些人卻在你最難的時候作鳥獸散，如今見你東山再起，又腆著臉回來分一杯羹？",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "52a9c1d5-1959-415f-9305-421ac979f95f",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "門外故客盈庭。你——",
+            "choices": "[{\"text\":\"「當日去得那麼快，今日還有臉回來？」欲拒而辱之\",\"mode\":\"jump\",\"fragmentId\":\"a6290c63-5c5e-4c7d-b832-6cc54ce3e9ef\"},{\"text\":\"既往不咎，仍以舊禮相待\",\"mode\":\"jump\",\"fragmentId\":\"ed8120c0-0409-4cfd-9873-ed1eb8781402\"},{\"text\":\"問計於馮諼，聽他說完再定\",\"mode\":\"jump\",\"fragmentId\":\"ec3984c9-4013-4e00-80f2-5364c5c8da67\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "a6290c63-5c5e-4c7d-b832-6cc54ce3e9ef",
+      "name": "復來-辱",
+      "blocks": [
+        {
+          "id": "170da10a-97f7-428f-859a-6c33bd9c9358",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5e9c0bd-260c-426e-b6d9-8fc8100d43bb",
+            "characterName": "孟嘗君",
+            "expression": "怒",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「文失勢之日，諸君棄文如敝屣；文復相之日，諸君又何面目而反？文必唾其面而大辱之！」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "de5c303c-7e27-4130-8160-dc5a0fc8a263",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你放出話去，要當眾折辱那些回頭的門客，替就國那日的難堪，討回一個場面。話說得痛快，堂下卻靜了。你發覺，願意在你落魄時留下的人本就不多，如今你連回頭的路都要親手堵死——器量這東西，順境時看不出，逆境過後，才照見底。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d75f9316-ff3c-484a-9ea1-82b0e28a4c20",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "器量",
+            "op": "-=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "03399c69-6322-4246-a430-0838a0b318d7",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "0e896059-32c4-4348-84bf-c407e90ef1d6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ed8120c0-0409-4cfd-9873-ed1eb8781402",
+      "name": "復來-容",
+      "blocks": [
+        {
+          "id": "c24dd4fc-992e-4782-bd81-2d8f110459b2",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你到底沒有發作。你命人大開府門，凡回來的，仍按舊時的等次安置，一如當年，不提半個字的舊帳。有慚愧得無地自容的，有暗自慶幸的——你只作不知。你當年養士不問賢愚，如今納客也不必問去留。門既為天下開，就沒有只准進、不准出的道理。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "0c426803-b09a-4602-b515-6f62bd15074a",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "器量",
+            "op": "+=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "ec7ee1ba-9944-45de-ac66-c75195cefdaf",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "0e896059-32c4-4348-84bf-c407e90ef1d6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ec3984c9-4013-4e00-80f2-5364c5c8da67",
+      "name": "復來-問馮",
+      "blocks": [
+        {
+          "id": "27411e12-ba63-4d52-b176-1bb5afd7df24",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你把滿腹的怒氣壓下，先去問了馮諼。你想聽聽，這個最懂人心的人，會勸你怎麼發落這些反覆的小人。馮諼卻笑了，說了一個你意想不到的比方：",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "f7363392-123b-4a5a-810c-4f8b5258a636",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
+            "characterName": "馮諼",
+            "expression": "微笑",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「君不見那市集麼？朝則滿，夕則虛——非人朝愛市而夕憎之也，只因所求之物，朝在而夕亡。[wait=500]士之趨君，趨的是勢；勢在則來，勢去則走，如市之朝夕，何足深怪？願君遇客如故。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "cb805144-2015-4281-9473-73227e731041",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "市集早上人滿，傍晚人空，不是人們早上愛它、晚上恨它，只因要買的東西早上有、晚上沒了。門客趨附權勢，也是這個道理，勢在便來，勢去便走，如同趕集，何必深責？你怔了半晌，胸中那口怒氣，竟被這一個市集的比方，四兩撥千斤地化開了。你依馮諼之言，仍以故禮待眾客——器量這一課，你又往前走了一步。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "13c66509-6e0e-494b-a4be-8c5ef588befd",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "器量",
+            "op": "+=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "927b79e4-2e3a-40d1-a463-e66e7337c5b2",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "0e896059-32c4-4348-84bf-c407e90ef1d6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0e896059-32c4-4348-84bf-c407e90ef1d6",
+      "name": "立宗廟",
+      "blocks": [
+        {
+          "id": "b4e9c7bb-5700-46c9-bdf6-2a0d85875b08",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "df208539-8641-466a-bc54-5f40c6cef8b8",
+            "sceneName": "薛地城郊",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "800",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "dc53796e-845d-422f-82dc-799456dbea32",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "bgm",
+            "uri": "bgm/bgm_11_temple.mp3",
+            "volume": "75",
+            "loop": "true",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "c9f4e86a-35e5-4d36-814e-3021009f6694",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "復相之後，馮諼卻還沒有停手。他向你提出了最後一議——這一議，你起初完全不解其深意。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "9f3e8929-e4da-46ce-ba5c-5a230c3890e5",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
+            "characterName": "馮諼",
+            "expression": "平靜",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「願請先王之祭器，立宗廟於薛。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "27928e84-ab23-4ae3-a47a-dc10e248bdd1",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "68b84f4e-3158-4c8f-a4f3-b87bb7a00d3e",
+            "sceneName": "薛地宗廟",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "900",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "067f1f0b-00ee-4bb2-bbdb-4ce6896e0982",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "向齊王請來歷代先王的祭器，在薛地建一座齊國的宗廟。你不明白：宗廟與你的安危何干？馮諼卻不多解釋，只請你上書齊王，言辭懇切地求得了那批祭器。直到宗廟落成的那一日，你立在巍巍廟宇之前，才悚然醒悟他的深意——先王的宗廟在薛，薛地便與齊國的社稷血脈相連。齊王若要動薛、要再罷你，便是動搖自家的宗廟根本；先王的神主在此，齊國就不能不派兵護薛、不能不保薛地周全。這第三個窟，鑿在了齊國的祖宗牌位裡，任誰也拔不動。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "9f23213f-34d1-46b8-a600-64b75cf829e9",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你這才把三個窟連起來看，脊背竟滲出一層薄汗：第一窟薛地民心，是焚券那年就埋下的；第二窟梁齊相爭，是罷相之後才動的手；第三窟宗廟根本，是趁著復相之勢一氣鑿成的。三步棋橫跨數年，環環相扣，中間但凡一步走岔，滿盤皆空。而下這盤棋的人，從你把他安置在末等傳舍、食以草具的那一天起，就已經在落子了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "a322aac0-c9c7-4428-913b-d0241a5d2477",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "廟成之日，馮諼回報。他說話向來惜字如金，這一句，卻說得格外從容——",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "df4e011f-c87a-4ef7-90b9-27896c07bfa5",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
+            "characterName": "馮諼",
+            "expression": "微笑",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「三窟已就。[wait=600]君姑高枕為樂矣。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "1680d59a-6476-4efd-b2dc-71359c8f763d",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "三窟已就，高枕無憂。此刻你——",
+            "choices": "[{\"text\":\"深深拜謝馮諼這數年運籌之恩\",\"mode\":\"jump\",\"fragmentId\":\"a2394092-cfdb-40d0-a701-de6a11e968eb\"},{\"text\":\"望著宗廟出神，回味這一路的險與奇\",\"mode\":\"jump\",\"fragmentId\":\"a836d6c1-b09c-4860-9a84-0a4b6f53a9ba\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "a2394092-cfdb-40d0-a701-de6a11e968eb",
+      "name": "高枕-謝",
+      "blocks": [
+        {
+          "id": "5370eadc-ec75-4cc1-a446-af704228121c",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你整衣，向馮諼深深一拜。這數年間，從焚券的滔天大禍，到罷相的谷底，再到今日的高枕——每一步，都是這個當年被你看輕的人，替你在暗處鋪好的。你拜的不只是他的智謀，更是那份始終不曾言明的、近乎固執的忠。馮諼側身避過半禮，只淡淡道：「臣分內事耳。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "f7e68d73-a14d-42ad-9435-c8f529345d52",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "e0f75b17-a871-4157-b7c4-966410cbf78b"
+          }
+        }
+      ]
+    },
+    {
+      "id": "a836d6c1-b09c-4860-9a84-0a4b6f53a9ba",
+      "name": "高枕-思",
+      "blocks": [
+        {
+          "id": "bcb20783-0229-44d5-9deb-8748fc8c5efc",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你沒有立刻言謝，只是望著那座新成的宗廟，久久出神。三窟——梁國的聘、齊王的懼、宗廟的立，環環相扣，算無遺策。你回味著這一路，忽然生出一絲說不清的悵惘：這盤棋下得太好了，好到你這個當事人，自始至終都像個被安置在最妥當位置上的棋子。馮諼究竟是為了誰，才把一盤棋算到這個地步？這個念頭一閃即逝，你沒有抓住它。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "8370c6d1-dc1a-4c1c-93dd-b438bc427e20",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "e0f75b17-a871-4157-b7c4-966410cbf78b"
+          }
+        }
+      ]
+    },
+    {
+      "id": "e0f75b17-a871-4157-b7c4-966410cbf78b",
+      "name": "章末",
+      "blocks": [
+        {
+          "id": "d6b49f05-fe3c-46ff-8217-bdb5569d35cc",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "此後，孟嘗君為相數十年，安穩富貴，竟無纖介之禍。《戰國策》記下這一段，末了只用了七個字為它作結：「馮諼之計也。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "b49eb7b1-195a-46ab-a00a-9942bea6f9c9",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你確乎高枕了。狡兔三窟，窟窟穩固；門客盈庭，聲勢復振。你以為這便是一個功成名就的圓滿收場——你不知道，也有些東西，是三個窟都藏不住的。那半片焚餘的舊券，仍鎖在你的私匣裡；那枚眼熟的玉佩，那柄薛地工坊紋的長鋏，仍是懸而未解的謎。而歲月不居，人終有老去的一日。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "6375aea6-0540-4421-b5ab-c6950560ec46",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "高枕之上，你睡得安穩。只是偶爾夜半醒來，你會想起馮諼那雙總是半闔的眼睛，想起他說「願君之家，有朝一日，不復寡有」——你的家，如今車馬盈門、三窟俱備，還寡有著什麼呢？這個問題的答案，要到很多年以後，要到你白髮蒼蒼、大限將至的那一刻，才會揭曉。",
+              "styles": {}
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

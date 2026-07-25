@@ -1,0 +1,343 @@
+{
+  "version": 3,
+  "scenes": [
+    {
+      "id": "9e645682-cf1c-45c3-baed-b41d56adfcee",
+      "name": "臨淄相府正堂",
+      "layers": [
+        {
+          "id": "9f0dd4e5-476a-4fcd-8137-342f4b202ddc",
+          "name": "背景",
+          "assetPath": "bg/sc_xiangfu.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "aa0a2e7c-f196-4c9e-bbc3-1fc700e10a02",
+      "name": "薛公府邸",
+      "layers": [
+        {
+          "id": "4cc25ea5-4059-4be7-ba2f-30d110880f17",
+          "name": "背景",
+          "assetPath": "bg/sc_fudi.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "3b80bfad-bc2a-4b9e-90de-60611ec4cad2",
+      "name": "薛地市集高台",
+      "layers": [
+        {
+          "id": "c7c5f36c-9f9f-4b17-b2df-87c2c406c4f5",
+          "name": "背景",
+          "assetPath": "bg/sc_xue_market.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "814f1a0f-6e6c-4bdc-b95c-8183b4dc95fb",
+      "name": "函谷關",
+      "layers": [
+        {
+          "id": "3cb43863-7eff-4dfb-b575-d3c944aeb2ce",
+          "name": "背景",
+          "assetPath": "bg/sc_hangu_snow.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "adeeb36d-5940-416f-a5ed-b9780b216c7f",
+      "name": "咸陽獄",
+      "layers": [
+        {
+          "id": "0a239bf0-301f-430d-ad4c-88fd4a900109",
+          "name": "背景",
+          "assetPath": "bg/sc_prison.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "ac558102-44af-4040-a3c2-710f863a80ea",
+      "name": "咸陽宮",
+      "layers": [
+        {
+          "id": "de700b33-213a-4c22-a2ba-894470d0833b",
+          "name": "背景",
+          "assetPath": "bg/sc_xianyang.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "cc8def0f-9a96-4175-8a40-53bb06e7ef3f",
+      "name": "梁國賓館",
+      "layers": [
+        {
+          "id": "4aba1da8-e101-4c65-ba42-340bcc5dd4ec",
+          "name": "背景",
+          "assetPath": "bg/sc_liang_hostel.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "df208539-8641-466a-bc54-5f40c6cef8b8",
+      "name": "薛地城郊",
+      "layers": [
+        {
+          "id": "dee57dc2-ae80-4cca-a3d0-9cc48be56c33",
+          "name": "背景",
+          "assetPath": "bg/sc_xue_welcome.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "82f819cc-6d31-4b62-bee6-f57fed1ad930",
+      "name": "薛地廢墟",
+      "layers": [
+        {
+          "id": "0b40816f-c8f9-4694-a977-28f39a1bbcce",
+          "name": "背景",
+          "assetPath": "bg/sc_xue_ruins.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "ade0fc3e-59e2-4588-a39e-a5b2382c755e",
+      "name": "臨淄王宮",
+      "layers": [
+        {
+          "id": "a2307844-0f99-4ba7-bf82-8a13e9810965",
+          "name": "背景",
+          "assetPath": "bg/sc_qi_palace.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "7cf5fc1c-b469-4ac6-9120-0e8b068b0758",
+      "name": "荒野驛道",
+      "layers": [
+        {
+          "id": "cae0e1f0-dd3e-4c0d-9588-6b3661752fd5",
+          "name": "背景",
+          "assetPath": "bg/sc_wilderness_road.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "4a52be93-25f8-46b6-a23e-1ea897492d80",
+      "name": "薛地鑄劍工坊",
+      "layers": [
+        {
+          "id": "53902908-cb1c-41e0-a2ff-1072acba4f9d",
+          "name": "背景",
+          "assetPath": "bg/sc_forge.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "a2b2ee4b-0905-45d5-a444-0b7199c8a612",
+      "name": "CG·斷劍之家",
+      "layers": [
+        {
+          "id": "73e8a3db-7e3d-499f-a50a-bc0a801fb8b6",
+          "name": "CG",
+          "assetPath": "cg/cg_broken_sword_family.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "1a023b17-68a0-47e3-a6d5-554513a069ee",
+      "name": "CG·岔路乞丐",
+      "layers": [
+        {
+          "id": "19bdafd1-6cc0-437d-a594-79f4ba9eab71",
+          "name": "CG",
+          "assetPath": "cg/cg_beggar_guide.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "b1b79cfd-549e-4bbd-8b3c-e1d56f3756a2",
+      "name": "CG·函谷雞鳴",
+      "layers": [
+        {
+          "id": "54896371-ea28-4090-bf78-e8c4d4c792a3",
+          "name": "CG",
+          "assetPath": "cg/cg_hangu_escape.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "8ef1ffa7-5868-4d04-9ef4-4784486f035f",
+      "name": "CG·三彈其鋏",
+      "layers": [
+        {
+          "id": "3382b6b3-b409-4e81-93ba-dd15a94df68a",
+          "name": "CG",
+          "assetPath": "cg/cg_sword_song_epic.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "56ab1f80-da10-48c6-809c-a4a8dd71496e",
+      "name": "CG·彈鋏之意",
+      "layers": [
+        {
+          "id": "329801f0-07d4-473b-8c30-3ed2770ab0b5",
+          "name": "CG",
+          "assetPath": "cg/cg_sword_song_secret.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "d579cec5-5627-4615-b63e-802426e07c6a",
+      "name": "CG·薛地焚券·表",
+      "layers": [
+        {
+          "id": "cfe64b7e-b82d-4ab7-a49f-b5882fad3f73",
+          "name": "CG",
+          "assetPath": "cg/cg_burn_debt_epic.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "765a2281-3fcd-43a9-8f35-c57937f848d4",
+      "name": "CG·薛地焚券·裡",
+      "layers": [
+        {
+          "id": "63fa65ce-784e-4fd2-bd81-78876e3cdc2c",
+          "name": "CG",
+          "assetPath": "cg/cg_burn_debt_secret.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "9d34adcc-663a-4ce4-85fa-5837c90c8551",
+      "name": "CG·百里相迎",
+      "layers": [
+        {
+          "id": "5bb97290-f6c6-4159-8e68-1182e8258c48",
+          "name": "CG",
+          "assetPath": "cg/cg_hundred_li_welcome.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "845a9ea4-b832-4d7a-b592-d6024825400c",
+      "name": "CG·萬家燈火",
+      "layers": [
+        {
+          "id": "07b41b18-5371-4eaa-a278-72e7514f2390",
+          "name": "CG",
+          "assetPath": "cg/cg_lantern_relay.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "2f581b0b-57bb-4cff-b188-0ba9fe40c787",
+      "name": "CG·插劍焦土",
+      "layers": [
+        {
+          "id": "8db38665-6482-45dc-af70-9f213fbae1b3",
+          "name": "CG",
+          "assetPath": "cg/cg_sword_in_ashes.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "96c4f95d-fa2c-47a4-8bd5-fe1dec92b4b5",
+      "name": "物·舊鋏",
+      "layers": [
+        {
+          "id": "5cdedbb2-b3c9-40cd-9afe-948fcfb12065",
+          "name": "CG",
+          "assetPath": "items/item_old_sword.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "1f59a463-717d-4848-93b8-d816ffa8f26e",
+      "name": "物·半券",
+      "layers": [
+        {
+          "id": "7a973609-d90c-41b6-8df3-ca3a95165da0",
+          "name": "CG",
+          "assetPath": "items/item_half_contract.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "c5c447e1-4a82-4206-a4f2-a1463ffc057c",
+      "name": "物·玉佩",
+      "layers": [
+        {
+          "id": "6a4c4202-d833-4db4-afe5-86661568e54a",
+          "name": "CG",
+          "assetPath": "items/item_broken_jade.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "58584e8a-3a93-410f-b1ae-cc4a7622b7f4",
+      "name": "府邸·夜宴",
+      "layers": [
+        {
+          "id": "82da5dca-ea65-4586-a623-bb1615a82009",
+          "name": "背景",
+          "assetPath": "bg/sc_xiangfu_night.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "33bbf57d-3308-4330-bc0d-fbbb7905aa91",
+      "name": "薛地市集·火場",
+      "layers": [
+        {
+          "id": "a7410a94-eae6-41cc-bf59-2cb0f06c8fae",
+          "name": "背景",
+          "assetPath": "bg/sc_xue_fire.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "68b84f4e-3158-4c8f-a4f3-b87bb7a00d3e",
+      "name": "薛地宗廟",
+      "layers": [
+        {
+          "id": "2df772cb-29b1-4aa3-9131-2fb708e51e20",
+          "name": "背景",
+          "assetPath": "bg/sc_temple.jpeg",
+          "distance": 1
+        }
+      ]
+    }
+  ],
+  "groups": [],
+  "layout": []
+}

@@ -1,0 +1,90 @@
+{
+  "id": "bc8c0cff-ff56-4131-9013-868d85752ba2",
+  "name": "開始",
+  "fragments": [
+    {
+      "id": "2f006108-dd37-4d3f-b586-17ae15f79399",
+      "name": "main",
+      "blocks": [
+        {
+          "id": "blk-1784948834763-9agvbs",
+          "type": "showExtensionUI",
+          "props": {
+            "disabled": false,
+            "target": "avg.internal.default-shell/title-screen",
+            "modal": true,
+            "layer": "topmost",
+            "seekBehavior": "normal",
+            "size": "",
+            "position": "",
+            "interactable": ""
+          }
+        },
+        {
+          "id": "blk-1784965146080-r10a94",
+          "type": "storyParagraph",
+          "props": {
+            "disabled": false,
+            "speed": 0,
+            "isFirst": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "本故事內容多為虛構，僅部分事件與史實重合，請小心甄別",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "7775a669-61a0-4407-b5c6-2cd1b0c996e5",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "狡兔有三窟，僅得免其死耳。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "11cc23c9-b5c3-44c6-9f44-d98f6970d684",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "——《戰國策·齊策》。史官記下了三窟，卻沒有記下鑿窟的人最後去了哪裡。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "33224baa-388e-4949-b531-54c356ca1ca1",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "這個故事，要走兩遍才算走完。第一遍，你是坐在高堂之上、看不清棋盤的君；第二遍，你是隱在燈影之下、執黑先行的客。",
+              "styles": {}
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

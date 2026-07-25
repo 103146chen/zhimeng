@@ -1,0 +1,1658 @@
+{
+  "id": "ee429de6-5584-4430-a4bc-648aec8d5375",
+  "name": "孟嘗君篇·第四章 薛地焚券",
+  "fragments": [
+    {
+      "id": "1b080642-d011-495a-95b9-cd85c8d25d3c",
+      "name": "main",
+      "blocks": [
+        {
+          "id": "91992a25-92f6-4166-ab3f-9426dcaf7395",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "9e645682-cf1c-45c3-baed-b41d56adfcee",
+            "sceneName": "臨淄相府正堂",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "600",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "e0f39b97-1794-4c13-85e8-500c710bc88f",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "bgm",
+            "uri": "bgm/bgm_06_suppressed_anger.mp3",
+            "volume": "75",
+            "loop": "true",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "794c00c6-68a6-4b48-886f-6147267e48ab",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "馮諼走後，相府的日子照舊。你偶爾想起那一車券契，掐著指頭算日子：萬戶之邑，合券驗契，稽核帳目，追比逋負——快也要一月，慢則入冬。帳吏已經備好了空倉，等著薛地的錢糧進門；廚下甚至提前訂了臘祭的牲口，一切都按「債收八成」的帳面在走。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "9ff0d60d-2a77-4fe6-97da-2bf2c7e2885f",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "三千客的飯桌上也在議論這樁差事。有人說馮先生此去，是拿賢名換錢糧，回來必遭鄉里唾罵；有人押他收不齊三成，灰頭土臉而返；押他能全身而退的，十中無一。沒有一個人押中後來發生的事——這也怪不得他們。後來發生的事，普天之下，只有一個人事先知道。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "9579987d-8295-4826-9713-be085cad895b",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "SE",
+            "soundId": "",
+            "uri": "se/se_night_watch_horse.mp3",
+            "volume": "88",
+            "loop": "false",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "4bc4cf17-427d-4d78-b4da-21b2d2606858",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "第三日夜半，薛地急報先至。驛馬跑死了一匹，送進府的不是錢糧的帳目，是隨行書吏的一頁手書。你就著燭火展開，第一眼先看見紙上濺著的泥點——寫信的人，是在路邊寫的。字跡抖得幾乎不成行：馮諼至薛當日，使吏悉召諸民當償者，皆持券而集。酒肉饗之，合券既畢——矯君命，以責賜諸民，因燒其券。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "1c52f782-1331-42ca-b404-8d4411f6eb08",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "書吏寫道：合券之時，馮先生逐戶問年成、問生計，能償者與之定期；貧不能償者，取其券——擲入火中。火先是一小堆，後來民自抱券而來，堆成一座小山。火光起時，萬民先是死一般地靜，隨即哭的哭，拜的拜，呼「萬歲」之聲徹於薛城內外。手書末行只有六個字：「臣不能止，死罪。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "0b8a7185-4fdf-47bd-bcf2-3e1221b68818",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "臣不能止。一個隨行的刀筆吏，如何止得住？你盯著那六個字看了很久——止不住的不是馮諼，是那座越燒越高的火山。你忽然發覺自己的手在抖。是怒，也不全是怒。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "4f608ed5-5fe0-4524-a4ac-5584de64964b",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "燭火底下，你捏著那頁手書。此刻你——",
+            "choices": "[{\"text\":\"「妄言！」斥報信者虛言亂府\",\"mode\":\"jump\",\"fragmentId\":\"05ee8913-da23-4e0d-bc72-369beecca872\"},{\"text\":\"即刻遣快馬南下探實\",\"mode\":\"jump\",\"fragmentId\":\"17461593-0235-412c-a7bb-e8d450c4843d\"},{\"text\":\"擱下手書，默坐至天明\",\"mode\":\"jump\",\"fragmentId\":\"828377e0-0021-42d5-9386-c47ca8ca13b0\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "05ee8913-da23-4e0d-bc72-369beecca872",
+      "name": "傳聞-斥妄",
+      "blocks": [
+        {
+          "id": "89738986-74b4-405d-9512-d1e3fb597c43",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「妄言！」你把手書拍在案上。萬戶債券，累世家底，誰有那個膽子一把火燒了？書吏必是收債不力，編出這等鬼話卸責。你喝令來人退下，自己卻在堂中來回走到了三更——越走，心越沉：那筆字抖成那樣，不像編的。編瞎話的人，字都寫得格外工整。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e03e644f-e0bf-4a78-a089-a6dd11fb22a4",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "三更之後你不走了，坐下來，把手書又讀了一遍，再讀一遍。斥退報信人容易，斥退白紙黑字難。你發現自己方才那一聲「妄言」，與其說是不信，不如說是不敢信——你寧可門下出一個廢物，也不敢想門下藏著一個敢替你做主的人。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "5f01df3c-1d58-4d17-b708-10cfbaeaf505",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "84942afa-43b7-4a43-9d4c-af0de6ef5656"
+          }
+        }
+      ]
+    },
+    {
+      "id": "17461593-0235-412c-a7bb-e8d450c4843d",
+      "name": "傳聞-遣探",
+      "blocks": [
+        {
+          "id": "814f3e27-8e33-4554-9e2e-528882525739",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你即刻點了兩名快騎，星夜南下探實。人剛出坊門，你又追出一道口令：只探，不問，不得攔他。攔？你在燭下自嘲地笑了——券已成灰，攔什麼？攔灰嗎？快騎的蹄聲遠了，你坐回案前，第一次認真去想一件事：一個「無好無能」的人，敢矯相國之命焚萬戶之券——他不怕死。不怕死的人求什麼？",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "4dfb7e5c-4f0b-4742-a7d6-10d54d56a1fc",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "天未亮，快騎沒有回來，倒先與北上的馮諼在半道錯了車。後來你聽那騎士說：馮先生的車不疾不徐，見了相府的馬也不避，還朝他們拱了拱手。騎士咬著舌頭想了半天，形容不出那神情，末了說：像是早知道君上會派人來，也早知道派來的人，攔不住他。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "533a197d-2b35-4607-b3eb-87612124198e",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "84942afa-43b7-4a43-9d4c-af0de6ef5656"
+          }
+        }
+      ]
+    },
+    {
+      "id": "828377e0-0021-42d5-9386-c47ca8ca13b0",
+      "name": "傳聞-默坐",
+      "blocks": [
+        {
+          "id": "a6cdcb06-87ed-45e4-a684-200468ad169e",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你把手書擱下，誰也沒有叫，一個人在堂上默坐到天明。燭燒殘了三根。怒氣是有的，像壓在灰底下的炭，可怒氣底下還有一層說不清的東西——那人臨行問「以何市而反」，你答「視吾家所寡有者」。你一夜都在想這七個字。他是拿著你的話去的。他燒券的時候，手裡舉著的是你的話。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "2951f265-5431-4e45-bd06-03396d341d1f",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "所以這一夜你甚至想明白了一件旁人想不到的事：待他回來，你可以怒，可以罰，唯獨不能說一句「文何嘗許你如此」。因為你許過。你隨口一許，他便當了真——普天之下拿你的客套話當軍令的，只有這一個人。這算忠，還是算欺？天亮了，你也沒有想明白。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "f7aa563a-c9f5-4080-a446-57b32c11dd01",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "84942afa-43b7-4a43-9d4c-af0de6ef5656"
+          }
+        }
+      ]
+    },
+    {
+      "id": "84942afa-43b7-4a43-9d4c-af0de6ef5656",
+      "name": "對質",
+      "blocks": [
+        {
+          "id": "c4970d2e-1752-4a66-abe6-d268ab5c636b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "天光未透，門下來報：馮先生已在府外求見——比你遣去召他的怒氣，還快了一步。去時滿滿一車券契，歸時隻身一人，一襲舊褐上還帶著煙火氣。消息傳開，三千客擠滿了廊廡，人人都想看看：燒了主君家底的人，是怎麼個死法。你端坐堂上，把一夜的火按進袖子裡，開口先問的，卻是——",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "abe09aa0-1f16-44eb-9d3f-d267562b4774",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5e9c0bd-260c-426e-b6d9-8fc8100d43bb",
+            "characterName": "孟嘗君",
+            "expression": "疑慮",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「責畢收乎？來何疾也！」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "eb356890-5e01-4064-a4ba-45f5175b3824",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
+            "characterName": "馮諼",
+            "expression": "平靜",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「收畢矣。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "af7a3172-7f22-44a8-8a28-b4d15f3ce9c5",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5e9c0bd-260c-426e-b6d9-8fc8100d43bb",
+            "characterName": "孟嘗君",
+            "expression": "疑慮",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「……以何市而反？」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "47af26cc-2323-4f0e-aace-575d73c1be02",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
+            "characterName": "馮諼",
+            "expression": "平靜",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「君云『視吾家所寡有者』。臣竊計，君宮中積珍寶，狗馬實外廄，美人充下陳——君家所寡有者，以義耳。臣竊矯君命，以責賜諸民，因燒其券。[wait=600]民稱萬歲。乃臣所以為君市義也。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "6e3c04c0-fbc5-48d5-984d-9fc76e27e7b1",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "市義。他把這兩個字說得平平常常，像說今日市上替你買了一石粟米。堂上侍立的帳吏臉色慘白，手裡的算籌捏出了汗——那不是一石粟米，那是薛地累年貸出的本息，是相府往後十年的底氣。廊下擠著的門客鴉雀無聲，連呼吸都放輕了：他們在等你的雷霆，好掂出這位主君的斤兩。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "f9f351d8-7dcb-499a-9b4b-b4138c0abd18",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "最可惡的是他站在那裡的樣子。不跪，不懼，不搶著剖白，兩手垂在舊褐的袖子裡，靜靜等你發落——彷彿理虧的不是他。彷彿他燒的不是你的券，是替你還了一筆你自己都不知道欠下的債。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "3d6a091f-0813-4aa8-8794-ea9fc11cf0da",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "d579cec5-5627-4615-b63e-802426e07c6a",
+            "sceneName": "CG·薛地焚券·表",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "500",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "bbd2989d-6ea8-453e-990e-9d2fea638221",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "一瞬間，你聽見自己血液沖上頭頂的聲音。薛地一歲的貢賦，門下三千張要吃飯的嘴，齊王朝堂上等著看你笑話的眼睛——全在那把火裡。你五指扣進案沿，木紋硌得掌心生疼；疼，才按得住你此刻最想做的事。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "220bf458-bd26-4b47-903e-c147ef0db36e",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "1f59a463-717d-4848-93b8-d816ffa8f26e",
+            "sceneName": "物·半券",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "400",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "d95b7d27-7746-4f01-adf3-ee3d009ffa9c",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "侍從奉上薛地帶回的漆匣——他此行唯一帶回的東西。你原以為匣中總該有些帳目文書，掀開一看：匣底只躺著一片焚餘的合券，焦邊捲曲，數目欄燒空了，獨餘一列人名，七個名字，一筆一畫，完好如初。萬千債券他燒得片紙不留，偏偏留下這個。你不明白。滿堂的人都不明白。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "814d3a48-be50-447e-b592-61df14c7ba24",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "9e645682-cf1c-45c3-baed-b41d56adfcee",
+            "sceneName": "臨淄相府正堂",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "500",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "cb3b2dcf-189c-4ddc-8d75-770cebab4142",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "百萬債券已成灰。你——",
+            "choices": "[{\"text\":\"「先生休矣！」拂袖而去\",\"mode\":\"jump\",\"fragmentId\":\"ec1933da-ba8c-411d-ade1-7d4257d5fa8d\"},{\"text\":\"冷聲細算薛地一歲之損\",\"mode\":\"jump\",\"fragmentId\":\"5fec0e67-d735-4dc9-b765-b5384dea0dd9\"},{\"text\":\"當眾申斥，貶其職以正門規\",\"mode\":\"jump\",\"fragmentId\":\"dd8655a6-52b2-48cf-a223-41cada8c6556\"},{\"text\":\"按下怒火，問他「義」作何解\",\"mode\":\"jump\",\"fragmentId\":\"ff01f0f6-7034-4902-ad20-a700b9206c2d\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ec1933da-ba8c-411d-ade1-7d4257d5fa8d",
+      "name": "怒-拂袖",
+      "blocks": [
+        {
+          "id": "0299b617-024b-4018-8ae1-4b6fdde97612",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你什麼都沒罵。罵，還得看著他。你只留下三個字，和一整座沉默的正堂。史書上，你正是這麼做的——「孟嘗君不說，曰：諾，先生休矣！」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c8d167f6-917a-49a2-bc92-e0a148082462",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「休矣」二字出口，你拂袖入了內室。他在堂上立了片刻，朝你的背影長揖到地，退了出去——自始至終，不曾辯一字，也不曾露出半分惶恐，彷彿早把這一場怒，算在了那把火的成本裡。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "2cb73003-3d71-4e50-936f-777e3becc6d2",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "內室裡你獨坐良久。怒到極處，反而空了：罵他什麼呢？貪墨？他一文未取。欺主？他打的是你親口說的旗號。你翻來覆去，竟找不出一條罪名能把「民稱萬歲」四個字壓下去。你頭一次發覺，「義」這個字拿在別人手裡，比刀還難招架。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "b02b9c83-6260-4b10-99cb-bd83a53c2c03",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "器量",
+            "op": "+=",
+            "aKind": "lit",
+            "aLit": "0",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "39ee4c16-b1e4-44a9-b07d-0f81ca011458",
+          "type": "comment",
+          "props": {
+            "disabled": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "史實線：不加不減。憤怒但止於禮，是孟嘗君的本來面目",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "a9686102-7689-4010-8025-2345a84f2b5e",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "7c31a7e7-c167-4760-985b-c81746cd3e2a"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5fec0e67-d735-4dc9-b765-b5384dea0dd9",
+      "name": "怒-算帳",
+      "blocks": [
+        {
+          "id": "7561762d-4285-4359-a986-682d762157e9",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5e9c0bd-260c-426e-b6d9-8fc8100d43bb",
+            "characterName": "孟嘗君",
+            "expression": "怒",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「薛歲入幾何，門下食客幾何，先生焚券之時，替文算過嗎？」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e5e51d33-054c-4fbe-a7eb-791356931185",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你把損失一筆一筆算給他聽。他垂手聽完，不辯一字。你贏了這場帳，堂下卻有門客悄悄交換眼色——原來薛公之養士，士亦在帳上。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ad30237a-eeda-46ff-958e-f5025b0c6e5a",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "算到最後一筆，你自己先停住了。帳面上每一個數目背後，都是薛地一戶按著手印的人家——這層帳，你算得出，卻不敢往下算。你揮手令他退下。他退到堂口，忽然回身補了半句：「君所失者，數也。所得者——」你打斷了他：「出去。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "42c70a28-d3b0-489a-b268-8fab12264782",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "他出去了。那半句話卻留在堂上，像一根挑在喉頭的刺。所得者何？你不許他說完，因為你隱約知道答案，而那答案會讓你方才算的每一筆帳，都顯得小家子氣。當夜帳吏把損失謄成清冊呈上來，你翻了一頁，就擱下了——數目是死的，堵不住你心裡那半句活話。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "49b11536-ac6c-4f83-bc18-1db699797fa4",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "器量",
+            "op": "-=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "c2470ed7-f12b-4c58-ae7e-168346c146f0",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "7c31a7e7-c167-4760-985b-c81746cd3e2a"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dd8655a6-52b2-48cf-a223-41cada8c6556",
+      "name": "怒-貶斥",
+      "blocks": [
+        {
+          "id": "bcdc952e-b561-4229-9746-13c9740fd789",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你當著三千門客的面奪其傳舍之座，降回下客。堂上鴉雀無聲。你立了威——也讓每一個門客都記住了：在薛公門下，自作主張的下場。從此再無人敢替你「矯命」，包括該矯的那一次。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "1a4397a5-2c60-46f2-8b09-a463cb2e9f4e",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "他從上舍搬回末等傳舍那日，抱著那柄舊劍，神色如常，倒像回自己家。滿府的人繞著他走，唯有當年讓車給他的那位老客，替他拎了一床舊被。夜裡，傳舍的方向安安靜靜——你在等那熟悉的彈鋏聲響起來，等了半夜，沒有。不知怎麼，這份安靜比歌聲更叫你心煩。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "def39703-7902-436a-a0c3-e940f9ea6665",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "更叫你心煩的話，是幾日後才傳到耳中的。有人問他：君上待先生如此，先生悔否？他答：「席有高下，債無高下。臣之所市，不在席上。」問的人沒聽懂，你聽懂了——你貶得了他的座次，貶不了那把火。那把火燒出來的東西，已經不歸你管了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "1e6d0b55-40a9-4020-b427-c163869ed25b",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "器量",
+            "op": "-=",
+            "aKind": "lit",
+            "aLit": "2",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "4bf1e93b-13fd-4492-86ed-c4f1a4cf9082",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "曾當眾折辱馮諼",
+            "op": "=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "9be5ebcd-4cef-456e-90b7-08deef10be5f",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "7c31a7e7-c167-4760-985b-c81746cd3e2a"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ff01f0f6-7034-4902-ad20-a700b9206c2d",
+      "name": "忍-問義",
+      "blocks": [
+        {
+          "id": "c107b3d9-b7a1-4088-a68f-04ed4f312d3d",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5e9c0bd-260c-426e-b6d9-8fc8100d43bb",
+            "characterName": "孟嘗君",
+            "expression": "強忍",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「……錢已成灰，罵亦無益。先生說『市義』——文，願聞其詳。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d7ebe1cc-7342-4605-a144-bdb3bbe892d2",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "他抬起眼，似乎有一瞬的意外。那雙總是半闔的眼睛裡，你第一次看見一點近乎「稱量」的光——彷彿不是你在考校他，是他在考校你。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "590b411a-6a91-476f-94e5-25147c45f0e9",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
+            "characterName": "馮諼",
+            "expression": "低語",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「不拊愛子其民，因而賈利之，則民去；民去，則薛非君之薛也。今君有區區之薛，焚無用之券，得萬民之心——義之所市，市的是君百年之後、去位之日，還有一塊站得住腳的土。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e31a5216-ec3f-4d95-a7ad-066ee54fc679",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "去位之日。你眉峰一動——如今你位極人臣，賓客盈門，誰敢言你有去位之日？可他說出這四個字時聲氣平平，像在念一件早已寫定的舊事。你按著案角，半晌，緩緩吐出一口氣：「……先生且退。容文想想。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "4dbf0736-9080-427c-896d-a22cc51f5edb",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "他退下後，你在堂上又坐了半日。廊下的門客等著看你雷霆震怒，等來的卻是主君閉目沉思——這幅光景本身，就震住了許多人。當晚傳舍裡有下客私語：燒了主君的錢，主君竟肯聽他把道理講完——薛公之門，值得託身。這句話後來傳到你耳中，你才明白：那日堂上你忍住的那口氣，不知不覺間，也是一筆「市義」。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "75630f20-b9bf-43e6-9558-9272cd654a64",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "器量",
+            "op": "+=",
+            "aKind": "lit",
+            "aLit": "2",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "5a9ea0cd-782c-455b-9152-370f3c5e3735",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "7c31a7e7-c167-4760-985b-c81746cd3e2a"
+          }
+        }
+      ]
+    },
+    {
+      "id": "7c31a7e7-c167-4760-985b-c81746cd3e2a",
+      "name": "堂下餘波",
+      "blocks": [
+        {
+          "id": "eba4b319-a201-40c8-a367-376aac278d36",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "焚券的消息瞞不住，一日之內傳遍三千客館。有搖頭長嘆的——主君家底折了大半；有暗自撥算盤的——家底薄了，客等的用度只怕要減，代舍的魚與車，還保不保得住？也有極少數人不言不語，只朝著薛地的方向望了很久。人心這座秤，一把火，把秤砣燒出了原形。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "6fa138bb-0a32-47c8-bb88-66d772ae29aa",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "旬日之內，果然有二十餘人辭去，都是代舍的上客，去得體面，說辭也體面：家中有事，容後再來投奔。你一一贈金送行，臉上帶笑，心裡明白：飯貴的時候，先飛的總是吃得最好的鳥。倒是末等傳舍，一個人也沒有走。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "bfea2ec6-b01e-448e-9854-a9f4a8f358bc",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "薛地的後續消息陸續傳來。焚券之後，民間竟傳開一件事：家家把「薛公赦債」的話講給孩子聽，有人把你的名號寫在木牌上，供在灶側，晨昏一炷香。計吏重新核算家底，苦著臉呈上新帳：歲入折半，府用須省。你提起筆，在「省用」二字底下先勾了自己的膳單——主君之膳先減，而後才輪得到客等。這道手令傳到客館，抱怨用度的聲音，倒小了一半。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "64b3bfcf-c499-454e-90b2-8583919073f4",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "而臨淄的風，比薛地的火更快。旬日之內，已有人將此事奏於王前，話說得極輕，也極毒：「孟嘗君焚券市義，私收薛地人心——邑，王之邑也；民，王之民也。相國市義於私邑，其志恐不小。」據說王聽完，什麼也沒說，只把玩著案上的玉圭，許久，問了一句：「薛地的民，如今呼誰萬歲？」滿殿無人敢答。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "a3f0baec-7857-42f9-b138-da17e1366dec",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "風聲入耳。你——",
+            "choices": "[{\"text\":\"上書自陳，辯明焚券始末\",\"mode\":\"jump\",\"fragmentId\":\"df8a4c66-3247-43eb-9c43-819e4e2ed8e3\"},{\"text\":\"稱病杜門，避一避風頭\",\"mode\":\"jump\",\"fragmentId\":\"ab4d8cc1-7013-45fc-95d3-5c63fced9db4\"},{\"text\":\"照常朝會宴客，置之不理\",\"mode\":\"jump\",\"fragmentId\":\"9b494df1-e051-40c6-95ad-91006e796c96\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "df8a4c66-3247-43eb-9c43-819e4e2ed8e3",
+      "name": "風聲-自辯",
+      "blocks": [
+        {
+          "id": "d4f8194c-cc3d-4481-ac6d-3d5113a89097",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你連夜草了一道自陳的奏書：焚券者，門下客矯命所為，非文本意；文已切責其人，薛地息錢，容後徐圖。書送入宮，如石沉海——王既不責，也不慰，只批了兩個字：「知道。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "fca04064-23e5-4d91-99dc-6535b3895e2f",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "辯白這種東西，信你的人不需要，不信你的人不看。你只換來一件事：滿朝都知道了，孟嘗君急了。而那句「門下客矯命所為」，等於把馮諼隻身推到了刀口上——這一層，你落筆時未及細想，堂下卻有人替你記下了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "f96a1e44-775e-48a6-84c0-74482ed350c5",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "奇的是馮諼本人。有好事的門客把你奏書裡那句話學給他聽，想看他變臉。他聽完，只點了點頭：「本就是臣矯命，君上所奏，句句是實。」說罷照舊抱他的劍曬他的太陽。那門客訕訕而退，回頭跟人說：這位先生，脖子伸在刀口下，倒像躺在自家蓆上。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "af624f82-59b7-43ef-afdd-51bb589481fd",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "f78023f5-57c8-4800-86c5-9b8e6cbb85d2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ab4d8cc1-7013-45fc-95d3-5c63fced9db4",
+      "name": "風聲-杜門",
+      "blocks": [
+        {
+          "id": "aee50fc4-16f3-4997-88ba-803ce8020393",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你稱病了。閉門，謝客，罷宴，連例行的朝會也告了假——想讓這陣風自己吹過去。門庭一冷，先寒的是門客的心：傳舍裡開始有人悄悄收拾行囊，賢士之去留，向來比朝堂的風向標更靈。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "6fbee4bc-5512-48fd-9e9c-092625428f55",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "風頭沒有過去。你躲了十日，王座上的人只看明白了一件事：孟嘗君也會怕。對君王而言，臣子的怕，比臣子的功更耐人尋味——怕，就是有所求；有所求，就拿捏得住。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "5767e81e-3d2c-4ea9-a4e2-9eeed8b275bc",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "第十一日，你收到一件沒有署名的禮：一尾用葦葉包著的鮮魚，並一行小字——「君嘗以此待客。今客以此侍君：食有魚，出有車，何懼之有？」你捏著那行字看了半天，忽然笑出了聲。滿府只有一個人，敢拿彈鋏的舊事來寬你的心。次日，你開門視事。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "0946d96b-2164-4f42-be29-eeb727662ffa",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "f78023f5-57c8-4800-86c5-9b8e6cbb85d2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "9b494df1-e051-40c6-95ad-91006e796c96",
+      "name": "風聲-不理",
+      "blocks": [
+        {
+          "id": "413ed2f1-7190-41ea-8c26-370aa0822034",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你照常朝會，照常宴客，照常在王前奏對錢穀兵事，彷彿薛地那把火燒的是別人家的券。終於有人按捺不住，當廷發問：聞相國焚券於薛，市義於民——義，市與誰看？",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "37c9a97e-160a-44cf-ae95-164937b0b9b3",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5e9c0bd-260c-426e-b6d9-8fc8100d43bb",
+            "characterName": "孟嘗君",
+            "expression": "平靜",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「薛，文之封邑；民，王之民也。民安則邑安，邑安則王安。文散家財而王之民富——敢問，文何罪之有？」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "939a0d8e-c57e-4091-a668-7327140c928c",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "一席話說得四座無言。只是散朝時，你察覺王目送你出殿的那一眼，比往日又深了一層。理，你占住了；忌，也結下了。自古功高者不賞，理直者難容——朝堂之上，把話說贏的人，往往正是把路走窄的人。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "fb6c6fd5-ff44-48ca-978d-ecaf3acc64b2",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "當晚你把廷上的對答說與馮諼聽，原想他會贊一句應對得體。他聽完卻沉默了片刻，說了一句沒頭沒尾的話：「君今日之對，義正而詞嚴——只是自今而後，薛地那一窟，君要用心經營了。」一窟？你當時只當是縱橫家的譬喻，一笑置之。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "5b677b17-c8a8-4779-acc4-d92c390a2e7d",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "f78023f5-57c8-4800-86c5-9b8e6cbb85d2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f78023f5-57c8-4800-86c5-9b8e6cbb85d2",
+      "name": "夜對",
+      "blocks": [
+        {
+          "id": "cbff7414-4770-4728-87b2-f251cecf2292",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "諸事稍定的那一夜，你單獨召了馮諼。屏退左右，堂上只剩一燭、兩人、一張案，案上擱著薛地帶回的那只漆匣。你看著這個把你百萬債券燒成灰的人——他坐得端正，舊褐洗得發白，那柄長鋏照舊橫在膝上，彷彿燒掉的不過是一捆柴。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "84cb544f-b6b7-495e-83a9-51be0854130f",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "白日在堂上，你是三千客的主君，一舉一動都有人掂量；此刻燭下只有你們兩人，怒氣沉澱了，剩下的東西反而更沉——你發現自己滿腹的話，竟不知從何問起。問錢？錢已成灰。問罪？罪名你找了十日，沒有找到。最後浮上來的，是三個更深的問題。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "7fc83e35-ca88-4179-8a14-ff391bdd5051",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "燭火將半。你開口——",
+            "choices": "[{\"text\":\"「焚券萬千，何以獨留這半片？」\",\"mode\":\"jump\",\"fragmentId\":\"88d96ab9-fb62-4210-a088-62319da0139e\"},{\"text\":\"「薛地之民……究竟過的什麼日子？」\",\"mode\":\"jump\",\"fragmentId\":\"9ec1ef87-943f-408e-aa82-15106d834645\"},{\"text\":\"「先生之志，究竟為何？」\",\"mode\":\"jump\",\"fragmentId\":\"ed582248-b555-4b77-85bd-b3960ae39490\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "88d96ab9-fb62-4210-a088-62319da0139e",
+      "name": "夜問-半券",
+      "blocks": [
+        {
+          "id": "11e4fd21-b76a-49bd-8de1-4b1398beb5a1",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5e9c0bd-260c-426e-b6d9-8fc8100d43bb",
+            "characterName": "孟嘗君",
+            "expression": "沉思",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「先生焚券萬千，獨留此半片在匣。數目已燼，只餘人名——何也？」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "25b5e302-4745-44cd-bdba-858d8dee77b7",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
+            "characterName": "馮諼",
+            "expression": "低語",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「數目，燒得。名字，燒不得。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c0c9f7d4-5f29-4efa-98da-f37e11fb3311",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「何意？」你追問。他看著那片焦邊的舊券，燭光在他眼底晃了一晃：「留與君——他日自看。」再問，便不答了，只替你把匣蓋輕輕闔上，像替誰闔上一扇門。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "2dcf5889-ce35-4bbf-ba8c-7951a7dfb81b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "打啞謎。你有些慍，又慍不起來——你隱隱覺得，那一列人名底下壓著一件事：他不肯說，未必是不敬；或許是說出來，此刻的你未必擔得起。你藉著燭光又去看那列名字：七個人名，字跡各異，鄉里不同，看不出任何干係。唯一的共通處是——七份券上原本的數目，都燒得乾乾淨淨，獨獨名字，一筆一畫，完好如初。像是燒券的人，在火裡替它們挑過了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "1ba270b0-00be-4ee6-8e9a-cf1c2764e8b1",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "58cd7220-40b0-4e98-88d5-eb0b35e97fa9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "9ec1ef87-943f-408e-aa82-15106d834645",
+      "name": "夜問-民情",
+      "blocks": [
+        {
+          "id": "3c58ac9e-f75d-4200-93bf-dbe5466ad2f2",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5e9c0bd-260c-426e-b6d9-8fc8100d43bb",
+            "characterName": "孟嘗君",
+            "expression": "沉思",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「文食薛萬戶，居臨淄高堂。薛地之民……究竟過的什麼日子？」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "05ee65b7-6e07-4b81-a8ae-7fcebabf0a79",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "他難得地多話了。他講薛地的息錢如何一年滾成兩年、兩年滾成閻王債；講償不起的人家如何先賣牛，再賣地，再賣兒女；講荒年裡整村的丁壯逃亡，路上倒斃的人連蓆子都沒有一張。他講得極平，平得像在念簿冊，偏是那份平，聽得你脊背發涼。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "9260fc16-5d32-45b2-8eea-19aafcc188bd",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
+            "characterName": "馮諼",
+            "expression": "冷冽",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「君坐於臨淄，食萬戶之入，未曾見薛地之民易子而炊。[wait=500]臣見過。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "b323a4a3-5749-4ee8-9240-bb544d955866",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「先生何時見過？」你問。他頓了一頓，答：「收債那三日。」那停頓極輕，輕得像一片雪落在很多年前的某個屋頂上。你沒有聽出來。這一夜的你，還聽不出來。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "cd88a76f-89bd-4a8c-8bcd-349dc10b3cde",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你只是在他告退之後，把「易子而炊」四個字翻來覆去想了半宿，最後喚來管事，吩咐了一句：明歲薛地的息錢，貧户一律再減三成。管事應諾退下，沒有看見你盯著燭火出神——三日。他只在薛地待了三日，講起薛地的苦處，卻像講了半生。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "55002974-f077-4c4a-bac5-997ea5edfbe9",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "58cd7220-40b0-4e98-88d5-eb0b35e97fa9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ed582248-b555-4b77-85bd-b3960ae39490",
+      "name": "夜問-其志",
+      "blocks": [
+        {
+          "id": "5b424c67-d6fd-438a-812f-bb80f97b9f27",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5e9c0bd-260c-426e-b6d9-8fc8100d43bb",
+            "characterName": "孟嘗君",
+            "expression": "沉思",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「先生初來之日，自言無好無能。今矯命焚券，一言市義，攪動齊廷——先生之志，究竟為何？」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e133ed62-2232-4eea-a984-0c0488efd836",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
+            "characterName": "馮諼",
+            "expression": "平靜",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「臣無志。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "57cd607b-1c97-4230-8ed0-6b9d003b8e63",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "又是這樣的回答。你笑了，這次卻不肯放過：「無志之人，不燒別人的債券。」他垂目看著燭火，半晌，緩緩道：「臣惟願——君之家，有朝一日，不復寡有。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ad9e65d3-a151-4cee-8b34-371497d5dc18",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你怔住：「文之家，寡有什麼？」他不答了。燭花「啪」地爆了一聲，他的影子在牆上晃了晃，重新坐定，眼睛又半闔了起來——那扇門，又輕輕地關上了。多年以後你才知道，這句話他其實答了，答在了那把火裡，答在了後來的每一步棋裡；只是那晚的你以為他在說錢財，而他說的，從來不是錢財。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "88d406b2-59b4-4910-be1c-01120181af61",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "58cd7220-40b0-4e98-88d5-eb0b35e97fa9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "58cd7220-40b0-4e98-88d5-eb0b35e97fa9",
+      "name": "匯流-收匣",
+      "blocks": [
+        {
+          "id": "859aa5bf-22b8-4589-86f2-01490310c054",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "夜深了，人都散了。漆匣仍在案頭，那片焚餘的半券在燈下泛著焦邊，一列人名朝上，靜靜躺著，像一句沒有說完的話。你伸手把它拈起來，湊近燭火——焦紙的氣味裡，彷彿還混著薛地那場大火的煙。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "84857857-d9b2-4519-bf94-caac9e4ce864",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "這片沒燒盡的舊券……",
+            "choices": "[{\"text\":\"收進私匣，留個念想\",\"mode\":\"vars\",\"varOps\":[{\"key\":\"收起半券\",\"op\":\"=\",\"aKind\":\"lit\",\"aLit\":\"1\",\"aVar\":\"\",\"bKind\":\"none\",\"bLit\":\"\",\"bVar\":\"\",\"binOp\":\"+\"}]},{\"text\":\"連匣棄之，不願再看見\",\"mode\":\"vars\",\"varOps\":[{\"key\":\"收起半券\",\"op\":\"=\",\"aKind\":\"lit\",\"aLit\":\"0\",\"aVar\":\"\",\"bKind\":\"none\",\"bLit\":\"\",\"bVar\":\"\",\"binOp\":\"+\"}]}]"
+          }
+        },
+        {
+          "id": "9ba0b425-cca3-4bb2-8768-df737457ddd1",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你吹熄了燭。黑暗裡，恍惚聽得見薛地方向的雞啼——你想起函谷關下那一夜，也是這樣的雞啼把你從死地叫了出來。第二遍雞鳴時你才睡去，夢裡沒有錢，沒有券，只有萬人齊呼「萬歲」的聲音，一浪一浪，拍在你聽不見的地方。那聲音在夢裡，竟有些嚇人——民呼你萬歲，坐在王座上的那個人，夜裡又夢見了什麼？",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d491e8c6-468e-4433-aaea-75f2fe335930",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "一年後，齊王的使者將帶著詔書登門，只傳一句話：「寡人不敢以先王之臣為臣。」相印收回，門庭四散。屆時你會想起今夜，想起案頭這只漆匣——想起「義」這個字，究竟能不能當飯吃。",
+              "styles": {}
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

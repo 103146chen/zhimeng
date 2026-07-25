@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "4318a89c-fda7-4f01-9a19-ec0c524b2f73",
+      "title": "斷劍之家",
+      "description": "",
+      "sceneId": "a2b2ee4b-0905-45d5-a444-0b7199c8a612",
+      "thumbnailAssetPath": "",
+      "category": "CG",
+      "order": 0
+    },
+    {
+      "id": "5d9c58ff-7d52-42da-b28a-f2ce94272fe8",
+      "title": "岔路乞丐",
+      "description": "",
+      "sceneId": "1a023b17-68a0-47e3-a6d5-554513a069ee",
+      "thumbnailAssetPath": "",
+      "category": "CG",
+      "order": 1
+    },
+    {
+      "id": "5131ee07-d519-4004-b90b-08f0b40aba02",
+      "title": "函谷雞鳴",
+      "description": "",
+      "sceneId": "b1b79cfd-549e-4bbd-8b3c-e1d56f3756a2",
+      "thumbnailAssetPath": "",
+      "category": "CG",
+      "order": 2
+    },
+    {
+      "id": "54b10fb6-4cde-44d2-bd3b-2e52d2b7bd34",
+      "title": "三彈其鋏",
+      "description": "",
+      "sceneId": "8ef1ffa7-5868-4d04-9ef4-4784486f035f",
+      "thumbnailAssetPath": "",
+      "category": "CG",
+      "order": 3
+    },
+    {
+      "id": "1d913b52-05f6-46e7-83cb-7e9c893ffbcf",
+      "title": "彈鋏之意",
+      "description": "",
+      "sceneId": "56ab1f80-da10-48c6-809c-a4a8dd71496e",
+      "thumbnailAssetPath": "",
+      "category": "CG",
+      "order": 4
+    },
+    {
+      "id": "b0199535-57ba-4f83-9310-3bc5d3ce345c",
+      "title": "薛地焚券．表",
+      "description": "",
+      "sceneId": "d579cec5-5627-4615-b63e-802426e07c6a",
+      "thumbnailAssetPath": "",
+      "category": "CG",
+      "order": 5
+    },
+    {
+      "id": "1c88c0f0-b30a-4ee3-b0fa-4a7744e41c00",
+      "title": "薛地焚券．裏",
+      "description": "",
+      "sceneId": "765a2281-3fcd-43a9-8f35-c57937f848d4",
+      "thumbnailAssetPath": "",
+      "category": "CG",
+      "order": 6
+    },
+    {
+      "id": "7ea37eba-6320-4a22-a4f0-66574cff27b7",
+      "title": "百里相迎",
+      "description": "",
+      "sceneId": "9d34adcc-663a-4ce4-85fa-5837c90c8551",
+      "thumbnailAssetPath": "",
+      "category": "CG",
+      "order": 7
+    },
+    {
+      "id": "e43029f3-3768-4c7a-a9be-6dd4771b149c",
+      "title": "萬家燈火",
+      "description": "",
+      "sceneId": "845a9ea4-b832-4d7a-b592-d6024825400c",
+      "thumbnailAssetPath": "",
+      "category": "CG",
+      "order": 8
+    },
+    {
+      "id": "1d909328-007d-4e38-ae57-8b5f1c89ba0c",
+      "title": "劍插焦土",
+      "description": "",
+      "sceneId": "2f581b0b-57bb-4cff-b188-0ba9fe40c787",
+      "thumbnailAssetPath": "",
+      "category": "CG",
+      "order": 9
+    }
+  ]
+}

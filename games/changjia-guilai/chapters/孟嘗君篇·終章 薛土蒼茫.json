@@ -1,0 +1,1053 @@
+{
+  "id": "f0d8789f-ac4d-4340-a078-e893dec4d0f6",
+  "name": "孟嘗君篇·終章 薛土蒼茫",
+  "fragments": [
+    {
+      "id": "a3736da0-597b-4123-a4b4-c49601f3344b",
+      "name": "main",
+      "blocks": [
+        {
+          "id": "94a1b20e-7267-4921-9b50-6555aced00a3",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "ade0fc3e-59e2-4588-a39e-a5b2382c755e",
+            "sceneName": "臨淄王宮",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "800",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "341dac29-17f7-4ee2-9e20-a579ee586030",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "bgm",
+            "uri": "bgm/bgm_12_twilight.mp3",
+            "volume": "68",
+            "loop": "true",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "ea358b18-bcc3-4c84-8248-bfe85877ba32",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "高枕之後的歲月，起初真如馮諼所言，安穩無波。你為相數十年，薛地宗廟巍然，門客盈庭，狡兔三窟，窟窟穩固。你幾乎要信了：這一生的驚濤，到此便算平息。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "b6de5cdb-da32-4ec2-9038-4ba546b5931d",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "然而樹大招風，從來不是一句空話。齊湣王滅宋，國勢驟張，也愈發容不得一個「名高其上、擅齊之權」的臣子。宮闈之間，讒言又起：說你交通諸侯，說你薛地自重，說你羽翼已成，早晚為亂。而後，出了一樁大事——田甲劫王。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d9f71d17-aa02-41ee-ae38-93c0f2af8d90",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "有臣田甲，兵劫湣王於宮中。事雖旋平，餘波卻直撲向你：王身邊的人一口咬定，此事孟嘗君必為主謀。湣王本就疑你，這一下更是深信不疑。緝拿的詔令已在草擬，薛公府外，你彷彿已聽見了不遠處逼近的甲兵之聲。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "8e579199-eee9-422c-bdee-e438a3660eb2",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "數十年宦海，你太清楚「意疑」二字的分量——君王疑你，你便是渾身是口也難自辯。門下有人勸你即刻起兵自保，有人勸你連夜奔魏避禍，也有人只是垂手立著，看你如何決斷。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "f03aca43-6ee4-4499-ad13-f8e2e3a78db7",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "緝命將至。此刻的你——",
+            "choices": "[{\"text\":\"連夜出奔，避鋒芒於境外，靜待冤白\",\"mode\":\"jump\",\"fragmentId\":\"78ab08f7-e533-4d31-9cbf-938625ef4b9b\"},{\"text\":\"不奔不辯，坦然待罪，信清者自清\",\"mode\":\"jump\",\"fragmentId\":\"253c4bd7-5022-45cc-bd5c-95bfc2f9036a\"},{\"text\":\"欲聚門客死士，以武自明其冤\",\"mode\":\"jump\",\"fragmentId\":\"3706b77e-9cbc-4a94-ad3c-ce2fd804802e\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "78ab08f7-e533-4d31-9cbf-938625ef4b9b",
+      "name": "出奔-避禍",
+      "blocks": [
+        {
+          "id": "b00564bf-7a20-49f8-be28-a43c9ae6ff21",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你選擇了走。留得青山，方有辯冤之日；困守孤城，只會坐實「拒捕即反」的罪名。你輕車簡從，連夜出了臨淄，一路向西，奔魏而去。回望那座你為相數十年的都城，燈火依舊，卻已容不下你這個「先王之臣」。這一走，是屈辱，也是最後的清醒。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "a1d0b126-b611-48b1-b6b2-5796a5a9ea12",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "fbd418cb-e6ad-4abe-b5e6-70a7999ba424"
+          }
+        }
+      ]
+    },
+    {
+      "id": "253c4bd7-5022-45cc-bd5c-95bfc2f9036a",
+      "name": "出奔-坦待",
+      "blocks": [
+        {
+          "id": "d5848d18-abd5-498d-bf55-7357e421472e",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5e9c0bd-260c-426e-b6d9-8fc8100d43bb",
+            "characterName": "孟嘗君",
+            "expression": "便服",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「文若真有反謀，走亦難逃；文若無反謀，何必走？坐待王之驗問便是。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c775f018-27db-4ec6-a142-8a80dc863567",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你屏退了勸你奔逃的門客，安坐府中。你這一生養士無數、市義於薛，若連一個「清白」都保不住，那這半生便算白活了。你把身家性命，押在了一樣最虛、也最實的東西上——人心。你賭它，賭了一輩子，這是最後一注。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "193f0fdd-1569-4e9c-840a-086f52292e22",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "fbd418cb-e6ad-4abe-b5e6-70a7999ba424"
+          }
+        }
+      ]
+    },
+    {
+      "id": "3706b77e-9cbc-4a94-ad3c-ce2fd804802e",
+      "name": "出奔-欲爭",
+      "blocks": [
+        {
+          "id": "aa1ab524-a310-4da0-845d-72dbcd9d8c0c",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你一度動了聚眾自保的念頭：薛地帶甲之士、門下死力之客，未必不能與那道緝命周旋一二。可話到嘴邊，你到底沒有下這道令——一旦動武，「意疑」便成了「實反」，你數十年清名，連同薛地萬民，都要陪你一起葬送。你頹然坐下，把那口不甘之氣，硬生生壓了回去。爭，是爭不得的。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "b4085d74-dea5-4bfb-8a15-02f54f5147fb",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "fbd418cb-e6ad-4abe-b5e6-70a7999ba424"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fbd418cb-e6ad-4abe-b5e6-70a7999ba424",
+      "name": "明冤",
+      "blocks": [
+        {
+          "id": "d3961330-76a2-47e8-afc0-e48a725df0a6",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "ade0fc3e-59e2-4588-a39e-a5b2382c755e",
+            "sceneName": "臨淄王宮",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "700",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "73653426-bf84-4e8e-b443-7cf047039563",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "就在你冤沉海底、百口莫辯之際，臨淄王宮的大門前，發生了一件誰也沒有料到的事。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "eeae3fdb-803d-44b5-9a74-d8f3ebf8a1e3",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你記不記得，早年你曾遣一名叫魏子的門客，去薛地收邑租。那魏子三次收租，卻把租穀盡數送給了一個素不相識的賢者，空手而歸。你當時大怒，斥其自作主張，逐了他——一如當年焚券之時，你也曾對馮諼動過同樣的雷霆之怒。你這一生，最看不慣的，就是門客拿你的東西，去做你沒點頭的人情。你總覺得那是敗家，是背主。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "9ff7bc37-752a-4df3-8cae-4231b087b053",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "可你不知道的是，你散出去的每一分「無用」的恩義，都在某個看不見的角落，悄悄記著帳。焚券記了一筆，市義記了一筆，如今，連那個你早已忘了名字的魏子送出去的幾車粟米，也到了要連本帶利、償還給你的時候。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "a6244d1e-8468-4216-a801-2470c160b99a",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "而今，那個受了粟米的賢者，聽聞孟嘗君蒙冤，竟千里迢迢趕到臨淄，上書為你申辯，說孟嘗君絕無反心。書罷，他就在王宮門前，拔劍自剄——以一條命，為你這個素未謀面的人，證一個「清白」。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "9040829f-d71c-4d5f-8702-46cfa112b7fd",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "08497ae5-7888-4803-816d-1e70056f8a26",
+            "characterName": "自剄賢者",
+            "expression": "怒",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「孟嘗君無反謀。[wait=500]某願以死明之——血濺宮門，願王察焉！」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "0c6e3d61-ebee-4b8c-b89f-37ceeec82d22",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "湣王大驚。一個外人肯為孟嘗君死，這分量，勝過千言萬語。王命人蹤跡驗問，果然查無反謀。你的冤，就這樣被一個你從未見過的人，用一條命洗清了。你養士一生，散財市義，到頭來救你性命的，不是你精心結交的權貴，而是一粒你當年怒斥門客「不該送出去」的粟米。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "9d408d05-b3b1-4e97-97ad-8758208c9311",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "消息傳到你耳中時，你久久說不出話。你這才徹底懂了馮諼當年那句「臣所以為君市義也」——義這樣東西，你賣出去的時候看不見，甚至還要動氣、還要罵；可到了性命攸關的那一刻，它會化作一個素不相識的人、一柄劍、一腔血，替你擋在最前面。你半生自負知人，臨到此刻才明白：你真正該學會的，從來不是看人，而是容人。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "b44c4339-116d-4b54-898a-e9977e4d142c",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "3646ce3a-4839-4e85-97c2-dd94c3f00b14"
+          }
+        }
+      ]
+    },
+    {
+      "id": "3646ce3a-4839-4e85-97c2-dd94c3f00b14",
+      "name": "歸薛",
+      "blocks": [
+        {
+          "id": "677f218d-96ac-4e69-8109-b78b2bca7300",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "aa0a2e7c-f196-4c9e-bbc3-1fc700e10a02",
+            "sceneName": "薛公府邸",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "800",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "328d5e1d-444f-4318-a8f8-fba2e3abdf9c",
+          "type": "comment",
+          "props": {
+            "disabled": false
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "續「蒼茫」貫穿，歸老段自然轉靜（沿用同軌，無獨立音軌）",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "2f0de8b9-11fb-425e-a327-bdf2509ae611",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "湣王復召你回朝。可你倦了。這一場無妄之災，把你數十年宦海生涯裡最後一點眷戀，也磨盡了。你稱病辭謝，歸老於薛——那個「先人丘墓所在」、你的根本之地。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ec0a2995-92db-41b9-b6f1-73a037d6e286",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "自此你中立於諸侯，不再事齊，亦不附秦楚。薛公府的門依舊為天下士人而開，只是你老了，多半時候只是坐在庭中，看日影一寸一寸地移過階前。你時常想起馮諼——三窟鑿成之後，那個人便像一縷煙，悄無聲息地從你的生命裡淡出了。沒有辭行，沒有音訊，彷彿他為你做的一切，做完了，就該走了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "eb899279-4a6d-483e-8d96-3bb7e404df5c",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你派人四處尋訪，杳無蹤跡。有人說在魏地見過一個佩舊劍的老者，有人說在薛地城郊的義倉旁見過他的背影，可你派去的人到了，那裡永遠只剩風。他就這樣消失在了你的暮年裡，只留下滿薛地的民望、三窟的餘蔭，和你私匣裡那半片焚餘的舊券——那個至今你仍未看懂的謎。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "8ea8b031-bcd7-4978-a213-d3b4f2ff90cf",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "又是一年秋深。這一日，你病篤於榻——",
+            "choices": "[{\"text\":\"（闔上眼，這一生如走馬燈掠過……）\",\"mode\":\"jump\",\"fragmentId\":\"15cc0d83-4506-4f57-ac89-a7d098d91bfe\",\"visibleIf\":\"{\\\"conditions\\\":[{\\\"left\\\":\\\"器量\\\",\\\"op\\\":\\\">=\\\",\\\"rightKind\\\":\\\"literal\\\",\\\"rightLiteral\\\":\\\"3\\\"}],\\\"logicOp\\\":\\\"and\\\"}\"},{\"text\":\"（闔上眼，一切終於要歸於平靜……）\",\"mode\":\"jump\",\"fragmentId\":\"32eeafac-670c-4c8a-9093-be70238dadd6\",\"visibleIf\":\"{\\\"conditions\\\":[{\\\"left\\\":\\\"器量\\\",\\\"op\\\":\\\">=\\\",\\\"rightKind\\\":\\\"literal\\\",\\\"rightLiteral\\\":\\\"-1\\\"},{\\\"left\\\":\\\"器量\\\",\\\"op\\\":\\\"<=\\\",\\\"rightKind\\\":\\\"literal\\\",\\\"rightLiteral\\\":\\\"2\\\"}],\\\"logicOp\\\":\\\"and\\\"}\"},{\"text\":\"（闔上眼，四下空空，無人在側……）\",\"mode\":\"jump\",\"fragmentId\":\"6bd67825-78fa-43a5-8784-220cd40139bd\",\"visibleIf\":\"{\\\"conditions\\\":[{\\\"left\\\":\\\"器量\\\",\\\"op\\\":\\\"<=\\\",\\\"rightKind\\\":\\\"literal\\\",\\\"rightLiteral\\\":\\\"-2\\\"}],\\\"logicOp\\\":\\\"and\\\"}\"}]"
+          }
+        },
+        {
+          "id": "d8b5da9b-d482-4c14-8eed-778194770297",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "32eeafac-670c-4c8a-9093-be70238dadd6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "15cc0d83-4506-4f57-ac89-a7d098d91bfe",
+      "name": "臨終-高",
+      "blocks": [
+        {
+          "id": "b43438c1-8e16-4397-b3cc-bbf63b61594a",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "aa0a2e7c-f196-4c9e-bbc3-1fc700e10a02",
+            "sceneName": "薛公府邸",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "1000",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "e1b96687-fba5-4cc7-be89-2e730583981b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "【知人者的黃昏】[wait=400]你這一生，是從「不該活」裡撿回來的。五月五日生，父命棄之，你卻活到了白頭，活成了名動天下的薛公。榻前，兒孫環立，薛地聞你病篤，扶老攜幼自發趕來府外守候的百姓，從街口一直排到了城門——恰如當年就國那日，百里相迎的盛景，如今再現於你的暮年。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "763df306-1c3b-47f9-b161-8fd0b4e0b71b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你這一生養士三千，見過太多趨炎附勢的來去；可你也親眼見過一個素不相識的人為你自剄宮門，見過萬民為你遮道焚香。值了。你以肉眼識人，錯過了太多，卻也終究沒有錯過那最要緊的幾個。人這一世，能被人以命相待、以心相報，便是沒有白活。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "cd0bd0d9-c82e-46d8-a3a7-3f0564580102",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "恍惚間，你彷彿又回到了五歲那年，第一次被抱上薛地的城樓。那時你還是個「五月子」，是個本該被扔掉、卻被母親偷偷養大的孩子。你這一生所做的一切——養那三千個「無用」的門客，留那些世道說「不該留」的人——原來都是在替當年那個差點被丟掉的自己，一遍一遍地贖回一句話：你，值得活著。而此刻堂外的萬民哭聲告訴你：這句話，你替自己，也替他們，掙到了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "f5519e1b-b557-4744-bdc9-a120b27f41dd",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "彌留之際，你摸索著枕邊——",
+            "choices": "[{\"text\":\"（那半片焚餘的舊券，還在）\",\"mode\":\"jump\",\"fragmentId\":\"a48e65f9-22b2-49e3-8bfd-d276f817cacf\",\"visibleIf\":\"{\\\"conditions\\\":[{\\\"left\\\":\\\"收起半券\\\",\\\"op\\\":\\\">=\\\",\\\"rightKind\\\":\\\"literal\\\",\\\"rightLiteral\\\":\\\"1\\\"}],\\\"logicOp\\\":\\\"and\\\"}\"}]"
+          }
+        },
+        {
+          "id": "76300649-788e-4ac8-ade6-5ee9fc9708d9",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "ced48828-7a2c-4dfd-a255-3c927424d727"
+          }
+        }
+      ]
+    },
+    {
+      "id": "a48e65f9-22b2-49e3-8bfd-d276f817cacf",
+      "name": "握券",
+      "blocks": [
+        {
+          "id": "8d058b18-febd-44d4-86e7-b7b6735df625",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你的手，摸到了枕下那片一直帶在身邊的舊券。焦邊已經脆了，那一列人名卻還在。數十年了，你始終沒看懂馮諼為何獨獨留下這個，也始終沒捨得丟。此刻它在你掌心，輕得像一片枯葉，卻壓著你一生最大的一個謎。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "53bcf8d8-a8aa-4c81-a11a-ebece5172c6a",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5e9c0bd-260c-426e-b6d9-8fc8100d43bb",
+            "characterName": "孟嘗君",
+            "expression": "悲慟",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「先生……[wait=600]你究竟，是誰啊……」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e975ab18-2ea1-483e-95e7-402cd76f2e5e",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "這一問，你問了半生，到死也沒有等到答案。那個燒了你百萬債券、又替你鑿了三窟、然後悄然消失的人，那個腰佩薛地工坊紋長劍的人——他從你的生命裡走過，留下滿薛的恩義，卻始終不肯讓你看清他的臉。你握著那半片券，帶著這溫厚而綿長的遺憾，闔上了眼。堂外，是萬民的哭聲。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d856c434-34ec-42eb-b5ef-e9ed91f7b885",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "ced48828-7a2c-4dfd-a255-3c927424d727"
+          }
+        }
+      ]
+    },
+    {
+      "id": "32eeafac-670c-4c8a-9093-be70238dadd6",
+      "name": "臨終-中",
+      "blocks": [
+        {
+          "id": "d12b1b91-0242-4bd7-b59c-4f7a28824b96",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "aa0a2e7c-f196-4c9e-bbc3-1fc700e10a02",
+            "sceneName": "薛公府邸",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "1000",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "3d474edf-9afa-4b5e-a01f-d04a6d407677",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "【史書的原文】[wait=400]你的一生，最終如史官筆下所載，不多，也不少。你做過齊相，入過秦獄，賴雞鳴狗盜脫身；你焚券市義，罷而復相，鑿成三窟，為相數十年而無纖介之禍。你把能走的路都走了，能得的都得了，如今，也到了該放下的時候。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "fb6f8f7b-6366-435c-826a-1a5ea8751a93",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "榻前有子孫，有幾名相隨到老的舊客。窗外薛地的秋色，一如你少年時所見。你想起馮諼，想起焚券那日的怒火，想起「先生所為文市義者，乃今日見之」——那個人到底去了哪裡，你至死沒有問到答案。也罷。人生一世，本就有許多事，是不必問、也問不出答案的。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "0a9b488f-0b97-427e-9d23-c3f2a79c7ae4",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你不是那個把一切都看透了的智者，也不是那個把一切都看淡了的聖人。你只是一個盡了力、也享過福、受過難的凡人，走到了該走的盡頭。有遺憾，但不多；有欣慰，也不滿溢。這樣一種不冷不熱、恰如其分的收場，或許才最貼近一個真實的人，在真實的歲月裡，該有的模樣。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "eecc95bf-9fd9-4a72-9ddf-2662436f6aa2",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你走得很平靜，既無大喜，亦無大悲，一如這蒼茫人間最尋常的一次日落。門客為你治喪，薛民為你送葬，一切都按著一個功成名就的封君該有的體面，井井有條地進行著。史書會記下你的名字，和你身後即將發生的一切。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e5c5332b-ac4d-499e-ba3c-c74021ff8284",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "ced48828-7a2c-4dfd-a255-3c927424d727"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6bd67825-78fa-43a5-8784-220cd40139bd",
+      "name": "臨終-低",
+      "blocks": [
+        {
+          "id": "ec8a133a-a423-4553-9394-f088b08f1d08",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "aa0a2e7c-f196-4c9e-bbc3-1fc700e10a02",
+            "sceneName": "薛公府邸",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "1000",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "407e3438-2fee-46d7-9b9c-c02d087c2033",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "【孤家寡人】[wait=400]偌大的薛公府，此刻靜得可怕。你這一生養士三千，臨到這一日，榻前卻只剩下寥寥數人——當年你待客苛刻、記恨反覆，寒了太多人的心；那些趨利而來的，也早已趨利而去了。門，你為天下開過，可你親手，也堵過。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "5e786790-cedc-4eff-b8df-08ffe90f5ff4",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "薛地城外，並沒有多少百姓來為你守候。你想起收債時的那些嚴令，想起罷相時你記下的那一張張背影，想起你曾當眾折辱過的人——民心也好，士心也罷，你這一生，終究沒能容得下它們。私匣裡那半片焚餘的舊券，你早已不知在哪一年，煩躁地棄掉了。臨到頭來，你連一個可供追問的謎，都沒有替自己留下。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "fe61144d-6469-4d28-8510-a6beae96ac23",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你在一片近乎空曠的寂靜裡，闔上了眼。沒有萬民的哭聲，沒有兒孫的環繞，只有秋風掠過空堂的聲音。孤家，寡人——你用一生的權勢富貴，換來了這四個字的收梢。史書照樣會記下你的名字，只是那名字底下，涼得沒有一絲人氣。臨到最後你才恍惚想起馮諼說過的那句「不拊愛子其民，則民去；民去，則薛非君之薛也」——他早就把話說在了前頭，只是那時的你，一個字也沒有聽進去。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "a420a927-be79-4ace-9fb1-7e4bfd99af3a",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "ced48828-7a2c-4dfd-a255-3c927424d727"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ced48828-7a2c-4dfd-a255-3c927424d727",
+      "name": "史筆",
+      "blocks": [
+        {
+          "id": "7a9c4407-2be3-424d-8bc0-45b66bb36ad1",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "82f819cc-6d31-4b62-bee6-f57fed1ad930",
+            "sceneName": "薛地廢墟",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "1200",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "17570f1c-95aa-42ca-9cce-26b4625c865a",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "bgm",
+            "uri": "bgm/bgm_13_requiem.mp3",
+            "volume": "70",
+            "loop": "true",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "b038f158-2b0c-4d61-8871-b195c4ed950f",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你闔眼之後的事，你再也看不見了。可史書看得見。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "5e46a3c4-0009-41c8-bfe8-6a393e637cd6",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你屍骨未寒，諸子便為了那個薛公之位，爭立不休，鬩牆不止。狡兔三窟，鑿得再深，也擋不住牆內的自相殘殺。齊與魏窺見薛地內亂，趁隙發兵，共伐薛城。當年馮諼替你鑿下的三個窟——薛地民心、梁齊相爭、宗廟根本——竟無一能擋住這最後的傾覆。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "2c719209-cfe9-4ebc-a1a9-5af4fb5c4225",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "這是何等的諷刺。馮諼算無遺策，替你算贏了齊王，算贏了強秦，算贏了整個天下的權謀傾軋；卻算不過你自家兒孫的一點私心。三窟是為「一個孟嘗君」鑿的藏身之所；可孟嘗君不在了，那三個窟裡，就再也沒有一個值得庇護、也肯彼此庇護的人。牆倒了，不是被外人推倒的，是從裡面自己塌的。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "a39b61a8-6a11-485a-a0e5-f7d69f718a47",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "薛城破了。宗廟焚毀，城郭夷平。《史記》為你這一生，寫下最後八個字作結——[wait=800]「孟嘗絕嗣，無後也。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "682621e8-a593-4746-9175-de125cf8cbd7",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "絕嗣。無後。曾經賓客三千、名動諸侯的薛公一族，血脈斷絕，不留一人。你畢生經營的薛地，化作一片焦土瓦礫。這，就是歷史為《馮諼客孟嘗君》這個故事，畫下的句號——滿目蒼涼，一無所剩。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "310dc691-4830-4859-9ae3-4508f4b8bd5f",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "孟嘗君篇通關",
+            "op": "=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "4e554015-c009-4233-829a-bfc81ba8eb97",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "1ebb5cfa-a143-46c8-a288-e9782239dd77"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1ebb5cfa-a143-46c8-a288-e9782239dd77",
+      "name": "未完之人",
+      "blocks": [
+        {
+          "id": "2b20c5a6-20e1-44a9-b052-a30625db51f2",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "故事到這裡，本該結束了。史書合上，塵埃落定，薛土蒼茫。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "9cca5556-5e6e-4ed3-b51a-ee8a8084aed3",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "可是——有一個人，史書沒有寫完他的故事。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "17c40061-ea4d-4f14-921f-a44704783953",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "那個自稱「無好無能」的怪客，那個彈鋏而歌、矯命焚券的門客，那個鑿成三窟後便悄然消失的謀士。他從哪裡來？那柄薛地工坊紋的長劍，是誰的劍？他為什麼要把百萬債券付之一炬，卻獨獨留下一片寫著人名的半券？函谷道上雪夜指路的乞丐、梁使腰間那枚眼熟的舊玉，又和他有什麼干係？他一次次替你化險為夷，不求聞達，不圖封賞，事了便走——圖的，究竟是什麼？",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "3141bdd3-2acb-4e7a-a1b4-b1db97064af0",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你至死都不知道答案。[wait=600]但答案一直都在——藏在你看不見的那一面，藏在同一段歲月的背面，藏在一個薛地少年、一柄斷劍、和一場延燒了半生的大火裡。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "2b88565f-b1d4-47a2-9a95-4ae0031de5f3",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "現在，讓我們回到最初。[wait=500]回到那把火還沒有點燃、那柄劍還握在另一個人手裡的時候——回到，馮諼的故事。",
+              "styles": {}
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

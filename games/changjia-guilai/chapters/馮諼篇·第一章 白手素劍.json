@@ -1,0 +1,892 @@
+{
+  "id": "b0b2effa-bace-4c4f-af13-a5086fb92826",
+  "name": "馮諼篇·第一章 白手素劍",
+  "fragments": [
+    {
+      "id": "96e22401-3e78-465a-8f51-d329d21c264b",
+      "name": "main",
+      "blocks": [
+        {
+          "id": "6b367012-0f1c-4582-a6d2-da5c5e026de1",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "7cf5fc1c-b469-4ac6-9120-0e8b068b0758",
+            "sceneName": "荒野驛道",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "600",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "662c5ab2-5f39-4f6c-8ff7-f351870667ac",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "bgm",
+            "uri": "bgm/bgm_16_observing.mp3",
+            "volume": "70",
+            "loop": "true",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "e1e8e42a-1c4b-437a-8eb8-b1ea79c3bbd1",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "選定了了局，還得選人。你要的那個「器」，不是隨便一個權貴——他得封在薛，養得起士，還得容得下一個看起來毫無用處的人。這三樣，缺一不可。封不在薛，救不了你要救的那座城；養不起士，容不下你這枚看似無用的棋；而最難的是第三樣——肯把身家性命，交到一個貌似貪鄙無能之人手上。這樣的人，天下不多。或許，只有一個。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "78983276-a812-48af-aff7-0a40d9754ef2",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你花了幾年，把當世養士的公子挨個看過，像個挑劍的匠人，一柄一柄地掂。趙之平原君，門客三千，卻重衣冠而輕布衣，毛遂在他門下三年才被想起——這樣的人，看不見你這柄鏽劍的鋒。魏之信陵君，是真國士，仁而下士，你幾乎動了心；可惜他封不在薛，他的仁，蔭不到你要救的那片土。楚之春申君，勢大財雄，然而驕，門下養的多是清客與辯士，養的是聲名，不是死力。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "3dce9c9b-316c-4210-a285-5a556ca34fd3",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "至於旁的公卿，更不必說——多的是把門客當談資、當擺設養著的，酒足飯飽時聽你說幾句妙語，真到了要用命的關口，第一個把你推出去頂缸。把半生的局託給那樣的人，等於白送。你一個一個地，把他們從心裡劃掉。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "7528a1cb-ca76-4d34-96b4-f50335140f51",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "最後，你的目光落回齊國，落在一個人身上——那個五月五日生、按俗諱本該被父親扔掉、母親偷偷養大、後來卻養了三千客的人。田文，孟嘗君。他的封邑，恰恰就在薛。[wait=600]你盯著這個名字看了很久。一個從小就被當作「不祥」、當作「該丟掉的東西」活下來的人——他或許，比誰都懂得「無用之人」四個字的分量。這一點，恰恰是你要賭的。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "4619e38e-64fb-425d-be35-b066812c3ad5",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "但你不急著投。你要先驗一件事——",
+            "choices": "[{\"text\":\"驗他的「賢」：他養的究竟是士，還是虛名\",\"mode\":\"jump\",\"fragmentId\":\"9b8fa42a-5a0a-4efc-8d93-3f4ca4348e94\"},{\"text\":\"驗他的「勢」：他擔不擔得起一場矯命焚券的風浪\",\"mode\":\"jump\",\"fragmentId\":\"0bebb172-bc9a-4c47-bb14-8328ee2121af\"},{\"text\":\"驗他的「量」：他容不容得下一個看不出用處的人\",\"mode\":\"jump\",\"fragmentId\":\"ad6b3caf-5dd2-4e4f-a3df-76120db0eb84\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "9b8fa42a-5a0a-4efc-8d93-3f4ca4348e94",
+      "name": "驗-賢",
+      "blocks": [
+        {
+          "id": "83ae2be4-42c4-4b09-92a9-0a7f9841e8fe",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你先驗他的賢。你扮作個游食的窮士，混在他門下食客的閒談裡，聽人怎麼說他。有人說他濫，什麼阿貓阿狗都收；有人說他傻，養一群吃白飯的閒漢。你卻在這些譏笑裡，聽出了別的東西——孟嘗君待客不問出身、不問長短，來者不拒，連雞鳴狗盜之輩也養。[wait=500]世人笑他濫，你卻在心裡鄭重記了一筆：一個肯養「無用之人」的人，才可能有一天，肯放手讓一個「無用之人」，替他做一件天大的事。你要的，恰恰就是這份「濫」。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "467d18f4-e37a-4183-8fb8-630fc0a46619",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "06eb3a29-2f34-4b73-a073-ea79a4951f57"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0bebb172-bc9a-4c47-bb14-8328ee2121af",
+      "name": "驗-勢",
+      "blocks": [
+        {
+          "id": "ec8a0407-efa4-42cc-bf52-5f9176857253",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你先驗他的勢。焚券買義，在旁人看是奇謀，在你卻是一場豪賭——你要親手替他矯命燒券，齊王一黨正睜著眼，等著抓他「私市恩、蓄民望、圖不軌」的把柄。這火一旦燒起來，濺的血未必只有債主的。[wait=500]所以你得先確認：這個人一旦罷相、失勢、被逼到牆角，撐不撐得住？會不會為了自保，反手把你這個「矯命的食客」推出去祭旗？你要的器，不光要盛得住水，還得經得起摔——摔在地上，裂而不碎。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "5f41ce2f-e348-44d1-a89c-3f3addfe00bc",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "06eb3a29-2f34-4b73-a073-ea79a4951f57"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ad6b3caf-5dd2-4e4f-a3df-76120db0eb84",
+      "name": "驗-量",
+      "blocks": [
+        {
+          "id": "27987d6d-f961-4b23-baf8-0034a9a24d37",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你先驗他的量。你這半生的局，全繫在一件事上——他肯不肯把矯命焚券的權，交到一個貪鄙無能的食客手裡。這需要的不是聰明，聰明的權貴多得是，可聰明人最會算計、最不肯把柄授人。你要的是器量：能容一個張口就要魚、要車、還要替他養家的人，容到某一天，願意閉著眼賭他一次。[wait=500]賢，可以裝；勢，可以借；唯有這份量，裝不出、借不來。這一點，比賢與勢都難驗，也都要緊。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "441bebc9-d85b-48e8-8dd6-eb4f258a6766",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "06eb3a29-2f34-4b73-a073-ea79a4951f57"
+          }
+        }
+      ]
+    },
+    {
+      "id": "06eb3a29-2f34-4b73-a073-ea79a4951f57",
+      "name": "夜宴之驗",
+      "blocks": [
+        {
+          "id": "3b2a9421-f935-4b9d-9606-f3bb6f162788",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "aa0a2e7c-f196-4c9e-bbc3-1fc700e10a02",
+            "sceneName": "薛公府邸",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "600",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "4a58b6e0-af9f-4fa8-bac1-284954f2daef",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "【同刻·薛公府邸】今夜薛公夜宴。有個門客疑心自己的飯食比主人的差，拂案就要走。孟嘗君起身，端起自己那一份，走過去給他看——同樣的飯，同樣的菜，一分不多，一分不少。那門客羞愧難當，當場自剄謝罪。",
+              "styles": {
+                "fontStyle": "italic",
+                "textColor": "#8899aa"
+              }
+            }
+          ]
+        },
+        {
+          "id": "b64ade0e-0c15-4639-aa69-cf81647d46bb",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你就在牆外的暗處，把這一幕看得清清楚楚。那門客倒下的時候，滿堂靜了一瞬，隨即又是勸酒聲、嘆息聲——賓客們只當是主人厚道，客人性烈。[wait=500]只有你，在那一瞬看穿了要緊處：這個人待客，是拿自己去待的。他大可端一碗好飯堵那門客的嘴，或索性叱他無禮、逐出門去；他偏偏起身，把自己那一份端到對方眼前，一分不多一分不少。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "f4c1cbcf-6d5b-4dba-a66e-cd3cfac5752e",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "一份飯的高下，他都肯起身自證，肯讓一個疑他的人，親眼把他看個清白。那麼有朝一日，一座薛地的死活、一堆吃人的債券——他也擔得起，也肯替薛地萬民，起身自證一回。你要的那個「量」，今夜驗訖了。剩下的，是你怎麼把火把，一寸一寸遞到他手上。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "20d380f6-65e9-46f4-98cc-1ad14588adc1",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
+            "characterName": "馮諼",
+            "expression": "平靜",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「就是他了。[wait=600]孟嘗君……你還不認得我，日後也不會認得。但這盤棋，從今夜起，我替你先擺著。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "0d0d06b8-33c0-421b-ac30-c64823efd311",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "3b52637b-4da5-49f4-9a2a-7248357747df"
+          }
+        }
+      ]
+    },
+    {
+      "id": "3b52637b-4da5-49f4-9a2a-7248357747df",
+      "name": "布局-引",
+      "blocks": [
+        {
+          "id": "8041fbbc-4775-447b-8d81-ea7366169d7b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "可你不能空著手走進去。一個貪鄙無能的食客，說話沒有分量；等你在他門下站穩、等到能開口的那一天，怕是黃花菜都涼了。所以，在叩門之前，你要先在他四周，悄悄埋下三顆棋子——三條他將來用得上、卻永遠不會知道是你埋的人脈。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "04682bdf-1428-484d-948d-ace375607ea7",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "第一顆，得是一個看似最沒用、卻能在絕境裡救他一命的人。謀士算的從來不是眼前，是那個誰也想不到的窮途之夜——到那時，救命的往往不是滿腹經綸的國士，是一個誰都瞧不上的、有一技之長的下九流。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "bc564c16-b899-48bb-8783-9d04117fa08b",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "75a6ebd6-e12c-437c-a449-b25da9d3d6b4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "75a6ebd6-e12c-437c-a449-b25da9d3d6b4",
+      "name": "布局-狗盜",
+      "blocks": [
+        {
+          "id": "63325a35-35ae-45a9-b51a-1d1b7c08fdd6",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "df208539-8641-466a-bc54-5f40c6cef8b8",
+            "sceneName": "薛地城郊",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "600",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "73594a19-9717-4f29-9f3d-c028b6486eb3",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你在市井的賭坊、酒肆之間尋了許久，終於尋到一個穿窬之徒——善為狗盜，能鑽狗洞、越高牆，取物於無形，卻因欠了一身賭債，正被人追得走投無路。世人不齒他，罵他樑上君子；你卻一眼看中他這身「無用」之技。[wait=500]你想起孟嘗君日後西入強秦的凶險——虎狼之國，最要緊的關口，靠的往往不是辯士的舌頭，是一雙能在深宮裡神不知鬼不覺取物的手。你要做的，是把這個人，不著痕跡地，送進孟嘗君的門下。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "f634971a-8599-4f24-a3ea-c75e2bfa2f17",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "5d9b6311-5353-473f-a239-22c8c4861605",
+            "characterName": "狗盜之徒",
+            "expression": "狡黠",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「像我這種見不得光的，也有人肯收？[wait=500]先生莫誆我。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "505f2080-3af7-4b7d-a5c1-30f263d3382d",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "怎麼送？",
+            "choices": "[{\"text\":\"替他贖身、指一條明路，讓他自己去投門\",\"mode\":\"jump\",\"fragmentId\":\"4f9a7478-c4e7-4371-9c51-f633096f9c51\"},{\"text\":\"只在他走投無路時遞一句話：薛公門下，不問出身\",\"mode\":\"jump\",\"fragmentId\":\"87edd80a-f968-44e4-8998-7f16df9c2106\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "4f9a7478-c4e7-4371-9c51-f633096f9c51",
+      "name": "狗-引路",
+      "blocks": [
+        {
+          "id": "505462b7-c254-48c0-97b6-4058ef599123",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你替他還清了賭債，鬆開套在他脖子上的繩索，只淡淡指了一條路：天下唯有一處，收你這樣的人不問來歷——薛公之門。你連一句引薦、一張名帖都不必留。[wait=500]你要的，本就是讓他「自己」走進去，讓將來所有人——包括孟嘗君本人——都以為，這不過是三千客裡偶然投來的一個下客。棋子最好的模樣，是連它自己都不知道，是誰、在哪一步，把它落在了棋盤上。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "bd308092-d2e5-4b54-8538-1cc408b6e328",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "ea799405-e081-40e6-b8ce-7533e7743107"
+          }
+        }
+      ]
+    },
+    {
+      "id": "87edd80a-f968-44e4-8998-7f16df9c2106",
+      "name": "狗-遞話",
+      "blocks": [
+        {
+          "id": "0b2f1b9d-4033-408d-8657-2d8f4b4c44f3",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你不出面，不施恩，甚至不讓他看清你的臉。你只在他最走投無路的那一夜，讓一個「路過的閒人」，替你遞給他一句話：薛公門下，雞鳴狗盜亦有一席，去吧。[wait=500]恩不能施得太重——太重，他日後會惦記著要還你，會替你留心、替你走漏風聲。你要的，是一顆乾乾淨淨、連自己都不知道被誰下的棋子；他愈是以為這是自己的造化，這步棋就藏得愈深。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "60f23619-66b0-4678-b792-dc71b6411ef3",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "ea799405-e081-40e6-b8ce-7533e7743107"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ea799405-e081-40e6-b8ce-7533e7743107",
+      "name": "布局-里正",
+      "blocks": [
+        {
+          "id": "8c9f3532-998c-4def-8354-1963066f4975",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "【日後·函谷關】這個狗盜，將在秦國的深夜，替被囚的孟嘗君盜出一領狐白裘，換他一條命。孟嘗君會謝天謝地，只當是養士三千的僥倖——他不會知道，這條命，你在許多年前就替他備下了。",
+              "styles": {
+                "fontStyle": "italic",
+                "textColor": "#8899aa"
+              }
+            }
+          ]
+        },
+        {
+          "id": "077e679b-4a4e-4919-b622-b87c1ffb60ff",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "第二顆棋，埋回薛地——你的故鄉。焚券只是一把火，一把火點完就滅；要讓「市義」的暖真的傳下去、要讓二十年後兵臨城下那一夜還有人肯為孟嘗君開門，你得先在薛地的泥土裡，埋一個扎得深、說得上話、信得過的人。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "73c16b53-d340-4fbe-8b30-3d96b44a9af7",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你尋到的，是一個曾經幾乎背井離鄉的流民。那年薛地饑荒，債主逼得緊，他一家老小險些淪落他鄉——是你在半道上扶了他一把，替他們指了條活路，讓他們得以留在薛地。如今他已是一里之正，鄉黨信服。他不知你的來歷，只知你是當年的恩人。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "9b807be3-9890-4caf-820a-2d5efd7a50c3",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "dd946e48-6cff-4811-8a29-eb15ee7062f2",
+            "characterName": "薛地里正",
+            "expression": "懇切",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「先生放心。薛地的苦，我們這些泥腿子自己最清楚。哪一天，真有人肯替我們燒了那些吃人的券——別說一里，我這把老骨頭，拚了命也替他把話傳遍整個薛地，一村接一村。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "f1def5dc-56f5-44be-a247-77132110942f",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你點點頭，沒有多說。日後孟嘗君「出息錢於薛」、放債又寬免、收留流民，乃至罷相就國時那百里相迎、扶老攜幼的盛況——底下，都有這一條你親手牽起的線在暗暗使力。[wait=500]孟嘗君只會看見「民心歸附」四個字，感慨市義之報不虛。他永遠看不見：這片民心的土，是誰在多年以前，一鋤一鋤，先替他鬆好的。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c2981c7b-d162-4de8-9eee-849ff428a685",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "【日後·薛地城郊】孟嘗君罷相就國，車駕未至薛百里，民扶老攜幼、夾道相迎。他將回頭對你感慨：「先生所為文市義者，乃今日見之。」——他不會知道，這夾道之中，有多少張臉，是這位里正一村一村，替他請來的。",
+              "styles": {
+                "fontStyle": "italic",
+                "textColor": "#8899aa"
+              }
+            }
+          ]
+        },
+        {
+          "id": "99f65412-ef2b-4827-b997-2b10db1b55d7",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "dba4d103-e453-43f2-aeb6-1b16c8b125b5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dba4d103-e453-43f2-aeb6-1b16c8b125b5",
+      "name": "布局-分玉",
+      "blocks": [
+        {
+          "id": "24961566-1421-4a5c-8e76-c5698eba7d48",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "7cf5fc1c-b469-4ac6-9120-0e8b068b0758",
+            "sceneName": "荒野驛道",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "600",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "c4ba1213-1a31-4401-b1bc-6df40d6f0ede",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "第三顆棋，是你流亡途中撿來的一段緣。那年你在驛道上，遇見一個奄奄一息的落難人——他本是魏國的臣子，遭同僚構陷，一路逃亡，重病加身，倒在道旁幾乎沒了氣息。旁人都當他是路倒的乞兒，繞道而走；你卻在他襤褸的衣冠底下，認出一段沒落的貴氣。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "9717c4c1-9056-452e-aeb2-05f7a3f37276",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你停下來，替他求醫、餵藥，守了他幾日幾夜。他緩過來後，垂淚問你何以待一個素不相識的亡命之徒如此。你解下腰間一塊玉，當著他的面剖成兩半，一半塞進他掌心，一半自己收好。落難是什麼滋味，你比誰都懂——二十年前，你也曾是那個被人繞道而走的孩子。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "33f5d5c4-919f-4271-bb9b-101d29880bc6",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "分玉時，你對他說的是——",
+            "choices": "[{\"text\":\"「不圖回報。只盼你記得，落難是什麼滋味。」\",\"mode\":\"jump\",\"fragmentId\":\"fecdf58a-a5ed-418c-8e7a-34a56917f311\"},{\"text\":\"「他日我若有一事相求，你憑此玉，須應我一次。」\",\"mode\":\"jump\",\"fragmentId\":\"764e8250-9b1c-4d32-afc5-2b07f43c00ef\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fecdf58a-a5ed-418c-8e7a-34a56917f311",
+      "name": "玉-不圖",
+      "blocks": [
+        {
+          "id": "2c20c353-6400-4821-adc0-2bc17d6bf8ec",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你沒提半個回報的字。你只讓他記住此刻落難的滋味——記住有人在他一無所有時，肯分他半塊玉。這樣的人，將來若真有出頭之日，才會發自心底地念你這一份雪中之炭。[wait=500]人情這東西，逼出來的最薄，自願還的最厚。你不要一紙欠條，你要在他心裡種一顆會自己生根的種子。你要的，是後者——因為後者，才經得起「他日」二字的分量。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "4844f8f8-8f3d-481c-a137-2e68fcdc84a3",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "47a42945-93a9-4095-8a7c-e074a95cc4d5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "764e8250-9b1c-4d32-afc5-2b07f43c00ef",
+      "name": "玉-一諾",
+      "blocks": [
+        {
+          "id": "506174fc-0c3d-4714-ab33-5dd857fd5f86",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你把話說死：他日你若有一事相求，他須憑此玉，應你一次，不問緣由。恩義易忘，契約難賴——你見多了得勢便忘恩的人，不願把半生的局，押在一個「但願他還記得」的僥倖上。[wait=500]你不賭人心，你賭的是這半塊冰冷的玉。它不會變心，不會轉圜，它只壓著一句沉甸甸的「他日」。這樣，就夠了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "7b0facf2-7dd5-4e07-9cf7-63d48fea3fbc",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "47a42945-93a9-4095-8a7c-e074a95cc4d5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "47a42945-93a9-4095-8a7c-e074a95cc4d5",
+      "name": "白手素劍",
+      "blocks": [
+        {
+          "id": "51323b5e-96a8-473a-abef-fd7687c30fea",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "7cf5fc1c-b469-4ac6-9120-0e8b068b0758",
+            "sceneName": "荒野驛道",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "600",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "0379a326-9c11-452f-ae1d-ebc099c2e7d7",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "bgm",
+            "uri": "bgm/bgm_17_resolve.mp3",
+            "volume": "70",
+            "loop": "true",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "52b8c892-c4f5-400a-8f78-ce2bc084d9c5",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "【日後·大梁】這半塊玉，會在多年後化作「梁王虛上位、黃金千斤、車百乘」的一場大戲，把罷了相的孟嘗君重新捧回齊國相位。那位魏臣佩玉來聘的時候，孟嘗君只覺得那玉眼熟，卻怎麼也想不起，在哪裡見過。",
+              "styles": {
+                "fontStyle": "italic",
+                "textColor": "#8899aa"
+              }
+            }
+          ]
+        },
+        {
+          "id": "e6fe0c31-eb26-436f-abf9-a0ba75ceaa50",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "三顆棋，一一落定。狗盜在他門下，藏著一條絕境裡的活路；里正在他薛中，牽著一片將來的民心；舊玉在魏臣腰間，壓著一場日後起死回生的大戲。你這半生在列國的風塵裡布下的線，此刻悄悄收攏，全都不動聲色地，指向同一個還不認得你的人。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "5a9ff02f-f65b-4145-92cc-251046953cc0",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "旁人養士，是廣招賢才、以備緩急；你「養」的這三個人，卻是反過來——你替一個素未謀面的主公，先養好了他將來要用的士。這局棋最妙的地方在於：等你真正入門那天，你會是三千客裡最不起眼、最無用的一個；而這滿盤要緊的棋子，卻早已是你一手落下的。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "62c7df76-25fa-4688-91ee-f161fd410215",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "現在，輪到你自己上場了。你不帶金帛，不遞名帖，不誇一句長才。你只背著那柄鏽了的舊鋏，一身洗得發白的布衣，準備去做一個「無好、無能」、貧乏不能自存、願寄食於門下的貪鄙食客。[wait=600]白手，素劍——這就是你叩響薛公之門的全部行頭。也唯有這副行頭，配得上你藏了二十年的那盤棋。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "db6eccfb-3195-4de0-8c5e-439db044f0d6",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
+            "characterName": "馮諼",
+            "expression": "冷冽",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「越是要謀天大的事，越要把自己藏在最不起眼的地方。[wait=600]孟嘗君，我來了。[wait=400]先讓你，好好地看輕我一場罷。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "702986b1-efed-4435-8c8f-0c9f464e919b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "薛地的方向，塵土蒼茫。你握了握腰間那柄舊鋏，冰涼的「工」字硌著掌心，一如二十年前抱劍站到天亮的那一夜。父親的手藝，母親的那半片券，都在這一柄劍裡了。[wait=600]叩門之後，便是三彈其鋏——你要用那柄劍，一聲一聲，親口向這位還被蒙在鼓裡的主公，討一討他的器量，究竟有幾斤幾兩。",
+              "styles": {}
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

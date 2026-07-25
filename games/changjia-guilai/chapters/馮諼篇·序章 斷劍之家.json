@@ -1,0 +1,881 @@
+{
+  "id": "912882e6-eafe-433b-a742-e6459aa107bc",
+  "name": "馮諼篇·序章 斷劍之家",
+  "fragments": [
+    {
+      "id": "672c443e-5ac8-45d5-87d9-5e322cd5b362",
+      "name": "main",
+      "blocks": [
+        {
+          "id": "8373cbf5-ee57-47e7-baba-bc019ca68b69",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "4a52be93-25f8-46b6-a23e-1ea897492d80",
+            "sceneName": "薛地鑄劍工坊",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "600",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "74b7e0da-df69-417e-96bb-1cdcec8a83d3",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "bgm",
+            "uri": "bgm/bgm_14_forge.mp3",
+            "volume": "72",
+            "loop": "true",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "ae7f7299-2dd4-4c15-8b10-0b1cab1fc413",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "【二十年後·臨淄相府】那柄劍將在薛公的堂上第三次叩響，唱一支「長鋏歸來乎」。滿堂三千客都會笑那個貪鄙的食客——沒有一個人，會知道劍鋒究竟為誰而鳴。",
+              "styles": {
+                "fontStyle": "italic",
+                "textColor": "#8899aa"
+              }
+            }
+          ]
+        },
+        {
+          "id": "3afc65dc-4213-4e3d-8727-edf1e19da9ee",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "SE",
+            "soundId": "",
+            "uri": "se/se_forge_hammer.mp3",
+            "volume": "80",
+            "loop": "false",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "e1f0fe43-726e-47ec-97e8-d55fb1921619",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "但那是二十年後的事了。此刻你八歲，蹲在父親的鑄劍爐邊，看火。[wait=600]薛地多鐵，也多鑄劍的人家，可全薛地都說，馮師傅的劍最正——正如尺，直如繩。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "03f742e7-bd88-4f80-bcc2-9d117cd78bb0",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "父親打完最後一錘，把劍浸進水槽，白氣騰起。他抹去劍格上的水，指給你看那裡一枚小小的印記：雲雷紋繞著一個「工」字。他說，這是咱家的字，凡馮師傅出的劍，都在這裡。[wait=500]薛地的官宦人家買劍，只認這個記號——不為好看，是為信：出了這個「工」字，斷了、卷了刃，馮家認賠。一枚小小的印，押的是一整個匠人的名。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "0a7e727e-3b2d-4090-b163-2efdc81482bf",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "96c4f95d-fa2c-47a4-8bd5-fe1dec92b4b5",
+            "sceneName": "物·舊鋏",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "400",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "401c204f-a129-4515-8240-de0b29a48412",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你那時還不懂，這柄剛淬好的短劍，會是你往後半生唯一帶在身邊的東西。它會陪你流亡列國，會在二十年後的一座相府堂上被你一遍遍地彈、一遍遍地唱——而滿堂沒有一個人，認得出劍格上這枚「工」字，是從哪座早已被奪走的爐子裡出來的。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "8bf9a2ae-1be1-41e6-aaec-7ae724914125",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "4a52be93-25f8-46b6-a23e-1ea897492d80",
+            "sceneName": "薛地鑄劍工坊",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "400",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "24f09a58-bc66-4ba3-960f-6a4c20c5bd12",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "26dc48b0-afd5-4a9a-8d48-afb8bd56dff6",
+            "characterName": "馮父",
+            "expression": "慈和",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「諼兒，你可知劍是做什麼用的？」[wait=500]「劍者，所以正不正也。天下有不正的事，才要有正它的東西。人握不住的理，劍替他握著。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "fca31c2e-e535-425c-984e-c76d03064458",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "爐火映著他的臉。他問你——長大了，想做個什麼樣的人。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "dce561b0-0d24-4d9a-9f10-97a5c93a43aa",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "你仰起頭，說——",
+            "choices": "[{\"text\":\"「我要打出全薛地最好的劍！」\",\"mode\":\"jump\",\"fragmentId\":\"f9a4dea2-86e5-4bbc-8302-b22deafb35b4\"},{\"text\":\"「我要做能護住爹娘的人。」\",\"mode\":\"jump\",\"fragmentId\":\"001ff2b8-f38e-45d2-87bf-f29e8855a7ee\"},{\"text\":\"「我要做……讓壞人害怕的人。」\",\"mode\":\"jump\",\"fragmentId\":\"2a0ddb98-1c1a-4894-9a04-143a1fba7fe8\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f9a4dea2-86e5-4bbc-8302-b22deafb35b4",
+      "name": "願-承業",
+      "blocks": [
+        {
+          "id": "493e1819-3fa2-4e37-8087-3fd98ee7e595",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你說要接他的爐子，打出比他更正的劍。父親笑得眼角起了褶，說好，那你得先學會看火——火候不對，再好的鐵也是廢的。[wait=400]他不知道，你這輩子再沒能替他添過一次火。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ce0d8760-ab61-4a33-83a2-845059a988fd",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "c56bbbf3-8fad-4cf3-abb5-48ec3b249264"
+          }
+        }
+      ]
+    },
+    {
+      "id": "001ff2b8-f38e-45d2-87bf-f29e8855a7ee",
+      "name": "願-守護",
+      "blocks": [
+        {
+          "id": "203fabcf-0bc8-43d2-ba63-0368556e832e",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你說要做能護住爹娘的人。父親怔了一下，伸手揉你的頭，掌心是常年握錘磨出的硬繭。他說傻孩子，是爹娘護你才對。[wait=400]你把這句話記了一輩子——因為沒過多久，你連護住他們的機會，都沒有。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "03b0abd0-c3de-42fd-a1dc-31a0a23dcb50",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "c56bbbf3-8fad-4cf3-abb5-48ec3b249264"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2a0ddb98-1c1a-4894-9a04-143a1fba7fe8",
+      "name": "願-鋒芒",
+      "blocks": [
+        {
+          "id": "9b61960c-1d6e-4505-a5c6-1b8f1b20b261",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你說要做讓壞人害怕的人。父親收了笑，看了你很久，才說：讓壞人怕的，不是凶，是理站在你這邊。[wait=400]那時你不懂。二十年後你懂了——最讓壞人怕的那種人，往往笑得最和氣、看起來最沒有用。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "33bd23da-e444-423b-99fa-fbd328347b33",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "c56bbbf3-8fad-4cf3-abb5-48ec3b249264"
+          }
+        }
+      ]
+    },
+    {
+      "id": "c56bbbf3-8fad-4cf3-abb5-48ec3b249264",
+      "name": "債務加身",
+      "blocks": [
+        {
+          "id": "a513d7ca-c8cf-40f4-b2e5-3b6994e0f9fc",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你九歲那年，薛地大旱。鐵還在，買鐵的人卻沒了——顆粒無收，誰還顧得上添一柄劍。爐火冷了大半年。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "78b7c0df-3173-4488-87e6-ad06566a41c5",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "為了撐過那個冬天，也為了贖回抵出去的鐵料，父親按了手印，借了城裡子錢家的印子錢。你記得那張券——一片竹木合券，剖成兩半，債主收一半，你家留一半。上頭的數目，父親念給你聽時，你還覺得不多。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "59ff1e49-7fd8-4497-8bd5-d61470058cc7",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "可那利，是利滾利的。頭年一石，次年三石，第三年，連本帶利已是借時的十倍。薛地的窮戶大半都欠著這樣的債；子錢家不怕你還不上——他們要的，本就不是還。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "1000fe98-bee9-415d-8cb4-2a0c4b43de65",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "2e5543a5-aca2-4aa9-866d-1a242bd7b2d5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2e5543a5-aca2-4aa9-866d-1a242bd7b2d5",
+      "name": "市集之奪",
+      "blocks": [
+        {
+          "id": "60f6e7e9-1525-4704-a1a7-76ce806d9c25",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "3b80bfad-bc2a-4b9e-90de-60611ec4cad2",
+            "sceneName": "薛地市集高台",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "600",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "c401dc87-95a1-433c-a192-00583134291a",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "第三年秋，債主帶著人來了。他們當著滿市集的人，把爐子、鐵砧、連同那柄父親留著自用的劍，一件一件抬走。抵不夠，就抵人——你眼睜睜看著，打出這柄劍的那雙手，被債主的家丁當眾扭到背後，拖下了高台。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "2e07492b-c8fd-4ff5-a8d2-4b02689472a1",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "26dc48b0-afd5-4a9a-8d48-afb8bd56dff6",
+            "characterName": "馮父",
+            "expression": "決然",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「諼兒！[wait=500]劍——劍給你留著！記住劍上的紋，記住咱家的字！」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "498a6da8-0e90-43fa-8f06-f299bd11ce74",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "a2b2ee4b-0905-45d5-a444-0b7199c8a612",
+            "sceneName": "CG·斷劍之家",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "500",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "fa7c1bac-49f3-4794-adb1-4c5e8ac2caa1",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "那是你最後一次聽見他的聲音。人潮把他淹沒了，市集照舊喧鬧，沒有人為一個欠債的鐵匠停下腳步。你抱著那柄他拚死塞給你的劍，劍格上的「工」字硌著你的胸口，硌了整整一夜。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "cbc7d6da-eb4d-44de-a893-17de481ca868",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "3b80bfad-bc2a-4b9e-90de-60611ec4cad2",
+            "sceneName": "薛地市集高台",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "500",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "ef3b3f1d-53b0-43dd-b0a9-a32dbd13b8c0",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "爐子被拆去砌了別家的牆，工坊的地基上很快起了一間酒肆。往來的人誰也不記得這裡曾有一座薛地最正的鑄劍爐，更不會有人記得，那個總在爐邊看火的孩子。你懂了一件事：這世上被吃掉的人，連被記住的資格都沒有——除非你自己，把他們的名字，變成別人不得不記住的東西。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "8edd2d5f-0b79-4f6f-ae39-b86774ff8c43",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "母親沒能熬過那個冬天。她走的時候攥著那半片竹券，說這債……這債不是咱家欠的，是這世道欠咱家的。[wait=600]那年你十二歲，成了斷劍之家最後一個人。你把那半片券和父親的劍一起收進懷裡——一片是罪證，一柄是身世，你要用往後的一輩子，替它們討一個說法。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "393ff879-b88d-4d07-9561-878d18646106",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
+            "characterName": "馮諼",
+            "expression": "少年",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「……」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e9b7e343-2c22-4f4c-b9fa-97dca4b52e64",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "很多年後，每當有人問起你的來歷，你總是笑而不答。但只有你自己知道，那個抱著劍在市集上站到天亮的孩子，在心裡對自己說了一句話。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "de319d73-6e1e-4d6b-b131-ca9cdfa7c463",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "那一句，是——",
+            "choices": "[{\"text\":\"「那個債主，那些券，總有一天我親手燒了它。」\",\"mode\":\"jump\",\"fragmentId\":\"f22fbaea-f785-4c21-8cce-1cb1fd38774a\"},{\"text\":\"「不只我一家。薛地家家都欠這種債——要斷的是這條根。」\",\"mode\":\"jump\",\"fragmentId\":\"ca616b13-545e-4f10-a859-d57217854b41\"},{\"text\":\"「哭沒有用，劍也沒有用。有用的是……能走進那扇門的人。」\",\"mode\":\"jump\",\"fragmentId\":\"ea61b6b0-c69f-4f5c-b172-d60aaff32212\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f22fbaea-f785-4c21-8cce-1cb1fd38774a",
+      "name": "誓-私仇",
+      "blocks": [
+        {
+          "id": "a27ebeec-8faa-4fbb-861a-f5cbe27e6370",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你把那個債主的臉，那一列債券的樣子，一筆一筆刻進心裡。你告訴自己，總有一天，你要親手把那堆吃人的券，燒成灰。[wait=500]——你還不知道，二十年後你真會燒券。只是到那時，你燒的已不只是自己的仇。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "5770e16c-96a5-454c-8312-10b452bc8b4c",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "e2a9a04e-35f5-40ff-928f-3b80fc7786b0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ca616b13-545e-4f10-a859-d57217854b41",
+      "name": "誓-公了",
+      "blocks": [
+        {
+          "id": "a0b151b3-0541-4fc3-a670-c4c50003fb64",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你在市集上站了一夜，看見的卻不只是自家的爐。城南城北，多少人家的門板上都貼著催債的封條。你忽然明白，逼死你父親的不是哪一個人，是這條利滾利、吃人不吐骨的債根。[wait=500]要斷，就得斷了它——為薛地所有還沒被拖下高台的人。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "fb58693f-00da-498f-9b4d-5571acae98d6",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "e2a9a04e-35f5-40ff-928f-3b80fc7786b0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ea61b6b0-c69f-4f5c-b172-d60aaff32212",
+      "name": "誓-隱忍",
+      "blocks": [
+        {
+          "id": "6db49f7d-91b7-42ef-b31b-d1a9925ad545",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你沒有哭。你發現哭沒有用，這柄劍也沒有用——它救不了被拖走的父親。真正有用的，是能站到那扇朱門裡去、能在權柄邊上說得上話的人。[wait=500]從那天起，你收起了悲喜，把自己磨鈍、磨得誰也不設防。這是你選的路：不做劍，做握劍的那隻手。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "5df851dc-7813-40af-93b8-05c84216604f",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "e2a9a04e-35f5-40ff-928f-3b80fc7786b0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "e2a9a04e-35f5-40ff-928f-3b80fc7786b0",
+      "name": "負劍流亡",
+      "blocks": [
+        {
+          "id": "cdcdacf5-8e45-45eb-b62e-0dbb0b25cf14",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "7cf5fc1c-b469-4ac6-9120-0e8b068b0758",
+            "sceneName": "荒野驛道",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "600",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "6a4dbf0a-d81c-4fe6-9711-cc4ff2319fb1",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "bgm",
+            "uri": "bgm/bgm_15_wandering_boy.mp3",
+            "volume": "70",
+            "loop": "true",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "af334f16-534f-4380-b6cd-bdfa0f81a18a",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "此後二十年，你背著那柄舊鋏，走遍了列國。你做過門客，當過說客，替人謀過事，也看夠了公卿權貴的臉。你不讀聖賢書求聞達，只學一樣東西——縱橫之術：如何用一個人的欲望，去成全另一件他自己都想不到的事。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "5de3526e-745d-4dc3-a5d9-819b310b6cb6",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你悟出最要緊的一課：真正的棋手，不在棋盤上落子，而是讓對手以為那步棋是他自己想走的。恨一個人，最笨的是拔劍；聰明的，是把整盤局擺好，讓他親手替你把該做的事做完，還當那是他自己的功業。[wait=500]從此你不再急。你知道要斷薛地的債根，得先找到那個人——再讓他心甘情願地，把火把遞到你手上。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "bf21d07f-5fa2-45bc-9ce3-1f720873d745",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你漸漸想通了一件事。一柄劍只能殺一個人；要救一城的人，光有劍不夠，光有你自己也不夠。你需要一個「器」——一個擔得起的權貴，把你的私願，做成他的功業。他得夠貴、封在薛地、養得起門客，還得……容得下一個看不出用處的人。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "53016277-8be5-4dd3-b3ff-33dc56845dc8",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
+            "characterName": "馮諼",
+            "expression": "冷冽",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「一柄劍，只能正一件事。[wait=600]可要正整個薛地的不正——我得先找到一個，值得託付一城的人。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "6839599e-eeae-40d9-bba1-6f345bd55bc1",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "449657ee-b2d9-49d1-a34a-08f9d0c2b376"
+          }
+        }
+      ]
+    },
+    {
+      "id": "449657ee-b2d9-49d1-a34a-08f9d0c2b376",
+      "name": "歸家",
+      "blocks": [
+        {
+          "id": "c549283c-f19d-40cd-b263-d0dd8aeae9eb",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "二十年，你把自己磨成了一把不像劍的劍——鏽了、鈍了、無鋒無芒，貪鄙、無能、開口就要待遇。誰見了都放心，誰見了都不設防。這正是你要的樣子。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "0bae3f96-1266-4753-b91e-345d370c6d98",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "因為你要去的地方，是薛。[wait=600]不是去投靠誰。你是回家。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ffa5d7f9-d6d7-4892-b423-28dae007b8b6",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "齊之孟嘗君，封邑在薛，門下食客三千。他在薛地放債收息——收的，正是當年逼死你全家的那種債。你要做的，是繞過半生，走進他那扇門，讓他親口把矯命焚券的權，交到你手上。然後，你要親手把那堆券，一張不留地燒乾淨。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c9fb9d9e-b5df-40de-9e09-bcb6de62643a",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "而他不會知道。從你彈劍唱「長鋏歸來」的第一天，到二十年後他臨終攥著那片燒剩的半券——他都不會知道，那個貪鄙食客究竟是誰，為什麼獨獨為薛地而來。這是你欠父親的，也是你唯一能還的。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "41f92e5c-1bcb-4bcf-9c92-2ebbcdb530f6",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
+            "characterName": "馮諼",
+            "expression": "低語",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「阿爹。[wait=800]諼兒……要回家了。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "25fad62f-53a0-4948-9fea-87be30ff950b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "只是在叩響那扇朱門之前，你還得先看清楚一件事——這薛公三千客的主人，田文，究竟配不配，接得住你這半生的局。[wait=600]你收起舊鋏，抬眼望向臨淄的方向。那裡，一場長達二十年的驗貨，就要開始了。",
+              "styles": {}
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

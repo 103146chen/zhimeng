@@ -1,0 +1,97 @@
+{
+  "version": 2,
+  "lifecycle": {
+    "bootMode": "title"
+  },
+  "title": {
+    "background": {
+      "type": "image",
+      "color": "#101827",
+      "assetPath": "",
+      "sceneId": ""
+    },
+    "logo": {
+      "assetPath": "",
+      "width": 420,
+      "alt": ""
+    },
+    "showProjectName": true,
+    "overlay": {
+      "color": "#07111d",
+      "opacity": 0.24
+    },
+    "menu": {
+      "x": 10,
+      "y": 28.6,
+      "align": "left",
+      "width": 280,
+      "gap": 10
+    },
+    "buttons": {
+      "continue": true,
+      "start": true,
+      "load": true,
+      "gallery": true,
+      "settings": true,
+      "exit": false
+    },
+    "labels": {
+      "continue": "繼續遊戲",
+      "start": "開始遊戲",
+      "load": "讀取存檔",
+      "gallery": "鑑賞",
+      "settings": "設定",
+      "exit": "退出"
+    },
+    "bgm": {
+      "assetPath": "",
+      "volume": 0.8,
+      "loop": true
+    },
+    "footer": {
+      "showVersion": true,
+      "text": ""
+    }
+  },
+  "theme": {
+    "textColor": "#f8fafc",
+    "mutedColor": "#cbd5e1",
+    "accentColor": "#e7b66b",
+    "buttonBackground": "rgba(10, 17, 28, 0.24)",
+    "buttonHoverBackground": "rgba(10, 17, 28, 0.56)",
+    "fontFamily": "system-ui, sans-serif"
+  },
+  "screens": {
+    "dialogue": {
+      "maxWidth": 1120,
+      "bottom": 40,
+      "nameplate": true
+    },
+    "saveLoad": {
+      "slotCount": 12,
+      "columns": 3,
+      "showThumbnail": true
+    },
+    "settings": {
+      "maxWidth": 760
+    },
+    "gallery": {
+      "columns": 4,
+      "showLocked": true
+    },
+    "backlog": {
+      "maxEntries": 500,
+      "searchable": true,
+      "voiceReplay": true
+    }
+  },
+  "assets": {
+    "fonts": [],
+    "ui": {}
+  },
+  "policies": {
+    "pauseWhenHidden": true,
+    "autoSaveOnHide": true,
+    "allowUnreadSkip": false
+  }
+}

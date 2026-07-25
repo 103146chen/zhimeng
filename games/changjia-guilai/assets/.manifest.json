@@ -1,0 +1,653 @@
+{
+  "version": 2,
+  "entries": {
+    "d770680e1b4bba152769c5ce2d4a6825": {
+      "path": "bg/sc_forge.jpeg",
+      "size": 2604944,
+      "updatedAt": 1784938924019,
+      "tags": []
+    },
+    "2e771d2afdd13fe5039bb98daa651a0b": {
+      "path": "bg/sc_fudi.jpeg",
+      "size": 3157227,
+      "updatedAt": 1784938900053,
+      "tags": []
+    },
+    "a11d4b4b2e6f4bce61b34e3ba411cfe5": {
+      "path": "bg/sc_hangu_snow.jpeg",
+      "size": 2839574,
+      "updatedAt": 1784938902824,
+      "tags": []
+    },
+    "288273109b6ea177e0e0afbe2b45a27e": {
+      "path": "bg/sc_liang_hostel.jpeg",
+      "size": 2798048,
+      "updatedAt": 1784938934139,
+      "tags": []
+    },
+    "27c6409cc30a7d6d748e3050293bfe00": {
+      "path": "bg/sc_prison.jpeg",
+      "size": 2532556,
+      "updatedAt": 1784938930458,
+      "tags": []
+    },
+    "00cd2e63d1fdbb23d343f7159907cbc9": {
+      "path": "bg/sc_qi_palace.jpeg",
+      "size": 2939810,
+      "updatedAt": 1784938946316,
+      "tags": []
+    },
+    "3d3fab88bee09df5519d9338e1cf3505": {
+      "path": "bg/sc_temple.jpeg",
+      "size": 2780652,
+      "updatedAt": 1784939290000,
+      "tags": []
+    },
+    "b1693ad6ce5729d35ae0b8d94db0d161": {
+      "path": "bg/sc_wilderness_road.jpeg",
+      "size": 3378595,
+      "updatedAt": 1784938940000,
+      "tags": []
+    },
+    "ba279bd7d2875f9654120eaffd3d7a01": {
+      "path": "bg/sc_xiangfu.jpeg",
+      "size": 2815393,
+      "updatedAt": 1784938887599,
+      "tags": []
+    },
+    "4f85cba8fc64582c8ae1168642d4aabc": {
+      "path": "bg/sc_xiangfu_night.jpeg",
+      "size": 2277544,
+      "updatedAt": 1784938891000,
+      "tags": []
+    },
+    "c36abcee0bd2d8838d18429517e109ff": {
+      "path": "bg/sc_xianyang.jpeg",
+      "size": 2603337,
+      "updatedAt": 1784938924075,
+      "tags": []
+    },
+    "d1a1fb3e02db29116d242001cbbdd10a": {
+      "path": "bg/sc_xue_fire.jpeg",
+      "size": 2804558,
+      "updatedAt": 1784938924000,
+      "tags": []
+    },
+    "4ec7676ed4e4c8036b36a0fb95822c6a": {
+      "path": "bg/sc_xue_market.jpeg",
+      "size": 3148039,
+      "updatedAt": 1784938923793,
+      "tags": []
+    },
+    "e9d2e8e16607e2c41a6e12c57b17247e": {
+      "path": "bg/sc_xue_ruins.jpeg",
+      "size": 2914323,
+      "updatedAt": 1784938948000,
+      "tags": []
+    },
+    "fd7afd343346ba9b30199d64bcede428": {
+      "path": "bg/sc_xue_welcome.jpeg",
+      "size": 2744432,
+      "updatedAt": 1784938927000,
+      "tags": []
+    },
+    "60c87c2c0aab8ac504ae743f9fc14706": {
+      "path": "bgm/bgm_01_hidden_manor.mp3",
+      "size": 706994,
+      "updatedAt": 1784941173882,
+      "tags": []
+    },
+    "3abae938aa2d63bab4b10fa3085e86f4": {
+      "path": "bgm/bgm_02_banquet.mp3",
+      "size": 744610,
+      "updatedAt": 1784941310493,
+      "tags": []
+    },
+    "787a241616b349039981e9a2043f9768": {
+      "path": "bgm/bgm_03_qin_court.mp3",
+      "size": 744610,
+      "updatedAt": 1784941440781,
+      "tags": []
+    },
+    "1566bf6ca9d19c312e8df4261dc9827b": {
+      "path": "bgm/bgm_04_prison.mp3",
+      "size": 682544,
+      "updatedAt": 1784941538277,
+      "tags": []
+    },
+    "75cfbeb069c0956ef9d2a0b30bc37086": {
+      "path": "bgm/bgm_05_hangu_pass.mp3",
+      "size": 744610,
+      "updatedAt": 1784941605717,
+      "tags": []
+    },
+    "bd51681f720f83b604acf96df24ba99b": {
+      "path": "bgm/bgm_06_suppressed_anger.mp3",
+      "size": 744610,
+      "updatedAt": 1784941648880,
+      "tags": []
+    },
+    "c6f0c6e086d57ee1f0cf5ed01d03a9de": {
+      "path": "bgm/bgm_07_empty_hall.mp3",
+      "size": 744610,
+      "updatedAt": 1784941704021,
+      "tags": []
+    },
+    "bcc7a9c6d398ba27fb80fce0e6a1e363": {
+      "path": "bgm/bgm_08_exile.mp3",
+      "size": 744610,
+      "updatedAt": 1784941764530,
+      "tags": []
+    },
+    "26cf024dbf84da9ae26f14aa61437330": {
+      "path": "bgm/bgm_09_welcome.mp3",
+      "size": 744610,
+      "updatedAt": 1784941806779,
+      "tags": []
+    },
+    "80f987ba19160b09cbc491973230e19b": {
+      "path": "bgm/bgm_10_peaceful_xue.mp3",
+      "size": 744610,
+      "updatedAt": 1784941866545,
+      "tags": []
+    },
+    "fc1dd6742ba39437077e9e5f92e3f630": {
+      "path": "bgm/bgm_11_temple.mp3",
+      "size": 737714,
+      "updatedAt": 1784941913075,
+      "tags": []
+    },
+    "238a6e1d39b32dc4a307e921671753eb": {
+      "path": "bgm/bgm_12_twilight.mp3",
+      "size": 744610,
+      "updatedAt": 1784941960024,
+      "tags": []
+    },
+    "086052f904af7387363cd173030404c3": {
+      "path": "bgm/bgm_13_requiem.mp3",
+      "size": 744610,
+      "updatedAt": 1784942002551,
+      "tags": []
+    },
+    "9d47c360794f9e2e46dddd8c001c000d": {
+      "path": "bgm/bgm_14_forge.mp3",
+      "size": 706994,
+      "updatedAt": 1784942060166,
+      "tags": []
+    },
+    "075050dac3fd93bd0dbb24ad86e71b52": {
+      "path": "bgm/bgm_15_wandering_boy.mp3",
+      "size": 744610,
+      "updatedAt": 1784942110975,
+      "tags": []
+    },
+    "aa8deba5e8b944979577fce3b37c7ce6": {
+      "path": "bgm/bgm_16_observing.mp3",
+      "size": 673139,
+      "updatedAt": 1784942163786,
+      "tags": []
+    },
+    "d27c57ec411ba7360b63b23daa9ed74c": {
+      "path": "bgm/bgm_17_resolve.mp3",
+      "size": 690067,
+      "updatedAt": 1784942233675,
+      "tags": []
+    },
+    "80144108efa5bd81d94ab3b322468c9f": {
+      "path": "bgm/bgm_18_stealth.mp3",
+      "size": 700725,
+      "updatedAt": 1784942339055,
+      "tags": []
+    },
+    "175178ed2be659fa538f56d2c2c2c65e": {
+      "path": "bgm/bgm_19_return_path.mp3",
+      "size": 744610,
+      "updatedAt": 1784942397514,
+      "tags": []
+    },
+    "c221537a8c065fa141727ab847ad1dde": {
+      "path": "bgm/bgm_20_enduring.mp3",
+      "size": 744610,
+      "updatedAt": 1784942446767,
+      "tags": []
+    },
+    "98ae3dbe955e503aa4ae6ae9638e075c": {
+      "path": "bgm/bgm_21_homecoming.mp3",
+      "size": 744610,
+      "updatedAt": 1784942486389,
+      "tags": []
+    },
+    "68d1d628f08656a2cc5b7de39c87551a": {
+      "path": "bgm/bgm_22_suspense.mp3",
+      "size": 712010,
+      "updatedAt": 1784942556571,
+      "tags": []
+    },
+    "30f671e96f08208de6e1bab3626470a4": {
+      "path": "bgm/bgm_23_aftermath.mp3",
+      "size": 744610,
+      "updatedAt": 1784942614658,
+      "tags": []
+    },
+    "f843e5e98868f7e725251dd160caba65": {
+      "path": "bgm/bgm_24_building_hope.mp3",
+      "size": 744610,
+      "updatedAt": 1784942670569,
+      "tags": []
+    },
+    "e3bbe201ffabc6d1bd6374cb28ac110b": {
+      "path": "bgm/bgm_25_scheme.mp3",
+      "size": 744610,
+      "updatedAt": 1784942713692,
+      "tags": []
+    },
+    "34c1a933f8edcc0cb12139af62ad0094": {
+      "path": "bgm/bgm_26_unresolved.mp3",
+      "size": 743984,
+      "updatedAt": 1784942759427,
+      "tags": []
+    },
+    "2c464566a8479b5ccfefa0bb20a36397": {
+      "path": "bgm/bgm_27_dusk.mp3",
+      "size": 744610,
+      "updatedAt": 1784942798903,
+      "tags": []
+    },
+    "3b7cab5bed657c568527bcbcc89a560f": {
+      "path": "bgm/bgm_28_fading.mp3",
+      "size": 744610,
+      "updatedAt": 1784942848183,
+      "tags": []
+    },
+    "5920fedb1e4c8adffab6cae09ba5ed87": {
+      "path": "bgm/bgm_29_late_recognition.mp3",
+      "size": 744610,
+      "updatedAt": 1784942889638,
+      "tags": []
+    },
+    "b21705260e2c617e5a24845ccfed9b0a": {
+      "path": "bgm/bgm_30_true_ending.mp3",
+      "size": 675647,
+      "updatedAt": 1784942941060,
+      "tags": []
+    },
+    "7688fd2361408cc959aa33f1daddaed6": {
+      "path": "cg/cg_beggar_guide.jpeg",
+      "size": 3487269,
+      "updatedAt": 1784939671000,
+      "tags": []
+    },
+    "aa3daa8cfde60645b163ac052964506b": {
+      "path": "cg/cg_broken_sword_family.jpeg",
+      "size": 2760428,
+      "updatedAt": 1784939667455,
+      "tags": []
+    },
+    "5cfbf26071ca3bee52e4d21baf2fc122": {
+      "path": "cg/cg_burn_debt_epic.jpeg",
+      "size": 2966202,
+      "updatedAt": 1784939678000,
+      "tags": []
+    },
+    "3437e7312ef2d7a76cde260d6f3637f4": {
+      "path": "cg/cg_burn_debt_secret.jpeg",
+      "size": 2633084,
+      "updatedAt": 1784939689000,
+      "tags": []
+    },
+    "ff6f21ee687bfbd9402964745cf72bed": {
+      "path": "cg/cg_hangu_escape.jpeg",
+      "size": 2681192,
+      "updatedAt": 1784939686000,
+      "tags": []
+    },
+    "3d53422bdf18c6ca1b955eff53d29cfa": {
+      "path": "cg/cg_hundred_li_welcome.jpeg",
+      "size": 3681293,
+      "updatedAt": 1784939683643,
+      "tags": []
+    },
+    "094e5861a92abb42494c6d3780cbaef4": {
+      "path": "cg/cg_lantern_relay.jpeg",
+      "size": 2756401,
+      "updatedAt": 1784939706444,
+      "tags": []
+    },
+    "77f03b638e246e7aa7805337ae8d0be4": {
+      "path": "cg/cg_sword_in_ashes.jpeg",
+      "size": 2660916,
+      "updatedAt": 1784939705213,
+      "tags": []
+    },
+    "6227b2aafa9a5dba30b0bb9297f11496": {
+      "path": "cg/cg_sword_song_epic.jpeg",
+      "size": 3003442,
+      "updatedAt": 1784939665566,
+      "tags": []
+    },
+    "cf7a6f36b5e70e1e38ca31f48106dd52": {
+      "path": "cg/cg_sword_song_secret.jpeg",
+      "size": 2867956,
+      "updatedAt": 1784939660873,
+      "tags": []
+    },
+    "9fab0e0dda42fc1e9fac09ca1fbc0649": {
+      "path": "characters/孟嘗君/便服.png",
+      "size": 249522,
+      "updatedAt": 1784943318268,
+      "tags": []
+    },
+    "1aa556a65de4e57b183406f46db882e5": {
+      "path": "characters/孟嘗君/平靜.png",
+      "size": 278776,
+      "updatedAt": 1784943319542,
+      "tags": []
+    },
+    "0bf0bed32e5fe349147c03a4c70963ce": {
+      "path": "characters/孟嘗君/強忍.png",
+      "size": 275460,
+      "updatedAt": 1784943315711,
+      "tags": []
+    },
+    "3210e16fe454887e9f945834fd68b8cc": {
+      "path": "characters/孟嘗君/微笑.png",
+      "size": 285160,
+      "updatedAt": 1784943324379,
+      "tags": []
+    },
+    "51851e90908400e0f878973610fceab2": {
+      "path": "characters/孟嘗君/怒.png",
+      "size": 286655,
+      "updatedAt": 1784943313165,
+      "tags": []
+    },
+    "f2f8fbd6fcb26fd24e10c4edf713b4cf": {
+      "path": "characters/孟嘗君/悲慟.png",
+      "size": 276825,
+      "updatedAt": 1784943316995,
+      "tags": []
+    },
+    "25545b622ab885ed80da42d6ed9bcfad": {
+      "path": "characters/孟嘗君/沉思.png",
+      "size": 273240,
+      "updatedAt": 1784943314443,
+      "tags": []
+    },
+    "91b1286798cdc077d6590fa09bff9358": {
+      "path": "characters/孟嘗君/疑慮.png",
+      "size": 282359,
+      "updatedAt": 1784943320825,
+      "tags": []
+    },
+    "62e6493932a1f4c472ca1f8fef123590": {
+      "path": "characters/孟嘗君/病榻.png",
+      "size": 456266,
+      "updatedAt": 1784943323090,
+      "tags": []
+    },
+    "e2527d0cc42c09ecddaf5190c2c6ec05": {
+      "path": "characters/孟嘗君/驚愕.png",
+      "size": 275754,
+      "updatedAt": 1784943322086,
+      "tags": []
+    },
+    "a68ece199aac9f1a1efce9e31222efb5": {
+      "path": "characters/幸姬/平靜.png",
+      "size": 403874,
+      "updatedAt": 1784943467231,
+      "tags": []
+    },
+    "798ba7059be6b3c4343a204047366cc3": {
+      "path": "characters/幸姬/微笑.png",
+      "size": 357268,
+      "updatedAt": 1784943410806,
+      "tags": []
+    },
+    "f3b9bfb83a7b4a6a97efe598c6c02ae1": {
+      "path": "characters/狗盜之徒/平靜.png",
+      "size": 274124,
+      "updatedAt": 1784943325654,
+      "tags": []
+    },
+    "5f871c2208099b575e7cf21ad7bd4799": {
+      "path": "characters/狗盜之徒/狡黠.png",
+      "size": 276864,
+      "updatedAt": 1784943326924,
+      "tags": []
+    },
+    "32f66db93ef6a90e641bcd61b23599ce": {
+      "path": "characters/田嬰/平靜.png",
+      "size": 439360,
+      "updatedAt": 1784943330000,
+      "tags": []
+    },
+    "29af5e2f0d93f9899681d976b04a8274": {
+      "path": "characters/田嬰/怒.png",
+      "size": 432995,
+      "updatedAt": 1784943328121,
+      "tags": []
+    },
+    "4759f72590c1704af22d1d386620b173": {
+      "path": "characters/田嬰/沉吟.png",
+      "size": 420049,
+      "updatedAt": 1784943329000,
+      "tags": []
+    },
+    "97277c50ddb5da82478d0456bf4aec2c": {
+      "path": "characters/田文之母/平靜.png",
+      "size": 242431,
+      "updatedAt": 1784943333000,
+      "tags": []
+    },
+    "54f17fb3e42699c41a4c66c52a399f4a": {
+      "path": "characters/田文之母/憂懼.png",
+      "size": 297232,
+      "updatedAt": 1784943331000,
+      "tags": []
+    },
+    "a04f1218af2966e1eae46d6ca811dc1f": {
+      "path": "characters/秦昭王/平靜.png",
+      "size": 353430,
+      "updatedAt": 1784943335661,
+      "tags": []
+    },
+    "b72a43b4f393433d1e046cc3a44efb79": {
+      "path": "characters/秦昭王/陰沉.png",
+      "size": 347353,
+      "updatedAt": 1784943334000,
+      "tags": []
+    },
+    "27a73c3101967405baddeb73b0f2a636": {
+      "path": "characters/薛地里正/平靜.png",
+      "size": 342138,
+      "updatedAt": 1784943338000,
+      "tags": []
+    },
+    "3138930bd449cc837097f08119ea531c": {
+      "path": "characters/薛地里正/懇切.png",
+      "size": 308535,
+      "updatedAt": 1784943336978,
+      "tags": []
+    },
+    "3f796d49c6798ada2436ac5129e1f952": {
+      "path": "characters/門客/平靜.png",
+      "size": 222378,
+      "updatedAt": 1784943341937,
+      "tags": []
+    },
+    "06b87b290bc2e0553889870043e98956": {
+      "path": "characters/門客/怒.png",
+      "size": 415196,
+      "updatedAt": 1784943339000,
+      "tags": []
+    },
+    "2c1f0bb3821569fbfa7fd6ce6c7a3e11": {
+      "path": "characters/門客/慚愧.png",
+      "size": 371110,
+      "updatedAt": 1784943340633,
+      "tags": []
+    },
+    "a5ae7145513d879a8ab55a94fafe8656": {
+      "path": "characters/門客/訕笑.png",
+      "size": 219986,
+      "updatedAt": 1784943343000,
+      "tags": []
+    },
+    "c200047727094330c724c5edd5816493": {
+      "path": "characters/馮父/平靜.png",
+      "size": 374921,
+      "updatedAt": 1784943344486,
+      "tags": []
+    },
+    "de069bf34749d7aea7a21b3d562547f0": {
+      "path": "characters/馮父/慈和.png",
+      "size": 364864,
+      "updatedAt": 1784943346995,
+      "tags": []
+    },
+    "5e865a6a8c437af78f4be8b619e2dd02": {
+      "path": "characters/馮父/決然.png",
+      "size": 356593,
+      "updatedAt": 1784943345000,
+      "tags": []
+    },
+    "67b08a1aeee9d45157a39ac571aa7d8a": {
+      "path": "characters/馮諼/低語.png",
+      "size": 257328,
+      "updatedAt": 1784943356000,
+      "tags": []
+    },
+    "f6fd9b5571c1f81dee452ba55d005ca3": {
+      "path": "characters/馮諼/冷冽.png",
+      "size": 289915,
+      "updatedAt": 1784943348316,
+      "tags": []
+    },
+    "604864d1486daa0ce2cd787f9d3cb137": {
+      "path": "characters/馮諼/少年.png",
+      "size": 273875,
+      "updatedAt": 1784946501150,
+      "tags": []
+    },
+    "b11f3f4b266dfce24de0c3bd1f7ea30c": {
+      "path": "characters/馮諼/平靜.png",
+      "size": 271158,
+      "updatedAt": 1784943352000,
+      "tags": []
+    },
+    "b5032c07b4263b7e78fa51b9bc65ad65": {
+      "path": "characters/馮諼/微笑.png",
+      "size": 254983,
+      "updatedAt": 1784943354000,
+      "tags": []
+    },
+    "e6bf8e7e95c8d9c95f7e41ec640eab1f": {
+      "path": "characters/馮諼/悲慟.png",
+      "size": 273817,
+      "updatedAt": 1784943350000,
+      "tags": []
+    },
+    "63ff5732e07b1abdb1a0fed30a3e3eee": {
+      "path": "characters/馮諼/暮年.png",
+      "size": 284664,
+      "updatedAt": 1784943349643,
+      "tags": []
+    },
+    "f093ecb175ac4014227e825533341002": {
+      "path": "characters/馮諼/決然.png",
+      "size": 266658,
+      "updatedAt": 1784943353000,
+      "tags": []
+    },
+    "08a6ace07bce73ff5f0b41c856b60b76": {
+      "path": "characters/魏使/平靜.png",
+      "size": 286775,
+      "updatedAt": 1784943358808,
+      "tags": []
+    },
+    "ea80f9a3e8a1eee7921e57bc2dcfb9fe": {
+      "path": "characters/魏使/恭敬.png",
+      "size": 394650,
+      "updatedAt": 1784943360000,
+      "tags": []
+    },
+    "f40a5eca6d4ae3fa0608dd1588f8663b": {
+      "path": "characters/齊湣王/平靜.png",
+      "size": 470832,
+      "updatedAt": 1784943362000,
+      "tags": []
+    },
+    "7a40cb6dc865585f541ee1b9002ce240": {
+      "path": "characters/齊湣王/惶恐.png",
+      "size": 468825,
+      "updatedAt": 1784943361449,
+      "tags": []
+    },
+    "10fd94a741ade55f9338e5b11aec28b8": {
+      "path": "characters/齊湣王/疑忌.png",
+      "size": 465440,
+      "updatedAt": 1784943364632,
+      "tags": []
+    },
+    "d66b0ef4687c463a01a43411add7c18a": {
+      "path": "items/item_broken_jade.jpeg",
+      "size": 2465769,
+      "updatedAt": 1784939941320,
+      "tags": []
+    },
+    "24945896d6b30083fa2c71bebea239b6": {
+      "path": "items/item_half_contract.jpeg",
+      "size": 2589216,
+      "updatedAt": 1784939945268,
+      "tags": []
+    },
+    "daa76243ec05fac5a7918a10acbd789f": {
+      "path": "items/item_old_sword.jpeg",
+      "size": 2851819,
+      "updatedAt": 1784939938565,
+      "tags": []
+    },
+    "6f6c9f2eb2a6adcad451946afeb57edd": {
+      "path": "se/se_crowd_cheer.mp3",
+      "size": 121581,
+      "updatedAt": 1784940522840,
+      "tags": []
+    },
+    "4e02bfcda8dd6d7e31f27c47f5581023": {
+      "path": "se/se_fire_crackling.mp3",
+      "size": 121581,
+      "updatedAt": 1784940486201,
+      "tags": []
+    },
+    "445d6a8bb127df23a463eb3187a6ca20": {
+      "path": "se/se_forge_hammer.mp3",
+      "size": 190701,
+      "updatedAt": 1784940644854,
+      "tags": []
+    },
+    "a7742d8900c7763672ba367a28387c80": {
+      "path": "se/se_night_watch_horse.mp3",
+      "size": 121581,
+      "updatedAt": 1784940393802,
+      "tags": []
+    },
+    "5547e502c2aa54d33bb0d592cfa639d8": {
+      "path": "se/se_rooster_crow.mp3",
+      "size": 84717,
+      "updatedAt": 1784940428019,
+      "tags": []
+    },
+    "9eda112f9ad3089e9ddf31cf47403079": {
+      "path": "se/se_sword_ring.mp3",
+      "size": 73197,
+      "updatedAt": 1784940333360,
+      "tags": []
+    },
+    "81028615cf1447c9063f928817ef6401": {
+      "path": "se/se_sword_thrust_ash.mp3",
+      "size": 49581,
+      "updatedAt": 1784940596686,
+      "tags": []
+    }
+  }
+}

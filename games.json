@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "site": {
+    "name": "織夢",
+    "description": "",
+    "updatedAt": "2026-07-25T08:29:07.617Z"
+  },
+  "games": [
+    {
+      "slug": "changjia-guilai",
+      "name": "君與客：長鋏歸來",
+      "version": "1.0.0",
+      "description": "",
+      "cover": "cg/cg_broken_sword_family.jpeg",
+      "chapters": 17,
+      "bytes": 116466592,
+      "updatedAt": "2026-07-25T03:27:35.786Z"
+    }
+  ]
+}

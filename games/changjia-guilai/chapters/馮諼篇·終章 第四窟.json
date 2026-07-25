@@ -1,0 +1,940 @@
+{
+  "id": "8c789d6b-ec0a-4da5-909e-d527beef5bda",
+  "name": "馮諼篇·終章 第四窟",
+  "fragments": [
+    {
+      "id": "645c5dae-e93c-4770-86a1-c1f9a69924c4",
+      "name": "main",
+      "blocks": [
+        {
+          "id": "962806bd-3ff7-47c9-83b0-dbc6c11574b9",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "aa0a2e7c-f196-4c9e-bbc3-1fc700e10a02",
+            "sceneName": "薛公府邸",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "900",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "9ee619b6-f05d-4e76-ba93-9d3ef4b8527b",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "bgm",
+            "uri": "bgm/bgm_27_dusk.mp3",
+            "volume": "70",
+            "loop": "true",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "25d8f68f-2a59-4ff9-9aee-279d7607187c",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "狡兔三窟，君姑高枕。這句話說完，史冊裡的馮諼，就漸漸沒了下文——為相數十年，馮諼之計也；再往後，這個名字，便消失在紙頁之外，彷彿功成之後，人也隨之煙消。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "8320d0b5-6ac4-4782-91cf-07a2804eafc8",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "【同刻·薛地】晚年的孟嘗君，經歷了田甲劫王的風波、謝病歸薛的離朝，終於中立於諸侯之間。史載那些年裡，馮諼早已不知去向，只留下他私匣裡那半片焚餘的舊券。",
+              "styles": {
+                "fontStyle": "italic",
+                "textColor": "#8899aa"
+              }
+            }
+          ]
+        },
+        {
+          "id": "754cde05-a2f5-46a8-a0b0-87a3858c7ad4",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "世人以為你走了。[wait=500]其實你沒有。你只是把自己，藏回了最初的那個位置——藏回薛地的市井、田壟、里巷之間，藏回那些你二十年前替他們燒過債、這些年替他們囤過糧的萬千人家中。你老了，鬚髮盡白，可你手裡還握著最後一件事沒做完。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "fc7f3972-9a7f-4413-b23c-cfe96d7873bb",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "三窟已就，保的是孟嘗君一世的安穩。可你比誰都清楚：三窟是藏身之窟，藏得了一時，藏不過身後。孟嘗君會老，會死；薛地失了主心骨，齊魏環伺，終有傾覆的一日。到那一天，三個窟，一個也保不住薛地的血脈。[wait=600]所以你要鑿第四個窟——一個史書上沒有、連孟嘗君都不知道的窟。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "1bb44b14-f198-4285-b2c2-29b34a4f6fcd",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "9943d239-23d8-4c90-8285-9aefe8b6054a"
+          }
+        }
+      ]
+    },
+    {
+      "id": "9943d239-23d8-4c90-8285-9aefe8b6054a",
+      "name": "第四窟",
+      "blocks": [
+        {
+          "id": "3987dce4-c383-4ad6-8441-082c9bcdc29d",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "df208539-8641-466a-bc54-5f40c6cef8b8",
+            "sceneName": "薛地城郊",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "800",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "8b5905a2-a267-4431-b3c8-1232e550a0f2",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "狡兔的三窟，都是藏身之所；你要鑿的第四窟，不藏身——它藏在人心裡。[wait=500]焚券買義那把火，過了二十年，仍在薛地萬家的灶頭上生著息。你要做的，是把這份「義」，鑄成一條真到危難之時能救命的活路。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "200182ff-37be-4c81-83b8-6c5a0b41f4b2",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "權勢會散，封邑會奪，城牆會塌，連狡兔的三個窟，都護不住一個必死的身後。可有一樣東西，兵火燒不盡、刀劍奪不走——那是二十年前你替他們從債裡撈出來的命，是他們記在骨子裡的那一聲「薛公」。[wait=500]你這一生算過無數的局，臨到末了才徹底想明白：真正藏得住一族血脈的，不是石頭鑿的窟，是千萬顆記著恩的心。這第四個窟，你要鑿在薛地每一戶人家的心口上——鑿得越深，將來那一夜，接力的手就越多。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "8ec47ed1-5dcc-4df7-804e-e98ebb14a695",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "趁著還有氣力，你把最後一口氣，都用在——",
+            "choices": "[{\"text\":\"通魏道：把當年替魏臣分玉結下的那條線，鋪成一條薛地通往魏境的流亡暗道\",\"mode\":\"jump\",\"fragmentId\":\"1ea69e74-18d2-4f8b-b86b-6205b1edb17b\"},{\"text\":\"實糧倉：把各鄉糧倉再囤滿，留作薛城傾覆之日，萬家逃難的口糧\",\"mode\":\"jump\",\"fragmentId\":\"d292734b-2512-4053-acc0-e3519c8d9dbf\"},{\"text\":\"托里正：把「城破之夜如何接力」的法子，一里一里，交代給那張里正的網\",\"mode\":\"jump\",\"fragmentId\":\"f14059d2-5283-4228-9124-e55fc8610f0f\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1ea69e74-18d2-4f8b-b86b-6205b1edb17b",
+      "name": "備-魏道",
+      "blocks": [
+        {
+          "id": "250b3f1b-7952-489b-b9ff-b21cb665d222",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你選了通魏道。當年在驛道上救的那個魏臣、分出去的那半塊玉，替孟嘗君換來過一場復相的大戲；如今，你要它再還一次情——這一次，換一條活路。[wait=500]你藉著那條舊線，在薛地與魏境之間，悄悄鋪下一條無人知曉的暗道：哪一段有魏人接應，哪一處可藏身歇腳，你都一一安排妥當。這條道平時無用，可薛城傾覆的那一夜，它就是萬千逃命者唯一的生門。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "a73c6c3e-9762-4e10-a1e3-632ec6e90006",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "323608d8-9af3-4d04-a4df-e298494635a9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d292734b-2512-4053-acc0-e3519c8d9dbf",
+      "name": "備-糧倉",
+      "blocks": [
+        {
+          "id": "79e34dc0-822c-4861-bc49-b82061c3161c",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你選了實糧倉。你把這些年在薛地各鄉囤下的糧倉，一座座再填滿——不為荒年，為的是那個誰也不願提起的日子：薛城破的那一夜。[wait=500]逃難的人走不了多遠，就會餓倒在半道；有糧，才走得出重圍。你把糧藏在魏道沿途的隱蔽處，一程一程接續下去，像替一場尚未到來的大逃亡，預先鋪好了活命的口糧。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "cf823193-99a3-4198-8f24-29410bf1c5fc",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "323608d8-9af3-4d04-a4df-e298494635a9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f14059d2-5283-4228-9124-e55fc8610f0f",
+      "name": "備-里正",
+      "blocks": [
+        {
+          "id": "115551c0-af52-4407-acbc-ea9d6b7ed8d5",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你選了托里正。真到城破那一夜，官府潰散，能組織起萬家百姓的，只有那張你經營了半生的里正網。[wait=500]你把「城破之夜怎麼辦」的法子，一里一里，掰開揉碎地交代下去：哪一家先開門，哪一戶接哪一戶，火把怎麼傳，孩子與老人先走哪條道。你把一場亂世裡最難的有序逃亡，拆成了每一個尋常人家都做得到的一件小事。這張網記住了，薛地的人，就散不了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e530a587-98fa-4aed-bd10-889a918607b8",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "323608d8-9af3-4d04-a4df-e298494635a9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "323608d8-9af3-4d04-a4df-e298494635a9",
+      "name": "訣別",
+      "blocks": [
+        {
+          "id": "18bb487f-6c0c-4c31-b1d4-f683cbb22d13",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "aa0a2e7c-f196-4c9e-bbc3-1fc700e10a02",
+            "sceneName": "薛公府邸",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "800",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "c161477b-8720-46a4-bc25-c5fa3d73fdcc",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你把第四窟一寸一寸鑿著的這些年，孟嘗君也一日一日地老下去了。終於有一天，薛公府傳出消息：老封君病重，怕是熬不過這個秋天了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "73a46a6c-5d39-4448-8e4c-d9002ee04595",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你趕到他的病榻前。這個你考較了一年、輔佐了半生的人，如今枯瘦地陷在錦被裡，眼睛卻還亮著。他望著你，很久很久，那目光裡有你熟悉的東西——函谷道上的疑惑，焚券堂上的震怒，百里道旁的心折，都在那一雙渾濁的眼睛裡，沉澱成了最後的了然。[wait=600]他這一生見過的人太多，可到了最後，守在榻前的，是這個他曾經最看輕、後來最倚重、卻始終沒能完全看懂的食客。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "642fe824-d7e1-4a7d-a04d-40f9f04b16aa",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你想起初見那日，他在正堂問你「客何好」「客何能」，你答「無好」「無能」；想起三彈其鋏時滿堂的訕笑，焚券覆命時他那一句「先生休矣」，百里相迎時他紅著眼的「乃今日見之」。一年又一年，你替他鑿窟、擋災、謀全局，他從看輕你，到倚重你，到此刻榻上這一雙捨不得移開的眼睛。[wait=600]你們這對君臣，走了很長很長的一段路。而你藏在最底下的那個名字、那樁來歷，他至今，還缺著最後一塊。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "03523c4d-b2f4-4d00-a570-894b30151068",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你握住他的手。二十年的謎底，此刻就壓在你的舌尖——薛地、舊鋏、那座被債逼死的家、那個抱劍站到天亮的孩子。你這半生藏得太深，深到連你自己都快忘了，最初走進這扇門，究竟是為了什麼。[wait=600]該不該說，能不能說，說了他受不受得住——這最後一問，答案不在你，在你們這一路走來，究竟攢下了多少史書寫不進去的東西。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "85a1b8c9-b923-4f57-b1ce-e23c93f5e637",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "24ff544a-9aa9-4613-b816-4a63a59b1d8d"
+          }
+        }
+      ]
+    },
+    {
+      "id": "24ff544a-9aa9-4613-b816-4a63a59b1d8d",
+      "name": "信任門",
+      "blocks": [
+        {
+          "id": "13b7fb10-5040-4a37-b014-97f8df81ea6b",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "",
+            "choices": "[{\"text\":\"（這一路，你到底沒能對他敞開；有些話，帶進土裡罷……）\",\"mode\":\"jump\",\"fragmentId\":\"51cec638-3a5c-42dd-b1a6-b89c997519a3\",\"visibleIf\":\"{\\\"conditions\\\":[{\\\"left\\\":\\\"主公信任\\\",\\\"op\\\":\\\"<=\\\",\\\"rightKind\\\":\\\"literal\\\",\\\"rightLiteral\\\":\\\"2\\\"}],\\\"logicOp\\\":\\\"and\\\"}\"},{\"text\":\"（這一路的同舟，早已捂開了那道二十年的牆……）\",\"mode\":\"jump\",\"fragmentId\":\"b44941c1-355e-46ad-9e3a-fb558d198679\",\"visibleIf\":\"{\\\"conditions\\\":[{\\\"left\\\":\\\"主公信任\\\",\\\"op\\\":\\\">=\\\",\\\"rightKind\\\":\\\"literal\\\",\\\"rightLiteral\\\":\\\"3\\\"}],\\\"logicOp\\\":\\\"and\\\"}\"}]"
+          }
+        },
+        {
+          "id": "0cb66018-deaa-4c5a-a31b-d479e398c3fb",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "51cec638-3a5c-42dd-b1a6-b89c997519a3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b44941c1-355e-46ad-9e3a-fb558d198679",
+      "name": "真結局門",
+      "blocks": [
+        {
+          "id": "4bc45747-6807-4427-8651-b7597275e188",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "",
+            "choices": "[{\"text\":\"（半券、舊鋏、玉佩，他都認了；器量容得下真相，暗線乾淨無瑕——四窟，成了）\",\"mode\":\"jump\",\"fragmentId\":\"c2846975-fe77-4fdd-a839-46a0e9de168a\",\"visibleIf\":\"{\\\"conditions\\\":[{\\\"left\\\":\\\"器量\\\",\\\"op\\\":\\\">=\\\",\\\"rightKind\\\":\\\"literal\\\",\\\"rightLiteral\\\":\\\"2\\\"},{\\\"left\\\":\\\"收起半券\\\",\\\"op\\\":\\\">=\\\",\\\"rightKind\\\":\\\"literal\\\",\\\"rightLiteral\\\":\\\"1\\\"},{\\\"left\\\":\\\"認出舊鋏\\\",\\\"op\\\":\\\">=\\\",\\\"rightKind\\\":\\\"literal\\\",\\\"rightLiteral\\\":\\\"1\\\"},{\\\"left\\\":\\\"追問玉佩\\\",\\\"op\\\":\\\">=\\\",\\\"rightKind\\\":\\\"literal\\\",\\\"rightLiteral\\\":\\\"1\\\"},{\\\"left\\\":\\\"細作肅清\\\",\\\"op\\\":\\\">=\\\",\\\"rightKind\\\":\\\"literal\\\",\\\"rightLiteral\\\":\\\"1\\\"},{\\\"left\\\":\\\"行險栽贓\\\",\\\"op\\\":\\\"<=\\\",\\\"rightKind\\\":\\\"literal\\\",\\\"rightLiteral\\\":\\\"0\\\"}],\\\"logicOp\\\":\\\"and\\\"}\"}]"
+          }
+        },
+        {
+          "id": "331ff181-0423-41cc-b782-5721d4a49a45",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "d40d1b06-1ab2-40b7-942b-6eb0a3c8fa0f"
+          }
+        }
+      ]
+    },
+    {
+      "id": "51cec638-3a5c-42dd-b1a6-b89c997519a3",
+      "name": "結局-正史",
+      "blocks": [
+        {
+          "id": "e0da53dc-ebb4-44f5-aca8-5da3f48831aa",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "9e645682-cf1c-45c3-baed-b41d56adfcee",
+            "sceneName": "臨淄相府正堂",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "900",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "45b4e51c-a51b-4291-a513-06bd5339f635",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "bgm",
+            "uri": "bgm/bgm_28_fading.mp3",
+            "volume": "68",
+            "loop": "true",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "0a851d41-7fd1-42eb-80ca-738a672b2aee",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你到底沒有說。[wait=600]你這一生，把「示弱是破綻，交心是把柄」奉為鐵律，走到最後一步，也沒能為他破例。你只是握著他的手，看著他的呼吸一點點淺下去，把那二十年的謎底，連同你的來歷、你的私願，一起嚥回了肚裡。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "725e2d4c-86fa-45a4-8071-82f306b6cbe5",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "孟嘗君走了。他到死也不知道，那個替他燒券、鑿窟、謀了半生的食客，究竟是誰、為何而來。他握著的，始終只是一個「賢士馮諼」的空名。[wait=500]喪事畢，你悄然離開了薛地。三窟已就，私願已了，一個「不求聞達、只求了局」的人，本就該在功成之後，乾乾淨淨地消失。史冊替你這半生的運籌，只留下五個字：「馮諼之計也。」——然後是一片空白。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "1a7c67b8-b5c7-428e-819c-e59707c13291",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "【史筆】其後，孟嘗君卒。諸子爭立，齊魏共滅薛。孟嘗絕嗣，無後也。——《史記》的句號，重重落下，滿目蒼涼。",
+              "styles": {
+                "fontStyle": "italic",
+                "textColor": "#8899aa"
+              }
+            }
+          ]
+        },
+        {
+          "id": "fc7bdf0e-25bb-4bf1-90e7-40e7f54cf3e0",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你沒能鑿成第四窟。不是你不肯，是那扇本該由「信任」推開的門，始終差著一線——你藏了一輩子，終究沒讓那個人，走進你的心裡來。第四窟藏於民心，可它經不起一段沒能交底的君臣情。[wait=600]薛地傾覆的那一夜，糧倉還在，魏道還在，里正的網也還在；只是群龍無首，人心一散，那條你鋪好的活路，終究沒能有人，把萬家一程一程地送出去。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "591f5498-552e-4e24-811f-f9f1382a48b7",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "多年以後，薛地成了一片廢墟。有人說，曾見一個白髮老者，獨自立在焦土之上，將一柄劍插進地裡，轉身走進了流離的人群，從此再沒有人見過他。[wait=600]史書上，馮諼消失的那一頁，是一片乾淨的空白。你的故事，和薛地一起，蒼茫地，落了幕。",
+              "styles": {}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d40d1b06-1ab2-40b7-942b-6eb0a3c8fa0f",
+      "name": "結局-準",
+      "blocks": [
+        {
+          "id": "b148a86f-f362-4457-a1a0-3e3ad3f8b661",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "aa0a2e7c-f196-4c9e-bbc3-1fc700e10a02",
+            "sceneName": "薛公府邸",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "900",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "ee2135c7-8514-4d68-8046-757d03041ae1",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "bgm",
+            "uri": "bgm/bgm_29_late_recognition.mp3",
+            "volume": "72",
+            "loop": "true",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "45c7c487-fe3b-4fc4-9f1e-8e6b1fd22b16",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "這一次，你沒有把話嚥回去。[wait=600]這一路的同舟共濟，早已把你那道二十年的牆，一寸一寸捂開了。你俯下身，在他耳邊，把藏了半生的一切，輕輕說了出來——薛地，鑄劍的父親，被債逼死的一家，那個抱劍站到天亮的孩子，還有你走進他門那一日，真正的來意。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "611a4e81-10fd-48e2-807d-936e7bb96429",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "孟嘗君聽著，渾濁的眼睛裡，一點一點漾開了了然。他抬起枯瘦的手，指了指床頭那只舊漆匣——匣裡，是那片他收了一輩子、卻始終沒看懂的半券。原來焚券那日你留給他的無聲坦白，他雖不解其意，卻替你，珍重地收了這麼多年。[wait=600]此刻謎底揭開，那七個名字、那半片焦券的分量，他終於全懂了。他望著你，嘴唇動了動，卻沒有力氣再說出一個字。君臣相顧，唯有無言。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "2f2dea9e-2037-4ae5-b8aa-7ed49acdddc0",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5e9c0bd-260c-426e-b6d9-8fc8100d43bb",
+            "characterName": "孟嘗君",
+            "expression": "病榻",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「先生……原來……[wait=700]文負先生，二十年。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "768caed8-55df-4935-9fe3-d1403c52fec9",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "他懂了，你也把話說盡了。這一刻的相知，抵得過二十年的孤身。[wait=500]只是——有些東西，光有相知還不夠。你替他鑿的第四窟，還缺著一角：或是那容得下真相的器量差了一分，或是三件信物裡有一件他終究沒能認出，或是當年焚券時，那一味不該摻的毒還留在暗處。第四窟藏於民心，經不起一絲缺憾。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d7652979-b69d-4e7b-ba35-887044aed733",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "【史筆】孟嘗君卒。諸子爭立，齊魏共滅薛。——句號依舊落下，只是這一次，薄涼裡多了一點溫度：至少在最後，他懂了你。",
+              "styles": {
+                "fontStyle": "italic",
+                "textColor": "#8899aa"
+              }
+            }
+          ]
+        },
+        {
+          "id": "b2b04131-58f5-47b8-8ec1-e0ddebceb1a0",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "薛地終究還是傾覆了。你鋪的魏道、囤的糧、結的網，救出了一部分人，卻沒能把孟嘗君的血脈與宗祠，完完整整地送出重圍。史書上「孟嘗絕嗣」四個字，還是寫下了——只是你知道，這四個字底下，藏著一場雖敗猶暖的相知。[wait=600]白髮的你，最後一次立在薛地的殘垣上，將那柄舊鋏插進焦土。你沒有遺憾他不懂你——他懂了。你遺憾的，是懂得來得太遲，遲到只夠道別，不夠並肩，再走一程。",
+              "styles": {}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2846975-fe77-4fdd-a839-46a0e9de168a",
+      "name": "結局-真",
+      "blocks": [
+        {
+          "id": "76bc5ed2-f46e-4584-8807-a460f20d12be",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "aa0a2e7c-f196-4c9e-bbc3-1fc700e10a02",
+            "sceneName": "薛公府邸",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "900",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "13ecebae-e92c-4933-be2f-e20d55c8e34a",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "bgm",
+            "uri": "bgm/bgm_30_true_ending.mp3",
+            "volume": "80",
+            "loop": "true",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "540d4029-b2cc-4c75-98c1-ebfe92f64bd6",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你把話說了。[wait=600]薛地，舊鋏，被債逼死的家，那個抱劍站到天亮的孩子——你一字一句，說給榻上的人聽。而他，早已認得那半塊玉、那柄工字劍、那片七名的焦券；此刻你把最後一塊拼圖遞給他，他心裡那幅圖，終於完整了。他不驚，不怒，只是極輕地笑了——彷彿等這一刻，等了很久。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ad2a8538-29e2-4a7d-8c5e-a10f1aec8252",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5e9c0bd-260c-426e-b6d9-8fc8100d43bb",
+            "characterName": "孟嘗君",
+            "expression": "微笑",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「文早該猜到的。[wait=500]能為一城人繞這樣一個大圈的，普天之下，只有先生一人。[wait=600]薛地的事……身後的事，文，都託付先生了。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ab21201b-8183-41c8-a683-aa8c6d64f0ef",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "這一句「託付」，比當年相府裡那一次，重了千鈞。他把薛地的防務、庶孫的性命、宗祠的牌位，連同他這一生的身後事，盡數交到了你手上。因為他終於徹底地懂了、也徹底地信了：眼前這個人，二十年前繞了大半個天下走進他的門，圖的從來不是他，是薛地萬民的一個了局。[wait=600]孟嘗君闔上眼時，臉上是安詳的。他知道，有這樣一個人替薛地守著，這方水土，就還有救。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "f8fda271-c353-4fde-805c-d2f156e87437",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "【那一夜】孟嘗君卒。諸子爭立，齊魏合兵，圍薛。城，終究是破了。史官提筆，正要寫下那句「孟嘗絕嗣，無後也」——",
+              "styles": {
+                "fontStyle": "italic",
+                "textColor": "#8899aa"
+              }
+            }
+          ]
+        },
+        {
+          "id": "8b3ca056-257e-4bfd-890f-0c2b7976f9fc",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "可那一夜，薛地沒有像史書寫的那樣，隨城破而死絕。[wait=600]齊魏的兵鋒撞開薛城的那一刻，城中萬家的燈，一盞接一盞地亮了。當年被那把火從債裡撈出來的人家，記著二十年前的恩，此刻傾巢而出——開門的開門，接應的接應，火把一程一程地傳。他們順著你鋪下的魏道，就著你囤好的糧，循著里正網早已排定的次序，把孟嘗君的庶孫、把宗祠的牌位，藏在柴車裡、裹在襁褓中，一戶交一戶，一里送一里，硬是從齊魏合圍的鐵桶裡，撕開了一道生門。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ceb2e874-f664-48a9-875a-b83e4d1d6f07",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "845a9ea4-b832-4d7a-b592-d6024825400c",
+            "sceneName": "CG·萬家燈火",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "600",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "07166bfc-d953-426d-b2e8-8f87cbfd843f",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "薛城破了，薛地的人，卻沒有亡。[wait=600]史官那支正要落下的筆，被這一夜的萬家燈火，硬生生截住了。「孟嘗絕嗣」的句號，被改寫成了一個史官永遠看不見的逗號——孟嘗的血脈，宗祠的香火，隨著流徙的薛民，在魏境的某一處，悄悄扎下了根，活了下來。這，就是狡兔的第四窟：不藏身，藏於民心；焚券之義過了二十年，終於在最黑的那一夜，連本帶利，還給了薛地。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "4cd511bf-19c7-4da6-9d55-d657bbc1498d",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "2f581b0b-57bb-4cff-b188-0ba9fe40c787",
+            "sceneName": "CG·插劍焦土",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "600",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "609d8051-8d94-4025-8193-222f6d333f4b",
+          "type": "camera",
+          "props": {
+            "disabled": false,
+            "offsetX": "",
+            "offsetY": "",
+            "zoom": "1.12",
+            "duration": "4000",
+            "easing": "easeInOut",
+            "waitForComplete": "false",
+            "targets": "scene,characters",
+            "distortionStrength": "",
+            "vignetteIntensity": "",
+            "vignetteSize": "",
+            "colorToneMode": "none",
+            "colorToneIntensity": "",
+            "oldFilmIntensity": "",
+            "shockIntensity": "",
+            "lutPreset": "",
+            "lutIntensity": "",
+            "shakeAmplitude": "",
+            "shakeFrequency": "",
+            "shakeDuration": "",
+            "shakeFalloff": "linear",
+            "shakeAxis": "both",
+            "focalDistance": "",
+            "blurStrength": "",
+            "blurAmount": ""
+          }
+        },
+        {
+          "id": "45181343-e1ef-4c71-9920-aa3c54f598b6",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "SE",
+            "soundId": "",
+            "uri": "se/se_sword_thrust_ash.mp3",
+            "volume": "88",
+            "loop": "false",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "a5a4ca45-4521-420a-b335-3730f16ee453",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "天亮時，薛地已成一片焦土。逃散的人群裡，一個白髮蒼蒼的老者，最後一次回望這片生他、毀他、又被他親手救回的土地。[wait=600]他走到廢墟中央，將那柄跟了他一生、劍格上刻著「工」字的舊鋏，深深插進焦黑的泥土裡——像替父親、替母親、替那座斷了的家，還了最後一炷香。然後他直起身，轉過臉，一步一步，走進了那流離卻未曾散去的人群中。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ee98eb82-a68a-4259-a81f-79597f7adbde",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "從此，再沒有人見過馮諼。[wait=800]史冊上，他消失的那一頁，是一片空白——而這一次，那片空白裡，嚴嚴實實地，藏著一整個薛地活下來的人。他終於和那一頁重合了：世人只道他功成身退、不知所終；只有薛地的萬家燈火知道，那個插劍於焦土、走進人群的老者，把自己，也藏進了他親手鑿成的、那第四個窟裡。",
+              "styles": {}
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

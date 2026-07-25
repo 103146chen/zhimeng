@@ -1,0 +1,41 @@
+{
+  "id": "67192993-032d-4926-a050-e5b9589f6a9e",
+  "name": "君與客：長鋏歸來",
+  "version": "1.0.0",
+  "engineVersion": "1.0.0",
+  "resolution": {
+    "width": 1920,
+    "height": 1080
+  },
+  "backgroundColor": "#000000",
+  "window": {
+    "lockAspectRatio": true,
+    "allowMaximize": true,
+    "allowFullscreen": true,
+    "launchMode": "windowed"
+  },
+  "chapterOrder": [
+    "開始",
+    "孟嘗君篇·序章 五月之子",
+    "孟嘗君篇·第一章 薛公三千客",
+    "孟嘗君篇·第二章 函谷雞鳴",
+    "孟嘗君篇·第三章 彈鋏之客",
+    "孟嘗君篇·第四章 薛地焚券",
+    "孟嘗君篇·第五章 就國於薛",
+    "孟嘗君篇·第六章 三窟高枕",
+    "孟嘗君篇·終章 薛土蒼茫",
+    "馮諼篇·序章 斷劍之家",
+    "馮諼篇·第一章 白手素劍",
+    "馮諼篇·第二章 咸陽暗渡",
+    "馮諼篇·第三章 三彈三問",
+    "馮諼篇·第四章 火中取契",
+    "馮諼篇·第五章 百里相迎",
+    "馮諼篇·第六章 梁使玉佩",
+    "馮諼篇·終章 第四窟"
+  ],
+  "extensions": {},
+  "extensionSettings": {},
+  "publishSettings": {
+    "allowDialogueSkip": false
+  }
+}

@@ -1,0 +1,1721 @@
+{
+  "id": "edbc59c3-18cb-44e1-8ffb-b0ec3746ce55",
+  "name": "孟嘗君篇·第一章 薛公三千客",
+  "fragments": [
+    {
+      "id": "08aebf29-c9a4-4689-83b3-ca89e5607982",
+      "name": "main",
+      "blocks": [
+        {
+          "id": "9b42a35f-5d6c-4133-b9d5-a56f3efdf8d1",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "aa0a2e7c-f196-4c9e-bbc3-1fc700e10a02",
+            "sceneName": "薛公府邸",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "800",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "cb4a872f-bbfd-4a91-b322-a93ea8e6cfee",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "bgm",
+            "uri": "bgm/bgm_02_banquet.mp3",
+            "volume": "75",
+            "loop": "true",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "cdf95d3f-ca84-4a10-a862-9e0eb08da9f0",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "薛公府的清晨，是被三千雙筷子叫醒的。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "909597b2-bc64-431f-ae6e-542fe7665055",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "上舍曰代舍，出有車；中舍曰幸舍，食有魚；下舍曰傳舍，粗飯管飽。三進客舍自成一座小城，城裡住著天下人：說劍的、談王霸的、算帳的、相馬的、雞鳴狗盜無所不有——也有不少人，什麼都不會，就會吃飯。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "98615b09-d087-42f1-9c4b-c7c755246a41",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "每月朔望，你親自省視客舍。這是你給自己立的規矩。走過代舍，談兵的正拿箸在案上排八陣；走過幸舍，兩個辯士為「白馬非馬」吵得面紅耳赤，見你來了，齊齊拱手，又接著吵。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "168ed94e-7667-46a0-90b5-f6b8c57f7153",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "走到傳舍，光景就雜了：相馬的、屠狗的、算命的、帶著一身舊傷不肯說來歷的。有個逃了罪來投的亡人，見你進來，下意識把臉別過去。你只當沒看見，照例問了句：飯食可還吃得慣？",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "870a9193-452c-49cc-ad7f-7403c7f19c41",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "有人勸你裁汰——留其賢者，去其濫竽，一歲可省千金。你沒有。你的規矩只有一條：食客三千，無貴賤，一與文等——吃的，跟你自己案上的一樣。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "0c16dc8f-7450-48d9-b1d2-0481e3e69b6c",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "因為你比誰都清楚「無用之人」四個字是什麼滋味。五月五日出生的孩子，按理說，也是個不該留的。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "42f25adf-34ba-4146-ba06-fcbe5ff0c9e4",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "08497ae5-7888-4803-816d-1e70056f8a26",
+            "characterName": "座中門客",
+            "expression": "平靜",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「君上待士如此，天下歸心。只是——三千張嘴，一日兩餐，薛邑一歲的貢賦，怕是撐不了多久了。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "b631edbd-9e8f-4106-a8a4-315c3eb15821",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "這句話你聽過不止一次了。你也知道，他說的是實情。但那是帳房的事——今晚，先有一場宴。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c5996171-7ae5-4940-a20f-25f3d7d60308",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "36d3369c-9981-4559-9517-a984fcfe9052"
+          }
+        }
+      ]
+    },
+    {
+      "id": "36d3369c-9981-4559-9517-a984fcfe9052",
+      "name": "夜宴",
+      "blocks": [
+        {
+          "id": "e59dae2b-74bf-4722-85a7-e3f8e9d42f61",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "58584e8a-3a93-410f-b1ae-cc4a7622b7f4",
+            "sceneName": "府邸·夜宴",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "700",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "000c4b99-d172-4b8b-8af4-762a116d9d54",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "夜宴。你照例與門客同堂而食——這也是規矩之一。三千人輪番赴宴，你的食案設在堂中，不高於人，不隔於人。酒過三巡，堂上談笑正歡。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "281811dc-0742-4d3d-b05b-193cf4b73607",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "燈燭在座間投下深深淺淺的影子。有一處燭火恰好被人擋住，把最下席的一張食案罩進了昏暗裡——誰也沒有留意這一角燈影，直到一聲怒喝劈開了滿堂笑語。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "9a1880a9-4035-4921-a401-52e412fd5d57",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "08497ae5-7888-4803-816d-1e70056f8a26",
+            "characterName": "下席怒客",
+            "expression": "怒",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「——好一個『一與文等』！」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "9594b33f-5373-408f-91c7-6cb208ba7459",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "下席一名客人猛地站了起來，指著自己案上的飯食，聲音震得滿堂皆靜。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "3ac20516-5362-4c1b-83c9-c5faddd3e566",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "08497ae5-7888-4803-816d-1e70056f8a26",
+            "characterName": "下席怒客",
+            "expression": "怒",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「燈影裡看不真切，才敢給我們下席的人上次一等的飯食吧！薛公養士的名聲，原來是這麼養出來的。此處不留人——告辭！」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "94b6e1cb-8ac3-440b-bf05-cf1a9df5c635",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "滿堂的目光一齊落到你身上。三千人的規矩，成敗就在你接下來的一動。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e3923a99-c00d-4cd7-a8a4-8c45ead069c6",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "怒客輟食欲去。你——",
+            "choices": "[{\"text\":\"起身，親自捧起自己的飯食，走到他案前比給他看\",\"mode\":\"jump\",\"fragmentId\":\"e6343455-39ea-426b-81b4-ab713b8b2460\"},{\"text\":\"命人撤去座間屏燭，滿堂通明，讓所有人自己看\",\"mode\":\"jump\",\"fragmentId\":\"145a7074-cb5f-44b7-9f1d-b37f81630f9f\"},{\"text\":\"「疑主不明，士之恥也。送客。」\",\"mode\":\"jump\",\"fragmentId\":\"ca272a66-6763-42d2-b02d-20adbdd658d4\"},{\"text\":\"笑而不辯，命庖廚替他換一份上席的食饌\",\"mode\":\"jump\",\"fragmentId\":\"b09d01c9-4c6b-4b7c-83b5-75527f9cb083\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "e6343455-39ea-426b-81b4-ab713b8b2460",
+      "name": "宴-比飯",
+      "blocks": [
+        {
+          "id": "6ea38ef5-0015-45dd-8c04-4045b0e7c0de",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你沒有說話。你起身，雙手捧起自己案上的食器，一步一步走到他的案前，放下，並排。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c04fb2cd-7d71-454e-8310-0d465e23dc8c",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "一樣的黍飯，一樣的菜羹，一樣的魚。滿堂寂靜裡，那名客人怔怔地看著兩份一模一樣的飯食，臉上的血色一寸一寸褪了下去。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "845404d7-e843-4fed-8a08-9275d101a8b9",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "08497ae5-7888-4803-816d-1e70056f8a26",
+            "characterName": "下席怒客",
+            "expression": "慚愧",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「文以身待士……而我以小人之心度之。無面目復立於君之門下。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "3ccb1b6d-ae6d-4535-b5ae-2fad6b54c3fc",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "當夜，那名客人自剄以謝。你趕到時，只來得及替他闔上眼睛。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "6aae5b74-85a5-4b5b-a061-d81e6d09b225",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你下令以上客之禮葬他。此事傳出去，天下士人愈發歸心——可只有你自己知道，那雙闔不上的眼睛，你記了很多年。士以此多歸孟嘗君；而你第一次明白，「信」這個字在士人心裡，比命還重。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d0f18e62-48a5-412c-9168-aae27c10669c",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "器量",
+            "op": "+=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "41d34842-c019-4cee-a678-317a4b0c58cd",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "b4d294a9-842f-438f-9571-4eb85ebfa92e"
+          }
+        }
+      ]
+    },
+    {
+      "id": "145a7074-cb5f-44b7-9f1d-b37f81630f9f",
+      "name": "宴-撤燭",
+      "blocks": [
+        {
+          "id": "3fe1c7b7-0dd6-48c1-a0c6-cd9eeae69223",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「撤燭。」你只說了兩個字。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e1585a9e-8bda-40de-96e3-136734cf174d",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "僕役把座間屏燭盡數撤去，堂上霎時通明。三千張食案，從上席到下席，一目瞭然——一樣的黍飯，一樣的菜羹，一樣的魚。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ec39e270-dc15-47b5-b9af-e4fd0158964c",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "那名客人環視一周，臉色由紅轉白，長揖到地，退回了座位。宴席重新熱鬧起來，像什麼都沒有發生過。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "888ed195-cb95-4933-bcc3-74a174ea29f8",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你讓事實自己說話，不折辱他，也不寬慰他。這是最穩妥的辦法——不費一言，不損一人，規矩自明。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "b1222c0f-b16b-4bae-aa0c-0750bff8aae9",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "只是散席之後，那名客人在門房留下了一封謝罪書，天不亮就離開了薛地。滿堂通明，照見了飯食，也照見了他自己——有些羞慚，是留不住人的。你收起那封謝罪書時想：若當時走過去的是你本人，而不是燭火，他或許就留下了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "0285a59e-e0d1-45bc-8e15-5ddf367137bf",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "b4d294a9-842f-438f-9571-4eb85ebfa92e"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ca272a66-6763-42d2-b02d-20adbdd658d4",
+      "name": "宴-斥客",
+      "blocks": [
+        {
+          "id": "81347829-8731-4447-a2a4-13090f27dd0c",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5e9c0bd-260c-426e-b6d9-8fc8100d43bb",
+            "characterName": "孟嘗君",
+            "expression": "怒",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「文與三千客同飯同食，行之有年。疑主不明，士之恥也。[wait=500]送客。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "07a53002-fc39-46e0-b531-9ad664b4dd5a",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "堂上鴉雀無聲。那名客人漲紅了臉，甩袖而去。你維護了規矩的尊嚴——當眾疑主，確實無禮在先。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ebc87340-30b4-49bc-b20b-6901d3abf987",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "只是這名客人歸鄉之後，逢人便講薛公府的飯食分三六九等。謠言長著腿，比車馬跑得快。那年入冬，來投的士人比往年少了三成。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c99ab209-cd39-42e6-a3b1-d7f4efb1aea9",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "器量",
+            "op": "-=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "ca6c7c33-963a-41f7-b314-91b347c84820",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "b4d294a9-842f-438f-9571-4eb85ebfa92e"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b09d01c9-4c6b-4b7c-83b5-75527f9cb083",
+      "name": "宴-換菜",
+      "blocks": [
+        {
+          "id": "abc160e9-d676-4efb-af73-5a993beb0e06",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你笑了笑，沒有辯，也沒有惱，只吩咐庖廚：給這位先生換一份上席的食饌。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c7de7bba-920c-4fe9-9166-ea007e8c66be",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "客人一愣，反倒下不來台。換來的食饌與原先那份擺在一起——一模一樣。他訥訥坐下，滿堂轟然大笑，這一段就此揭過。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "bb086f4b-98e0-4aad-b3dd-032631ad7457",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你用一份飯的人情，換了滿堂和氣。只是私下裡，門客們議論：君上待人是極好的，只是這「好」裡，聞得出幾分生意人的精明。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "dd55e57e-6bad-40f8-a263-328ae09b1d7f",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "b4d294a9-842f-438f-9571-4eb85ebfa92e"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b4d294a9-842f-438f-9571-4eb85ebfa92e",
+      "name": "宴後",
+      "blocks": [
+        {
+          "id": "56b1a94c-ee54-41b0-a09b-5b2cf70dc5fa",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "宴席的風波過去了，帳房的難題卻躲不過去。歲末，管家把帳冊捧到你面前，一頁一頁翻給你看。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d01bbebc-edc7-49de-a726-17480320046b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "薛邑歲入若干，客舍歲用若干；車馬芻豢若干，四時衣賜若干；喪葬周急、遣使問遺又若干。兩相抵扣，赤字刺眼——邑入不足以奉客。薛地一歲的貢賦，已經填不滿三千張嘴了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "97895a83-4bdc-4a2a-82af-cf50bcff4753",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "裁客，你不肯；減食，壞的是「一與文等」的根本。管家垂手立了半晌，低聲說出第三條路。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "8741fe5e-be6f-4569-bd3e-3535ff8388c2",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "效他家故事，出息錢於薛——把府庫的閒錢貸給薛地的百姓：農人貸去買種買牛，鹽戶貸去支灶，商販貸去進貨，歲收其息，以奉客用。錢生錢，兩不相誤。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "68bd8161-136a-4b80-9cf6-f0825650f73b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "放債收息，古已有之。只是這一筆筆貸出去的，是錢；將來一筆筆收回來的，就不只是錢了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "2ba24eb6-b528-4e43-ae71-1aa36a741b4d",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "出息錢於薛。你批——",
+            "choices": "[{\"text\":\"「准。息從薄，勿奪民食。」\",\"mode\":\"vars\",\"varOps\":[{\"key\":\"薛地民心\",\"op\":\"+=\",\"aKind\":\"lit\",\"aLit\":\"1\",\"aVar\":\"\",\"bKind\":\"none\",\"bLit\":\"\",\"bVar\":\"\",\"binOp\":\"+\"}]},{\"text\":\"「准。息從市例，公私兩便。」\",\"mode\":\"vars\",\"varOps\":[{\"key\":\"薛地民心\",\"op\":\"+=\",\"aKind\":\"lit\",\"aLit\":\"0\",\"aVar\":\"\",\"bKind\":\"none\",\"bLit\":\"\",\"bVar\":\"\",\"binOp\":\"+\"}]},{\"text\":\"「家計細務，勿復以聞。」全權委於胥吏\",\"mode\":\"vars\",\"varOps\":[{\"key\":\"薛地民心\",\"op\":\"-=\",\"aKind\":\"lit\",\"aLit\":\"1\",\"aVar\":\"\",\"bKind\":\"none\",\"bLit\":\"\",\"bVar\":\"\",\"binOp\":\"+\"}]}]"
+          }
+        },
+        {
+          "id": "9478b4ad-b887-48c2-bfc4-3ecece0f6f6b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "自此，薛公府的錢，流進了薛地的田畝、鹽灶與市肆。你很少再過問這件事——你不知道的是，多年以後，會有一個人替你把這本帳，連本帶利地算個清楚。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "3593f9cf-27ee-4245-a033-1e697ad3cdad",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "9159b2e1-e6be-43ef-8887-4e119e91548e"
+          }
+        }
+      ]
+    },
+    {
+      "id": "9159b2e1-e6be-43ef-8887-4e119e91548e",
+      "name": "流民",
+      "blocks": [
+        {
+          "id": "2364ed6a-7b5f-4774-a88a-ba5fe1737912",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "aa0a2e7c-f196-4c9e-bbc3-1fc700e10a02",
+            "sceneName": "薛公府邸",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "600",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "618b622f-e604-4123-80ac-773f6ef85dc4",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "第二年開春，薛地歉收。去歲的息錢疊上今春的青黃不接，田裡的人家便撐不住了。門房來報：府門外聚了幾十口人，扶老攜幼——不是來投的士，是薛地的流民。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "1ad8be12-b04d-491b-bbc9-405ef35bfcc5",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "士投薛公之門，天經地義；民聚薛公之門，卻是頭一遭。門吏不知該不該開門，只得來請示你。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ed09c4ad-4a7c-4a64-9070-3121544a5e87",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你到門樓上看了一眼。人群衣衫襤褸，卻不喧嘩：老人靠牆根坐成一排，婦人把孩子攏在懷裡，連哭聲都是壓著的。有個五六歲的男孩仰著頭往門樓上看，被他阿母一把按下腦袋去。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "a7a6775e-ca2d-4815-a8ca-2c77bb3668cb",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "為首答話的是個沉默的老者。門吏問一句，他答一句：幾戶、幾丁、幾畝田、各欠多少息錢，張口就來，條理分明得不像個逃荒的。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "2560dace-0d43-4e03-b1f2-1dddddfd16f1",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "dd946e48-6cff-4811-8a29-eb15ee7062f2",
+            "characterName": "流民老者",
+            "expression": "平靜",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「回稟君上：小人等非為乞食而來。田在，人在，只是歲荒息重，過不下去了。但求君上示下一條活路——去，或留，皆聽君命。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "62365e93-dd1e-4a58-bcd3-63c2d64cc85d",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "歲荒，息重。你聽出了這兩個字底下壓著的東西——那正是你府裡貸出去的錢。門下食客三千，皆天下俊傑；門外這幾十口，是你封邑裡的人。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "0edb06e7-ab35-45dc-8ce8-f08683ee00d2",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "門外幾十口薛地流民。你——",
+            "choices": "[{\"text\":\"「開偏院收容，計口給食，壯者授事。」\",\"mode\":\"jump\",\"fragmentId\":\"39a34f18-c9c4-4708-81cc-f121d3314d28\"},{\"text\":\"「給糧給種，遣吏護送還鄉，今歲息錢緩徵。」\",\"mode\":\"jump\",\"fragmentId\":\"485fc0e2-106a-4d3f-9b97-ee14fd55cfdc\"},{\"text\":\"「薛公府養士，不養民。此有司之事，移文縣吏。」\",\"mode\":\"jump\",\"fragmentId\":\"6ee2c2ad-a815-40cb-ab15-9ee7ea3c63f7\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "39a34f18-c9c4-4708-81cc-f121d3314d28",
+      "name": "流民-收",
+      "blocks": [
+        {
+          "id": "377b7fbd-89ba-4c73-b8ac-90774670c2bd",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你開了偏院。幾十口人計口給食，壯者派去修客舍、餵車馬，老弱婦孺各安其所。那名老者領著眾人朝門樓叩了三個頭，起身時，你注意到他多看了這座府邸一眼——不是感激的看法，倒像是在，掂量什麼。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "a176a824-d3fb-4cb5-9bcd-22784b0f00bd",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "門下有客不以為然：薛公之門，招賢納士之地，何時成了粥棚？收留些種田的、曬鹽的，於君上的大業何益？",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "08df3844-f75b-48e5-ae9b-c4f181066069",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你沒有理會。賢與不賢、有用無用，你這一門素來不問。你只是想起了某一進最偏僻的院子，和一句「這座府裡沒有你這個人」——被世道說「不該留」的，你都留。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c626a279-174f-4752-a9bc-b8c912475887",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "器量",
+            "op": "+=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "d2a453e9-2b6a-4ff2-a8d7-03715ff0d59c",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "收留薛地流民",
+            "op": "=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "19c5f5ba-910c-4f62-a65b-661822d104e3",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "de6dca8e-6cf2-4742-b358-1401b20c4b00"
+          }
+        }
+      ]
+    },
+    {
+      "id": "485fc0e2-106a-4d3f-9b97-ee14fd55cfdc",
+      "name": "流民-遣",
+      "blocks": [
+        {
+          "id": "aafa540f-1d57-4335-ab67-20a09ceff765",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你按人頭發了糧與種，遣吏護送還鄉，又下令今歲的息錢緩徵一季。人群散去時，那名老者回頭望了門樓一眼，長揖及地。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "b3f74455-1762-44ed-ae09-dad6b4306b68",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "田不能荒——人回到田裡去，才是正辦。授人以粥，不如還人以田；這一手，門下的計然之士都點頭稱善。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "3c0e6e9f-e904-49b3-8b97-97f6ca40d8d9",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "只是「緩徵」二字出了你的門，過了三道手，到了薛地胥吏的嘴裡，還剩幾分斤兩，你就不得而知了。高門與田畝之間隔著的那幾道手，日後會有人一隻一隻數給你看。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "cc072385-be37-46e8-909a-00225af2c778",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "de6dca8e-6cf2-4742-b358-1401b20c4b00"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6ee2c2ad-a815-40cb-ab15-9ee7ea3c63f7",
+      "name": "流民-拒",
+      "blocks": [
+        {
+          "id": "d0ea84d3-7641-4a67-a6e1-3adb29a33c36",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你把這件事移文縣吏。門制有門制的道理：薛公府若開了收容流民的先例，明日門外就會聚來千口、萬口，府庫再厚也填不平一場歉收。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c4946413-ad0f-4e34-a7c9-4b0adfb6d55b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "人群散得很安靜，安靜得讓你在門樓上多站了一刻。為首的老者臨去時朝府門長長看了一眼，什麼也沒說。你告訴自己：養士以圖天下，恤民自有官府——各安其分，才是治道。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "1c7da825-45c5-4234-a22f-f362e8525ce7",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "器量",
+            "op": "-=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "54e858ad-f1d8-46a9-95c0-2a69faf702da",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "薛地民心",
+            "op": "-=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "5a5183d3-31dc-4d59-a698-a72e3840316c",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "de6dca8e-6cf2-4742-b358-1401b20c4b00"
+          }
+        }
+      ]
+    },
+    {
+      "id": "de6dca8e-6cf2-4742-b358-1401b20c4b00",
+      "name": "流民後",
+      "blocks": [
+        {
+          "id": "066aca0c-dd27-41af-827f-67de05b24fa6",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "流民的事，在三千食客的日常裡只是一粒石子入水，漣漪很快就平了。你不會知道，多年之後，這一天門樓上下的每一眼，都有人替薛地記著。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "9c0a2b29-d806-45f5-b339-fac33bc3b182",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "3da0a9ee-7230-4b75-be9d-1c35d934d739"
+          }
+        }
+      ]
+    },
+    {
+      "id": "3da0a9ee-7230-4b75-be9d-1c35d934d739",
+      "name": "狗盜",
+      "blocks": [
+        {
+          "id": "2edc108f-e9e9-4d7e-ab99-7a63f2987de1",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "這年秋天，門下來了個怪人。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "f1aa84b0-f310-44f4-9fd6-0a1a09a49ae7",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "其人瘦小佝僂，自陳所能，滿堂失笑——他說他能為狗盜：披狗裘、學犬吠，潛入人家，探物取物，來去無聲。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "28c2b7f7-059b-48e6-9d0b-5f4839353894",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "5d9b6311-5353-473f-a239-22c8c4861605",
+            "characterName": "狗盜之徒",
+            "expression": "狡黠",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「君上莫笑。雞鳴狗盜，也是一技。小人這條命賤，可小人這門手藝，普天之下，找不出第二份。[wait=500]收是不收，君上一句話。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "1b4ecbce-51ab-4384-ae45-3902a5b4c34d",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "08497ae5-7888-4803-816d-1e70056f8a26",
+            "characterName": "上席門客",
+            "expression": "訕笑",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「君上，薛公之門，談王霸、論縱橫者濟濟一堂。與雞鳴狗盜同席——傳出去，天下人如何看薛公？」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "93ddaad9-f7b2-47a4-9e17-9a7a4e3ac191",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "堂上笑聲正酣，那瘦小的身影忽然朝上席一拱手。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "18f0b1e8-4e2f-4614-a30d-11d56eb60c4c",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "5d9b6311-5353-473f-a239-22c8c4861605",
+            "characterName": "狗盜之徒",
+            "expression": "平靜",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「這位先生腰間的玉玦成色極好。[wait=600]——先生不妨低頭看看，它還在不在。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "07e513be-b0e7-4228-8613-cf01d214d3ad",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "上席那位門客失笑著低頭——臉色驟變。他的玉玦，正躺在堂下狗盜之徒攤開的掌心裡。方才滿堂大笑、人人拊掌的那一瞬，沒有一個人看見他動過。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "34086f59-081b-4b68-ab11-6ee2548ed1ec",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "笑聲死在了堂上。三千雙眼睛看看那枚玉玦，又一齊轉回來，看你。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "8a417ae1-cb35-49c1-9c40-8f4652fbaa8f",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "狗盜之徒立於堂下。你——",
+            "choices": "[{\"text\":\"「收。與諸客同席。」\",\"mode\":\"jump\",\"fragmentId\":\"d8e53fbe-0743-4415-abdb-0dd9bf0c60e3\"},{\"text\":\"「收。置傳舍下坐。」\",\"mode\":\"jump\",\"fragmentId\":\"7d972357-e4b8-4868-92cd-742d37188278\"},{\"text\":\"「收。但此等技倆勿入正堂，安置於外院。」\",\"mode\":\"jump\",\"fragmentId\":\"706bf32e-05e3-4f58-8b34-c07aa70e3067\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d8e53fbe-0743-4415-abdb-0dd9bf0c60e3",
+      "name": "狗盜-同席",
+      "blocks": [
+        {
+          "id": "44519e44-4625-4fd5-94a3-3b13e7d10c45",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「收。與諸客同席。」你說得很平常，像在說今晚添一雙筷子。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "85387905-7f75-40f5-8414-ca7c0eadf172",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "上席的門客們交換著眼色，有人拂袖，有人冷笑。你舉起酒盞，環視一周：文之門下，不問所能貴賤，只問有無。諸君之能，用在廟堂；此人之能，焉知何日不救文一命？",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "00f680ca-86a4-4d75-8912-be991b57d363",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "滿堂大笑，只當是主君的玩笑話。多年以後，函谷關下，笑過的人一個都笑不出來。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "4af38760-660e-4371-a147-128982b92ba8",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "器量",
+            "op": "+=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "00f80f74-aefd-442f-8c75-ed5d8b44d9fb",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "e3fffd9e-32d2-4d1a-87e1-5ae2d0b4cd73"
+          }
+        }
+      ]
+    },
+    {
+      "id": "7d972357-e4b8-4868-92cd-742d37188278",
+      "name": "狗盜-下坐",
+      "blocks": [
+        {
+          "id": "eab1ec9c-8f36-4778-b9cc-bf95b34927d6",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「收。置傳舍下坐。」——收留，但名分上做了區隔。上席的清議安撫住了，狗盜之徒也有了一口飯。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "7a657c41-3556-4c72-b4ce-4a33950350e0",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "那瘦小的身影朝你一揖，退到了最下席的角落裡，從此安安靜靜，像一件沒人多看一眼的舊器物。史書後來記這件事，只用了五個字：最下坐有能為狗盜者。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "922118d2-914c-42f0-9d79-5714d34a1803",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你偶爾會想：這樣的「收」，究竟是收了一個人，還是收了一件備用的工具？你沒有答案。答案要等很多年後的一個雪夜，在咸陽的獄牆外面。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "a775032b-a05f-40ce-944e-8758478cc934",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "e3fffd9e-32d2-4d1a-87e1-5ae2d0b4cd73"
+          }
+        }
+      ]
+    },
+    {
+      "id": "706bf32e-05e3-4f58-8b34-c07aa70e3067",
+      "name": "狗盜-外院",
+      "blocks": [
+        {
+          "id": "b06f4fe8-78c4-431c-a231-ec98c75cff2b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「收。安置外院，勿入正堂。」你給了他一口飯，也給了滿堂清流一個交代。兩邊都不得罪——這是持家的算計。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "b9714f85-d083-4c56-95a0-858d9de0588f",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "只是外院的人自己心裡有數：同是薛公門下，有人出有車，有人食有魚，有人連正堂的門檻都摸不得。狗盜之徒倒不惱，領了差事就去了，臨走朝你笑了一笑——那笑裡的意思，你過了很多年才讀懂。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "0eb717f2-7224-4867-8c58-3ac0e8d8bfc2",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "器量",
+            "op": "-=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "5dba908b-184b-4993-954a-aeb7306eefd4",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "e3fffd9e-32d2-4d1a-87e1-5ae2d0b4cd73"
+          }
+        }
+      ]
+    },
+    {
+      "id": "e3fffd9e-32d2-4d1a-87e1-5ae2d0b4cd73",
+      "name": "秦聘",
+      "blocks": [
+        {
+          "id": "f08cbf58-d8b1-4eef-ac25-b08d7b22b7f9",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "薛公養士的名聲，就這樣一年一年漲上去，漲出了齊國，漲過了函谷關。列國的使者到臨淄，必繞道薛地一觀；諸侯的公子養士，皆以薛公府為法。孟嘗君三個字，成了「養士」二字在這個時代的別名。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "43590a2d-4030-4e95-8026-badbf7480a1a",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "這年冬天，一輛插著黑旗的軺車馳入薛地，直抵府門。來使奉上國書——秦昭王願以其弟涇陽君入齊為質，只求一件事：",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "340d476f-7cc8-4d6d-be18-01d86a0a550e",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "請孟嘗君，入秦。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "475bf8c5-b049-4891-a7ae-f762bdde9dce",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "滿堂皆驚。虎狼之秦，以王弟為質來請一位齊國的公子——這是何等的敬重，又是何等的凶險。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "a7678270-2d1c-4f75-ac59-a873a3816048",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "08497ae5-7888-4803-816d-1e70056f8a26",
+            "characterName": "座中門客",
+            "expression": "平靜",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「君上，秦，虎狼之國也。入而不得出，悔之何及！門下三千人，願諫者，怕是三千人。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "1183c705-2894-486f-b7fa-2a7e7ef039bb",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你何嘗不知。可你也知道另一件事：齊王坐在臨淄的宮裡，看你門下三千客的眼神，一年比一年冷。名高震主之人，留在國內是嫌，出使強秦是險——兩條路，沒有一條是平的。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "84a4787e-bf9b-49c4-80f8-361ebda5670b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "燈下，你把那卷國書看了三遍。[wait=800]西邊的天很黑，黑得看不見函谷關的影子。",
+              "styles": {}
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,996 @@
+{
+  "id": "51950a2b-51e8-498a-bd7c-98b59bbd319e",
+  "name": "馮諼篇·第六章 梁使玉佩",
+  "fragments": [
+    {
+      "id": "263d9164-12fa-4ed9-b135-7ab28c89f407",
+      "name": "main",
+      "blocks": [
+        {
+          "id": "65a4b424-b3e0-40b7-8025-0560c83cddc1",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "7cf5fc1c-b469-4ac6-9120-0e8b068b0758",
+            "sceneName": "荒野驛道",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "800",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "958d5278-62dd-47fd-b259-73c3bd03fd08",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "bgm",
+            "uri": "bgm/bgm_25_scheme.mp3",
+            "volume": "72",
+            "loop": "true",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "6c7bb296-36df-4f48-8cf1-83742f4d9d44",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你帶著孟嘗君罷相後全部的家當——車五十乘、金五百斤——一路向西，去了大梁。他以為你是去替他在魏國謀一條後路；他不知道，你要謀的根本不是魏國的官位。你要謀的，是齊王的一夜不能安枕。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "5288ac81-2f8f-4eeb-9f13-1c6dbe9fa9df",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "【同刻·薛地】孟嘗君做起了閒散封君，課農桑、理訟獄，罷相的煩憂被薛地的煙火氣一日日磨淡。他不知道那五十乘車、五百斤金換成了什麼，甚至不確定，你還會不會回來。",
+              "styles": {
+                "fontStyle": "italic",
+                "textColor": "#8899aa"
+              }
+            }
+          ]
+        },
+        {
+          "id": "78711933-84f4-4bb6-8a38-fad7b0cdab89",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「狡兔三窟」的第二窟，鑿的不是魏國，是齊王的心。你要在大梁擺一場大戲：讓強魏以最隆重的禮數來聘孟嘗君，黃金千斤、彩車百乘、虛上將軍之位以待——然後，讓這消息，堂堂正正地傳進臨淄王宮。[wait=500]齊王罷他，是嫌他名太高；可一旦這名高的人要投敵國，罷他的齊王，就該換成怕他的齊王了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "9a3d1b41-60d7-4219-8137-d0db4560ac03",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "可你一個齊國來的失勢食客，憑什麼讓強魏聽你擺布，演這一場戲？[wait=500]你的底牌，藏在懷裡十年了——半塊玉。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "02e34402-c15a-4aa3-9a55-4b0dedea5ab6",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "002dcfee-0685-49b3-aef0-1340b177d4f4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "002dcfee-0685-49b3-aef0-1340b177d4f4",
+      "name": "說梁",
+      "blocks": [
+        {
+          "id": "934213c9-7e9c-453f-b6e5-46d2140961c5",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "cc8def0f-9a96-4175-8a40-53bb06e7ef3f",
+            "sceneName": "梁國賓館",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "700",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "54ae21e6-f90e-4422-bec4-658cd1669cee",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "十年前，你在荒野驛道上救過一個奄奄一息的落難魏臣，替他求醫餵藥，分了半塊玉給他作信。十年過去，那個險些死在道旁的人，如今已是魏王駕前說得上話的重臣。[wait=500]你到大梁，遞進去的不是名帖，是那半塊玉。玉一到他手上，他便親自迎了出來——十年的人情，到了該還的時候。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d128c113-4f09-41bc-ab94-505adff729ff",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "63a52479-7708-4b17-968e-e5814a760051",
+            "characterName": "魏使",
+            "expression": "恭敬",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「先生的半塊玉，臣收了十年。[wait=500]先生但有所命，大梁上下，無不從命。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "923f4baf-4b7b-452e-b2b9-d58035a9b170",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "有了這個人，梁王的耳朵，就等於半開在你面前。你要說動魏王以上將軍之位虛左聘孟嘗君，並不難——難的是，要讓這場戲，演得像真的，隆重到連齊王都不敢不信。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "0e2bca2c-9b29-42fa-a7dc-5e838416d4a3",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "說動梁王演這場「虛上位」，你憑的是——",
+            "choices": "[{\"text\":\"曉以利：得孟嘗君者得薛地民心與天下士望，此乃強魏拓地攬才之機\",\"mode\":\"jump\",\"fragmentId\":\"5fd858af-9be2-4c73-a1ac-d460921cfb45\"},{\"text\":\"動以勢：齊棄孟嘗，魏若搶先，便在齊魏之爭裡先落一子\",\"mode\":\"jump\",\"fragmentId\":\"a412fb10-71ac-4f53-9696-75c6945357b7\"},{\"text\":\"借魏臣之口：讓那位還你人情的舊識，去替你把這番話說進梁王心裡\",\"mode\":\"jump\",\"fragmentId\":\"37a4f988-512d-4031-8693-03dc47746b88\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5fd858af-9be2-4c73-a1ac-d460921cfb45",
+      "name": "梁-利",
+      "blocks": [
+        {
+          "id": "5561e53b-70c9-4adf-bb91-444420a288d6",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你曉之以利。孟嘗君之名，重於千金；得他一人，便得薛地的民心、天下的士望。魏若聘得孟嘗君，等於在齊國的臥榻之側，安下一枚攬盡人望的棋子。梁王聽得眼熱——他當然知道你這是借他的臺唱齊國的戲，可利之所在，他樂得配合。反正這一聘，聘得成是賺，聘不成也不虧。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "05405247-e4b5-4db7-b498-0fd5b85f6dd2",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "32bf26d2-cf2e-4fc2-bbcf-fe9e7bfba9d4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "a412fb10-71ac-4f53-9696-75c6945357b7",
+      "name": "梁-勢",
+      "blocks": [
+        {
+          "id": "caa19a73-6110-446f-bf10-c260e9102034",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你動之以勢。齊魏世為敵國，齊王罷黜孟嘗君，是自斷一臂；魏若搶在此時以厚禮相聘，便是在齊魏的長局裡先落一子——縱使孟嘗君固辭不來，這一「聘」的姿態，也已經替魏國在天下人面前，掙足了「禮賢下士、勝齊一籌」的名。梁王撫掌：這筆買賣，穩賺不賠。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "fabde9d5-7ffe-4ef7-b73b-b45b95b77335",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "32bf26d2-cf2e-4fc2-bbcf-fe9e7bfba9d4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "37a4f988-512d-4031-8693-03dc47746b88",
+      "name": "梁-臣",
+      "blocks": [
+        {
+          "id": "4132269c-23cc-4ba0-85ce-1d2325dc9ac0",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你不親自出面遊說。你把要說的話，一字一句交給那位還你人情的舊識，讓他去梁王耳邊說。[wait=500]同樣一番話，出自一個異國食客之口，是遊說；出自一個魏王親信重臣之口，是忠謀。你深諳此道：最好的說客，是讓對方以為，這主意是他自己人替他想出來的。玉佩換來的這個人，此刻正是你手裡最鋒利的一張嘴。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "cbd7f8eb-7312-4162-b3d4-f2f776e4474c",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "32bf26d2-cf2e-4fc2-bbcf-fe9e7bfba9d4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "32bf26d2-cf2e-4fc2-bbcf-fe9e7bfba9d4",
+      "name": "玉佩認出",
+      "blocks": [
+        {
+          "id": "235f3ee7-a90a-4341-88d2-149243cfa06d",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "aa0a2e7c-f196-4c9e-bbc3-1fc700e10a02",
+            "sceneName": "薛公府邸",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "700",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "2bbbfe77-3993-49eb-85e6-773332035a53",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "【同刻·薛公府邸】黃金千斤、彩車百乘、旌旗蔽日的梁國大聘之儀，直奔薛公府。孟嘗君迎出府門，幾乎不敢相信——一個被齊國罷黜的失勢封君，何德何能，值得強魏如此屈尊。",
+              "styles": {
+                "fontStyle": "italic",
+                "textColor": "#8899aa"
+              }
+            }
+          ]
+        },
+        {
+          "id": "70547a60-44f9-4d36-9158-f903677f4e9c",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你讓那位魏臣，親自佩著那半塊玉，做了這一趟聘使的正使。你要他佩著它去——那是你和孟嘗君之間，又一道無聲的暗記。孟嘗君當年在函谷道上見過你的劍鞘，如今，或許也會多看那半塊玉一眼。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c704f033-2248-4222-bb6b-bbcc006da157",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "",
+            "choices": "[{\"text\":\"（薛地傳回消息：孟嘗君，動問了那玉佩的來歷……）\",\"mode\":\"jump\",\"fragmentId\":\"2bf47b9c-cfad-4823-9e1e-0885f6598f21\",\"visibleIf\":\"{\\\"conditions\\\":[{\\\"left\\\":\\\"追問玉佩\\\",\\\"op\\\":\\\">=\\\",\\\"rightKind\\\":\\\"literal\\\",\\\"rightLiteral\\\":\\\"1\\\"}],\\\"logicOp\\\":\\\"and\\\"}\"}]"
+          }
+        },
+        {
+          "id": "ab9122e9-7103-4c7c-9397-30d7df85e61e",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "6666d77d-b095-45f4-869b-a6e594f82d74"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2bf47b9c-cfad-4823-9e1e-0885f6598f21",
+      "name": "玉佩-payoff",
+      "blocks": [
+        {
+          "id": "79ad7b70-807c-40cd-951a-887161a2b225",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "薛地傳回消息：孟嘗君見了那半塊玉，動了問——他覺得眼熟，彷彿在哪裡見過它的另一半。[wait=600]你聽了，指尖不自覺摩挲起劍鞘上的「工」字。劍鞘、半券、如今又是這半塊玉——你這一路留下的痕跡，他一件一件，都收進了眼裡、記在了心上。他還串不起這條線，可他在往你這裡看了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "008f9baf-5277-4f07-84c9-d67219ca7595",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你本可以把這些痕跡藏得更乾淨，讓他永遠串不起來。可你沒有。[wait=500]你發現，你竟隱隱盼著他有一天能認出你——盼著這半生的藏，終有一個人能看穿。這念頭於謀士是大忌，於此刻的你，卻是二十年孤身之後，第一次奢侈的期待。你在他心裡留的每一道痕，都是你不敢說出口的那句「你看看我」。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "36ada6cc-2d2e-4b53-b1b2-9a53dea7ed68",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "主公信任",
+            "op": "+=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "390cf39c-9761-4a3b-afab-c04ba03906d2",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "6666d77d-b095-45f4-869b-a6e594f82d74"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6666d77d-b095-45f4-869b-a6e594f82d74",
+      "name": "先驅之誡",
+      "blocks": [
+        {
+          "id": "0f827ed3-7637-4ba9-9393-e45f20f45f18",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "戲要成，還差最後、也最險的一步：孟嘗君必須固辭。[wait=500]若他一見梁國厚聘便欣然應允，真去了魏國，這場戲就穿了幫——齊王會樂得送走這個心腹之患，第二個窟便鑿了個空。所以你快馬先驅，趕在梁使車隊之前馳回薛城，要當面攔住他。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "cf56e4b5-4368-4785-9664-d45b3c51b263",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "攔住他固辭，你——",
+            "choices": "[{\"text\":\"和盤托出：把「虛上位」整套棋路，一五一十講給他聽\",\"mode\":\"jump\",\"fragmentId\":\"a56f0000-6051-4b40-b3ca-6d4ac292e6c8\"},{\"text\":\"只誡固辭：讓他信你、照做，其中深意暫不多言\",\"mode\":\"jump\",\"fragmentId\":\"c1787e66-ae94-43d2-bc1a-50b92c683c92\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "a56f0000-6051-4b40-b3ca-6d4ac292e6c8",
+      "name": "誡-托出",
+      "blocks": [
+        {
+          "id": "a6c192d9-2a05-4d75-aed8-471ae3ad9084",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你把整套棋路，一五一十攤在他面前：這一聘是假的，目的是驚動齊王；他越是固辭不去，齊王越是坐不住；三反之後，齊王必遣使謝罪、迎他復相。你甚至把「梁使三反」的時辰都替他算好了。[wait=500]你不再只給他一個「照做」的指令——你把他當一個能共謀的人，把底牌亮給他看。這是你頭一回，願意讓他不是被你安排的棋子，而是與你並肩看棋盤的人。他聽完，看你的眼神變了：那裡頭，有信，有敬，還有一點你久違了的、被人真正倚為心腹的暖。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "302f4d96-a9f4-4e9a-bff8-536299a58747",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "主公信任",
+            "op": "+=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "4b30f440-d533-4c48-aa57-a00b75d0c6ac",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "627b50d6-fc6a-4ee9-b3d9-021447463c3a"
+          }
+        }
+      ]
+    },
+    {
+      "id": "c1787e66-ae94-43d2-bc1a-50b92c683c92",
+      "name": "誡-固辭",
+      "blocks": [
+        {
+          "id": "0a9296a1-b221-47c4-a2c9-c55fc93f87b1",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你沒有多解釋。你只斬釘截鐵地告訴他：千金重幣、百乘顯使，齊王必已聞之；梁使三反，君務必固辭勿往。至於背後的整盤算計，你按下不表——不是信不過他，是你二十年的習慣，讓你本能地把底牌攥在自己手裡。[wait=500]他到底還是信了你，依言固辭。可你也知道，你們之間那道牆，你方才又親手多砌了一塊。有些棋，你寧可獨自背著，也還沒學會，與人分擔。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "404c9194-1afe-416b-87a1-e4d95485d746",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "627b50d6-fc6a-4ee9-b3d9-021447463c3a"
+          }
+        }
+      ]
+    },
+    {
+      "id": "627b50d6-fc6a-4ee9-b3d9-021447463c3a",
+      "name": "栽贓驗",
+      "blocks": [
+        {
+          "id": "64a7d098-7512-4f83-89ab-07fd9c75996d",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "",
+            "choices": "[{\"text\":\"（可薛地那樁栽贓的舊帳，此刻正懸在頭頂……）\",\"mode\":\"jump\",\"fragmentId\":\"53e5d506-b597-46eb-8cc7-6618fd78e747\",\"visibleIf\":\"{\\\"conditions\\\":[{\\\"left\\\":\\\"行險栽贓\\\",\\\"op\\\":\\\">=\\\",\\\"rightKind\\\":\\\"literal\\\",\\\"rightLiteral\\\":\\\"1\\\"}],\\\"logicOp\\\":\\\"and\\\"}\"}]"
+          }
+        },
+        {
+          "id": "bc2c8ed5-99dd-4523-871b-457ef564c94c",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "bb2c0430-8c73-4bd5-a8b8-5d06099af78f"
+          }
+        }
+      ]
+    },
+    {
+      "id": "53e5d506-b597-46eb-8cc7-6618fd78e747",
+      "name": "栽贓-憂",
+      "blocks": [
+        {
+          "id": "b67ffd27-8919-470e-99d9-f7f0613a660e",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "只是這一局走到最險處，你心裡始終懸著一樁舊帳——當年在薛地焚券，你為除細作，偽造券契反栽了齊王近臣。這步險棋若在此刻敗露，「孟嘗君之臣行詭道、構陷齊廷重臣」的罪名，會在最要緊的關口爆開，把三窟一齊掀翻。[wait=600]你不得不在說梁、驚齊的同時，還分神去撲滅那條可能燒回來的引信——遮掩、疏通、堵嘴，處處都要多費一重手腳。市義本該乾乾淨淨，你當日摻進去的那一味毒，此刻正反過來，一點一點噬著你自己的棋。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "06217267-9125-4069-809a-d01f77147117",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "bb2c0430-8c73-4bd5-a8b8-5d06099af78f"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bb2c0430-8c73-4bd5-a8b8-5d06099af78f",
+      "name": "復相立廟",
+      "blocks": [
+        {
+          "id": "fb2930fb-3c00-4ade-b2fc-2fa34933767a",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "df208539-8641-466a-bc54-5f40c6cef8b8",
+            "sceneName": "薛地城郊",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "800",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "1c587eed-bddd-475c-baa6-7da4a64cb0c0",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "【同刻·臨淄→薛地】梁使三反的消息傳到臨淄，齊王恐懼。太傅親至薛地，齎黃金千斤、文車二駟、佩劍一口，捧齊王親筆封書謝罪：「願君顧先王之宗廟，姑反國統萬人乎！」——當年罷他的詔書，如今換成了求他的謝書。",
+              "styles": {
+                "fontStyle": "italic",
+                "textColor": "#8899aa"
+              }
+            }
+          ]
+        },
+        {
+          "id": "207ca98e-a7ee-4cb0-82d3-576b877e004d",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "果然，一步不差。齊王親手把孟嘗君請回了臨淄，而且是求著他回去的。第二個窟，成了。[wait=500]可你沒有停手。你要趁著齊王心虛、有求於孟嘗君的這股勢，鑿下最後一個窟——你請孟嘗君上書齊王，求來歷代先王的祭器，在薛地立一座齊國的宗廟。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "0d9cb095-a80e-4ad5-a195-a7ca9b47c0ad",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "孟嘗君不解宗廟與安危何干。你也沒細說。[wait=500]先王神主在薛，薛地便與齊國社稷血脈相連；齊王日後若再想動薛、再想罷他，便是動搖自家祖宗的根本。宗廟一立，齊國就不得不派兵護薛、保薛地周全。這第三個窟，鑿在了齊國的祖宗牌位裡——任誰，也拔不動。三窟環環相扣，橫跨數年，你這盤棋，終於快要收官了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "a8294e23-8870-463d-b171-47d18e74d171",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
+            "characterName": "馮諼",
+            "expression": "微笑",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「三窟已就。[wait=600]君姑高枕為樂矣。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "f78e9b96-cd8b-45c9-9b27-b4459278e7a8",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "8e51a9ed-ceff-456d-8941-e0ac9a802f1c"
+          }
+        }
+      ]
+    },
+    {
+      "id": "8e51a9ed-ceff-456d-8941-e0ac9a802f1c",
+      "name": "高枕之後",
+      "blocks": [
+        {
+          "id": "43ceee06-09d7-4b97-8ec3-c9ccb9df7c4f",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "孟嘗君高枕了。此後他為相數十年，安穩富貴，無纖介之禍。《戰國策》會把這一段，用七個字作結：「馮諼之計也。」——世人記住了你的計，卻沒有一個人，記得計的背後那個薛地鑄劍師的兒子。[wait=500]你替他鑿完了三個窟，二十年前立下的那樁私願，也已了結大半：薛地的債焚了，薛地的民安了，逼死你全家的那種世道，在這一方水土上，被你親手改寫了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "de0ccd69-3ea1-43ba-b938-91ed83164e81",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "只是夜深人靜，你偶爾會想：這盤棋，快下完了。三窟已就，功成名遂，一個「不求聞達、只求了局」的謀士，該悄悄退場了。史冊會記下「馮諼之計」四個字，然後讓這個名字，從此消失在紙頁之外——這本是你為自己選好的結局。[wait=600]可不知從哪一天起，你心裡竟生出一絲不甘：這一場，你替他謀了全局，他卻始終不知道你是誰。你走之前，要不要……讓他認得你一次？",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "7ef20d18-4dd1-4420-ac05-d00857f8f3b5",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "你與他之間那道牆——此刻——",
+            "choices": "[{\"text\":\"（二十年的藏，竟被這一路的同舟，捂出了一道敞開的縫……）\",\"mode\":\"jump\",\"fragmentId\":\"23a8c5fd-160d-4427-9c85-3899b234b2c1\",\"visibleIf\":\"{\\\"conditions\\\":[{\\\"left\\\":\\\"主公信任\\\",\\\"op\\\":\\\">=\\\",\\\"rightKind\\\":\\\"literal\\\",\\\"rightLiteral\\\":\\\"3\\\"}],\\\"logicOp\\\":\\\"and\\\"}\"},{\"text\":\"（你依舊藏在暗處，是那個史冊之外、無人認得的影子……）\",\"mode\":\"jump\",\"fragmentId\":\"33c6ad97-be65-4d63-ac36-946621f31622\",\"visibleIf\":\"{\\\"conditions\\\":[{\\\"left\\\":\\\"主公信任\\\",\\\"op\\\":\\\"<=\\\",\\\"rightKind\\\":\\\"literal\\\",\\\"rightLiteral\\\":\\\"2\\\"}],\\\"logicOp\\\":\\\"and\\\"}\"}]"
+          }
+        },
+        {
+          "id": "26c6bbf6-5396-4558-a926-35d5ecc90e91",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "33c6ad97-be65-4d63-ac36-946621f31622"
+          }
+        }
+      ]
+    },
+    {
+      "id": "23a8c5fd-160d-4427-9c85-3899b234b2c1",
+      "name": "信-深",
+      "blocks": [
+        {
+          "id": "82beaa8e-8430-4cc4-8594-b26b96488f2d",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "這一路走下來，你竟不知不覺，在他面前卸下了太多偽裝。獄外的相隨、罷相的執轡、先驅時的和盤托出——一次又一次，你把那個藏了二十年的自己，一分一分地，向他敞開。[wait=600]如今你心裡那道牆，早已不是密不透風的了。它裂開了一道縫，縫裡透出來的，是一個近乎奢望的念頭：或許有一天，你可以不必再藏；或許他值得知道，替他燒券、鑿窟、謀了半生的那個人，究竟從何處來、為何而來。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "08e5e952-711d-4b74-a7c6-73789d9b0a8c",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "這念頭讓你自己都吃驚。二十年孤身謀國，你早該習慣一個人走到底、一個人消失在史冊之外。可這個人，這幾年的同舟共濟，讓你頭一回，捨不得就這樣無聲地退場。[wait=500]還有最後一件事沒做完。三窟保的是他一時的安穩；可薛地終有一日會傾，孟嘗君終有一日會老。真正能讓這一切不白費的，是第四個窟——那個連他都還不知道的窟。你握緊了懷中的舊鋏，望向薛地的方向。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d1b3944a-eb6f-4861-901a-e54053d4f85c",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "6ffe4b3f-cb87-427a-9d63-07c4c376e746"
+          }
+        }
+      ]
+    },
+    {
+      "id": "33c6ad97-be65-4d63-ac36-946621f31622",
+      "name": "信-淺",
+      "blocks": [
+        {
+          "id": "053dcce2-bac1-4d07-8896-228467785219",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你到底還是那個藏在暗處的人。這幾年替他謀了全局，你卻始終沒讓他真正看清過你——不是沒有機會，是你一次次，在快要敞開的那一刻，又把自己縮回了殼裡。示弱是破綻，交心是把柄，這是你二十年的鐵律，你到底沒能為他破例。[wait=600]那麼結局早已寫好：史冊記下「馮諼之計也」五個字，然後這個名字，連同他的來歷、他的私願，一起消失在紙頁之外。功成，身退，無人認得——這本就是你為自己選的路。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "5240abaa-1d08-4568-b1ef-ba8d23ea7ae2",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你並不覺得遺憾。一個「不求聞達、只求了局」的人，本就不該奢求被誰記住。[wait=500]只是還有最後一件事，你放不下——薛地終有一日會傾，孟嘗君終有一日會老，三窟保得了一時，保不了身後。你要在悄然退場之前，替他、替薛地，留下最後一手：一個連他都不會知道是你留的窟。你握緊了懷中的舊鋏，望向薛地的方向。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e11c7ae2-eec5-4d59-ab55-bbdf97aa2ef3",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "6ffe4b3f-cb87-427a-9d63-07c4c376e746"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6ffe4b3f-cb87-427a-9d63-07c4c376e746",
+      "name": "未竟",
+      "blocks": [
+        {
+          "id": "b5b5ef86-3e3b-4ed3-92c1-391efec89a1b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "狡兔三窟，是藏身之窟；你替孟嘗君鑿的第四窟，不藏身。[wait=500]它藏在別處——藏在那一年焚券的火裡，藏在百里相迎的長道上，藏在薛地萬家的灶頭與心底。可這第四個窟能不能真正鑿成，不由你一個人說了算。它要等一個時機，等薛地傾覆的那一夜；也要看，你這半生埋下的每一顆種子，到那時，究竟結出了什麼樣的果。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "34b42b35-735e-4f53-93d6-d0eef5f42768",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你把這一生的棋，一顆一顆數過來：狗盜、里正、魏臣的半塊玉，是入局前布的子；焚券、市義、三窟，是入局後落的棋。每一步，你都算得清清楚楚。[wait=500]唯獨有一樣，是你算漏了的——你算得到齊王的懼、梁王的貪、薛民的心，卻算不到，這個被你當作「器」來使的人，會在這幾年的風雨同舟裡，一點一點，住進你那顆早已結了痂的心。第四窟能不能成，一半靠薛地的民，另一半，靠的正是這筆你算不清的、你與他之間的東西。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "dd95ab49-4142-4885-80e9-5ae189298b8d",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "歲月不居。孟嘗君會老去，你也會。史冊翻過「馮諼之計也」那一頁，故事彷彿就該結束了。[wait=600]可你知道，真正的結局，還藏在紙頁的背面——在很多年以後，在薛土蒼茫、齊魏兵至的那一夜。那一夜會不會有萬家燈火接力，會不會有第四個窟從民心裡長出來——就看這一路走來，你我之間，究竟攢下了多少，史書寫不進去的東西。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "301e2aad-2b81-46bd-8c34-c264de167f8a",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "151562d9-0be5-4f6f-b486-3553e94367e5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "151562d9-0be5-4f6f-b486-3553e94367e5",
+      "name": "赴約",
+      "blocks": [
+        {
+          "id": "382e8c0c-17b6-41c3-9245-c44621c2afae",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "7cf5fc1c-b469-4ac6-9120-0e8b068b0758",
+            "sceneName": "荒野驛道",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "800",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "a1548421-d92b-45d1-b086-9430a93e76e4",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "bgm",
+            "uri": "bgm/bgm_26_unresolved.mp3",
+            "volume": "70",
+            "loop": "true",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "aa5b50d3-060a-463f-93bd-12f94b8afa43",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
+            "characterName": "馮諼",
+            "expression": "低語",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「阿爹，三個窟，都鑿好了。[wait=700]還剩最後一個——那一個，得替薛地的人，藏到史書都看不見的地方去。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ba584db8-6e27-4e0c-ba3b-abadd36926fa",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你收起舊鋏，最後望了一眼那座你替他鑿了三個窟的城。[wait=500]孟嘗君的故事，到高枕無憂，本該圓滿收場了。而你的故事，還差最後一筆——那一筆，要落在課文的結尾之後，落在史冊的句號背面，落在一個叫「第四窟」的地方。",
+              "styles": {}
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

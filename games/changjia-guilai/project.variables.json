@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "variables": [
+    { "name": "器量", "initialValue": "0" },
+    { "name": "主公信任", "initialValue": "0" },
+    { "name": "薛地民心", "initialValue": "0" },
+    { "name": "細作肅清", "initialValue": "0" },
+    { "name": "行險栽贓", "initialValue": "0" },
+    { "name": "讒言先至", "initialValue": "0" },
+    { "name": "收起半券", "initialValue": "0" },
+    { "name": "留意劍鞘紋", "initialValue": "0" },
+    { "name": "收留薛地流民", "initialValue": "0" },
+    { "name": "追問玉佩", "initialValue": "0" },
+    { "name": "曾當眾折辱馮諼", "initialValue": "0" },
+    { "name": "認出舊鋏", "initialValue": "0" },
+    { "name": "孟嘗君篇通關", "initialValue": "0" }
+  ]
+}

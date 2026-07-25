@@ -1,0 +1,1403 @@
+{
+  "id": "77af6163-2170-4eb3-ac6c-285fca99df59",
+  "name": "馮諼篇·第三章 三彈三問",
+  "fragments": [
+    {
+      "id": "89fd7f7f-89bb-403d-9526-a5ae475891a5",
+      "name": "main",
+      "blocks": [
+        {
+          "id": "0714f605-2078-477d-8624-86e6545eaa40",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "aa0a2e7c-f196-4c9e-bbc3-1fc700e10a02",
+            "sceneName": "薛公府邸",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "800",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "e9acac47-6bd8-41aa-a916-d2e366c1024e",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "bgm",
+            "uri": "bgm/bgm_20_enduring.mp3",
+            "volume": "70",
+            "loop": "true",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "f6dc970e-b663-4572-9065-a62a045125ce",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你終於站進了薛公的正堂。一襲洗舊的褐衣，一雙磨穿的草鞋，腰間那柄連劍穗都沒有的舊鋏——二十年繞的圈，到此刻，只剩最後這一步。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "52253ef6-3f86-409b-bd1a-f77d232410e3",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "【同刻·臨淄相府】孟嘗君自秦歸來，重登相位，天下之士歸之如流水。他在堂上問你「客何好」「客何能」，你答「無好」「無能」，堂下一片竊笑。他們笑一個一無是處的人，也笑他們的主君又收了個吃白飯的。",
+              "styles": {
+                "fontStyle": "italic",
+                "textColor": "#8899aa"
+              }
+            }
+          ]
+        },
+        {
+          "id": "6a6541b2-eb39-47b8-b5ac-e8eb3309e5c8",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「無好」「無能」四個字，你答得比誰都乾脆。這不是自貶——這是你精心磨了二十年的鈍。越是要謀大事，越要看起來一無是處；一個張口就要待遇、一無所長的貪鄙食客，誰也不會設防。你要的，就是這份無人設防。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "f1069df5-c6a6-42f7-bcd5-874b0c159e2b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "可你不只是來藏身的。你是來考較的。孟嘗君此刻還當你是三千客裡最不起眼的一粒沙；他不知道，從你踏進這扇門的第一步起，被驗的、被掂量的，是他。[wait=500]你要托付給他的，是薛地萬民的了局。托付之前，你必須驗貨。三彈其鋏——就是你替他準備的三道試題。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "15016efd-22c9-41fc-9e21-c0193a154788",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "8be0afd0-175d-47b4-a6f5-8be51d9c867d"
+          }
+        }
+      ]
+    },
+    {
+      "id": "8be0afd0-175d-47b4-a6f5-8be51d9c867d",
+      "name": "受辱之年",
+      "blocks": [
+        {
+          "id": "9bcb3db2-a740-46e0-b7e6-f2b678ea17d4",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你被安置在最末等的傳舍，食以草具：粗糲的豆飯，一星葷腥也無。同舍的下客各有營生，抄書的抄書，說項的說項；唯獨你什麼也不做，每日抱著那柄舊劍，坐在廊下曬太陽，像一尊不肯開口的門神。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "116c0d87-f44c-480b-a50e-5eb0ab1c3bb6",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "有下客拿你取笑：「先生無好無能，日日抱劍——莫非這劍能當飯吃？」你連眼皮都沒抬：「不能。」「那先生抱它作甚？」[wait=600]你沉默了很久，才說：「怕它涼。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "17581d34-e3cd-435c-a188-c64cc473d696",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "56ab1f80-da10-48c6-809c-a4a8dd71496e",
+            "sceneName": "CG·彈鋏之意",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "500",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "16c05b7f-627c-4038-9243-40ea2baafba1",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "滿舍哄笑，笑你瘋。沒有人聽懂那三個字。這劍是父親的手在薛地的爐火裡打的，劍格上那個「工」字，是一整個被債逼死的家，最後剩下的一點溫度。你怕它涼——你怕的是自己會忘了那一夜的市集、那雙被扭走的手、那半片攥在母親掌心的債券。抱著它，你才記得自己為什麼而來。這溫，一涼，你就成了真正的馮諼——一個無好無能的廢人。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "3f4c29d1-2d8c-44f8-b03a-efeb78016374",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "aa0a2e7c-f196-4c9e-bbc3-1fc700e10a02",
+            "sceneName": "薛公府邸",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "500",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "174e962d-38ab-412d-a557-02d478931ff5",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "滿舍的訕笑潑在你身上。你——",
+            "choices": "[{\"text\":\"受著。也讓那笑聲提醒你：這扇門後的人，值不值得你受這一年\",\"mode\":\"jump\",\"fragmentId\":\"d62ffd54-08af-4c01-a448-dd0a6469005d\"},{\"text\":\"受著。笑罷了，人心都在笑聲裡露了底——你只當在讀一本攤開的帳\",\"mode\":\"jump\",\"fragmentId\":\"c02716e1-63cb-47cb-b419-66886ffa7e7c\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d62ffd54-08af-4c01-a448-dd0a6469005d",
+      "name": "辱-含情",
+      "blocks": [
+        {
+          "id": "f8b77aee-f653-4eff-944c-f26d931ea68a",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你受著。每一聲笑你都受完，卻沒有真把自己當成一塊石頭。你在那些笑聲裡，一遍遍地問自己：這扇門後的孟嘗君，究竟值不值得你受這一年的冷？[wait=500]你發現你竟盼著他值得——盼著這一場屈辱，不是白受。那個總在算計的你，心裡竟悄悄裂開了一道縫，透進來一點你二十年不敢有的東西：期待。你開始，把他當一個人來盼，而不只當一件器來驗。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "4265f3a3-7627-4564-a122-ccf131ae494e",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "主公信任",
+            "op": "+=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "65f904de-c92b-497d-962b-43de407a8fed",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "b507e387-3259-4990-b437-4ec61a944109"
+          }
+        }
+      ]
+    },
+    {
+      "id": "c02716e1-63cb-47cb-b419-66886ffa7e7c",
+      "name": "辱-純冷",
+      "blocks": [
+        {
+          "id": "896b8e43-281a-420f-9e46-aeb885d77042",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你受著，一絲不亂。笑就笑罷——人心最藏不住的時候，正是他們以為你不足為懼、放心大膽譏笑你的時候。誰的笑裡有輕蔑，誰的笑裡有不忍，誰只是隨眾附和，你在廊下半闔著眼，一筆一筆記下來，像在讀一本替你攤開的帳。[wait=500]你不許自己動情。動情的棋手會失手。這一年的辱，是你付的本錢，不是你受的委屈。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e098d550-286e-4168-b04c-ad4cbdc2ae6a",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "b507e387-3259-4990-b437-4ec61a944109"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b507e387-3259-4990-b437-4ec61a944109",
+      "name": "第一彈",
+      "blocks": [
+        {
+          "id": "7c0e9637-051c-4ce2-a6e5-2119d8f2b199",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "【同刻·傳舍】劍鋏叩柱，蒼涼的調子響起：「長鋏歸來乎，食無魚！」滿舍先笑，笑著又覺得那調子鑽心。左右報到孟嘗君案前，語帶看熱鬧之意——堂下已押上賭注，賭薛公是逐客，還是給魚。",
+              "styles": {
+                "fontStyle": "italic",
+                "textColor": "#8899aa"
+              }
+            }
+          ]
+        },
+        {
+          "id": "0222718f-5c6b-4320-a509-8248099bdd89",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "第一彈，魚。[wait=500]世人聽見的是一個食客嫌飯食粗了，貪。你彈的卻是一道題：這位薛公，肯不肯為一個「無用之人」，破一次門下的規矩？肯不肯把一個一無是處的人，也當作一張要吃飯的嘴、一個要體面的人？",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "12226582-d4ba-48b4-9d84-5b7830b34f74",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "魚，是最輕的一道。輕到只關乎一尾魚的有無，卻照得出一個養士者最底的那層——他養士，究竟是養一批能替他辦事的工具，還是真肯把「無用」的人，也放在心上。你唱得不急不惱，像哄著什麼人入睡，然後在廊下，靜靜等他的答案。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "fda14a88-1daa-4264-8cf1-1be6cbed5904",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你見過太多養士的公子。他們養的是能為自己搏名逐利的死士、辯士、劍客，是一群披著「士」皮的工具；一旦無用，棄之如敝屣。這樣的人成不了你的事——你要的了局，是替一群「無用」的窮人謀活路，若他心底也拿人論貴賤、論有用無用，那焚券買義四個字，於他不過是又一筆買賣。[wait=500]所以第一彈，你彈得最輕，卻聽得最重。一尾魚給或不給，給得甘心還是給得不耐——你都聽在耳裡。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "8613fc8e-186e-46f6-bc62-6fd094c61237",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "d2179d56-3094-4281-b6f4-b595df200baf"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d2179d56-3094-4281-b6f4-b595df200baf",
+      "name": "第二彈",
+      "blocks": [
+        {
+          "id": "bb10fd4b-dd9d-419c-ace5-495f6b93ad2f",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "【同刻·傳舍】魚得而復歌，詞換了：「長鋏歸來乎，出無車！」左右皆笑其得寸進尺、貪而無饜，編成謠子在灶間傳唱。連上等代舍的貴客都帶話：門下規矩一壞，三千人人彈鋏，府庫何堪。",
+              "styles": {
+                "fontStyle": "italic",
+                "textColor": "#8899aa"
+              }
+            }
+          ]
+        },
+        {
+          "id": "e5840f4c-7c9c-4840-a325-3c6973daf228",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "第二彈，車。[wait=500]這一道，比魚重。魚是待遇，車是身份——一個「無好無能」之人要車，等於當眾逼問：你肯不肯把體面，也分給一個看似不配的人？你彈得滿城皆知，還乘著那車招搖過市，逢人便揚聲「孟嘗君客我」。世人笑你小人乍富。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "11df6168-7b7e-4244-9855-766089602fb2",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "可你要那車，還有一個誰也沒想到的用處。[wait=500]你乘著它，三五日便出臨淄南門一趟，往南——過了泗水，就是薛。府中的門房日誌裡，只記著「車轍比去時深」，沒人問你載了什麼、又在半路卸給了誰。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "9c926f14-ff85-456f-b326-d2b14649d62b",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "那乘招搖的車，載你南下薛地。你去做什麼——",
+            "choices": "[{\"text\":\"親探薛地：把每一鄉的年成、每一里的債苦，一寸一寸看進眼裡\",\"mode\":\"jump\",\"fragmentId\":\"78848f15-9419-4cc4-814e-4e49fa443631\"},{\"text\":\"啟動舊線：見那位當年扶起的里正，讓埋下的網，開始悄悄收攏\",\"mode\":\"jump\",\"fragmentId\":\"6b9922fb-d671-4dae-ac68-8e47f8e16145\"},{\"text\":\"只借車為幌：載幾車救急的糧米下鄉，卻不留半分自己的痕跡\",\"mode\":\"jump\",\"fragmentId\":\"56aceda8-0410-4f50-9faf-06b065d62591\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "78848f15-9419-4cc4-814e-4e49fa443631",
+      "name": "車-探薛",
+      "blocks": [
+        {
+          "id": "c55efc56-1e1b-4b84-85eb-c9333e51c0ce",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你親自把薛地又走了一遍。二十年了，市集還在，逼死你家的那種債也還在——換了債主，換了面孔，吃人的利息一分沒變。你把哪一鄉年成薄、哪一里息錢重、哪幾戶今冬又要抵兒賣女，一寸一寸看進眼裡，記進心裡。[wait=500]孟嘗君日後召你收債，問你錢穀之學，你對答如流、如數家珍——他只當你是積年的能吏。他不知道，這本帳，你是用一雙走爛了草鞋的腳，親自量出來的。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "a3438f5c-41da-4c3a-8085-0008b4960439",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "d6d2134b-6a2d-488a-b72a-9c4c4c9069ad"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6b9922fb-d671-4dae-ac68-8e47f8e16145",
+      "name": "車-啟網",
+      "blocks": [
+        {
+          "id": "65c2b234-d113-428b-a309-a81c1e76c0f3",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你南下見了那位里正——當年你在饑荒的半道上扶起的人，如今已是一里之望。你什麼也沒明說，只請他把各里的債戶、各家的苦楚，悄悄理出一本你要的帳；又請他等一個信號。[wait=500]你在薛地布下的那張網，從這一趟起，開始不動聲色地收攏。焚券那一日的「民稱萬歲」、就國那一年的「百里相迎」，此刻都還只是薛地泥土底下，幾根剛剛接上的線。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c6e5a8ba-99e4-44e2-9d77-e99b93d7acb7",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "d6d2134b-6a2d-488a-b72a-9c4c4c9069ad"
+          }
+        }
+      ]
+    },
+    {
+      "id": "56aceda8-0410-4f50-9faf-06b065d62591",
+      "name": "車-運糧",
+      "blocks": [
+        {
+          "id": "22949fa7-7fea-4741-98c5-285fd122ee92",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你借那車做幌子，車廂裡載的不是招搖，是糧。你把換來的、省下的錢帛換成米糧，一趟一趟運下薛地，悄悄接濟那些快要斷炊、快要被債逼得背井離鄉的人家。回程車上空空，只有車轍深深。[wait=500]你不留名，不受謝。這些人不知恩自何來，只在來年焚券時，會比誰都信「薛公真肯救我們」——因為早有一雙看不見的手，替薛公先暖過他們一回。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "8d4f3f05-573e-4bcf-856a-509640c386a1",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "d6d2134b-6a2d-488a-b72a-9c4c4c9069ad"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d6d2134b-6a2d-488a-b72a-9c4c4c9069ad",
+      "name": "第三彈",
+      "blocks": [
+        {
+          "id": "88d6e8ca-c425-45d5-8426-91aaeb4adc35",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "【同刻·傳舍】第三次，那調子響起：「長鋏歸來乎，無以為家！」這一回連笑聲都沒有了。老客當堂拂袖：「魚與之，車與之，今且求家——明日將求薛乎！」滿堂目光聚到孟嘗君臉上，等看他的雅量還撐不撐得住。",
+              "styles": {
+                "fontStyle": "italic",
+                "textColor": "#8899aa"
+              }
+            }
+          ]
+        },
+        {
+          "id": "f78ec315-768d-4479-9f02-18304a2e3c39",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "第三彈，家。[wait=500]這是最重的一道，也是你藏得最深的一道。世人聽見「無以為家」，聽見的是貪得無厭；他們不知道，這四個字，是你這一生最真的一句話——你確實無以為家。二十年前，你的家就毀在薛地的債裡了。市集上那雙被扭走的手，那個熬不過寒冬的母親，那座被拆去砌了別家牆的爐子——你早就無家可歸。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ac5af438-1dc9-48db-b567-fa260cf78023",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "所以「家」這一彈，量的是最要緊的東西：這位薛公，能不能在「貪」的表象底下，看見一個把家丟了的人？能不能對一個一無所有、只剩索取的人，動一點真的惻隱？[wait=500]你賭上了被滿堂唾罵「將求薛乎」的風險，也要問這一句。因為托付薛地的人，若沒有這一點惻隱，焚券買義四個字，他一輩子也聽不懂。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "025967d3-f848-4839-b353-6985655986ae",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "f69f2583-aa29-4f0d-ba60-bd872e51e35c"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f69f2583-aa29-4f0d-ba60-bd872e51e35c",
+      "name": "老母",
+      "blocks": [
+        {
+          "id": "2d0dabc2-dca0-4d5f-8556-d45f284292c4",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你報的「老母」，不是你的生母——她早已埋在二十年前那個冬天。是薛地舊鄰的一位孤老，當年與你母親同住一里，一家也毀於同樣的債，如今孤身一人，在臨淄城南的陋巷裡傭織度日。你流亡半生，一有餘力，便暗中奉養著她——她是你那個被債吃掉的故鄉，最後剩下的一點人氣。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "321ad78a-3769-45e5-ad8e-4a49940d63da",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "【同刻·城南陋巷】孟嘗君使人給其母食用，無使乏。送糧的人回報：那老人不謝也不推，只攥著來人的袖子問——「我兒在貴府，可曾惹禍？」聽說不曾，才鬆了手，朝著相府的方向，遙遙拜了三拜。",
+              "styles": {
+                "fontStyle": "italic",
+                "textColor": "#8899aa"
+              }
+            }
+          ]
+        },
+        {
+          "id": "cb477b99-9d8f-42e7-ae20-95eecc3dd0cf",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "消息輾轉傳到你耳中的那一夜，你在廊下，對著那柄劍坐到了天明。[wait=800]你這一生，把自己活成了一塊不會疼的石頭。可當你聽見那位老人替你問一聲「可曾惹禍」、替你朝相府拜下三拜時，你石頭一樣的心口，忽然裂了一道口子。孟嘗君遣的那幾斗米，餵的不只是一個孤老——是你藏了二十年、自己都不敢去碰的那點溫情。他替你，收留了你故鄉最後的一縷人氣。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "f2ffdd64-7f59-4b33-a5b4-8e396bafe866",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你想起那個把自己站成一塊石頭、好讓身後的孩子淋不著雨的女人——你的母親。你也想起孟嘗君散堂後對客說的那句話：「魚是他的口腹，車是他的行止，家——『無以為家』四個字，你們聽出的是貪，文聽出的，是一個把家丟在了什麼地方的人。」[wait=600]他聽懂了。滿堂三千客，只有他一個人，在「貪」的底下，聽見了「失」。這一道最重的題，他答得比你敢奢望的還要好。你替薛地萬民懸了二十年的心，在這一刻，落下了一半。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "047bfa33-8edb-4835-93c4-7def2c9401cf",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
+            "characterName": "馮諼",
+            "expression": "悲慟",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「……阿娘。[wait=700]這薛公，或許……真擔得起。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "eb717869-7364-4a39-b91a-18efa0dd9150",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "16cc0b78-7fc7-4a7e-8b3f-bea4462fe5e7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "16cc0b78-7fc7-4a7e-8b3f-bea4462fe5e7",
+      "name": "認出-驗",
+      "blocks": [
+        {
+          "id": "decf6dc4-231b-4eaf-9e3d-4d30b0023e21",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "",
+            "choices": "[{\"text\":\"（他的目光，曾在你的劍鞘上停留過……）\",\"mode\":\"jump\",\"fragmentId\":\"d0fcf352-23fd-4b45-b032-65968e445071\",\"visibleIf\":\"{\\\"conditions\\\":[{\\\"left\\\":\\\"認出舊鋏\\\",\\\"op\\\":\\\">=\\\",\\\"rightKind\\\":\\\"literal\\\",\\\"rightLiteral\\\":\\\"1\\\"}],\\\"logicOp\\\":\\\"and\\\"}\"}]"
+          }
+        },
+        {
+          "id": "cd75ac25-44dc-462a-bca7-7a7ae1dc19a2",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "13c9968a-2f83-4835-b669-25607ec96d3d"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d0fcf352-23fd-4b45-b032-65968e445071",
+      "name": "認出-payoff",
+      "blocks": [
+        {
+          "id": "450ecad6-62ef-4aa9-b1e7-35d3b2a87027",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你記得請見那日，孟嘗君的目光，曾在你膝上的長鋏上停了很久。他認得那道雲雷紋，認得那個「工」字——秦地荒驛的乞丐，臨淄堂上的食客，佩著同一柄薛地的劍。他把這兩件事，在心裡接上了。他沒有問，可他看你的眼神，變了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e1b35b61-c174-41fd-9a63-4c7f8ae129f4",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你也知道他認出了。奇怪的是，被人窺見了藏了二十年的祕密，你竟不驚慌，甚至……鬆了一口氣。[wait=600]這半生你把自己藏得太深，深到快要連自己都找不到了。如今有一個人，隔著滿堂的笑罵，模模糊糊地看見了你劍鞘下的真相——而他選擇了不問，替你守著。這一份不問，比任何盤問都更接近信任。你心裡那道對他敞開的縫，又寬了一分。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c90636d8-efba-48e7-8c50-7431f93cddea",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "主公信任",
+            "op": "+=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "3fa37b2b-8eee-4e02-a8fd-4381102ebb95",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "13c9968a-2f83-4835-b669-25607ec96d3d"
+          }
+        }
+      ]
+    },
+    {
+      "id": "13c9968a-2f83-4835-b669-25607ec96d3d",
+      "name": "折辱-驗",
+      "blocks": [
+        {
+          "id": "1afa2ac5-523c-4f0f-9456-2c402e074243",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "",
+            "choices": "[{\"text\":\"（可那一日堂上，他當眾折辱過你……）\",\"mode\":\"jump\",\"fragmentId\":\"cd77192d-cec1-4ff4-96c2-fdf10b453b40\",\"visibleIf\":\"{\\\"conditions\\\":[{\\\"left\\\":\\\"曾當眾折辱馮諼\\\",\\\"op\\\":\\\">=\\\",\\\"rightKind\\\":\\\"literal\\\",\\\"rightLiteral\\\":\\\"1\\\"}],\\\"logicOp\\\":\\\"and\\\"}\"}]"
+          }
+        },
+        {
+          "id": "a6122ca0-6c68-4a3d-b4df-301b05e09288",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "0e385059-2d3c-4d53-93f6-c7ecc2b1c9f7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cd77192d-cec1-4ff4-96c2-fdf10b453b40",
+      "name": "折辱-memory",
+      "blocks": [
+        {
+          "id": "c9dc1356-607b-4916-a94f-d4449e5f9828",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "可你也記得另一件事。三彈其鋏的那一日，他當著滿堂三千客的面，冷笑著折辱過你——「無好無能，鋏倒彈得好」。那哄堂的笑聲，把你淹了進去。你受完了每一聲笑，長揖退下，一個字沒辯。[wait=600]惻隱，他到底還是有的；可那當眾一斥裡的功利與涼薄，你也一併記下了。托付一個人，不只看他心軟時多暖，更要看他心硬時多冷。這根刺，你替日後留著——有些話，或許終究不能對他全說。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "10e1e428-8d50-4053-b291-65fdac108659",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "0e385059-2d3c-4d53-93f6-c7ecc2b1c9f7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0e385059-2d3c-4d53-93f6-c7ecc2b1c9f7",
+      "name": "出記",
+      "blocks": [
+        {
+          "id": "9804aec4-1bc0-47cd-9926-68bdbf010668",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "【同刻·相府】期年之後，府庫先撐不住了。薛地息錢，償者十之二三，逋者十之七八。孟嘗君出記門下，問「誰習計會，能為文收責於薛者乎」。記貼三日，三千客無一人署名——收債是苦差髒差，賢士不為。",
+              "styles": {
+                "fontStyle": "italic",
+                "textColor": "#8899aa"
+              }
+            }
+          ]
+        },
+        {
+          "id": "7e31d6d8-a500-480f-a47a-043299029f90",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "三千客側過去三千張臉的時候，你在記上，添了一個字：「能。」[wait=500]三道題，孟嘗君答完了。魚，他破例給了；車，他容你招搖；家，他遣糧三拜。你等的答案，都等到了。從這一刻起，你不再只是那個廊下彈鋏的食客——你要接過這樁三千人避之不及的差事，因為收債於薛，正是你繞了二十年、要親手去做的那件事。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "31602d79-f5d5-4166-9b6f-49484051b3c0",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "署下這個「能」字，你心裡認的是——",
+            "choices": "[{\"text\":\"為薛地萬民：這一趟，是去斷那條吃了你家、也吃著千家的債根\",\"mode\":\"jump\",\"fragmentId\":\"c1bfd94e-69e1-40c1-943f-50cb6b078894\"},{\"text\":\"為父母之仇：那些券，那些債主的影子，你要親手把它們燒成灰\",\"mode\":\"jump\",\"fragmentId\":\"6d535d91-fa8b-43fd-ba31-8f7c82fe542a\"},{\"text\":\"為這位主公：他值得你把真本事亮出來，替他做成一件天大的事\",\"mode\":\"jump\",\"fragmentId\":\"21ef4b30-3d08-4414-b4c5-96b7cdaa73aa\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "c1bfd94e-69e1-40c1-943f-50cb6b078894",
+      "name": "記-為民",
+      "blocks": [
+        {
+          "id": "6cd534e7-8a8c-48e1-8c32-25997e5e6363",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你認的是薛地萬民。你這一趟去的不是收債，是斷債——斷那條吃了你一家、也年復一年吃著千家萬戶的債根。私仇太小，裝不下你繞的這個大圈；你要的，是讓薛地再沒有一個孩子，像當年的你一樣，抱著一柄劍在市集上站到天亮。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e537f02a-51e2-4642-9a17-6e53e606bd4f",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "201bbaa8-6782-4ad8-8699-538b5c3b9caa"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6d535d91-fa8b-43fd-ba31-8f7c82fe542a",
+      "name": "記-為仇",
+      "blocks": [
+        {
+          "id": "2623ba83-1713-4a15-b01c-691194eadac0",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你認的是那筆二十年沒還的仇。市集上那雙被扭走的手，母親掌心那半片券，被拆去砌牆的爐子——你要親手，把那一整座吃人的債，燒成灰。[wait=500]你知道這念頭不夠「正」，可正不正的，你早不在乎了。你只知道，這把火，你燒的時候，燒的是你自己的仇；而它落下去，救的卻是萬家的命。私仇公了——這就是你為自己選的了局。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "1f019b76-9e2f-4060-9154-602ecb85752d",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "201bbaa8-6782-4ad8-8699-538b5c3b9caa"
+          }
+        }
+      ]
+    },
+    {
+      "id": "21ef4b30-3d08-4414-b4c5-96b7cdaa73aa",
+      "name": "記-為主",
+      "blocks": [
+        {
+          "id": "b1912731-eb71-4572-ae01-bd72f1a10a22",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你認的是這位主公。三道題答下來，你信了他值得——值得你把藏了二十年的真本事，頭一回，為一個人亮出來。你要替他做成一件連他自己都想不到的大事，讓天下知道，那個被滿堂笑作「無用」的食客，究竟是什麼人。[wait=500]這念頭裡，第一次有了「為他」兩個字，而不只是「用他」。你自己都有些訝異——那塊不會疼的石頭，到底還是被這一年的冷暖，捂出了一點溫度。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "7ae44181-b35e-4346-8bdf-2a17bfeda6dd",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "主公信任",
+            "op": "+=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "015c4e58-301d-4fe5-afe8-69508cd35d01",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "201bbaa8-6782-4ad8-8699-538b5c3b9caa"
+          }
+        }
+      ]
+    },
+    {
+      "id": "201bbaa8-6782-4ad8-8699-538b5c3b9caa",
+      "name": "請見",
+      "blocks": [
+        {
+          "id": "c8aeda1f-d4ad-411b-a6ff-80933a969488",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "9e645682-cf1c-45c3-baed-b41d56adfcee",
+            "sceneName": "臨淄相府正堂",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "600",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "6930b667-b190-4066-95dd-6eb5a4cfb173",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "【同刻·相府正堂】孟嘗君屏退帳吏，請而見之，整衣長揖謝罪：「文倦於事，憒於憂……開罪於先生。先生不羞，乃有意欲為收責於薛乎？」——他向一個被他輕慢了一年的人，先低了頭。",
+              "styles": {
+                "fontStyle": "italic",
+                "textColor": "#8899aa"
+              }
+            }
+          ]
+        },
+        {
+          "id": "0e230eaf-e30d-461c-bd6d-37de850eec9d",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你只答了兩個字：「願之。」[wait=500]三千客避之不及的差事，你彷彿等了很久——你確實等了很久，等了二十年。你不問傭金，不求隨從，不討官憑印信，只問券契藏於何處、共幾車。孟嘗君打量著你，眼裡有一種你熟悉的光——那是一個人第一次，認真地看你。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "21847ee9-8867-4328-b279-a6c6808cd9cc",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "臨行，他執你的手，說薛是先人丘墓所在、是他的根本，邑中之民皆父祖遺人，託付給你了。[wait=500]你俯首應諾。他不知道，他口中「父祖遺人」的薛地萬民裡，就有二十年前一個鑄劍師的遺孤，此刻正握著他的手。這一托，他托對了人——只是對得比他以為的，要深得多。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "dff21d17-cba9-41cf-a275-482647163f34",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "登車之前，他隨口一句「視吾家所寡有者」。他想的是珍玩良馬，一句尋常客套。你卻把這七個字，一個一個收進了懷裡，掂了掂分量。[wait=600]你家所寡有者——珍寶充內，狗馬實廄，美人盈堂，你這位主公什麼都不缺。缺的，是義。而「義」這樣東西，恰恰要拿薛地那一車吃人的債券，才買得回來。他隨口說出了謎面；謎底，你已藏在袖中二十年。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d652ab0e-8c90-4d3f-97fb-05c29725aa6b",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "cebad6fe-ea0a-4fe6-95ff-5d8c7229e4d0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cebad6fe-ea0a-4fe6-95ff-5d8c7229e4d0",
+      "name": "驗貨",
+      "blocks": [
+        {
+          "id": "cdda2ad5-f309-49fe-af28-06746fb79c52",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "車轔轔出了臨淄南門。你獨坐車中，解下腰間的舊鋏，橫在膝上，指腹一遍遍摩挲著鞘上那個「工」字。三彈三問，到此收梢。孟嘗君這場歷時一年的驗貨——你心裡，已經有了結論。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c0e753b5-3936-47ea-a7d6-3d76b84cb78b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "一個人待你最不設防的時候，最見真章。這一年你自甘為廢人、為笑柄、為門下最無用的一粒沙，換來的，正是把孟嘗君看了個通透——看他心軟時能暖到什麼地步，也看他心硬時能冷到什麼地步。托付一城人的性命，容不得半分僥倖；你必須確切地知道，日後在薛地那把火點起來時，站在你身後的，究竟是個什麼樣的人。[wait=500]三道題的分數，此刻在你心裡，一分一分地累成了一個總數。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "702ac201-2f1c-4d1e-bab6-851e4c8bfcdd",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "你替這位主公，掂出的分量是——",
+            "choices": "[{\"text\":\"（器量足以承真相：他容得下奇策）\",\"mode\":\"jump\",\"fragmentId\":\"c34ee2e6-f935-4660-963e-6b897c49b278\",\"visibleIf\":\"{\\\"conditions\\\":[{\\\"left\\\":\\\"器量\\\",\\\"op\\\":\\\">=\\\",\\\"rightKind\\\":\\\"literal\\\",\\\"rightLiteral\\\":\\\"3\\\"}],\\\"logicOp\\\":\\\"and\\\"}\"},{\"text\":\"（器量尚可，然須謹慎）\",\"mode\":\"jump\",\"fragmentId\":\"8af9cbbf-caf5-4984-aa8d-001902fe2d88\",\"visibleIf\":\"{\\\"conditions\\\":[{\\\"left\\\":\\\"器量\\\",\\\"op\\\":\\\">=\\\",\\\"rightKind\\\":\\\"literal\\\",\\\"rightLiteral\\\":\\\"-1\\\"},{\\\"left\\\":\\\"器量\\\",\\\"op\\\":\\\"<=\\\",\\\"rightKind\\\":\\\"literal\\\",\\\"rightLiteral\\\":\\\"2\\\"}],\\\"logicOp\\\":\\\"and\\\"}\"},{\"text\":\"（器量薄，猜忌功利：只剩迂迴套路）\",\"mode\":\"jump\",\"fragmentId\":\"6a7ea43e-abea-4a65-a75f-0a7c6de19a50\",\"visibleIf\":\"{\\\"conditions\\\":[{\\\"left\\\":\\\"器量\\\",\\\"op\\\":\\\"<=\\\",\\\"rightKind\\\":\\\"literal\\\",\\\"rightLiteral\\\":\\\"-2\\\"}],\\\"logicOp\\\":\\\"and\\\"}\"}]"
+          }
+        },
+        {
+          "id": "3e7864d0-70cf-4e81-ac73-45daec6a95e0",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "8af9cbbf-caf5-4984-aa8d-001902fe2d88"
+          }
+        }
+      ]
+    },
+    {
+      "id": "c34ee2e6-f935-4660-963e-6b897c49b278",
+      "name": "驗-奇策",
+      "blocks": [
+        {
+          "id": "fc25c362-7612-4727-9b11-6ae2d00b32c6",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "這一年，你把他看透了。他容得下無用之人，容得下當眾索取的貪，容得下一個把家丟了的人——他的器量，撐得住真相。[wait=600]那麼薛地這一局，你便可以走得堂堂正正：焚券之後，你敢直言覆命，敢先斬後奏，敢把「矯君命、以責賜諸民」六個字，當著他的面說出來。因為你信，他聽得懂，也擔得起。這樣的主公，值得你把奇策亮在陽光下。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "a549515e-f9ee-4bed-92ca-fd67e93d95d6",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你握緊了膝上的舊鋏。薛地在前，那一車吃人的債券在後。[wait=500]阿爹，二十年了。你替我掌的那柄劍，今日要用它，去正一正薛地最大的一樁不正——去火裡，取一個「義」字回來。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "3c80a1b2-6fc2-4847-8124-023274db0b1b",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "31c30304-7b7f-4da7-815e-107ca658a93e"
+          }
+        }
+      ]
+    },
+    {
+      "id": "8af9cbbf-caf5-4984-aa8d-001902fe2d88",
+      "name": "驗-中",
+      "blocks": [
+        {
+          "id": "e1b05419-86f8-4a55-a8da-8083f15c8191",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "這一年，你把他掂了個大概。他有惻隱，有雅量，卻也還有幾分尋常人的計較與猶疑——器量夠用，卻未必經得起最烈的火。[wait=600]那麼薛地這一局，你便得走得穩些、留幾分餘地：焚券可以做，覆命卻要挑他氣平的時候，把「市義」二字，一層一層說給他聽。他未必一聽就懂，但只要肯給你解釋的工夫，這局就成得了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "a764c234-1be1-456f-a358-4c0b0aa088da",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你握緊了膝上的舊鋏。薛地在前，那一車債券在後。[wait=500]阿爹，二十年了。這位主公不算頂好，卻也絕非涼薄之輩。夠了——夠我替你，替薛地，去火裡取一個「義」字回來了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "7782d53a-46f6-4e03-8c0c-fe82b759a314",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "31c30304-7b7f-4da7-815e-107ca658a93e"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6a7ea43e-abea-4a65-a75f-0a7c6de19a50",
+      "name": "驗-套路",
+      "blocks": [
+        {
+          "id": "1f315fcb-3b6b-45bc-86a2-fa7d50995611",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "這一年，你也把他看清了。他不是沒有惻隱，可他更多的是計較、是猜忌、是把人先擺上帳簿再論輕重的功利。當眾的一聲斥、帳上的一筆算，你都記著。[wait=600]那麼薛地這一局，你就不能指望他聽得懂真相了。焚券得做，可覆命不能直說——你得迂迴，得造勢，得把「市義」包裝成他聽得進去的樣子，甚至要瞞著他一些事，替他也替自己，留一條後路。以誠事主的路，他自己堵死了；剩給你的，只有套路。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "bd333414-4de9-4f6f-b5ab-986bacfa1418",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你握緊了膝上的舊鋏，指節發白。薛地在前，那一車債券在後。[wait=500]阿爹，二十年了。這位主公……未必配得上你這柄劍。可薛地萬民配。為了他們，這一趟火，我照樣去取——哪怕取回來的義，得先裹上一層謊。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "94ea1084-e8fa-4b4f-ace9-cd3a21a5216f",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "31c30304-7b7f-4da7-815e-107ca658a93e"
+          }
+        }
+      ]
+    },
+    {
+      "id": "31c30304-7b7f-4da7-815e-107ca658a93e",
+      "name": "赴薛",
+      "blocks": [
+        {
+          "id": "f2e27b04-3b03-4ccb-a3e2-db201625c70c",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "3b80bfad-bc2a-4b9e-90de-60611ec4cad2",
+            "sceneName": "薛地市集高台",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "800",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "ed6aea2f-5eb2-4344-ab76-c13807dab8c4",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "bgm",
+            "uri": "bgm/bgm_21_homecoming.mp3",
+            "volume": "72",
+            "loop": "true",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "f0edd948-f9c2-414e-9f7a-7bc5df2e0a79",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "車過泗水，薛地到了。二十年了，你又回到了這片土地——這一次，你不是被債趕走的孤兒，是奉薛公之命、載著一整車債券歸來的收債使。市集還在，高台還在，連空氣裡那股鐵與塵的味道都沒變。變的只有你。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "8ccbe5a7-4132-490a-aebb-6f5fc7c5507e",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你掀簾望向那座高台——二十年前，父親就是在那裡，被債主的家丁當眾扭走的。如今你手裡這一車券契，正是套在薛地萬戶脖子上、和當年套住你家一模一樣的繩索。[wait=600]孟嘗君要你「收債」；你要做的，卻是把這一車繩索，連同套繩索的手，一把火燒個乾淨。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "cb0776d4-ac03-4953-bf0c-7e8e144164ad",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "可你也清楚，這把火不能只憑一腔快意去點。這一車券裡，混著的不只是窮戶的血債——還有齊廷細作藉假債埋下的、能將來構陷孟嘗君的罪證。要燒得乾淨，先得驗得仔細：哪一份是真苦，哪一份是暗箭，你得在火起之前，一份一份，看個分明。[wait=500]合券驗契，明日高台。這一趟，你既要替薛地萬民斷債根，也要替那個還蒙在鼓裡的主公，拔掉一根扎進他命裡的刺。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "9a21bcab-7ac6-4762-9deb-84fde77d3022",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
+            "characterName": "馮諼",
+            "expression": "決然",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「合券驗契——明日，就在這座高台上。[wait=700]阿爹，你看著。券，我替你，替薛地，這就去燒了。」",
+              "styles": {}
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

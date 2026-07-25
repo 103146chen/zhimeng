@@ -1,0 +1,1292 @@
+{
+  "id": "4ccb8dfc-c868-4c6c-9f4d-51e062828cb2",
+  "name": "馮諼篇·第四章 火中取契",
+  "fragments": [
+    {
+      "id": "341cfab6-b6f5-4f31-867e-d2943b1bdbff",
+      "name": "main",
+      "blocks": [
+        {
+          "id": "013d7f62-b02f-4ec0-9070-60154c2e327a",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "3b80bfad-bc2a-4b9e-90de-60611ec4cad2",
+            "sceneName": "薛地市集高台",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "800",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "3f2c9ff1-6ba3-45ed-8982-9d6a9d804405",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "bgm",
+            "uri": "bgm/bgm_22_suspense.mp3",
+            "volume": "72",
+            "loop": "true",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "ae0eaf42-4215-4203-b383-922d55ce7aab",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "【同刻·臨淄相府】孟嘗君尚不知薛地將有一場火。他正被齊王一黨參了一本：「薛公私德收於封地，其志不小。」——你要燒的，正是這句話的證據。",
+              "styles": {
+                "fontStyle": "italic",
+                "textColor": "#8899aa"
+              }
+            }
+          ]
+        },
+        {
+          "id": "b37c0678-106f-4ccb-8f7f-debcd9760dae",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你到薛地，稱貸者悉來合券。你坐在市集的高台上，一份一份地驗——這座高台，二十年前，你父親就是在這裡，被債主的家丁當眾扭走的。今日你坐在台上，膝上橫著他留給你的那柄劍，手裡翻著逼死他那類人的債券。命運兜了一個整整二十年的圈。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "2b9cb558-54e7-49b0-bf56-33f425829084",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「視吾家所寡有者。」——臨行那日，孟嘗君隨口丟下這七個字，當是一句客套。可你把它接得極穩：他家所寡有者，珍寶充內、狗馬實廄、美人盈堂，什麼都不缺，缺的只有一個「義」字。而義，恰要拿這一車吃人的債券，才買得回來。他出的謎面，你藏了二十年的謎底，今日便要在薛地，一筆一筆兌現。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c4df6260-2f92-4e71-859d-f35cbeb04101",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你驗契，不是驗數目——是驗人。合券剖為兩半，右券在府，左券在民；竹片相擊，一枚一枚地合。你要對的，不是欄裡那一串息錢數目，是持左券來合的這一張張臉，究竟是不是真正的薛地窮戶。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d4819ba7-a8ad-4b53-9fde-19914875bd16",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你早看出來了：這一車券契裡，混著的不只是窮民的血債。有幾份，是齊王一黨埋進來的暗樁——他們冒作薛地債戶，握著假券，只等哪天孟嘗君「私市恩、蓄民望」的罪名坐實，便把這些券呈上臨淄的朝堂，做成鐵證。焚券，於萬民是解厄；於這幾條蛀蟲，卻是斷了他們構陷主公的後路。[wait=500]所以這一趟，你既要替薛地斷債根，更要在火起之前，把這幾根扎進孟嘗君命裡的暗刺，一根不剩地拔出來。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "00a9f8ef-ac8b-48ad-9b1f-1bf164ef1cff",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "19e54d56-7362-4d21-bc4c-17e200f4d30b"
+          }
+        }
+      ]
+    },
+    {
+      "id": "19e54d56-7362-4d21-bc4c-17e200f4d30b",
+      "name": "驗契",
+      "blocks": [
+        {
+          "id": "7884e339-fdb0-4e02-9661-d7c899df220c",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "一整日下來，你在心裡篩出了幾份不對勁的券。第一份，墨色簇新卻做舊了邊角——薛地窮戶，哪來閒錢重新繕寫一張債券？第二份，籍貫寫著城南陶里，可持券人那口音，是臨淄官話勉強磨平的。第三份……你認得那手字，橫平豎直，藏不住的館閣氣，是齊廷書吏一路的筆法。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "607b9578-424e-4853-9d45-8752c4a8bd06",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你不動聲色，一面照常合券、一面把這些人一個個記下。二十年遊走列國、看盡人心真偽的眼睛，此刻派上了最要緊的用場。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "762dea36-0c33-4a07-9a4d-c5324fbc3ada",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "要在幾千張券裡揪出這幾條蛀蟲，你靠的是——",
+            "choices": "[{\"text\":\"驗字跡籍貫：從券契的筆法、用紙、鄉音，一寸寸比對出破綻\",\"mode\":\"jump\",\"fragmentId\":\"06cf04e0-944e-46d0-9720-0b73ca9e11ae\"},{\"text\":\"驗人心舉止：故意錯報數目、旁敲側問，看誰的反應不像真欠債的窮人\",\"mode\":\"jump\",\"fragmentId\":\"d8c780d7-f834-48dc-8b86-d0d6bcc328be\"},{\"text\":\"驗舊網回報：讓里正暗中比對各里實有的債戶名冊，揪出冊上沒有的生面孔\",\"mode\":\"jump\",\"fragmentId\":\"e98748b5-0c66-4a4b-ab95-a0b55dcf392f\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "06cf04e0-944e-46d0-9720-0b73ca9e11ae",
+      "name": "驗-契",
+      "blocks": [
+        {
+          "id": "6b26320a-209b-44fe-b169-c6fa2441be9f",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你靠的是那一張張券本身。真正的窮債戶，券舊、字拙、紙糙，帶著經年摩挲的油膩；假的那幾份，偏偏太「乾淨」——新墨做舊的邊角、對不上鄉音的籍貫、館閣體的筆鋒。物不能言，卻最誠實。你把每一處破綻在心裡連成線，七個人，一個都跑不掉。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "bfb5ab23-7aea-4de7-a8ca-f29ae94329d3",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "2b02114b-3567-4ea0-902f-2a528e551744"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d8c780d7-f834-48dc-8b86-d0d6bcc328be",
+      "name": "驗-人",
+      "blocks": [
+        {
+          "id": "ce28dd46-f3e0-40db-b7fb-26f84bda8043",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你靠的是人心。你故意把某幾筆數目報錯，把某幾家的年份說岔——真欠了二十年債、被利滾利逼到骨頭裡的人，聽見數目一錯，臉上那根弦立刻就繃起來；而那幾個假的，卻要麼反應慢了半拍，要麼「大方」得不合常理。窮人對數目的痛，裝不出來。七個破綻，盡收眼底。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "754753a0-123b-4dbd-bc38-7a0a6a940489",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "2b02114b-3567-4ea0-902f-2a528e551744"
+          }
+        }
+      ]
+    },
+    {
+      "id": "e98748b5-0c66-4a4b-ab95-a0b55dcf392f",
+      "name": "驗-網",
+      "blocks": [
+        {
+          "id": "53eed5fa-0d0e-4c30-87c2-1a9db7bac0e9",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你靠的是那張早埋下的網。你讓那位里正，連夜把各里實有的債戶名冊悄悄調來，與眼前合券的人一一比對。薛地的窮，鄉鄰之間門兒清：誰家欠了多少、欠了幾年、當年抵過什麼，一里之內，瞞不過人。名冊上沒有、卻捧著左券來合的生面孔，一對就現了形。[wait=500]你在馮1 埋下的那條線，此刻結出了第一顆果。當年你在饑荒的半道上扶起那個人時，圖的就是今日——謀士下的每一子，都是替許多年後的某一刻備的。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "05e03677-4356-4b8f-840a-b55c3b1097e7",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "2b02114b-3567-4ea0-902f-2a528e551744"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2b02114b-3567-4ea0-902f-2a528e551744",
+      "name": "名單",
+      "blocks": [
+        {
+          "id": "e70f46bf-3768-4278-aac4-7cf26c4c8b0d",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "到日暮，你的袖中已有一列名字：七個假債戶。三個是齊王安插的耳目——他們要的，是坐實孟嘗君「名高於主、私恩於民」；兩個是楚國的細作——齊楚交惡，扳倒孟嘗君這根齊國的樑柱，於楚有百利；還有兩個，是受雇的地痞，收了錢便替人做偽，哪一頭給的價高就替哪一頭賣命。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "7e5de4a5-affe-4a72-b1c8-c54c6444e7f8",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "這七個人手裡的假券，看著和萬千真債無異，卻是七把藏在鞘裡的刀。只等薛地收債激起民怨、只等有人把「薛公私斂民財」的話遞到齊王案前，這幾張券便會化作呈堂的鐵證。到那時，孟嘗君縱有一百張嘴，也洗不清「圖謀不軌」四個字。[wait=500]他此刻還在臨淄，為你「收債太慢」而不解；他不知道，你在薛地替他驗的，是一樁能要他性命的官司。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "0901b900-aeac-4647-8d95-22cbb6915a9f",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你把這七個名字，單獨錄在一片竹券上——就一片，七個人名，數目欄空著。這片券，你另有用處。[wait=500]債券堆上高台，火把就在手邊。當眾一燒，萬民的債沒了，這七張假券的「證據」也沒了，一了百了。可火能燒掉券，燒不掉這七個活人；他們回了齊、回了楚，還會再來。這七個人、這片名單，究竟怎麼處置，才是今夜真正的棋。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "97582d77-2f51-4646-88f6-8bafb959f1c6",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "七個細作，連同滿台債券。你——",
+            "choices": "[{\"text\":\"當眾焚券，細作名單暗記於心，縱之回齊，將計就計\",\"mode\":\"jump\",\"fragmentId\":\"f08238e6-d24c-4c5e-aa24-b1db2647291d\"},{\"text\":\"焚券之前，先設宴穩住七人，套出他們的上線\",\"mode\":\"jump\",\"fragmentId\":\"e5ce5b0a-77fa-4950-8ecc-fe14741c7f64\"},{\"text\":\"【奇策】留那片七名半券為憑，日後親手呈給孟嘗君，向他和盤托出\",\"mode\":\"jump\",\"fragmentId\":\"e09a7d4b-bcb1-4f64-875b-b0fd8c46b556\",\"visibleIf\":\"{\\\"conditions\\\":[{\\\"left\\\":\\\"器量\\\",\\\"op\\\":\\\">=\\\",\\\"rightKind\\\":\\\"literal\\\",\\\"rightLiteral\\\":\\\"2\\\"}],\\\"logicOp\\\":\\\"and\\\"}\"},{\"text\":\"【險棋】偽造七券副本，反手栽給齊王近臣，以毒攻毒\",\"mode\":\"jump\",\"fragmentId\":\"d791155e-9098-4d20-aca3-0375aa9c18bf\",\"visibleIf\":\"{\\\"conditions\\\":[{\\\"left\\\":\\\"器量\\\",\\\"op\\\":\\\"<=\\\",\\\"rightKind\\\":\\\"literal\\\",\\\"rightLiteral\\\":\\\"-1\\\"}],\\\"logicOp\\\":\\\"and\\\"}\"},{\"text\":\"【更冷】細作照除，另抄一份名單暗藏——連你這位主公，也留一手\",\"mode\":\"jump\",\"fragmentId\":\"cb988170-b7db-471b-9010-5aac75fe2eae\",\"visibleIf\":\"{\\\"conditions\\\":[{\\\"left\\\":\\\"曾當眾折辱馮諼\\\",\\\"op\\\":\\\">=\\\",\\\"rightKind\\\":\\\"literal\\\",\\\"rightLiteral\\\":\\\"1\\\"}],\\\"logicOp\\\":\\\"and\\\"}\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f08238e6-d24c-4c5e-aa24-b1db2647291d",
+      "name": "策-縱之",
+      "blocks": [
+        {
+          "id": "94c2e2f1-a132-4c15-9220-dc0e8769ff58",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "765a2281-3fcd-43a9-8f35-c57937f848d4",
+            "sceneName": "CG·薛地焚券·裡",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "500",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "c9bab691-ed84-4bc7-a9a7-dcb6648c6900",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "SE",
+            "soundId": "",
+            "uri": "se/se_fire_crackling.mp3",
+            "volume": "88",
+            "loop": "false",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "30b0022c-cba8-4578-95df-8c869ffff29e",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你選了陽謀。當眾一把火燒了滿台債券，那七個細作的假券也一併化成灰——連同他們手裡的「證據」。你不點破，不拿人，把七個名字牢牢記在心裡，任他們灰頭土臉地回齊國去。[wait=500]證據沒了，人還在你眼皮底下。日後他們再想動作，每一步你都先知道；將計就計，反倒成了你安在齊廷的一面鏡子。細作，就這麼不動聲色地肅清了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "8e969f31-d57d-423f-bff5-1569613a79c4",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "3b80bfad-bc2a-4b9e-90de-60611ec4cad2",
+            "sceneName": "薛地市集高台",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "500",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "e53a7cbb-c8d0-405c-a0ff-ec482d65d58b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "這是最乾淨的一手。你沒有多殺一人，沒有多結一怨——只用一把本就要燒的火，順手燒掉了七把架在孟嘗君脖子上的刀。他們回去無法交差，卻也抓不到你半點把柄：券是當眾燒的，債是明著免的，堂堂正正，滴水不漏。[wait=500]你要的正是這份「堂堂正正」。替孟嘗君謀事，路子越乾淨，將來越經得起翻查——市義若沾了半分陰私，就不叫市義了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "dc7f3729-105c-44b3-847c-f652ff86f760",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "細作肅清",
+            "op": "=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "3ebe6eb6-7162-48a2-9dae-650530e3027a",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "b63fdee0-8ca7-4734-b4c7-230038ffd682"
+          }
+        }
+      ]
+    },
+    {
+      "id": "e5ce5b0a-77fa-4950-8ecc-fe14741c7f64",
+      "name": "策-設宴",
+      "blocks": [
+        {
+          "id": "694d3edb-fc09-48b6-8c3a-d7116cca80bc",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你選了深挖。焚券之前，你設下一席酒，把那七個人穩住，虛與周旋，一杯一杯地套——套他們的上線是誰、在齊廷通著哪一房、在楚國連著哪一路。酒過三巡，該吐的都吐了。你把那張暗線的網，摸了個七七八八，才放火。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "3f47836a-e7dd-410b-a4ef-5800243f1a15",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "只是設宴費了工夫，也走漏了風聲。你在薛地遲遲不焚券、反倒宴請債戶的消息，順著那幾張嘴，比火更快地傳回了臨淄——「薛公之臣，在封地大宴賓客、收買人心」。你替孟嘗君摸清了敵網，卻也替他，招來了一句提早落地的讒言。[wait=500]有些情報，是要拿代價換的。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "820df31b-8815-4718-a238-bce0338e85fe",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你不是不知道這風險。可你算的是更長的一盤：只揪出這七個人不夠，揪出他們背後那張網，才能斷根。今日忍下這句提前的讒言，換來的是齊廷、楚境那幾條暗線的走向——來日孟嘗君罷相、風浪再起時，你便能先一步堵住每一個缺口。[wait=500]謀士算賬，從不看眼前一城一地的得失。這句早到的讒言，是你替他先付的一筆學費——只盼他撐得過，也盼你補得回。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "fa7bf993-698a-4e3b-887b-d6480fac9ee2",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "細作肅清",
+            "op": "=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "7708d07a-45b1-41ee-b466-a1cfd8adda20",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "讒言先至",
+            "op": "=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "2ae501d5-a384-4b4b-8b8f-539d27bbc1db",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "b63fdee0-8ca7-4734-b4c7-230038ffd682"
+          }
+        }
+      ]
+    },
+    {
+      "id": "e09a7d4b-bcb1-4f64-875b-b0fd8c46b556",
+      "name": "策-留憑",
+      "blocks": [
+        {
+          "id": "03fbdb37-eab7-43a5-8612-68c4cd8bb9ef",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你選了一條最險、也最坦蕩的路。你當眾焚了所有債券，卻悄悄留下那片錄著七個名字的半券——不是為了要挾誰，是為了有朝一日，親手把它呈到孟嘗君面前，一五一十告訴他：我燒的不只是你的錢，是能置你於死地的罪證；這七個名字，是我替你從火裡揀出來的。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "73a6a17a-a511-4ed6-b594-f2018fd30a70",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "這一步險。若他器量不足，見了這半券，只會驚疑你「私錄名單、居心叵測」。可你在三彈三問裡，已經把他掂過了——他容得下真相。[wait=600]你決定賭一次坦誠：不再把他只當一枚要瞞著、要利用的棋，而當一個，值得你交底的主公。這片半券，就是你遞給他的第一句真話。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "1b08428c-3a9e-4e55-9afc-beca4586ebab",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "二十年了，你把自己活成了一座密不透風的城，連影子都藏著三分。你早已習慣不對任何人交底——交底就是把柄，把柄就是死。可這一次，你想試試看：把最要命的一樣東西，主動遞到一個人手上，是什麼滋味。[wait=500]你賭的不只是他的器量，也是你自己這半生第一次的、笨拙的信任。若他接得住，你們之間那道二十年的牆，就從這片半券起，裂開第一道縫。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "7320342c-47f6-44be-829f-ca95fa8a0e4e",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "細作肅清",
+            "op": "=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "a6fd5b54-6b92-4e8b-9b84-fa3f4a68046d",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "主公信任",
+            "op": "+=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "166723bc-6450-4f63-82f1-e87922b66f4b",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "b63fdee0-8ca7-4734-b4c7-230038ffd682"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d791155e-9098-4d20-aca3-0375aa9c18bf",
+      "name": "策-栽贓",
+      "blocks": [
+        {
+          "id": "d1498325-fcbb-4864-b2f4-01360514970b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你選了以毒攻毒。你連夜偽造了那七張假券的副本，做舊、用印、仿了齊廷書吏的筆，反手栽到那個進讒的齊王近臣門下——讓構陷別人的刀，先割了執刀的手。真券在火裡燒盡，假券在暗裡遞出，一來一往，神鬼不覺。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "6970d7b5-2d12-480f-bdf8-f7fdbd737359",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "這一手狠，也髒。細作是除了，可你動用的，是和敵人一樣的詐術；一旦這局露了破綻、事敗反噬，孟嘗君「私市恩、行詭道」的罪，就再也洗不清了。你把一樁乾淨的市義，摻進了一味毒。[wait=500]你比誰都清楚這險棋的代價——可你這位主公功利猜忌，不配你以誠相待；既然如此，就只能用他那一路的髒法子，替他把命保下來。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "625d0dd6-4509-4907-a744-9fa2fa4737f1",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你也曾想過走那條堂堂正正的路。可一個當眾把你擺上帳簿、拿息錢多寡量你人品的主公，值不值得你賭上乾淨去以誠相待？你不信。與其把後背亮給一個隨時會為自保而棄你的人，不如自己攥緊主動——哪怕手要弄髒。[wait=500]市義的底子，就這麼被你摻了一味見不得光的毒。你告訴自己：只要能保薛地、保他一條命，這點髒，你認。可你心裡也清楚，這一味毒，日後未必只毒得了敵人。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ff894360-c7c9-4602-aed3-ab9ab2362e76",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "細作肅清",
+            "op": "=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "c241f525-9bd3-43f4-b656-b4465a767882",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "行險栽贓",
+            "op": "=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "7d6346d1-d498-46b0-8bde-5929f343ab7d",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "b63fdee0-8ca7-4734-b4c7-230038ffd682"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cb988170-b7db-471b-9010-5aac75fe2eae",
+      "name": "策-留手",
+      "blocks": [
+        {
+          "id": "d5631a29-8b88-40d3-90b6-4ed60b3383d8",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你把七個細作照樣肅清了，可在焚券之前，你另抄了一份名單，連同一些薛地帳目的憑據，悄悄收進了自己的匣底。細作要防，這位主公……你也留了一手。[wait=500]那一日堂上，他當著滿座三千客折辱過你。你受完了每一聲笑，也記下了他心硬時的那份涼薄。托付可以，全然交底，不必——手裡攥著點東西，將來無論是替他、還是防他，都好過赤手空拳。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e346bb4d-507f-40d7-8f74-19fcf7743cd8",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你並非不肯替他賣命——薛地的火，你照樣點得乾脆。你只是學乖了：對一個曾當眾折辱你的人，把心掏空了給他，是蠢。那一聲堂前的冷笑，替你在他和你之間，砌了一道你不打算拆的牆。[wait=500]你替他謀事，卻替自己留路。這不是背叛，是清醒——這世上最靠得住的忠誠，往往是那種留著三分餘地、傷得起一次辜負的忠誠。你把那份名單壓在匣底，像壓著一句沒說出口的：我幫你，但我不會再讓你，有機會第二次把我踩進塵埃。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "b5718740-8a4d-4c8c-a256-872253efffb9",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "細作肅清",
+            "op": "=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "226750ee-9e49-47fa-8831-e9192f0c3ba0",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "b63fdee0-8ca7-4734-b4c7-230038ffd682"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b63fdee0-8ca7-4734-b4c7-230038ffd682",
+      "name": "焚券",
+      "blocks": [
+        {
+          "id": "07082dda-3623-413d-a967-9eaaa55d9238",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "【同刻·薛地民間】你舉火之時，稱貸諸民悉聚台下。券契投火，火光沖天。你朗聲道：「孟嘗君所以貸錢者，為民之無者以為本業；今富給者以要期，貧窮者燔券書以捐之。諸君強飲食！」——民皆呼萬歲。",
+              "styles": {
+                "fontStyle": "italic",
+                "textColor": "#8899aa"
+              }
+            }
+          ]
+        },
+        {
+          "id": "251445ff-b50a-44d6-ba9a-ac681167c162",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你把稱貸諸民悉數召到台下，先當眾核驗契據，能償者定下歸還的期限；輪到那些貧不能償、利已滾成本金十倍的人家——你當著所有人的面，把他們的券契，一捆一捆，投進了火裡。你朗聲說：孟嘗君之所以放債，是為了讓沒有本業的百姓能謀生；如今有力償還的訂期歸還，實在窮困的，燒掉券書、免了這筆債。諸位，開懷吃酒吧。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "1a41b0c1-ffdb-4e45-a642-80fb970cf2c4",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "火起。一整座高台的債券，在火裡蜷曲、焦黑、化為漫天灰蝶，打著旋兒飄上薛地的夜空。台下那些被債壓了半輩子、連腰都直不起來的窮民，先是死死盯著火堆不敢相信，繼而放聲——有人捶著胸口痛哭，有人朝火光叩首，有人抱著身邊的老小，朝著臨淄的方向，一遍又一遍高呼薛公之名。「萬歲」的聲浪，一層蓋過一層，滾過整座薛地。二十年套在這片土地脖子上的繩索，今夜，當眾斷了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ff374b52-913f-4d79-bce9-a176599ba424",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "薛地民心",
+            "op": "+=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "8133cfb8-1632-4603-8adb-b4f44e3a1020",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你冷眼看著這一片沸騰的人海。他們謝的是孟嘗君，喊的是薛公的名——沒有一個人看你一眼，沒有一個人知道，點這把火的手，屬於二十年前他們之中一個被債趕走的孩子。這正是你要的。市義的功，全歸孟嘗君；你只要那個「義」字，真真切切地，落回這片土地。名利於你如浮灰，你圖的從來不是被記住，是這一台燒得乾乾淨淨的火。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "51ab1c0c-247c-4795-b6f8-1b92dfe252f6",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你站在火光裡，臉被烤得發燙，眼睛卻是涼的。你想起市集上那雙被扭走的手，想起母親臨終攥著的那半片券，想起那個抱著劍在高台下站到天亮的孩子。二十年了。這把火，你替薛地萬民燒，也替一個死在債裡的鑄劍師、替一座被拆去砌牆的爐子燒。整整二十年，你就為了走到今夜、走上這座台、親手把這樣的債，一張不留地燒成灰。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "9aadbbba-ddd8-42c4-91f3-ec155685c510",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "灰燼裡，你「不慎」遺落了那片錄著七個名字的合券——數目欄空著，只餘一列人名，火舌舔過，燒得只剩半片焦黑。它會在明日的餘燼裡被人拾起，收進一只漆匣，隨你一同帶回臨淄，擱到孟嘗君的案頭。[wait=600]那是你留給他的一道題，也是一句沒頭沒尾的坦白：你若看得懂這七個名字，便知我燒的不只是你的錢，是你的命。看不看得懂，就看你了，孟嘗君。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "86a0daea-48fb-4827-834c-9b3c67a59eef",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "fb754fcc-9c5d-491d-8d6c-7831639c73f2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fb754fcc-9c5d-491d-8d6c-7831639c73f2",
+      "name": "半券之答",
+      "blocks": [
+        {
+          "id": "aac8eed0-dc35-4d60-b98b-25b923850606",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "",
+            "choices": "[{\"text\":\"（那片半券，他日後會如何待它……）\",\"mode\":\"jump\",\"fragmentId\":\"12b7b54c-4862-45ac-9223-c6047378af4d\",\"visibleIf\":\"{\\\"conditions\\\":[{\\\"left\\\":\\\"收起半券\\\",\\\"op\\\":\\\">=\\\",\\\"rightKind\\\":\\\"literal\\\",\\\"rightLiteral\\\":\\\"1\\\"}],\\\"logicOp\\\":\\\"and\\\"}\"},{\"text\":\"（那片半券，他日後會如何待它……）\",\"mode\":\"jump\",\"fragmentId\":\"3507e260-dbc5-4e51-a296-10441cb67796\",\"visibleIf\":\"{\\\"conditions\\\":[{\\\"left\\\":\\\"收起半券\\\",\\\"op\\\":\\\"<=\\\",\\\"rightKind\\\":\\\"literal\\\",\\\"rightLiteral\\\":\\\"0\\\"}],\\\"logicOp\\\":\\\"and\\\"}\"}]"
+          }
+        },
+        {
+          "id": "b8faf893-c122-4cf7-8eba-2928016f7144",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "3507e260-dbc5-4e51-a296-10441cb67796"
+          }
+        }
+      ]
+    },
+    {
+      "id": "12b7b54c-4862-45ac-9223-c6047378af4d",
+      "name": "券-收起",
+      "blocks": [
+        {
+          "id": "46e52ac3-aeb5-4da4-82a9-8556cfb0ea4e",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "【同刻·臨淄相府】一年後的深夜，孟嘗君會在燈下反覆端詳這片焦邊的半券。他讀不懂那七個名字，卻莫名不捨得丟——他把它收進了私匣，一直帶到晚年。",
+              "styles": {
+                "fontStyle": "italic",
+                "textColor": "#8899aa"
+              }
+            }
+          ]
+        },
+        {
+          "id": "75758b41-6f95-47f7-a100-44fa42ad735a",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你不會知道他收起了它。但你留下它的那一刻，賭的就是這一點：他看不懂，卻願意留著。願意留著一件看不懂的東西，本身就是一種信——信這東西背後，有一個他還沒讀懂、卻不忍辜負的人。[wait=500]這半片券，是你隔著二十年的祕密，向他遞出的第一句無聲的坦白。他接住了，儘管他還不知道那是什麼。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "6a9f5489-63dd-415d-9b19-d4ba31009f0b",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "6bc0eb69-51e9-4a6b-bd9b-a7f8315a61b3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "3507e260-dbc5-4e51-a296-10441cb67796",
+      "name": "券-棄之",
+      "blocks": [
+        {
+          "id": "5cf419ca-9f6f-4804-a8ab-c459ad71bcde",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "【同刻·臨淄相府】灰燼裡那片焦券，被隨手撿起，又被隨手擱下。孟嘗君看不懂那七個名字，只當是燒剩的殘簡，連同一腔對「焚券」的惱怒，一併棄了，再沒多看一眼。",
+              "styles": {
+                "fontStyle": "italic",
+                "textColor": "#8899aa"
+              }
+            }
+          ]
+        },
+        {
+          "id": "b873c19d-f8d3-4568-92c0-71e8059f376b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你留下它，是遞出一句無聲的坦白；可這句話，他沒有接。[wait=500]也罷。你這位主公，此刻滿心都是那一整年貢賦付之一炬的肉痛，哪還有餘裕，去細想一片看不懂的殘券。你藏了二十年的真相，透出來的這一絲微光，被他無心地拂落在了灰裡。你並不怨他——只是心底那道剛敞開一線的縫，又悄悄闔上了一些。有些話，看來還不到說的時候。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "471f9b92-da8a-434f-9b4f-56bba2378ec3",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "6bc0eb69-51e9-4a6b-bd9b-a7f8315a61b3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6bc0eb69-51e9-4a6b-bd9b-a7f8315a61b3",
+      "name": "火後",
+      "blocks": [
+        {
+          "id": "0820d807-a07b-4747-a110-fc2a5920eddf",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "33bbf57d-3308-4330-bc0d-fbbb7905aa91",
+            "sceneName": "薛地市集·火場",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "600",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "59752ff9-fcb3-458f-88a6-29aa1fd6037c",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "bgm",
+            "uri": "bgm/bgm_23_aftermath.mp3",
+            "volume": "68",
+            "loop": "true",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "3f675c35-c57a-4f62-baf4-5e7257865090",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "夜半，人散盡了，灰燼猶溫。你獨自坐在高台上，解下腰間的舊鋏，橫在膝頭。台下焦黑的一片，是薛地二十年的債，也是你半生的執念，今夜一同燒成了灰。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "6cad3300-dc89-4219-8667-21f34ccb4ea0",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "劍格上的「工」字，在餘燼明明滅滅的紅光裡，忽隱忽現。二十年前，打出這柄劍的那雙手，就是在這座高台上，被債主當眾扭走的。而今夜，握著這柄劍的人，在同一座高台上，把那樣的債，一把火燒了個乾淨。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ffa5cd79-71a7-4ae9-a93e-8eeeb6b21333",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你想起市集口那間酒肆——它就砌在你家那座被拆的爐子的地基上。二十年來人來人往，誰也不記得這裡曾有一座薛地最正的鑄劍爐，誰也不記得那個蹲在爐邊看火的孩子。世上被債吃掉的人，連被記住的資格都沒有。[wait=500]可今夜，你替他們，把那個吃人的東西，當著滿薛地的面，燒成了灰。他們或許依舊記不住那個孩子的名字——但他們的孩子，不會再被同樣的債，趕出這片土地了。這就夠了。這，就是你替父親、替母親、替自己討回的那個說法。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "0bdad1ef-bd6b-44b8-bbed-783acebb7bfb",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "望著滿台餘燼，你——",
+            "choices": "[{\"text\":\"任那壓了二十年的東西，在此刻決了堤\",\"mode\":\"jump\",\"fragmentId\":\"2d3fdc81-49c6-4535-a3e7-38cce15860e9\"},{\"text\":\"依舊平靜。火還沒燒完，路還沒走完\",\"mode\":\"jump\",\"fragmentId\":\"845bf3bc-4db3-4b1c-8099-1a8fe466036d\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2d3fdc81-49c6-4535-a3e7-38cce15860e9",
+      "name": "誓-潰堤",
+      "blocks": [
+        {
+          "id": "f5354c06-9e14-4d9e-804f-50dc31de275f",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你這塊二十年不肯疼的石頭，在無人的高台上，終於裂了。沒有嚎啕，只有兩行熱的東西，順著被火烤乾的臉，無聲地淌下來，砸進膝前的灰裡。你伏在劍上，肩頭極輕地抖著——為那雙被扭走的手，為那個攥著半券死去的女人，為那個抱劍站到天亮的孩子。[wait=500]阿爹，阿娘，你們看見了嗎。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "7335f382-1d26-4258-a59c-faf5e87347aa",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "721e0cf8-4d74-4389-bc89-e3a4c93eeb52"
+          }
+        }
+      ]
+    },
+    {
+      "id": "845bf3bc-4db3-4b1c-8099-1a8fe466036d",
+      "name": "誓-未竟",
+      "blocks": [
+        {
+          "id": "61b2a31b-97f5-4b8c-a6f2-1f7414fcdfad",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你沒有落淚。你只是很久很久地，望著那片將熄的紅。哭，你二十年前就哭夠了；眼淚換不回父親，也燒不掉一張債券。火還沒燒到最後——焚券只是市義的上半篇，下半篇，是明日回臨淄向孟嘗君覆命，是來日薛地那場更大的風浪。[wait=500]路還長。你把那一絲鬆動的情緒，重新按回胸底最深處。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c4c55018-abaf-4d36-a1f1-3cf112046564",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "721e0cf8-4d74-4389-bc89-e3a4c93eeb52"
+          }
+        }
+      ]
+    },
+    {
+      "id": "721e0cf8-4d74-4389-bc89-e3a4c93eeb52",
+      "name": "覆命前夜",
+      "blocks": [
+        {
+          "id": "c40901c9-71a1-4185-9957-05b0703a1a61",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
+            "characterName": "馮諼",
+            "expression": "低語",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「阿爹。[wait=800]券，燒完了。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "994b4391-45c1-4d6a-9103-297adb809553",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你摩挲著鞘上那個「工」字，很輕地說了這一句。像是說給地下的人聽，也像是說給自己這二十年聽。[wait=500]明日，你就要空著手回臨淄，去見那位剛剛損失了一整年貢賦、正在氣頭上的主公。他問你「責畢收乎，來何疾也」，你要答他——「收畢矣。」他問「以何市而反」，你要答他——「臣竊計，君家所寡有者，以義耳。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "1e120682-4bac-4806-8ae9-2ecb4a04e0a3",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "市義。這兩個字，你在心裡藏了二十年，明日終於要當著他的面，說出口。他會震怒，會心痛，會在滿堂之前，質問你這一車貢賦換來的「義」，究竟能不能當飯吃。[wait=600]可你不急。義能不能當飯吃，不是明日堂上一句話說得清的——那要等到來日，齊王廢相、他孤身就國、車駕未至薛而百里之民扶老攜幼相迎的那一天，才見分曉。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "a5c26192-aa82-40e2-b63a-ccb817cd9359",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你甚至已經想好了那一日要對他說的話：「臣竊計，君宮中積珍寶，狗馬實外廄，美人充下陳；君家所寡有者，以義耳。臣竊矯君命，以責賜諸民，因燒其券，民稱萬歲——乃臣所以為君市義也。」[wait=500]矯君命——這三個字，是要擔干係的。你替他做主燒了一整年的貢賦，若他容不下，這便是死罪；可你篤定要這麼說，一個字不繞。因為你要的，從不是他一時的諒解，是讓「市義」二字，堂堂正正地，記進他和薛地的往後。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "918d9c04-542e-4938-9f5a-9e6bba262682",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你收劍起身。東方的天色，已經透出一線灰白。台下最後一點餘燼熄了，薛地的夜，第一次沒有債券壓在上頭。你迎著晨風，往臨淄的方向去——去把那句「為君市義」的下半篇，一年一年，親手替他兌現。",
+              "styles": {}
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

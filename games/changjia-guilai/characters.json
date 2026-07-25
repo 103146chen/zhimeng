@@ -1,0 +1,365 @@
+{
+  "version": 2,
+  "globalSettings": {
+    "defaultPosition": "center",
+    "graphics": {
+      "keepAspectRatio": true,
+      "size": "(30%,30%)"
+    },
+    "positions": [
+      {
+        "id": "left",
+        "name": "左",
+        "left": -35,
+        "top": 25
+      },
+      {
+        "id": "center-left",
+        "name": "中左",
+        "left": -20,
+        "top": 25
+      },
+      {
+        "id": "center",
+        "name": "中",
+        "left": 0,
+        "top": 25
+      },
+      {
+        "id": "center-right",
+        "name": "中右",
+        "left": 20,
+        "top": 25
+      },
+      {
+        "id": "right",
+        "name": "右",
+        "left": 35,
+        "top": 25
+      }
+    ],
+    "defaultAnchor": "left_top"
+  },
+  "attributeTemplate": [],
+  "characters": [
+    {
+      "id": "f5e9c0bd-260c-426e-b6d9-8fc8100d43bb",
+      "name": "孟嘗君",
+      "expressions": [
+        {
+          "name": "平靜",
+          "assetPath": "characters/孟嘗君/平靜.png"
+        },
+        {
+          "name": "微笑",
+          "assetPath": "characters/孟嘗君/微笑.png"
+        },
+        {
+          "name": "疑慮",
+          "assetPath": "characters/孟嘗君/疑慮.png"
+        },
+        {
+          "name": "怒",
+          "assetPath": "characters/孟嘗君/怒.png"
+        },
+        {
+          "name": "強忍",
+          "assetPath": "characters/孟嘗君/強忍.png"
+        },
+        {
+          "name": "沉思",
+          "assetPath": "characters/孟嘗君/沉思.png"
+        },
+        {
+          "name": "悲慟",
+          "assetPath": "characters/孟嘗君/悲慟.png"
+        },
+        {
+          "name": "驚愕",
+          "assetPath": "characters/孟嘗君/驚愕.png"
+        },
+        {
+          "name": "便服",
+          "assetPath": "characters/孟嘗君/便服.png"
+        },
+        {
+          "name": "病榻",
+          "assetPath": "characters/孟嘗君/病榻.png"
+        }
+      ],
+      "themeColor": {
+        "bg": "#fdf3dc",
+        "fg": "#8a6d1f",
+        "ring": "#d9b24a"
+      },
+      "defaultPosition": "center",
+      "attributeValues": {},
+      "graphics": {
+        "size": "(100%,100%)"
+      }
+    },
+    {
+      "id": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
+      "name": "馮諼",
+      "expressions": [
+        {
+          "name": "平靜",
+          "assetPath": "characters/馮諼/平靜.png"
+        },
+        {
+          "name": "低語",
+          "assetPath": "characters/馮諼/低語.png"
+        },
+        {
+          "name": "微笑",
+          "assetPath": "characters/馮諼/微笑.png"
+        },
+        {
+          "name": "冷冽",
+          "assetPath": "characters/馮諼/冷冽.png"
+        },
+        {
+          "name": "決然",
+          "assetPath": "characters/馮諼/決然.png"
+        },
+        {
+          "name": "悲慟",
+          "assetPath": "characters/馮諼/悲慟.png"
+        },
+        {
+          "name": "少年",
+          "assetPath": "characters/馮諼/少年.png"
+        },
+        {
+          "name": "暮年",
+          "assetPath": "characters/馮諼/暮年.png"
+        }
+      ],
+      "themeColor": {
+        "bg": "#e3ecf5",
+        "fg": "#2c4a6e",
+        "ring": "#7d9dc0"
+      },
+      "defaultPosition": "center",
+      "attributeValues": {},
+      "graphics": {
+        "size": "(100%,100%)"
+      }
+    },
+    {
+      "id": "14bd0ad5-ed5a-45a6-bd94-a3c22acd8df7",
+      "name": "田文之母",
+      "expressions": [
+        {
+          "name": "平靜",
+          "assetPath": "characters/田文之母/平靜.png"
+        },
+        {
+          "name": "憂懼",
+          "assetPath": "characters/田文之母/憂懼.png"
+        }
+      ],
+      "defaultPosition": "center",
+      "attributeValues": {},
+      "graphics": {
+        "size": "(100%,100%)"
+      }
+    },
+    {
+      "id": "bd5fb7cd-9442-4ad6-a690-8fe3000c4422",
+      "name": "田嬰",
+      "expressions": [
+        {
+          "name": "平靜",
+          "assetPath": "characters/田嬰/平靜.png"
+        },
+        {
+          "name": "怒",
+          "assetPath": "characters/田嬰/怒.png"
+        },
+        {
+          "name": "沉吟",
+          "assetPath": "characters/田嬰/沉吟.png"
+        }
+      ],
+      "defaultPosition": "center",
+      "attributeValues": {},
+      "graphics": {
+        "size": "(100%,100%)"
+      }
+    },
+    {
+      "id": "715733c5-4c4b-47db-837f-2a15b9b4c2dc",
+      "name": "齊湣王",
+      "expressions": [
+        {
+          "name": "平靜",
+          "assetPath": "characters/齊湣王/平靜.png"
+        },
+        {
+          "name": "疑忌",
+          "assetPath": "characters/齊湣王/疑忌.png"
+        },
+        {
+          "name": "惶恐",
+          "assetPath": "characters/齊湣王/惶恐.png"
+        }
+      ],
+      "defaultPosition": "center",
+      "attributeValues": {},
+      "graphics": {
+        "size": "(100%,100%)"
+      }
+    },
+    {
+      "id": "446618ca-1fda-4fe0-ab71-89a2320f1707",
+      "name": "秦昭王",
+      "expressions": [
+        {
+          "name": "平靜",
+          "assetPath": "characters/秦昭王/平靜.png"
+        },
+        {
+          "name": "陰沉",
+          "assetPath": "characters/秦昭王/陰沉.png"
+        }
+      ],
+      "defaultPosition": "center",
+      "attributeValues": {},
+      "graphics": {
+        "size": "(100%,100%)"
+      }
+    },
+    {
+      "id": "63a52479-7708-4b17-968e-e5814a760051",
+      "name": "魏使",
+      "expressions": [
+        {
+          "name": "平靜",
+          "assetPath": "characters/魏使/平靜.png"
+        },
+        {
+          "name": "恭敬",
+          "assetPath": "characters/魏使/恭敬.png"
+        }
+      ],
+      "defaultPosition": "center",
+      "attributeValues": {},
+      "graphics": {
+        "size": "(100%,100%)"
+      }
+    },
+    {
+      "id": "c3a4a748-b3c0-41ae-994f-2a13f6503711",
+      "name": "幸姬",
+      "expressions": [
+        {
+          "name": "平靜",
+          "assetPath": "characters/幸姬/平靜.png"
+        },
+        {
+          "name": "微笑",
+          "assetPath": "characters/幸姬/微笑.png"
+        }
+      ],
+      "defaultPosition": "center",
+      "attributeValues": {},
+      "graphics": {
+        "size": "(100%,100%)"
+      }
+    },
+    {
+      "id": "5d9b6311-5353-473f-a239-22c8c4861605",
+      "name": "狗盜之徒",
+      "expressions": [
+        {
+          "name": "平靜",
+          "assetPath": "characters/狗盜之徒/平靜.png"
+        },
+        {
+          "name": "狡黠",
+          "assetPath": "characters/狗盜之徒/狡黠.png"
+        }
+      ],
+      "defaultPosition": "center",
+      "attributeValues": {},
+      "graphics": {
+        "size": "(100%,100%)"
+      }
+    },
+    {
+      "id": "dd946e48-6cff-4811-8a29-eb15ee7062f2",
+      "name": "薛地里正",
+      "expressions": [
+        {
+          "name": "平靜",
+          "assetPath": "characters/薛地里正/平靜.png"
+        },
+        {
+          "name": "懇切",
+          "assetPath": "characters/薛地里正/懇切.png"
+        }
+      ],
+      "defaultPosition": "center",
+      "attributeValues": {},
+      "graphics": {
+        "size": "(100%,100%)"
+      }
+    },
+    {
+      "id": "08497ae5-7888-4803-816d-1e70056f8a26",
+      "name": "門客",
+      "expressions": [
+        {
+          "name": "平靜",
+          "assetPath": "characters/門客/平靜.png"
+        },
+        {
+          "name": "訕笑",
+          "assetPath": "characters/門客/訕笑.png"
+        },
+        {
+          "name": "怒",
+          "assetPath": "characters/門客/怒.png"
+        },
+        {
+          "name": "慚愧",
+          "assetPath": "characters/門客/慚愧.png"
+        }
+      ],
+      "defaultPosition": "center",
+      "attributeValues": {},
+      "graphics": {
+        "size": "(100%,100%)"
+      }
+    },
+    {
+      "id": "26dc48b0-afd5-4a9a-8d48-afb8bd56dff6",
+      "name": "馮父",
+      "expressions": [
+        {
+          "name": "平靜",
+          "assetPath": "characters/馮父/平靜.png"
+        },
+        {
+          "name": "慈和",
+          "assetPath": "characters/馮父/慈和.png"
+        },
+        {
+          "name": "決然",
+          "assetPath": "characters/馮父/決然.png"
+        }
+      ],
+      "themeColor": {
+        "bg": "#eae4d8",
+        "fg": "#5a4a34",
+        "ring": "#a8946f"
+      },
+      "defaultPosition": "center",
+      "attributeValues": {},
+      "graphics": {
+        "size": "(100%,100%)"
+      }
+    }
+  ]
+}

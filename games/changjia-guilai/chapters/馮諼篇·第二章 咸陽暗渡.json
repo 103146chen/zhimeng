@@ -1,0 +1,1116 @@
+{
+  "id": "617c552c-acca-4ab5-b9da-c6b327f9f4c0",
+  "name": "馮諼篇·第二章 咸陽暗渡",
+  "fragments": [
+    {
+      "id": "e08c0bcb-75c7-4443-b282-30b31b8efe96",
+      "name": "main",
+      "blocks": [
+        {
+          "id": "d019d74a-e4d7-4c9c-94d3-e0bc02e80f0a",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "7cf5fc1c-b469-4ac6-9120-0e8b068b0758",
+            "sceneName": "荒野驛道",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "800",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "90c3292f-8f12-46d1-bdfc-238909f4fa10",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "bgm",
+            "uri": "bgm/bgm_18_stealth.mp3",
+            "volume": "72",
+            "loop": "true",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "4428b5fe-eee6-4053-b60b-3201aecf1952",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你比孟嘗君早半個月，就到了秦國。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "615e3c59-a132-4e8c-8424-03fda38090b8",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "他是奉齊王之命、堂堂正正西行拜相的；你是一介布衣，混在商旅裡，悄無聲息地過的關。他還沒踏進你的門，你卻已先替他，把咸陽這座虎狼之庭，裡裡外外趟了一遍。秦廷之上誰忌他、誰饞他、誰在昭王耳邊備好了讒言——你比他自己還清楚。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "657853dc-c00e-47ce-9760-c97401dff3e4",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "【同刻·咸陽宮】秦昭王降階相迎，執孟嘗君之手入殿，欲以相印相屬。滿朝側目——這是強秦待客從未有過的禮數。而你站在宮牆外的人群裡，看著那扇朱門，心裡只有四個字：請君入甕。",
+              "styles": {
+                "fontStyle": "italic",
+                "textColor": "#8899aa"
+              }
+            }
+          ]
+        },
+        {
+          "id": "dc938117-6ce5-4a70-8e47-84809a4eb524",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "相印是甜的，甜得要命。可你早算準了：秦人給得出相印，就給得出牢獄。一個齊人站上大秦權柄的頂端，秦國的老世族一天也容不下。用他是資齊，放他是縱虎——留給孟嘗君的，從一開始就只有第三條路。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "f3395e07-6e41-486f-a0bc-8520e6a14126",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你不能出面。你還不是他的人，貿然現身，只會壞了整盤棋，也保不住你自己。[wait=500]但你也不能真的袖手。二十年布的局，全繫在這個人身上——他若死在咸陽，你這半生就白繞了。所以你只能潛在暗處，做一雙他看不見的手。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "3f8f5bbe-c154-4f4e-a408-b3c0728409c8",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "337ad023-23bb-4b1d-9ef7-e12a116f8910"
+          }
+        }
+      ]
+    },
+    {
+      "id": "337ad023-23bb-4b1d-9ef7-e12a116f8910",
+      "name": "下獄之夜",
+      "blocks": [
+        {
+          "id": "166533ab-6a19-4caf-a0df-12d70a05a672",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "adeeb36d-5940-416f-a5ed-b9780b216c7f",
+            "sceneName": "咸陽獄",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "600",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "f52d68e1-5c6f-44cc-83d1-8211c2ae4afb",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "【同刻·咸陽獄】讒言到了，來得又快又準：「孟嘗君賢，然齊族也，相秦必先齊而後秦。」是夜甲士圍館，孟嘗君與隨行門客盡數下獄。謀欲殺之，只差一個由頭。",
+              "styles": {
+                "fontStyle": "italic",
+                "textColor": "#8899aa"
+              }
+            }
+          ]
+        },
+        {
+          "id": "63ec6a99-7bf8-4526-869a-e9e8c1acc44b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "消息傳到你耳中時，你正在市井的一間陋屋裡。你放下手中的粗碗，指節捏得發白——來了，果然來了，比你算的還早了兩日。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "69ccbbc6-dd35-45ec-a7f2-eecb3ed4281e",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "獄中無日月，孟嘗君此刻能倚仗的，只剩秦王枕邊那位幸姬肯不肯開口。可要讓獄中的門客見得著幸姬，先得有人打通這一路的關節——獄卒、內侍、傳話的人，一環扣一環，缺一環，人就爛在獄裡了。[wait=500]這樣的髒活、險活，滿朝公卿沒人肯沾。只有你。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d0ea5f26-594a-4d8b-9ad9-27a3612b6b3f",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你摸出這半生積攢、本要留作他用的錢帛，連夜使了出去——買通把守獄垣的卒吏，讓「獄卒肯放進來的一兩人」裡，多出一條能通到幸姬簾前的縫。孟嘗君日後只會記得「幸好還有一兩個門客進得來」，他不會知道，那道縫是誰、拿什麼替他撬開的。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "8e4139d0-7cd5-4248-a275-e9ef9a03d853",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "打點這條生路，你選的是——",
+            "choices": "[{\"text\":\"親涉險地：扮作送飯的雜役，混進獄垣，只為離他近一點、看得真一點\",\"mode\":\"jump\",\"fragmentId\":\"734780ef-801e-4b52-9d25-138bc92ee748\"},{\"text\":\"遙控棋子：一步不近獄門，只在暗處遙遣狗盜與門客\",\"mode\":\"jump\",\"fragmentId\":\"44432b7e-bd41-4b58-b890-c80540b53a4d\"},{\"text\":\"借勢秦臣：買通與秦相有隙的權貴，借他們的手在朝上施壓\",\"mode\":\"jump\",\"fragmentId\":\"a03e1863-74af-4c27-a90b-7c0842aa5a75\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "734780ef-801e-4b52-9d25-138bc92ee748",
+      "name": "獄-親涉",
+      "blocks": [
+        {
+          "id": "1185a6e9-ff70-45a4-a88a-d12ea1d79099",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你扮作個佝僂的送飯雜役，挑著餿泔的木桶，混進了獄垣。你隔著一道鏽死的鐵柵，第一次離這個人這麼近——他蜷在草上，囚衣單薄，卻沒有一絲慌亂，只闔目養神，像在自家堂上小憩。[wait=500]你本只為看得真一點、打點得穩一點。可你發現，你的手，在放下飯桶時，竟微微抖了一下。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "17e4538b-3767-4565-a7a1-b38bd7bac94e",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你在心裡冷笑自己：一個要拿他當「器」的人，怎麼倒動了真心。可這一眼，到底是變了些什麼——從這一夜起，他在你心裡，不只是一枚擔得起了局的棋子了。他是一個，你不想讓他死在咸陽的人。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "47e4235f-4205-43cc-80fd-7c8525493e00",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "主公信任",
+            "op": "+=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "bdac5dcf-3a96-4a62-91dd-9606329227b7",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "97ad40e0-f442-4de0-9ddf-1abb1e46e81c"
+          }
+        }
+      ]
+    },
+    {
+      "id": "44432b7e-bd41-4b58-b890-c80540b53a4d",
+      "name": "獄-遙控",
+      "blocks": [
+        {
+          "id": "932b2f7b-50c6-4fa9-8495-9d396a7e1e39",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你一步也沒有靠近獄門。謀士最忌的，就是把自己搭進局裡——你只在三里外的陋屋，藉著往來的門客與那個狗盜，遙遙撥動每一根線。人近則情生，情生則亂算。你要的是萬無一失，不是離他近。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "70ec0706-da0b-4cce-b749-abb86171a34c",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "這是最穩的一手，也是最冷的一手。你替他把生路鋪到腳下，卻始終讓自己站在他看不見、也碰不到的地方。棋手在棋盤之外——這是你二十年練就的規矩，你不打算為誰破例。至少，現在還不。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "b04fa05d-a007-4396-8a2e-94a9427db1ff",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "97ad40e0-f442-4de0-9ddf-1abb1e46e81c"
+          }
+        }
+      ]
+    },
+    {
+      "id": "a03e1863-74af-4c27-a90b-7c0842aa5a75",
+      "name": "獄-借勢",
+      "blocks": [
+        {
+          "id": "3498e5be-3d31-4cd3-a09b-5433be8e3b85",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你不親為，也不只靠自家棋子。你查清了秦廷的裂縫——那位進讒的近臣，樹敵不少。你悄悄買通幾個與他有隙的秦國權貴，讓「放孟嘗君以示秦之大度」這句話，從秦人自己的嘴裡，說到昭王耳邊去。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "1595c135-9e77-408a-9f55-f94815f6a4ff",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "借力打力，不著自身痕跡。這一手漂亮，卻也依舊是把孟嘗君擺在棋盤上算計——你算的是秦廷的勢，不是他的命。你告訴自己：救活他就夠了，至於近不近他的心，無關緊要。[wait=500]你是這樣告訴自己的。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "4d0e939f-3800-439e-9e97-8cd0a2f79cd7",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "97ad40e0-f442-4de0-9ddf-1abb1e46e81c"
+          }
+        }
+      ]
+    },
+    {
+      "id": "97ad40e0-f442-4de0-9ddf-1abb1e46e81c",
+      "name": "盜裘",
+      "blocks": [
+        {
+          "id": "06f935b7-0c9c-46d5-af40-ba60d28e10c3",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "【同刻·秦宮】幸姬隔簾開了一道無解的題：「妾聞薛公有狐白裘，天下無雙，妾願得之。」——那件裘，入秦之日已獻昭王，藏於深庫，更無他裘。滿獄死寂之際，牆角一個瘦小身影，慢慢站了起來。",
+              "styles": {
+                "fontStyle": "italic",
+                "textColor": "#8899aa"
+              }
+            }
+          ]
+        },
+        {
+          "id": "362b90dd-e1cf-4f20-9949-844ea3570c4a",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "站起來的那個狗盜，正是你當年在賭坊邊、替他還清賭債、指他去投薛公之門的那個穿窬之徒。[wait=500]世人笑孟嘗君濫，連雞鳴狗盜也養；只有你知道，這個「無用」之人，是你許多年前，就替今夜這一刻備下的。棋子落定得早，此刻方顯其用。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "113bb231-031c-4a24-9b35-d212cf409caa",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "那一夜秦宮落雪。他貼著牆根的陰影游過庭院，避開每一盞燈籠——熟門熟路，彷彿在自家院裡走了半輩子。天亮前，那件天下無雙的狐白裘，已擱在幸姬的妝臺上，帶著宮庫深處的樟腦氣和一身寒雪。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "bd2fd858-c8e4-413e-b5e0-96630442ae33",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你在宮牆外的暗處，聽見庫房那邊始終沒有起更、沒有犬吠、沒有火把——你才悄悄鬆了口氣。這條命，算是從虎口裡撬出來一半了。剩下一半，在函谷。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "a7348ef0-6f9d-424d-97d6-6c97919b4e0a",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你在心裡默默數著：買通獄卒，是一手；狗盜盜裘，是一手；接下來，還有清道，還有指路。這一夜你替他落下的每一子，日後都會被他記成「僥倖」「天意」「養士之報」——沒有一筆，會算到一個尚未謀面的乞丐頭上。[wait=500]你不圖他記得。你只圖他活著走出函谷，活著回到薛，活著等到你叩門的那一天。棋子藏得越深，這局才走得越穩——包括你自己這枚，藏在最不起眼處的子。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e5521fd9-42d6-4cb3-8ea8-4f13b013622b",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "b1986518-c0e8-4bc7-98f7-2952dfa543f1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b1986518-c0e8-4bc7-98f7-2952dfa543f1",
+      "name": "清道",
+      "blocks": [
+        {
+          "id": "7a65c4a0-8e7f-4600-8354-13dd300f4673",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "7cf5fc1c-b469-4ac6-9120-0e8b068b0758",
+            "sceneName": "荒野驛道",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "600",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "d0766340-3871-4871-8536-623506432591",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "釋放的令符一出宮門，你就知道孟嘗君不會等第二道——他必是出獄即馳，更封傳、變名姓，連夜東奔。追悔的秦王一旦回過味來，追騎便會沿馳道撒開。你比他們所有人都先一步，離開了咸陽。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "8f9f1750-f3b9-4652-933e-690878c17186",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你要趕在他們之前，到那個岔路口去。出咸陽三百里，馳道分作兩條：大道寬直而近，卻正是追兵必循之路；小道窄舊繞山，據說早已坍方難行。門客們若一時糊塗取了大道，就是自投羅網。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "baac98bf-4031-4b4b-a2a7-2e49081b665b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你連夜摸上那條廢棄的小道。塌方處亂石封路，你借著雪光，一塊一塊，把能挪的土石挪開，清出一條僅容車馬勉強通過的縫。手心磨破了，血混著雪水，凍成一層暗紅的殼。[wait=500]孟嘗君日後只會覺得「這小道舊而不毀，竟比想的好走」，只當是天意。他不會知道，天意，是一個乞丐用一整夜的手，替他刨出來的。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "74b03867-dc2c-4029-af35-611dfba9ae7d",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "d5ec7ad0-4b9b-4032-9cf9-ed2d6568fe43"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d5ec7ad0-4b9b-4032-9cf9-ed2d6568fe43",
+      "name": "岔路乞丐",
+      "blocks": [
+        {
+          "id": "720553d6-9b51-43aa-9ae8-d1054bd2a100",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "清完道，天還沒亮。你尋了道旁一堵殘垣坐下，扯過那件看不出顏色的破氅裹住自己，就著雪光，慢條斯理地啃一塊乾餅——活脫脫一個在荒野裡坐了很久的乞丐。你在等。等一隊亡命東奔的車馬，等那個還不認得你的人。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d7c8cf2e-b7e0-4c34-9126-1ebb242e067d",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "車隊到了。門客們果然在岔口爭執起來，為著取大道還是小道吵成一團。你等他們吵到將要決斷的一刻，才不緊不慢地，開了口。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "0efcdf8a-da25-415c-a8af-205130ee7626",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
+            "characterName": "道旁乞丐",
+            "expression": "平靜",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「客人們是往東去罷。[wait=600]大道快，是快到函谷；小道慢，是慢到函谷。——只看客人們，是想快著死，還是慢著活了。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "79a56012-20f9-45e9-9046-ac1bd45cb3e1",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "一句話，你把生死兩條路，說得明明白白，又半個字沒點破。你要的，本就是讓他們「自己」選對——由乞丐點透，他們或許半信半疑；由他們自己悟出「循大道者死」，才會走得心服。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e19da610-4c1f-47da-83b0-dc53034a50de",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "車隊終於折向小道。臨行前，那個一直沒開口的人——孟嘗君——掀簾看了你一眼。你們隔著風雪、隔著一條你尚未跨過的界，對望了短短一瞬。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "73be5cc7-c545-4cf0-8f58-526518c66637",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "這一瞬，你——",
+            "choices": "[{\"text\":\"垂下眼，把自己徹底藏進破氅裡，不留一絲痕跡\",\"mode\":\"jump\",\"fragmentId\":\"aa5694ee-f135-4d61-8321-7c79cc7b855f\"},{\"text\":\"任他去猜，只淡淡回一句意味深長的話，埋個日後的引子\",\"mode\":\"jump\",\"fragmentId\":\"a80fb2ae-552a-4d5e-8e9b-6455939c68fe\"},{\"text\":\"【他的目光正落在你腰間的劍鞘上】索性不避，讓他把那道紋看個夠\",\"mode\":\"jump\",\"fragmentId\":\"6bab0281-b518-405c-bf25-a669072de391\",\"visibleIf\":\"{\\\"conditions\\\":[{\\\"left\\\":\\\"留意劍鞘紋\\\",\\\"op\\\":\\\">=\\\",\\\"rightKind\\\":\\\"literal\\\",\\\"rightLiteral\\\":\\\"1\\\"}],\\\"logicOp\\\":\\\"and\\\"}\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "aa5694ee-f135-4d61-8321-7c79cc7b855f",
+      "name": "岔-隱形",
+      "blocks": [
+        {
+          "id": "8fccba20-e8dc-459e-9bd6-3bbe6083b519",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你垂下眼，把臉埋進破氅的陰影裡，連呼吸都放輕了。車輪碾過殘雪去遠了，你始終沒有再抬頭。[wait=500]不留痕跡，是你的鐵律：一個要在他門下做二十年「無用之人」的人，決不能在初見時，就讓他記住一星半點。你把自己藏得乾乾淨淨，乾淨得像從沒來過。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "57c6d03b-6899-43ed-ba15-b0accbce66b5",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "709c7ec7-8176-46d7-a815-31c400a15178"
+          }
+        }
+      ]
+    },
+    {
+      "id": "a80fb2ae-552a-4d5e-8e9b-6455939c68fe",
+      "name": "岔-留言",
+      "blocks": [
+        {
+          "id": "615d8bd2-6bf1-4f9d-be79-56cfcc920a3f",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你沒抬頭，卻在車輪起動的一刻，慢悠悠添了一句：「客人此去，見著薛地的方向，替老兒問一聲好。」[wait=600]沒頭沒尾的一句話，孟嘗君必然不解。可你要的就是這點「不解」——在他心裡埋一粒沙，日後某天，當一個貪鄙食客在他堂上大彈其鋏、口口聲聲要「歸薛」時，這粒沙，會硌一硌他的記憶。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "f328dcfd-7f30-4b1c-b75c-dcc5f064bf01",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "主公信任",
+            "op": "+=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "70bb9a28-c314-4f9d-b63a-a580959f9ce4",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "709c7ec7-8176-46d7-a815-31c400a15178"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6bab0281-b518-405c-bf25-a669072de391",
+      "name": "岔-劍鞘",
+      "blocks": [
+        {
+          "id": "1c4df38e-25ba-4fa3-be0a-80374b46263e",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你察覺了——他的目光，沒有落在你的臉上，而是落在你腰間橫著的那柄劍上。準確地說，是劍鞘上那枚小小的銅紋：雲雷繞著一個「工」字。他認得薛地老鑄坊的記號，他在困惑，一個秦國荒驛的乞丐，怎麼會佩一柄薛地的劍。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e2c5eec6-775f-4840-afa3-1c85bea795af",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你本能地想用破氅遮住它。可就在那一瞬，你改了主意——你沒有遮。你甚至稍稍側了側身，讓那道紋，就這麼清清楚楚地，落進他的眼裡。[wait=600]讓他記住這道紋罷。來日你在他堂上，長鋏一聲一聲叩柱時，但願他心底，能先有這麼一個模模糊糊的影子。你這一生藏了太多，此刻竟不捨得，把這一點點「被他看見」的可能，也一併抹去。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "462dbf2c-fb44-4401-98d5-a39abc710f07",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "車簾放下了，那道疑惑的目光被隔在了風雪那頭。你摩挲著鞘上父親留下的「工」字，很輕很輕地嘆了一聲。這是你二十年來，頭一回，主動讓那個人，離你的真相近了一步——哪怕只是一步。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "3411c05e-fc75-4c2f-a6b7-331518920f0b",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "主公信任",
+            "op": "+=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "4c4cb266-2a29-4b79-8b2e-1b1537261673",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "709c7ec7-8176-46d7-a815-31c400a15178"
+          }
+        }
+      ]
+    },
+    {
+      "id": "709c7ec7-8176-46d7-a815-31c400a15178",
+      "name": "函谷外",
+      "blocks": [
+        {
+          "id": "1fc247f6-e2e9-45e7-a4ed-be10248860f0",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "814f1a0f-6e6c-4bdc-b95c-8183b4dc95fb",
+            "sceneName": "函谷關",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "600",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "59b2605e-3c2b-48cc-ad9a-fab391b237fa",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你沒有跟進關去。你遠遠綴在後頭，看那隊車馬奔到函谷關下——關城黑沉沉壓在兩山之間，城門閉死。秦法：雞鳴而出客。而追騎的煙塵，已經在咸陽的方向隱隱揚起。這最後一關，你插不上手了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d3818862-fbc1-49c9-a17c-ea670d105f18",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "【同刻·函谷關】關下，一個縮在門客最末尾、曾因「學雞」的本事被滿堂笑了半日的人，攏掌仰頸，一聲雞啼破空而起。關內關外的雞盡數相和，守吏睡眼惺忪推開了城門。秦法沒有錯，錯的是雞。",
+              "styles": {
+                "fontStyle": "italic",
+                "textColor": "#8899aa"
+              }
+            }
+          ]
+        },
+        {
+          "id": "121e67eb-bd49-47ae-b24d-e5434fc0acf1",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "1a023b17-68a0-47e3-a6d5-554513a069ee",
+            "sceneName": "CG·岔路乞丐",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "500",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "e92c2d79-49a1-4992-a351-43037be4965c",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你在關外的高坡上，聽見那一片突如其來的雞鳴，先是一愣，隨即低低地笑了。[wait=500]這一手，不是你安排的。那個學雞的客，不是你布下的棋——他是孟嘗君自己養的，是那個被世人笑作「濫」的三千客裡，又一個「無用之人」，在絕境裡放的光。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "1ae540f3-c39f-4b5f-95c1-f8398598d078",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "望著那座終於為他洞開的關門，你心裡想的是——",
+            "choices": "[{\"text\":\"「這人養士的本事，我不及。他自己，也救得了他自己。」\",\"mode\":\"jump\",\"fragmentId\":\"33479d62-66df-42d2-9696-ee601c11571d\"},{\"text\":\"「他的運氣，他的門客，往後都是我棋盤上的子。」\",\"mode\":\"jump\",\"fragmentId\":\"a67ed627-77e3-4288-acc6-86e621e826ef\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "33479d62-66df-42d2-9696-ee601c11571d",
+      "name": "關-心折",
+      "blocks": [
+        {
+          "id": "993c8bc0-dee2-42cc-860e-727db8ce355f",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "814f1a0f-6e6c-4bdc-b95c-8183b4dc95fb",
+            "sceneName": "函谷關",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "500",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "362fa8c6-74d5-4ebd-a78c-22429278e5d7",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你心折了。你替他鋪了半條生路，可最後叩開關門的，是他自己種下的因——養士不問賢愚，連學雞的、行竊的都養。你算計了一輩子人心，卻算不出這種近乎癡傻的厚道，竟真能在鬼門關上，替他喚來一關的雞鳴。[wait=500]你選對了人。這一刻，你比在薛公府牆外那一夜，更確信了三分。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ffd5013a-5040-4b7c-b438-27500de20436",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "83c769fa-3357-46f9-bf21-79fba5d52427"
+          }
+        }
+      ]
+    },
+    {
+      "id": "a67ed627-77e3-4288-acc6-86e621e826ef",
+      "name": "關-冷算",
+      "blocks": [
+        {
+          "id": "ffebd584-01c0-441c-9fae-643da7c395d1",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你不動聲色。雞鳴也好，狗盜也好，幸姬的枕邊風也好——在你眼裡，全是能為那個「了局」所用的籌碼。孟嘗君的運氣、孟嘗君的門客、乃至孟嘗君這個人，都是你這盤大棋上的子。[wait=500]你不許自己動心，動心的棋手會輸。你把那一絲剛冒頭的暖意，又按了回去——現在還不是時候。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "b602ff36-8424-4497-aba9-0cbead3d51c3",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "83c769fa-3357-46f9-bf21-79fba5d52427"
+          }
+        }
+      ]
+    },
+    {
+      "id": "83c769fa-3357-46f9-bf21-79fba5d52427",
+      "name": "赴薛",
+      "blocks": [
+        {
+          "id": "d83b9570-999e-4891-8d40-79088d0851c7",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "7cf5fc1c-b469-4ac6-9120-0e8b068b0758",
+            "sceneName": "荒野驛道",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "600",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "ac080b1e-4982-4961-86c0-a09624a70e9f",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "bgm",
+            "uri": "bgm/bgm_19_return_path.mp3",
+            "volume": "70",
+            "loop": "true",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "80ea692e-0717-4ad8-90e1-b610f9637410",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "關門在孟嘗君身後緩緩闔上，追騎撲了個空，悻悻而還。你知道，這一程，他活下來了。咸陽這一局，你在暗處替他走完了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ff135297-bb22-40ff-9b08-8183deb4d133",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "可你不會跟他回臨淄去慶功。你轉過身，朝著相反的方向——薛地——不緊不慢地走。你要趕在他的車駕之前，收拾好一身貪鄙無能的行頭，去做那個即將叩響薛公之門、大彈其鋏的食客。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "54ddb53a-e41f-4a84-b68b-d33022002567",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "孟嘗君在歸途上，偶爾會想起咸陽獄的水痕、幸姬的簾影、還有荒驛雪地裡那個道破生死的乞丐。他一定會想：這條命，是被多少雙看不見的手，從虎口裡一節一節拽回來的？[wait=800]他數不清。而那些手，多半是同一雙。此刻，它正握著一柄舊鋏，朝薛地，一步一步走近。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "fbd562f9-c31b-4329-8418-1e75a6fc7148",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "3d4b61a7-0798-40cf-813f-6c59551c12c3",
+            "characterName": "馮諼",
+            "expression": "冷冽",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「咸陽這一程，只是驗你能不能活著回來。[wait=600]真正的考較，孟嘗君——在薛，在我的劍下。三彈其鋏，你且聽好。」",
+              "styles": {}
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

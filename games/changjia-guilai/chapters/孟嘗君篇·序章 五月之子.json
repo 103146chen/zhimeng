@@ -1,0 +1,1514 @@
+{
+  "id": "a70f1495-9c48-4915-832e-e8634468719d",
+  "name": "孟嘗君篇·序章 五月之子",
+  "fragments": [
+    {
+      "id": "82d5bab9-d122-44ec-91d5-ffeb3fce4ddb",
+      "name": "main",
+      "blocks": [
+        {
+          "id": "2090336f-b5e9-43f5-9109-37afe5d2a7f9",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "aa0a2e7c-f196-4c9e-bbc3-1fc700e10a02",
+            "sceneName": "薛公府邸",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "800",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "19fa965d-208d-4e49-8e71-b3b8c147bc7b",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "bgm",
+            "uri": "bgm/bgm_01_hidden_manor.mp3",
+            "volume": "70",
+            "loop": "true",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "2dc561ca-6293-4292-9351-e68577927488",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "齊威王二十四年，五月初五。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "a4e23fd7-06b7-4701-bd00-02dd89f22ad9",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "薛公田嬰的府邸裡，一個男嬰出生了。他是田嬰的第四十幾個兒子——連府裡的老人都數不清確切的排行。產房外沒有賀客，沒有名字，沒有燈。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e74fb1a1-64e5-4f61-84ef-94259af31e2d",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "婢女把襁褓抱出來的時候，你的父親只掀開看了一眼。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d324e4f4-3d9f-42a3-82d4-6de6a1e29619",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "bd5fb7cd-9442-4ad6-a690-8fe3000c4422",
+            "characterName": "田嬰",
+            "expression": "平靜",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「五月子。[wait=500]勿舉。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "aeaac3d8-12fd-4603-94c7-406abc13a8f2",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "勿舉——不要養。兩個字，就是你來到這個世上領到的第一份",
+              "styles": {}
+            },
+            {
+              "type": "text",
+              "text": "禮物",
+              "styles": {
+                "bold": true
+              }
+            },
+            {
+              "type": "text",
+              "text": "。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "5470f094-453e-4ac3-baad-e71af15c7e9a",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你的母親把你藏了下來。藏在府邸最偏僻的一進院子裡，藏在一句「產下即殤」的謊報底下，一天一天，把你養大。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "9a46980e-d1a6-4cdd-b9d2-f1638ac1c209",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "14bd0ad5-ed5a-45a6-bd94-a3c22acd8df7",
+            "characterName": "田文之母",
+            "expression": "憂懼",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「文兒，記住：不可以哭出聲。[wait=600]這座府裡，沒有你這個人。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "aa8d736d-1641-428b-a412-6b84155b8f36",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你在陰影裡長大。識字，是母親就著窗紙透進來的光教的；兄弟們的名字，你隔著一道牆全背得出來——而他們沒有一個人知道你的。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c78817a2-9981-4cfa-9c33-30c6523ecfa0",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "牆那邊有蹴鞠聲、背書聲、僕役追著小公子們賠笑的聲音。牆這邊，只有你和母親，和一句翻來覆去的叮囑：不可以哭出聲。你五歲就懂了一個道理——這世上有一種人，活著本身就是過錯。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "73ebb918-92b7-460e-a81c-3f12dcdacf2e",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "可母親從不許你把自己當成過錯。她給你講田氏代齊的家史，講你祖父輩如何從一介陪臣走到執一國之政。她說：文兒，門第擋不住人，命也擋不住。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "151035bb-8b11-4bdd-ae33-d8e70a294c71",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "十歲那年，母親牽著你的手，藉著伯父引見的名目，第一次把你帶到了田嬰面前。她一路上什麼都沒說，只是手心的汗把你的手浸得發涼。她賭上的是什麼，你長大以後才敢想。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c786885b-9233-46b4-824f-8e3a1b8d408e",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "bd5fb7cd-9442-4ad6-a690-8fe3000c4422",
+            "characterName": "田嬰",
+            "expression": "怒",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「吾令若母去是子——而敢生之，何也！」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "5330d18b-e393-472e-a0af-4b9788597b0e",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "堂上死一般地靜。母親伏在地上，肩膀在抖。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "a9e0eaae-a911-4711-ab49-2d37743c1b1b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "這是你此生見父親的第一面。他問的是：你為什麼還活著。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "404608ed-c26c-4f64-b12d-a5a7d9c3af16",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "這是父親給你的第一句話。你——",
+            "choices": "[{\"text\":\"「敢問君：五月之子，何故不可舉？」\",\"mode\":\"jump\",\"fragmentId\":\"703bd45e-6572-4ffb-a1b6-dcd84d490052\"},{\"text\":\"搶先叩首：「罪在文，不在母。」\",\"mode\":\"jump\",\"fragmentId\":\"ab89a5ad-70a7-4e7c-b6f7-d11295c39794\"},{\"text\":\"直起身子，迎著他的目光，不跪，也不答\",\"mode\":\"jump\",\"fragmentId\":\"2c652aea-fcbf-4f53-862d-2f0a63234b7e\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "703bd45e-6572-4ffb-a1b6-dcd84d490052",
+      "name": "答-以問",
+      "blocks": [
+        {
+          "id": "bbaa7b7a-6b31-4417-a0c5-8ba7069bf2c2",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你沒有辯白，也沒有求饒。你把問題原樣還了回去——滿堂的人都愣住了：一個十歲的孩子，在問薛公「憑什麼」。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "3233965d-932c-4544-b8b4-aae85781cf78",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "問，就得答。答，就得講理。只要進了講理的地界，這件事就不再是「你憑什麼活著」，而是「他憑什麼不讓你活」——十歲的你未必想得這麼清楚，但你天生就知道往哪裡站。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "495e232e-9c41-4717-bb85-c48557f0b0e5",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "bd5fb7cd-9442-4ad6-a690-8fe3000c4422",
+            "characterName": "田嬰",
+            "expression": "平靜",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「……五月子者，長與戶齊，將不利其父母。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "649ad45f-677e-48f4-932a-be984a8661a6",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "b5692b37-11d8-4300-a152-65aace4c08c4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ab89a5ad-70a7-4e7c-b6f7-d11295c39794",
+      "name": "答-護母",
+      "blocks": [
+        {
+          "id": "da0309ac-5394-48c0-a25d-6c35cc994845",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你搶在所有人之前，把額頭磕在地上。聲音不大，一字一字，清清楚楚：罪在文，不在母。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "8eb199c7-d57d-4044-9089-8940687ee404",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "田嬰盯著你看了很久。這個本該不存在的孩子，開口的第一件事，不是求活命——是替人頂罪。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "09839189-ec8d-4ff3-98b9-ff2184504433",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "bd5fb7cd-9442-4ad6-a690-8fe3000c4422",
+            "characterName": "田嬰",
+            "expression": "沉吟",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「……起來。五月子者，長與戶齊，將不利其父母。故令去之。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e8c64d01-684a-4784-9e74-63e8007a4bbb",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "器量",
+            "op": "+=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "3e6f7a7b-61dc-496d-a526-5b2e11a5c76f",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "b5692b37-11d8-4300-a152-65aace4c08c4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2c652aea-fcbf-4f53-862d-2f0a63234b7e",
+      "name": "答-直視",
+      "blocks": [
+        {
+          "id": "e2280f23-90b5-4067-a1f9-980dbe308680",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你不跪。你就那麼站著，十歲的身量，迎著薛公的目光，一寸也不讓。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "3734a3a2-966d-4927-8034-af2a85a7f2b7",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你想看清楚這個下令扔掉你的人，長的是什麼樣子。這一面，你等了整整十年。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "754b0f03-8fc7-49ce-b401-1626d1f6d126",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "堂上有人低喝「放肆」，你聽見了，沒有動。奇怪的是，田嬰抬手止住了那人。他看著你，你看著他——父子之間第一次對視，竟像兩軍對壘。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "590cef9d-f14f-4ff1-a649-581904040e9b",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "bd5fb7cd-9442-4ad6-a690-8fe3000c4422",
+            "characterName": "田嬰",
+            "expression": "沉吟",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「……好膽色。五月子者，長與戶齊，將不利其父母。故令去之。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "f9444be1-b0b1-4275-80bb-e6ba24c8e8a1",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "b5692b37-11d8-4300-a152-65aace4c08c4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b5692b37-11d8-4300-a152-65aace4c08c4",
+      "name": "受命之辯",
+      "blocks": [
+        {
+          "id": "e000dc6c-659f-413c-a61d-69420810167d",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5e9c0bd-260c-426e-b6d9-8fc8100d43bb",
+            "characterName": "田文",
+            "expression": "平靜",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「人生受命於天乎？[wait=500]將受命於戶邪？」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "5404c6bb-d730-49a8-b540-6509f5a87d3a",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "田嬰語塞。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "dd6cf8e8-ec8f-477c-ae7d-da55b32ecd4b",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5e9c0bd-260c-426e-b6d9-8fc8100d43bb",
+            "characterName": "田文",
+            "expression": "平靜",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「必受命於天，君何憂焉。必受命於戶——則可高其戶耳，[wait=400]誰能至者！」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "8dcd4000-4408-4d15-a486-ad828b419996",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "若命由天定，您怕什麼？若命由門戶的高矮來定，那把門修高就是了——誰還能長到門楣那麼高？",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "4214b400-cb07-42d9-a9c7-a40892d214ed",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "堂上靜了很久。你聽見自己的心跳，也聽見母親壓在袖子裡的呼吸。然後，田嬰揮了揮手，像是疲倦，又像是別的什麼。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "92e0fadf-ff18-49a1-814d-c85fa69bbb62",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "bd5fb7cd-9442-4ad6-a690-8fe3000c4422",
+            "characterName": "田嬰",
+            "expression": "沉吟",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「……[wait=1000] 休矣。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "0651a41f-f6be-4a1a-8ef7-5e4884153a2d",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "沒有處罰，沒有相認，甚至沒有多看你一眼。但從那一天起，你可以走在日光底下了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "1dd31425-e4c9-4ff2-ada8-eb04c7f00c9b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "退出正堂的時候，母親在廊下等你。她沒有問堂上發生了什麼——她全聽見了。她只是蹲下來，替你理了理衣領，理了很久，久到你發現她的手一直在抖。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "7049a9a0-1d86-4dd8-be84-5bf090fa93d3",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "14bd0ad5-ed5a-45a6-bd94-a3c22acd8df7",
+            "characterName": "田文之母",
+            "expression": "平靜",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「文兒，[wait=600]從今天起，你可以哭出聲了。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "03b8fac2-00e2-4ad8-93f4-53cec609d459",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你沒有哭。你只是忽然明白了一件事：這座府裡從今往後有你這個人了——不是因為誰的恩典，是你自己，一個字一個字，把自己說回來的。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "68a0867c-d77b-4fa5-a388-f72cbe945736",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "734d49a1-3c96-4694-a336-05ebc5ae28dd"
+          }
+        }
+      ]
+    },
+    {
+      "id": "734d49a1-3c96-4694-a336-05ebc5ae28dd",
+      "name": "諫父",
+      "blocks": [
+        {
+          "id": "dcd3e3e6-ca9c-4797-8c4b-f577b9491fad",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "aa0a2e7c-f196-4c9e-bbc3-1fc700e10a02",
+            "sceneName": "薛公府邸",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "600",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "1b66350b-84b5-4cd7-8dd3-a6bb65f8599b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "數年過去。你留意到一件事。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "bcd8d1d2-406a-4611-bf90-75334fd4c184",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "薛公府富累萬金。父親相齊，歷威王、宣王、湣王三朝，位極人臣——可門下的食客名冊薄得可憐，倒是庫房上的鎖，一年比一年多。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "8566ab82-fd7e-4533-ba03-e5ddc5d985f6",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "一日，父親閒坐。你上前問安，聊起了家常。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "b5092b18-56ff-4374-a1bb-b714604e444d",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5e9c0bd-260c-426e-b6d9-8fc8100d43bb",
+            "characterName": "田文",
+            "expression": "微笑",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「子之子為何？」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "247ed1be-1ca2-4da6-8815-dd1bc72bd978",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "bd5fb7cd-9442-4ad6-a690-8fe3000c4422",
+            "characterName": "田嬰",
+            "expression": "平靜",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「為孫。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e9ead6ef-44d2-4fb7-8e2b-ba99200b1fde",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5e9c0bd-260c-426e-b6d9-8fc8100d43bb",
+            "characterName": "田文",
+            "expression": "微笑",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「孫之孫為何？」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "2d0a4f6e-872c-40cd-9d69-4fecf64172c3",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "bd5fb7cd-9442-4ad6-a690-8fe3000c4422",
+            "characterName": "田嬰",
+            "expression": "平靜",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「為玄孫。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "18b722e0-15f0-4ba4-801e-b89e1fb045a8",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "f5e9c0bd-260c-426e-b6d9-8fc8100d43bb",
+            "characterName": "田文",
+            "expression": "平靜",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「玄孫之孫為何？」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e1ef637c-1ab2-4993-b76b-8fb072062f4d",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "bd5fb7cd-9442-4ad6-a690-8fe3000c4422",
+            "characterName": "田嬰",
+            "expression": "沉吟",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「……不能知也。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "19fc7455-cff5-4d91-acb1-8c29fa1b4602",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "就是這句。您積下的這座金山，終將傳給一個您連是誰都不知道的人——話已經在你舌尖上了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "7f45c8df-c4d1-49f1-9b8e-49b8475ed244",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "你接下去說——",
+            "choices": "[{\"text\":\"「厚積餘藏，欲遺所不知何人，而公家之事日損。文竊怪之。」\",\"mode\":\"jump\",\"fragmentId\":\"5bb5d572-b277-42f9-a2fc-ee2a4449620a\"},{\"text\":\"「請以家財一隅，使文試為君養士。成與不成，歲末自見。」\",\"mode\":\"jump\",\"fragmentId\":\"89be8738-435a-4f03-87a7-4145067444ba\"},{\"text\":\"「文聞將門必有將，相門必有相。今君之門下，出得了相嗎？」\",\"mode\":\"jump\",\"fragmentId\":\"ce528555-63dd-4016-812c-d7d56a61ac7a\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5bb5d572-b277-42f9-a2fc-ee2a4449620a",
+      "name": "諫-直言",
+      "blocks": [
+        {
+          "id": "8d0498ba-f7da-45e0-8dd8-7c2ddb6e109f",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你把那句最重的話，原原本本說了出來：齊國沒有更廣，私家富累萬金，而門下不見一賢者。將相之家，重的是公器；您積的，卻全是私藏。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "42775df9-ba7f-47ab-81f7-75f7b28925a1",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "堂上又一次靜了。這一次，田嬰沒有發怒。他看著你，很久，像在重新掂量這個五月五日出生的兒子。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "832dafa9-4b8e-45e1-b6cb-e8fccfbf600f",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "bd5fb7cd-9442-4ad6-a690-8fe3000c4422",
+            "characterName": "田嬰",
+            "expression": "沉吟",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「……善。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "201ac11e-0b30-4cfa-9052-3f0b1113fcbd",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "器量",
+            "op": "+=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "a2f19f7b-1ba0-4257-a339-cf9d27fbc8df",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "7d15119c-97d8-4ac0-9c87-17d5626ac48d"
+          }
+        }
+      ]
+    },
+    {
+      "id": "89be8738-435a-4f03-87a7-4145067444ba",
+      "name": "諫-請命",
+      "blocks": [
+        {
+          "id": "7674d814-eb30-4431-b6a8-5e592423d079",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你不與他爭道理。道理爭贏了，庫房的鎖也不會少一把——你跟他談成效。撥一隅家財，給你一年，養士之利弊，讓帳目自己說話。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "62d95ec9-dbac-479d-8e5e-e48b8f0d5ed3",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "bd5fb7cd-9442-4ad6-a690-8fe3000c4422",
+            "characterName": "田嬰",
+            "expression": "沉吟",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「……可。歲末，吾自見之。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "61cae1de-5254-46f3-9d0b-0f9df3a2b341",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "父親允了。你退出堂外，掌心裡全是汗——你知道自己剛剛簽下的，是此生第一份軍令狀。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "7d56d03f-310c-4086-a484-58521f72fd49",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "7d15119c-97d8-4ac0-9c87-17d5626ac48d"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ce528555-63dd-4016-812c-d7d56a61ac7a",
+      "name": "諫-激問",
+      "blocks": [
+        {
+          "id": "7c39989b-1e53-4bc3-83e5-1a7f7d72fb9a",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你把話鋒磨得雪亮，一句頂到他眉心：相門必有相——您的門下，出得了嗎？",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "6351fd51-e40c-4bce-8b52-a168012c23f6",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "田嬰瞇起眼睛，上上下下打量你，像是第一次認識這個兒子。半晌，他忽然笑了一聲，不知是讚許，還是警惕。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "db3273dc-f260-4fda-9616-e3fc684bccd4",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "bd5fb7cd-9442-4ad6-a690-8fe3000c4422",
+            "characterName": "田嬰",
+            "expression": "沉吟",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「……伶牙俐齒。也罷。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "7f18888d-3289-47cf-b36e-4374e915d40a",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "7d15119c-97d8-4ac0-9c87-17d5626ac48d"
+          }
+        }
+      ]
+    },
+    {
+      "id": "7d15119c-97d8-4ac0-9c87-17d5626ac48d",
+      "name": "主家待客",
+      "blocks": [
+        {
+          "id": "24e1b1ea-088c-4fa7-9ad5-d33e748c5add",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "田嬰使你主家待賓客。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "b50d03a2-ad00-4626-8c1a-d31abe12a0d9",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你把庫房的鎖一把一把打開，把客舍一進一進修起來。來的人，你親自接；走的人，你親自送。與客語，你屏風後置侍史，記下客人親戚居處——客人前腳離席，你的使者後腳已經帶著禮物到了他老家問安。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "6469eb61-55aa-4819-82cd-2d9bbbfc76be",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "賓客日進，名聲日重。漸漸地，諸侯的使者路過薛地，先問的不再是薛公，而是薛公家那位公子文。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "4dc694d8-c1fc-4159-a9bc-e3e15b904985",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "諸侯皆使人請田嬰，立田文為太子。田嬰許之。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "05a7ab30-6cbb-46c5-834a-b2a36a87ac57",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "又數年，田嬰卒，諡靖郭君。而你——田文——代立於薛。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "99a98132-056b-4fbb-9898-230b047e7291",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "天下人從此稱你：",
+              "styles": {}
+            },
+            {
+              "type": "text",
+              "text": "孟嘗君",
+              "styles": {
+                "bold": true
+              }
+            },
+            {
+              "type": "text",
+              "text": "。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "930a502b-b7b6-4f59-8915-c341ecd362bb",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "99ef8f7e-4a40-4947-8238-4912f4b308a5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "99ef8f7e-4a40-4947-8238-4912f4b308a5",
+      "name": "立於薛",
+      "blocks": [
+        {
+          "id": "3b0dfea7-3927-456f-b4f8-c20c20820cc5",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "襲封那一年，第一批士人陸續投到門下。有人佩劍，有人白衣芒鞋，有人身負罪名連夜逃來，也有人自陳——無好也，無能也。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "7ca42fa2-c776-4a5d-b740-a6295a8a062b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "管家私下裡發愁：真賢士十中無一，餘者不過逐食之徒。連薛地的鄉老都在議論，說新任的薛公怕是人傻錢多，什麼歪瓜裂棗都往府裡撿。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "6a3303b5-6e25-49ad-8727-33eb666bf452",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "這天晚上，管家把名冊呈上來，垂手立在案前，問你如何安置。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d65ad731-aa2c-4853-8a68-1fc8ba1964e6",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "名冊在手。你提筆批下——",
+            "choices": "[{\"text\":\"「無論賢與不肖，皆善遇之。」\",\"mode\":\"vars\",\"varOps\":[{\"key\":\"器量\",\"op\":\"+=\",\"aKind\":\"lit\",\"aLit\":\"1\",\"aVar\":\"\",\"bKind\":\"none\",\"bLit\":\"\",\"bVar\":\"\",\"binOp\":\"+\"}]},{\"text\":\"「按所長分三等安置。家業有限，士亦有價。」\",\"mode\":\"vars\",\"varOps\":[{\"key\":\"器量\",\"op\":\"-=\",\"aKind\":\"lit\",\"aLit\":\"1\",\"aVar\":\"\",\"bKind\":\"none\",\"bLit\":\"\",\"bVar\":\"\",\"binOp\":\"+\"}]}]"
+          }
+        },
+        {
+          "id": "396219ed-53b3-462c-8e35-84b453a8cd87",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "管家領命下去。這年春天，你做的第一件事，是把母親從那進最偏僻的院子裡接了出來，安置在正院最向陽的屋子。她坐在滿窗的日光裡，很久沒有說話。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "fa06ab9a-b8f0-4006-95cf-ec88be7a4114",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "暮色裡，你獨自站在府門的高階上。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "481ae0fc-466e-4b37-a2f8-2ceb8b2fa212",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "五月五日出生的孩子，長與戶齊，妨其父母，勿舉——你抬頭看了看門楣，想起十歲那年你說過的話：受命於戶，則高其戶耳。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c24ffdc8-673e-466d-9998-e0a93abca24d",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "如今，這道門是你的了。你吩咐下去：門，再造高三尺。從今往後，凡來投者，不問出身，不問來歷，門下都有他一口飯。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ed29ca41-008e-4b39-8877-985bfcff5112",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你只知道，這道門一開，天下的路就都通到薛地來了。[wait=800]而在那些路中最遠的一條上，正有一個背著舊劍的人，朝這裡走。",
+              "styles": {}
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
