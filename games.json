@@ -3,7 +3,7 @@
   "site": {
     "name": "織夢",
     "description": "",
-    "updatedAt": "2026-07-26T13:47:29.373Z"
+    "updatedAt": "2026-07-26T13:51:42.872Z"
   },
   "games": [
     {
@@ -14,7 +14,7 @@
       "cover": "cg/cg_broken_sword_family.jpeg",
       "chapters": 17,
       "bytes": 119070640,
-      "updatedAt": "2026-07-26T00:23:52.368Z"
+      "updatedAt": "2026-07-26T13:51:32.938Z"
     }
   ]
 }

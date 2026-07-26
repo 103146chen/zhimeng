@@ -92,6 +92,6 @@
   "policies": {
     "pauseWhenHidden": true,
     "autoSaveOnHide": true,
-    "allowUnreadSkip": true
+    "allowUnreadSkip": false
   }
 }

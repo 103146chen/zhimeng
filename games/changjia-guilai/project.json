@@ -36,7 +36,7 @@
   "extensions": {},
   "extensionSettings": {},
   "publishSettings": {
-    "allowDialogueSkip": true,
+    "allowDialogueSkip": false,
     "siteSlug": "changjia-guilai"
   }
 }
