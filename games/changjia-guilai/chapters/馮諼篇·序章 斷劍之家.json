@@ -7,6 +7,15 @@
       "name": "main",
       "blocks": [
         {
+          "id": "cb846f79-2bc9-4a1b-ada9-10616f5ebd3e",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
+        },
+        {
           "id": "8373cbf5-ee57-47e7-baba-bc019ca68b69",
           "type": "scene",
           "props": {

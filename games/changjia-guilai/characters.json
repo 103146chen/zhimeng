@@ -85,6 +85,16 @@
         {
           "name": "病榻",
           "assetPath": "characters/孟嘗君/病榻.png"
+        },
+        {
+          "name": "少年",
+          "assetPath": "characters/孟嘗君/少年.png",
+          "avatarCrop": {
+            "x": 0,
+            "y": 0,
+            "w": 1,
+            "h": 1
+          }
         }
       ],
       "themeColor": {
