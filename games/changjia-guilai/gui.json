@@ -5,10 +5,10 @@
   },
   "title": {
     "background": {
-      "type": "image",
+      "type": "scene",
       "color": "#101827",
       "assetPath": "",
-      "sceneId": ""
+      "sceneId": "68b84f4e-3158-4c8f-a4f3-b87bb7a00d3e"
     },
     "logo": {
       "assetPath": "",
@@ -21,8 +21,8 @@
       "opacity": 0.24
     },
     "menu": {
-      "x": 10,
-      "y": 28.6,
+      "x": 11,
+      "y": 25.7,
       "align": "left",
       "width": 280,
       "gap": 10
@@ -68,7 +68,7 @@
       "nameplate": true
     },
     "saveLoad": {
-      "slotCount": 12,
+      "slotCount": 6,
       "columns": 3,
       "showThumbnail": true
     },

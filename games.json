@@ -4,7 +4,7 @@
     "name": "織夢",
     "description": "",
     "url": "",
-    "updatedAt": "2026-07-27T02:56:45.007Z"
+    "updatedAt": "2026-07-28T11:29:43.319Z"
   },
   "games": [
     {
@@ -12,7 +12,7 @@
       "name": "君與客：長鋏歸來",
       "version": "1.0.0",
       "description": "",
-      "cover": "cg/cg_broken_sword_family.jpeg",
+      "cover": "bg/sc_temple.jpeg",
       "chapters": 17,
       "bytes": 119070640,
       "updatedAt": "2026-07-26T13:51:32.000Z"
