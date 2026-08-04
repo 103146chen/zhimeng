@@ -1,0 +1,122 @@
+{
+  "id": "edb4464c-4729-4080-93e4-89db1eb5fb61",
+  "name": "開始",
+  "fragments": [
+    {
+      "id": "1f52dc84-575a-4bcc-97da-0ca3bbb2c54e",
+      "name": "main",
+      "blocks": [
+        {
+          "id": "519d40f5-e96f-48a6-b8d8-563e9c1a9508",
+          "type": "showExtensionUI",
+          "props": {
+            "disabled": false,
+            "target": "avg.internal.default-shell/title-screen",
+            "modal": true,
+            "layer": "topmost",
+            "seekBehavior": "normal",
+            "size": "",
+            "position": "",
+            "interactable": ""
+          }
+        },
+        {
+          "id": "31507dc6-53af-4d75-9199-f49d1e27b56c",
+          "type": "storyParagraph",
+          "props": {
+            "disabled": false,
+            "speed": 0,
+            "isFirst": true
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "本故事以《左傳》為本，人物心緒與部分情節為合理虛構，請小心甄別",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "1b8fd071-0685-4419-affc-eed112f655dc",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「夜縋而出。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "0d4c447d-685e-4f42-8da2-b7956268bed4",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "——《左傳·僖公三十年》。四個字，寫的是一個七十歲的人，被一條繩子從城牆上放下去。[wait=500] 史官沒有寫那條繩子有多長，[wait=250] 也沒有寫他的手抖不抖。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "fa4a113b-88ef-4844-91cc-61543b164c6e",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「剪裁得當」。[wait=1000]後世學者是這麼論斷的。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "dc4fd25a-7d98-4e09-8f97-ab9aa8665df5",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "史書只給了他一夜。[wait=600]這一夜之前的七十年，一個字也沒有；這一夜之後，他的名字再沒有出現過。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "18d4281b-e375-4e4e-b96a-9cbc32279501",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你要走的，是那七十年——以及那七十年，是怎麼變成那一夜的。",
+              "styles": {}
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

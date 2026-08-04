@@ -1,0 +1,1017 @@
+{
+  "id": "0e219efe-5c7f-4e7c-9079-843241b999c1",
+  "name": "序章 圉人七十",
+  "fragments": [
+    {
+      "id": "967e1f2c-5752-4e60-a9dc-a08609e3b269",
+      "name": "main",
+      "blocks": [
+        {
+          "id": "f646734b-d022-440d-a8df-cf042c170e7e",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "2c9d572d-ad71-4545-bfbb-62667cf60017",
+            "sceneName": "鄭國馬廄·晨",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "1000",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "eef17c06-2a05-48de-a3f4-a8a0f65c8a06",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
+        },
+        {
+          "id": "42b3a68d-8da5-41e1-8bc5-f9be6ef8b44b",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "bgm",
+            "uri": "bgm/bgm_stable.mp3",
+            "volume": "60",
+            "loop": "true",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "c37f2f69-9644-48df-b7af-c751ee913802",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "SE",
+            "soundId": "amb",
+            "uri": "se/se_horse_stable.mp3",
+            "volume": "45",
+            "loop": "true",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "2e863774-d880-464c-9900-f93c3370eeea",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "寅時。[wait=600]天還是黑的，你已經醒了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "76560549-0646-4d80-a197-ab3e04a4896b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "不用人叫，也不用聽更鼓。四十年下來，你的身體自己記得這個時辰。[wait=500]你躺著不動，先聽——聽廄裡有沒有不對的聲音。[wait=700]沒有。十七匹馬都好好的。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "a770fcad-3fbc-4126-bfbb-9fb65528c3b1",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你坐起來，把腳伸進鞋裡。[wait=600]膝蓋響了一聲，腰響了一聲。你等它們響完，才站起來。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "fd43f202-7ccb-486c-b4f9-749b8877a6a4",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "ced2dba4-1f86-48e7-b3cb-87cb3bdbca91"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ced2dba4-1f86-48e7-b3cb-87cb3bdbca91",
+      "name": "一天",
+      "blocks": [
+        {
+          "id": "ccd7dd74-6106-48fc-a8df-b5014211a698",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "挑水。[wait=500]兩趟，井在院子東頭，走三十七步。[wait=600]你年輕的時候一趟挑兩桶，現在一趟挑一桶，走到一半要換肩。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "007e3056-243d-4134-9d93-c6eb5c0f2039",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "拌料。[wait=500]粟、豆、切碎的乾草，按季節配。秋天豆多一點，開春要加鹽。這些沒有人教過你，是你自己在四十年裡一點一點試出來的——哪匹馬吃了什麼會拉稀，哪匹馬得多加半勺豆才長膘。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "2ce3346d-b2ab-4cee-bd56-c1fc7b760480",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "天亮了，開始刷毛。[wait=600]從頸子往下，順著毛走，力道要勻。[wait=500]刷到第三匹的時候，太陽照進廄裡，塵在光柱裡浮著，你能看見自己呼出來的白氣。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d9903c46-0daa-4e24-be34-be1805483664",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "然後是清蹄。[wait=700]這是最要緊的一件事，也是最沒有人看見的一件事。[wait=500]蹄叉裡積了泥和石子，不摳出來，三天就爛。一匹馬廢了，官府查下來是「圉人失職」；可要是四十年裡一匹馬也沒廢過，官府不會查，也不會知道。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "490468db-0ba8-4ff9-82ef-273234d774e2",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你的手就是這樣壞掉的。[wait=600]指節粗得合不攏，大拇指的指甲裂了一道，四十年沒長好。冬天一到，虎口會裂開，裂到見血。[wait=500]你早就不覺得疼了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "b6c8dd6f-bd1d-49e4-a117-b0ef5637207b",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "fa8334b9-52b9-4db3-b628-546e5aa02f0f"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fa8334b9-52b9-4db3-b628-546e5aa02f0f",
+      "name": "十七匹",
+      "blocks": [
+        {
+          "id": "58e9fd76-f553-4a23-8fbd-46b4efc1996e",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "十七匹馬。[wait=600]官府的馬冊上，牠們是十七個編號：甲三、甲七、乙一……[wait=500]每年造冊的人來抄一遍，抄完就走。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e7411f35-eb3d-4ff5-8090-fc13476c85ba",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "可你叫牠們別的。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e0fe5c3d-ed83-4f7c-9df9-f59a7be2dcc9",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "最老的那匹你叫牠「老灰」，二十二歲了，跟你一樣走三里要歇。[wait=500]脾氣最壞的那匹叫「炭」，通身黑，除了你誰也不讓摸。[wait=600]去年生的小馬你叫牠「五月」，因為牠是五月生的，生下來腿軟，你抱著牠餵了三天奶。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "1734986e-4fd8-452f-89b3-a38339a3af62",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "還有「阿黃」、「跛子」、「大耳」、「不吭聲」。[wait=700]十七個名字，都是你起的。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "4a45b280-b0fe-46f4-beee-070dff54b3f7",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "沒有人知道這些名字。[wait=600]來牽馬的人只說「備甲三」，你答「是」，然後去把老灰牽出來。[wait=800]你從來沒跟人提過牠叫老灰。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d4eebb0f-94fc-45a9-b8eb-8b74df6c6527",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你也說不清為什麼要給牠們起名字。[wait=700]大概是因為，一個東西有了名字，就不只是一個編號了。[wait=600]牠會有脾氣，會有喜歡的草料，會在你走近的時候先抬起哪一隻耳朵。[wait=500]牠變成一個「誰」。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "707e1ce4-faa1-422f-b53e-b41d491b2d37",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你這一輩子沒有人給你起過名字。[wait=800]人家叫你「燭之武」——燭地那個叫武的。[wait=600]那是個地址，不是名字。[wait=700]所以你給馬起名字。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "335ac265-d328-40e3-9329-3e5857ad2532",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "d915d5b2-7abe-433e-aeb8-00490b996bfb"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d915d5b2-7abe-433e-aeb8-00490b996bfb",
+      "name": "那個問題",
+      "blocks": [
+        {
+          "id": "9cf7eec5-3a46-4689-970e-20c5abf83fee",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "上午來了個新雜役，十五六歲，是城南哪家的次子，被塞進來混口飯吃。[wait=600]他手腳笨，拌料拌不勻，你教了他兩遍。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "b0f12866-9b89-46d9-a1db-6e9143f7a1ea",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "歇的時候他蹲在旁邊，看你在草料袋上用指頭劃拉——你在算這個月的存量。[wait=500]他忽然說：「先生會寫字？」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "3b6fd093-efbe-4904-9880-d457b06529a5",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你「嗯」了一聲。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "b5804710-ce26-478b-a9bc-282ba46156c1",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "他睜大了眼睛，又問了一句。[wait=700]這一句他問得很自然，一點惡意也沒有——十五歲的人問話從來不會想到疼不疼：",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "a0b6d8c4-f829-423f-b3e7-da5831415278",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「那先生會寫字，怎麼會在這裡養馬啊？」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c02747b0-e4e1-4d04-8816-2ca3dc9a3b73",
+          "type": "wait",
+          "props": {
+            "disabled": false,
+            "duration": 800
+          }
+        },
+        {
+          "id": "29c66a0d-1786-4ae0-93c2-b4e3a662f261",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你手上的動作沒有停。[wait=600]這個問題你這輩子被問過大概二十次，前十次你認真答過，後十次你就不答了。[wait=500]今天是第二十一次。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "8ccc6387-41a0-40dc-92a1-414f91e7dba2",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "那孩子還蹲在那裡等你回話。你——",
+            "choices": "[{\"text\":\"「習慣了。」四個字，說完就繼續數你的草料\",\"mode\":\"jump\",\"fragmentId\":\"761f573f-bcf3-4205-a0eb-a93c785103ba\"},{\"text\":\"「年輕的時候，想過別的。」說一半，留一半\",\"mode\":\"jump\",\"fragmentId\":\"ea3606a2-eca5-4630-97a8-e11063fc1f8a\"},{\"text\":\"說實話：因為沒有人要我去別的地方\",\"mode\":\"jump\",\"fragmentId\":\"15dce672-ec28-4d76-a7eb-d02ece1e6264\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "761f573f-bcf3-4205-a0eb-a93c785103ba",
+      "name": "答-習慣了",
+      "blocks": [
+        {
+          "id": "37411b2f-e653-40f6-b375-c78a2869bf6f",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "e0328378-2eea-4cd7-abf4-474cd3f4d7ff",
+            "characterName": "燭之武",
+            "expression": "垂目",
+            "position": "right",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「習慣了。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "fe41f798-c790-4dcc-b4ff-6ab9e0341ca1",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你說完就繼續數草料。[wait=600]那孩子等了一會兒，看你不再開口，就去做別的了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ea27507b-6ab3-4a57-9326-7b5bc57e5478",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "這是最省事的答法。[wait=500]四個字，堵死所有後續。人家聽了會覺得你豁達，其實你只是不想說。[wait=700]四十年下來，你把一整套「不想說」的話練得很熟：習慣了、還好、就這樣、日子總要過。[wait=600]這些話像廄門口那塊擋風的舊席子，破是破，擋得住風。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "7d1ca80b-91d9-4137-a575-2c1a828529d9",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "可是那孩子走開之後，你發現自己在草料袋上把同一個數字劃了兩遍。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c8309b37-cac3-4bae-980a-4456fdc4d583",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "107fcfb9-5f30-4e5f-a24e-3c7c0087c7e3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ea3606a2-eca5-4630-97a8-e11063fc1f8a",
+      "name": "答-想過別的",
+      "blocks": [
+        {
+          "id": "c582bb54-92c7-4a40-8682-dd4d93e887ea",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "e0328378-2eea-4cd7-abf4-474cd3f4d7ff",
+            "characterName": "燭之武",
+            "expression": "蒼老",
+            "position": "right",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「年輕的時候，想過別的。」[wait=800]你說到這裡停住了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "eb32da4e-65ae-45a5-af81-38f0925309c0",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "那孩子等著下文。[wait=600]你低頭繼續數草料。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "364daf7b-ed9f-4bba-9045-ee2d729ce073",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "下文沒有了。[wait=500]不是不能說——是說出來太長。要從三十歲那年一個下午說起，說一卷燒掉的策論，說一份四十五年前的名單，說一場秋天的雨。[wait=700]說完了他也不會懂：一個十五歲的人聽不懂「差一點」是什麼滋味。他還在「什麼都可能」的年紀。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ac2d6a8b-3c7c-40a6-bee4-85b55e31c81f",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "所以你只給了他半句。[wait=600]半句是你對這件事最誠實的態度：[wait=500]它確實發生過，但它已經不值得講完了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "aee1cc65-abd1-4269-8bcc-c764194ff5c6",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "107fcfb9-5f30-4e5f-a24e-3c7c0087c7e3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "15dce672-ec28-4d76-a7eb-d02ece1e6264",
+      "name": "答-實話",
+      "blocks": [
+        {
+          "id": "2aadbec9-d248-4b0c-85b7-f4690b5dcd5e",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "e0328378-2eea-4cd7-abf4-474cd3f4d7ff",
+            "characterName": "燭之武",
+            "expression": "抬眼",
+            "position": "right",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「因為沒有人要我去別的地方。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "7924a436-9902-407b-ba69-cc5bcb58a624",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "那孩子愣住了。[wait=600]他大概沒想到會聽見這樣一句話——大人通常會說「命好命歹」、「各有各的路」，不會這樣直接。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "7ab7ff77-43c3-4ee2-be8b-a7534e75f526",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你自己也愣了一下。[wait=500]這句話你在心裡說過幾千遍，出口倒是第一次。[wait=700]說出來的感覺很奇怪：不痛，也不痛快，就是很平。[wait=1000]一件放了四十年的東西從箱底拿出來，竟發現它並沒有想像中那麼重。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "16b9beb0-8c7d-4987-8418-7c7f84dbc1be",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "那孩子想了想，說：「那……先生會不會不甘心？」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "827338c9-26b8-459e-95dd-4d4bd5905298",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你笑了。[wait=800]「不甘心」這三個字太年輕了。[wait=600]七十歲的人早就過了不甘心的階段——不甘心是還在等的人才有的東西。[wait=500]你不等了很久了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e855b6a0-904f-4726-8e63-61eed5ec9348",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "e0328378-2eea-4cd7-abf4-474cd3f4d7ff",
+            "characterName": "燭之武",
+            "expression": "蒼老",
+            "position": "right",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「不甘心得有人聽才有用。」[wait=700]你說，「去把水挑了。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "a950c2a0-4727-4a39-b7b7-9623f68dfbbe",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "107fcfb9-5f30-4e5f-a24e-3c7c0087c7e3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "107fcfb9-5f30-4e5f-a24e-3c7c0087c7e3",
+      "name": "黃昏",
+      "blocks": [
+        {
+          "id": "75edb9a4-c13b-43ed-bbbb-79d5723ab754",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "下午放牧，傍晚收廄。[wait=600]你把十七匹馬一匹一匹點過去，數到「不吭聲」的時候牠正好打了個響鼻，你笑了一下。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "8e133121-28bf-43a9-b0c7-6a3af80bf6ba",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "天黑之前，商旅來了兩撥。[wait=500]一撥從陳國來，一撥要往衛國去。你替他們飲馬，順口問了那句問了四十年的話：[wait=600]「路上好不好走？」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "8230cc6e-31c0-4494-a4ec-70b68a1e97de",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "他們就說了。[wait=500]今年虎牢的關口查得緊，滑國那一段修了路，晉國和秦國的兵這兩年往東邊調得勤。[wait=700]你聽著，記著。[wait=500]記完了，牽馬回廄。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "dec78b09-a820-422a-849a-d738e6899f7e",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "夜巡一趟。[wait=600]提著燈，一匹一匹看過去，看牠們有沒有臥得不對、有沒有出汗、有沒有哪一匹站著不肯躺。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d818ca99-0bc7-4e23-954c-ee074a24f9a7",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "一天就過完了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "b76cbbd5-a395-4fe7-9793-0b37280d0b0e",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "93b45d9d-7b24-4d7c-b516-1ee459078642"
+          }
+        }
+      ]
+    },
+    {
+      "id": "93b45d9d-7b24-4d7c-b516-1ee459078642",
+      "name": "章末·七十",
+      "blocks": [
+        {
+          "id": "faa42874-4f95-41b8-ba98-5931471c3689",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你在廄門口坐下來，看天上的星星。[wait=600]秋天了，星星很亮。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "92413632-0fef-4bb1-b570-6c1a9d0802e1",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "今天是個好日子。[wait=500]沒有馬生病，水挑夠了，草料還剩十一天的量，那個新來的雜役學會了拌料。[wait=700]四十年裡，大部分日子都是這樣的好日子。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "72903bf1-973e-421f-8f00-1064416b38f0",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你今年七十了。[wait=800]你算過：像今天這樣的日子，你大概還剩兩千個，也可能只剩兩百個。[wait=600]算不準。七十歲以後，日子是一天一天借來的。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "4ed03ab6-ebf1-4c6e-bcd0-0107ffd40726",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你不怕。[wait=500]真的不怕——你什麼也沒有，沒有妻子要託付，沒有兒女要交代，沒有田產要分。[wait=700]你這一生乾淨得像一張沒有寫過字的簡。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "6746da47-2dc0-46f9-bb5c-9de1791a8e7b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "乾淨。[wait=900]這個詞在你心裡停了一下。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c56f5115-026b-4644-b0b0-bfbd35da7d3a",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "乾淨也就是——空的。[wait=800]七十年，一張簡，一個字也沒有。[wait=600]你替鄭國養了四十年馬，這座城裡有七萬口人，沒有一個人的日子因為你而有一點點不同。[wait=500]你走了，馬會換一個人餵；換的那個人未必比你好，但也沒有人會發現。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "40ada2b1-effe-44ee-95b6-701babd36d8e",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你站起來，把燈吹了。[wait=700]廄裡的馬已經睡了，嚼草的聲音停了，只剩下呼吸。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ead7a5c0-32f7-4467-9794-af18648cda4d",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "這是僖公三十年的秋天。[wait=800]再過不到一個月，晉國的軍隊會駐在函陵，秦國的軍隊會駐在氾南。[wait=1000]而你會在七十歲這一年，第一次被人叫一聲「先生」。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "032e58f1-f6e0-49bd-86c8-aba12266236c",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "不過今天晚上你還不知道。[wait=600]你只是一個把燈吹了、準備去睡的養馬人。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "bb5f20b6-6d2c-4f90-a170-8141188d8236",
+          "type": "stopSound",
+          "props": {
+            "disabled": false,
+            "soundType": "SE",
+            "soundId": "amb",
+            "fadeDuration": "2000"
+          }
+        }
+      ]
+    }
+  ]
+}

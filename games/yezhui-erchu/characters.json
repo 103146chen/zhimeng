@@ -1,0 +1,362 @@
+{
+  "version": 3,
+  "globalSettings": {
+    "defaultPosition": "center",
+    "graphics": {
+      "keepAspectRatio": true,
+      "size": "(30%,30%)"
+    },
+    "positions": [
+      {
+        "id": "left",
+        "name": "左",
+        "left": -35,
+        "top": 25
+      },
+      {
+        "id": "center-left",
+        "name": "中左",
+        "left": -20,
+        "top": 25
+      },
+      {
+        "id": "center",
+        "name": "中",
+        "left": 0,
+        "top": 25
+      },
+      {
+        "id": "center-right",
+        "name": "中右",
+        "left": 20,
+        "top": 25
+      },
+      {
+        "id": "right",
+        "name": "右",
+        "left": 35,
+        "top": 25
+      }
+    ],
+    "defaultAnchor": "left_top"
+  },
+  "attributeTemplate": [],
+  "characters": [
+    {
+      "id": "e0328378-2eea-4cd7-abf4-474cd3f4d7ff",
+      "name": "燭之武",
+      "expressions": [
+        {
+          "name": "蒼老",
+          "assetPath": "characters/燭之武/蒼老.png"
+        },
+        {
+          "name": "垂目",
+          "assetPath": "characters/燭之武/垂目.png"
+        },
+        {
+          "name": "抬眼",
+          "assetPath": "characters/燭之武/抬眼.png"
+        },
+        {
+          "name": "隱忍",
+          "assetPath": "characters/燭之武/隱忍.png"
+        },
+        {
+          "name": "鋒芒",
+          "assetPath": "characters/燭之武/鋒芒.png"
+        },
+        {
+          "name": "疲憊",
+          "assetPath": "characters/燭之武/疲憊.png"
+        },
+        {
+          "name": "夜行",
+          "assetPath": "characters/燭之武/夜行.png"
+        },
+        {
+          "name": "壯年",
+          "assetPath": "characters/燭之武/壯年.png"
+        }
+      ],
+      "themeColor": {
+        "bg": "#f3ecdd",
+        "fg": "#6b5836",
+        "ring": "#b39a68"
+      },
+      "defaultPosition": "center",
+      "attributeValues": {},
+      "graphics": {
+        "size": "(100%,100%)"
+      }
+    },
+    {
+      "id": "88faa9f3-839a-4b12-8477-b30f1cbcdf4d",
+      "name": "秦穆公",
+      "expressions": [
+        {
+          "name": "威儀",
+          "assetPath": "characters/秦穆公/威儀.png"
+        },
+        {
+          "name": "審視",
+          "assetPath": "characters/秦穆公/審視.png"
+        },
+        {
+          "name": "沉吟",
+          "assetPath": "characters/秦穆公/沉吟.png"
+        },
+        {
+          "name": "動容",
+          "assetPath": "characters/秦穆公/動容.png"
+        },
+        {
+          "name": "決斷",
+          "assetPath": "characters/秦穆公/決斷.png"
+        },
+        {
+          "name": "悔恨",
+          "assetPath": "characters/秦穆公/悔恨.png"
+        }
+      ],
+      "themeColor": {
+        "bg": "#f6e4e0",
+        "fg": "#7d2f26",
+        "ring": "#c05a4a"
+      },
+      "defaultPosition": "center",
+      "attributeValues": {},
+      "graphics": {
+        "size": "(100%,100%)"
+      }
+    },
+    {
+      "id": "597bc8ef-1c48-4b56-bd71-3e52bd46a66e",
+      "name": "子人氏",
+      "expressions": [
+        {
+          "name": "端詳",
+          "assetPath": "characters/子人氏/端詳.png"
+        }
+      ],
+      "themeColor": {
+        "bg": "#eef0e8",
+        "fg": "#4a5540",
+        "ring": "#87947a"
+      },
+      "defaultPosition": "center",
+      "attributeValues": {},
+      "graphics": {
+        "size": "(100%,100%)"
+      }
+    },
+    {
+      "id": "be3d844a-07ca-4b37-9bf1-5ec4dfc12832",
+      "name": "鄭文公",
+      "expressions": [
+        {
+          "name": "焦灼",
+          "assetPath": "characters/鄭文公/焦灼.png"
+        },
+        {
+          "name": "愧色",
+          "assetPath": "characters/鄭文公/愧色.png"
+        },
+        {
+          "name": "決斷",
+          "assetPath": "characters/鄭文公/決斷.png"
+        }
+      ],
+      "themeColor": {
+        "bg": "#e8eef5",
+        "fg": "#33506e",
+        "ring": "#6b8cb0"
+      },
+      "defaultPosition": "center",
+      "attributeValues": {},
+      "graphics": {
+        "size": "(100%,100%)"
+      }
+    },
+    {
+      "id": "6ad98deb-8c22-49e4-b799-54365566b814",
+      "name": "佚之狐",
+      "expressions": [
+        {
+          "name": "懇切",
+          "assetPath": "characters/佚之狐/懇切.png"
+        },
+        {
+          "name": "憂色",
+          "assetPath": "characters/佚之狐/憂色.png"
+        }
+      ],
+      "themeColor": {
+        "bg": "#eaf1ea",
+        "fg": "#3f5c42",
+        "ring": "#7a9c7e"
+      },
+      "defaultPosition": "center",
+      "attributeValues": {},
+      "graphics": {
+        "size": "(100%,100%)"
+      }
+    },
+    {
+      "id": "77c1ff25-f6a4-49b4-bf72-ec40912ddaed",
+      "name": "晉文公",
+      "expressions": [
+        {
+          "name": "霸主",
+          "assetPath": "characters/晉文公/霸主.png"
+        },
+        {
+          "name": "沉吟",
+          "assetPath": "characters/晉文公/沉吟.png"
+        }
+      ],
+      "themeColor": {
+        "bg": "#efeaf5",
+        "fg": "#4a3a6b",
+        "ring": "#8a76b3"
+      },
+      "defaultPosition": "center",
+      "attributeValues": {},
+      "graphics": {
+        "size": "(100%,100%)"
+      }
+    },
+    {
+      "id": "89a7cae3-1b94-4fd5-af1a-5e2e0390a76a",
+      "name": "子犯",
+      "expressions": [
+        {
+          "name": "請戰",
+          "assetPath": "characters/子犯/請戰.png"
+        }
+      ],
+      "themeColor": {
+        "bg": "#f2eee6",
+        "fg": "#5c4a2f",
+        "ring": "#a08a63"
+      },
+      "defaultPosition": "center",
+      "attributeValues": {},
+      "graphics": {
+        "size": "(100%,100%)"
+      }
+    },
+    {
+      "id": "44fd793b-ba60-4078-aabd-f41c68664c00",
+      "name": "蹇叔",
+      "expressions": [
+        {
+          "name": "老諫",
+          "assetPath": "characters/蹇叔/老諫.png"
+        },
+        {
+          "name": "慟哭",
+          "assetPath": "characters/蹇叔/慟哭.png"
+        }
+      ],
+      "themeColor": {
+        "bg": "#f0efe9",
+        "fg": "#4f5348",
+        "ring": "#8b9081"
+      },
+      "defaultPosition": "center",
+      "attributeValues": {},
+      "graphics": {
+        "size": "(100%,100%)"
+      }
+    },
+    {
+      "id": "aae04c2d-5ee6-4465-9188-4316aa5f7781",
+      "name": "杞子",
+      "expressions": [
+        {
+          "name": "恭謹",
+          "assetPath": "characters/杞子/恭謹.png"
+        },
+        {
+          "name": "暗算",
+          "assetPath": "characters/杞子/暗算.png"
+        }
+      ],
+      "themeColor": {
+        "bg": "#eeeaf0",
+        "fg": "#54405c",
+        "ring": "#907a99"
+      },
+      "defaultPosition": "center",
+      "attributeValues": {},
+      "graphics": {
+        "size": "(100%,100%)"
+      }
+    },
+    {
+      "id": "589c242c-9770-4d4e-9f9d-eb01d220ef24",
+      "name": "弦高",
+      "expressions": [
+        {
+          "name": "機敏",
+          "assetPath": "characters/弦高/機敏.png"
+        }
+      ],
+      "themeColor": {
+        "bg": "#fdf1de",
+        "fg": "#7a5a20",
+        "ring": "#c99b44"
+      },
+      "defaultPosition": "center",
+      "attributeValues": {},
+      "graphics": {
+        "size": "(100%,100%)"
+      }
+    },
+    {
+      "id": "69f1167b-b8e2-4b6f-b2da-b410d4bd3fce",
+      "name": "鄭穆公",
+      "expressions": [
+        {
+          "name": "年輕",
+          "assetPath": "characters/鄭穆公/年輕.png"
+        }
+      ],
+      "themeColor": {
+        "bg": "#e6eef2",
+        "fg": "#2f5164",
+        "ring": "#6b93a8"
+      },
+      "defaultPosition": "center",
+      "attributeValues": {},
+      "graphics": {
+        "size": "(100%,100%)"
+      }
+    },
+    {
+      "id": "c2c251ac-0acd-4a62-86fb-54bae46f044b",
+      "name": "孟明視",
+      "expressions": [
+        {
+          "name": "驕矜",
+          "assetPath": "characters/孟明視/驕矜.png"
+        },
+        {
+          "name": "囚首",
+          "assetPath": "characters/孟明視/囚首.png"
+        }
+      ],
+      "themeColor": {
+        "bg": "#f5e9e6",
+        "fg": "#6e382c",
+        "ring": "#ab6a58"
+      },
+      "defaultPosition": "center",
+      "attributeValues": {},
+      "graphics": {
+        "size": "(100%,100%)"
+      }
+    }
+  ]
+}

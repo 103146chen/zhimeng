@@ -4,7 +4,7 @@
     "name": "織夢",
     "description": "",
     "url": "",
-    "updatedAt": "2026-07-30T02:35:29.014Z"
+    "updatedAt": "2026-08-04T23:46:04.198Z"
   },
   "games": [
     {
@@ -16,6 +16,16 @@
       "chapters": 17,
       "bytes": 119070640,
       "updatedAt": "2026-07-26T13:51:32.000Z"
+    },
+    {
+      "slug": "yezhui-erchu",
+      "name": "言與國：夜縋而出",
+      "version": "1.0.0",
+      "description": "",
+      "cover": "bg/sc_title.jpeg",
+      "chapters": 10,
+      "bytes": 75169064,
+      "updatedAt": "2026-08-04T23:43:50.033Z"
     }
   ]
 }

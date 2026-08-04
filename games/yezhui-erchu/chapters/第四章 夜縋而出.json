@@ -1,0 +1,1172 @@
+{
+  "id": "d49f33c1-9bbf-4e85-bc5b-64cfb4884037",
+  "name": "第四章 夜縋而出",
+  "fragments": [
+    {
+      "id": "6e852b21-60a0-48dc-aadf-f069d310cd58",
+      "name": "main",
+      "blocks": [
+        {
+          "id": "607ac506-177a-41f4-b8db-2eeffa1dcbf3",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "d7489de1-2972-4543-9cec-5fcc8a38574b",
+            "sceneName": "鄭國馬廄·夜",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "900",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "5a1f9c3a-74d9-4a02-8a0c-7e26c54cefe3",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
+        },
+        {
+          "id": "34bd3bb8-5b7b-4bfb-88d4-106fd63cda14",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "bgm",
+            "uri": "bgm/bgm_descent.mp3",
+            "volume": "58",
+            "loop": "true",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "ebb069c4-1c5c-4c75-8d3f-9227e26ac281",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你換了一雙舊鞋。[wait=600]新的那雙是去年做的，鞋底硬，走在石頭上會響。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "46c9edfa-50c1-4d38-9429-1bd1ef636e0b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你沒有帶任何東西。[wait=500]不帶符節——你不是使者，鄭國此刻派不出使者。不帶書信——寫下來的東西一旦被搜出來，就是罪證。[wait=700]你這一夜要帶去秦營的全部東西，都在你腦子裡：三十年的路程、關口、渡口，和一件晉國人早上渡河、晚上築牆的舊事。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ce9487b6-2fd6-4499-af13-fa0224662454",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "臨出門，你回頭看了一眼馬廄。[wait=600]十七匹馬在黑暗裡嚼草，聲音很整齊。牠們不知道今夜有什麼不一樣。[wait=500]——這樣很好。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "cfc47728-23c8-4ce2-a92a-0302a112c56f",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "d2f2a350-3215-402b-ac90-f506efae0cd5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d2f2a350-3215-402b-ac90-f506efae0cd5",
+      "name": "上城",
+      "blocks": [
+        {
+          "id": "71fec18e-7a4e-4000-8806-0a2e9471e9ca",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "d0b07818-d819-4ee2-a702-520131d6069d",
+            "sceneName": "鄭國城牆·夜",
+            "uri": "",
+            "transitionMode": "cover",
+            "transitionDuration": "1000",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "6317f223-d793-4118-aa87-cf16c2d85c71",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
+        },
+        {
+          "id": "c25e3992-2c55-43f6-addb-748acfd8bc1c",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "從馬廄到城牆，平常走要一刻。今夜你走了半刻——街上一個人也沒有，你不必讓路。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "9d84ebce-1afb-4626-81a0-cce57971d637",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "城牆的台階很陡。你上到一半就得停下來喘。[wait=600]上面有人伸手來拉你，你搖了搖頭，自己扶著牆走完剩下的一半。[wait=500]你不知道為什麼要逞這個強。也許是因為，這是今夜你唯一還能自己決定的事。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "598393d3-35c3-4500-bb03-cb7b331d123c",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "垛口邊上站著五六個人。佚之狐在，還有四個士兵，最年輕的那個看起來不到二十。[wait=600]他們都在看你。你能感覺到那些眼睛裡的東西——不是敬重，是那種看見一件事情實在太荒唐、荒唐到不知道該怎麼反應的表情。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "32000e46-85a8-47eb-a63b-587249c562ce",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你懂。[wait=500]換成你在城上，看著一個七十歲的養馬人要被繩子吊下去，去跟一個滅過十二個國家的君主說話——你也會是這個表情。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "099eb8dd-6a93-4d70-9617-7a75f090dea3",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "6ad98deb-8c22-49e4-b799-54365566b814",
+            "characterName": "佚之狐",
+            "expression": "憂色",
+            "position": "center-left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「繩子我親自打的結。」[wait=600]他把繩頭遞過來，「活結，套在腋下。到了底下，把手臂一收就脫得開。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "6624e888-f3ea-4b6a-bdca-f135258e927a",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "ca35e8d6-d8b8-4601-a2ae-cea1119b21ba",
+            "sceneName": "物·夜縋而出的繩子",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "600",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "4398e219-0a43-481c-84b7-ef7867487052",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你接過那條繩子。[wait=500]粗麻，新的，還帶著點刺手的毛。[wait=600]你這雙手握了五十年的韁繩、刷子、蹄鐵和藥碗，最後握住的是這個。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e2dab6a2-82c3-48e4-bac7-db1c9214f181",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "d0b07818-d819-4ee2-a702-520131d6069d",
+            "sceneName": "鄭國城牆·夜",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "600",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "02249406-6387-4048-ac9b-ea7f68c0ad2e",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你把繩套從頭上套下去，往下拉到腋下。[wait=500]佚之狐替你收緊，收得很仔細，收完又試了兩次。他的手在抖。[wait=700]你反倒安慰起他來：「大夫，不會有事。」[wait=600]你自己也知道這句話沒有根據。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "948bce00-0d82-4f36-bf00-e4a994b734b4",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "那個最年輕的士兵一直在看你。[wait=600]他手裡攥著繩子的另一頭，指節發白。你看他的臉——十八九歲，臉上還有沒退乾淨的孩子氣，可眼睛底下已經是青的。這五天他大概沒怎麼睡。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "aa82788c-462c-48d8-ae9f-03879502bb0f",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "他忽然開口，聲音很小：[wait=500]「先生……」[wait=800]然後就沒有下文了。他不知道該說什麼。你們兩個素不相識，他今夜要做的事是把你放下去，而你今夜要做的事是走進敵營。這中間沒有什麼合適的話可說。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ce862a3a-69c5-4083-a36b-010694d0efed",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "e0328378-2eea-4cd7-abf4-474cd3f4d7ff",
+            "characterName": "燭之武",
+            "expression": "蒼老",
+            "position": "right",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「繩子抓穩就好。」[wait=600]你說，「別的不用想。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "f83d4f22-49f9-466c-8078-2473fb3959eb",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "他用力點了點頭。[wait=500]你注意到他點頭的樣子——很用力，用力得過了頭，像是要把什麼東西按下去。[wait=700]你想起你三十歲的時候，也曾經這樣點過頭。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ca16a660-5668-4875-8661-b431be7c8405",
+          "type": "wait",
+          "props": {
+            "disabled": false,
+            "duration": 700
+          }
+        },
+        {
+          "id": "07b39e08-6e79-4511-8d82-7b657bb2341a",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你回頭，最後看了一眼城裡。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "56c731d3-b2ed-4945-96dd-dfcc2e0d08b3",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "沒有燈。[wait=600]整座城黑著，一盞燈也沒有點——不是睡了，是不敢點。五天了，城裡的人躲在黑暗裡，聽著自己的心跳，等一件他們阻止不了的事發生。[wait=800]七萬口人。你一個也不認識。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d5e5bd1e-cf4c-414f-9b2c-59c1b0c04f5b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "其中有一個，昨天夜裡把自己和全家吊在了屋樑上。[wait=700]而你到現在還不知道他姓什麼。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "178b76c9-3080-4934-947a-f6d93a509844",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你轉回身，走到垛口邊上，往下看。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ed41fa84-127f-43c5-aacb-2d93995991f2",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "黑。[wait=800]什麼也看不見。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "fd24559b-cbc4-451f-8570-60165ec7e2cd",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你想起你跟國君說過的話——「夜裡看不清東西」。[wait=600]那不是推辭，那是真的。[wait=500]你這雙眼睛五年前開始壞，現在到了夜裡，三步以外就是一片糊。[wait=700]你腳下這座城牆有多高，你根本看不出來。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "71b984ef-9a98-402d-aa26-fb4c38cd1393",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "可你也因此發現一件事，一件說出來會讓人覺得可笑的好事：[wait=700]看不見，就不怕。[wait=600]真正讓人腿軟的從來不是高，是「看見自己有多高」。[wait=500]你什麼也看不見。所以你只是站在一片黑的邊上，而不是站在一座城牆的邊上。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "6638ad3e-739c-48da-9add-7439db81b34c",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "e0328378-2eea-4cd7-abf4-474cd3f4d7ff",
+            "characterName": "燭之武",
+            "expression": "夜行",
+            "position": "right",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「放吧。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "90dace4e-3cdf-4b18-9680-223780bbc888",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "d040bee1-8653-46a0-9611-55b6d0b5ed39"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d040bee1-8653-46a0-9611-55b6d0b5ed39",
+      "name": "縋",
+      "blocks": [
+        {
+          "id": "79c24c57-b1ad-4528-8a07-9fd9425b13ad",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "b4e2f9f1-221f-4ff3-8c53-159077ad4437",
+            "sceneName": "CG·夜縋而出",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "800",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "978298d3-c9c8-44f4-90ba-4b0dce2e72ce",
+          "type": "callExtensionFunction",
+          "props": {
+            "disabled": false,
+            "target": "avg.internal.default-shell/add-to-gallery",
+            "paramsJson": "{\"id\":{\"kind\":\"lit\",\"value\":\"c6df1050-044b-493b-8302-e4ecd3d81f28\"},\"scene\":{\"kind\":\"lit\",\"value\":\"b4e2f9f1-221f-4ff3-8c53-159077ad4437\"},\"_sceneLayers\":{\"kind\":\"lit\",\"value\":\"[{\\\"id\\\":\\\"dda349b2-ae3f-4200-b7be-ac8363561d2b\\\",\\\"name\\\":\\\"背景\\\",\\\"assetPath\\\":\\\"cg/cg_yezhui.jpeg\\\",\\\"distance\\\":1}]\"},\"_sceneName\":{\"kind\":\"lit\",\"value\":\"CG·夜縋而出\"},\"title\":{\"kind\":\"lit\",\"value\":\"夜縋而出\"}}"
+          }
+        },
+        {
+          "id": "eb7e447a-413b-42e5-9224-1ebcddb554d1",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
+        },
+        {
+          "id": "9f3b2328-07df-44d0-bf9b-18bcc2edb4b4",
+          "type": "stopSound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "",
+            "fadeDuration": "1500"
+          }
+        },
+        {
+          "id": "fa59a2e7-9bb8-4940-8fca-07b82bf18527",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "SE",
+            "soundId": "",
+            "uri": "se/se_rope_tension.mp3",
+            "volume": "72",
+            "loop": "true",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "edf1ce79-5ac7-4a4e-b7a9-b5d8de9f7a2c",
+          "type": "camera",
+          "props": {
+            "disabled": false,
+            "offsetX": "",
+            "offsetY": "-90",
+            "zoom": "1.06",
+            "duration": "7000",
+            "easing": "easeInOut",
+            "waitForComplete": "false",
+            "targets": "scene,characters",
+            "distortionStrength": "",
+            "vignetteIntensity": "",
+            "vignetteSize": "",
+            "colorToneMode": "none",
+            "colorToneIntensity": "",
+            "oldFilmIntensity": "",
+            "shockIntensity": "",
+            "lutPreset": "",
+            "lutIntensity": "",
+            "shakeAmplitude": "",
+            "shakeFrequency": "",
+            "shakeDuration": "",
+            "shakeFalloff": "linear",
+            "shakeAxis": "both",
+            "focalDistance": "",
+            "blurStrength": "",
+            "blurAmount": ""
+          }
+        },
+        {
+          "id": "c244bd7e-9fab-4e0e-b14b-e74a5d43dc05",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "繩子繃緊的一瞬，你整個人被拎了起來，腋下一陣鈍痛。[wait=600]然後你離開了城牆。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d7873a50-f09e-4d94-a59b-15fc98ea42fd",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "他們放得很慢。一段，停；一段，停。[wait=500]每一次停頓，你就在半空裡晃一下，撞到牆面，又被彈開一點。[wait=700]你伸手去扶，摸到城磚——冰的，粗的，縫裡塞著幾十年的乾苔。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "3a18b74d-2a4f-40bb-aaf8-56bc29803fbf",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你開始數。[wait=600]數磚。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "bbb2f44f-50c0-49f3-89ae-28594538e8ed",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "這是你一輩子的老毛病了。[wait=500]你在馬廄裡數馬的步子，數草料的捆數，數過路商旅說的日程；四十五歲那年你甚至數過名單上有幾個名字，數了三遍，每一遍你的名字都在第十一個。[wait=800]現在你在一條繩子上，離地不知道多高，眼睛看不見——[wait=600]你在數磚。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e61ff927-f832-4276-a238-829e52d93d0d",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "繩套勒在腋下，把你整個人的重量都掛在那兩道麻繩上。[wait=600]肋骨在響。你發現自己吸不了滿一口氣——繩子勒住了胸腔，你只能一小口一小口地換氣，像一條擱在岸上的魚。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "32b354ae-5808-466d-b35a-95f99001b543",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你這才明白為什麼佚之狐的手在抖。[wait=700]他打那個結的時候，大概已經想到了：一個七十歲的人，這樣吊十幾丈，光是勒，就可能勒死。[wait=500]可是沒有別的辦法。城門不能開。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "aec5944f-ef47-4c5e-b50b-f350db838e3c",
+          "type": "wait",
+          "props": {
+            "disabled": false,
+            "duration": 800
+          }
+        },
+        {
+          "id": "0bd9d7dd-b56a-4708-903c-ad50ea48536f",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "十七。[wait=500]你的膝蓋撞上牆面，褲子破了，皮也蹭掉一塊。你沒有出聲。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "3afee9cb-854a-424c-9c12-3a34684d65ae",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "二十六。[wait=500]上面的人換了手，繩子猛地滑了半尺。你的心跳了一下，但也只跳了一下——七十歲的心臟，連受驚都受得很淡。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d98c127b-abf8-4c4f-873d-bfa75d0cd1cb",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "三十四。[wait=600]風從城牆和你之間穿過去。你聽見很遠的地方有狗在叫，叫了兩聲就沒了。[wait=500]那是城外的狗。你已經在城外了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "1a432be2-c390-4c99-8874-aacf6ff44805",
+          "type": "wait",
+          "props": {
+            "disabled": false,
+            "duration": 800
+          }
+        },
+        {
+          "id": "a725acd0-7844-48ae-bbde-686dbc344d31",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你忽然想起一件事：上面那幾個士兵放你下來的時候，好像沒有很吃力。[wait=700]——你比他們預想的輕。[wait=600]一個七十歲的人身上剩不下多少東西了，輕得像一捆柴。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "47e94f50-757b-4864-95da-f275361f5890",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "這個念頭沒有讓你難過。[wait=500]你只是覺得，這樣也好。[wait=600]要是重一點，繩子斷了，這一夜就白費了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "9fcc5026-f70a-4d5b-abca-6f3043f3911e",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "四十一。[wait=800]四十二。[wait=1000]",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "285c09a2-89ad-4c7a-b651-9f6c415e82d2",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "腳觸到了地。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "a81b8aba-37f0-4cfb-b524-dff2893b4b45",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "995f2a68-7896-4e67-aa38-96146bd52828"
+          }
+        }
+      ]
+    },
+    {
+      "id": "995f2a68-7896-4e67-aa38-96146bd52828",
+      "name": "落地",
+      "blocks": [
+        {
+          "id": "a9108046-2a25-462c-a1da-7d4488a4fae1",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "d0b07818-d819-4ee2-a702-520131d6069d",
+            "sceneName": "鄭國城牆·夜",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "700",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "1eb8cf7a-0bf6-446e-b3c1-119888b30011",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
+        },
+        {
+          "id": "5a4710a3-8373-40c7-a882-1698d88df4e6",
+          "type": "stopSound",
+          "props": {
+            "disabled": false,
+            "soundType": "SE",
+            "soundId": "",
+            "fadeDuration": "900"
+          }
+        },
+        {
+          "id": "8488390b-6b56-404c-a80a-b7e7b6e3a70f",
+          "type": "resetCamera",
+          "props": {
+            "disabled": false
+          }
+        },
+        {
+          "id": "f1a7db20-67bd-4681-ac6d-0a7c5ede88e2",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你站在土上，站了好一會兒才敢把重量交給自己的腿。[wait=600]兩條腿都在抖，抖得不聽話。你扶著牆，等它們停下來。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "71e5a57e-c989-473e-9ddf-d4d6c5c0db66",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "然後你把手臂一收，繩套鬆了，從你身上滑下去。[wait=500]你把它扔開。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "efabdbf4-d416-4a3d-b4b4-86088fe73d97",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "繩子往上收了。[wait=700]你聽見它擦過城磚的聲音，一下一下，越來越高，越來越輕，最後聽不見了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "19268f5e-eb4e-438c-8996-ab300f1b5b57",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你伸出手，想抓一下。[wait=800]抓了個空。[wait=600]那本來就不是為了讓你回去用的——一條垂在城牆外面的繩子，天亮以後會被人看見。它必須收上去。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "a1df6df0-b648-4e94-9f78-2ee8acbff8f7",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你抬起頭，往上望。[wait=600]眼睛看不清，可你隱約覺得，垛口那裡有一個很小的、圓圓的黑影，一動不動。[wait=700]——大概是那個年輕的士兵，還趴在上面看。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "2d77280a-10b2-4ee7-b8bf-96d419dcf000",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你朝那個方向擺了擺手。[wait=500]你不知道他看不看得見；這麼黑，多半是看不見的。[wait=600]可你還是擺了。[wait=800]你這一輩子沒有人送過行。今夜有一個十八歲的孩子趴在城頭上看你走——這樣就夠了，夠得有點多。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "a8d91ac1-4935-441b-84b9-8f58e73a354a",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你收回手，看著那堵牆。[wait=500]城牆在你上面，黑黑的一堵，什麼細節都沒有。[wait=600]你看了它七十年，從裡面看了七十年——原來從外面看，它是這個樣子的。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ee792cef-210f-47ab-9918-61abe227a087",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "它不像在保護誰。[wait=700]它就只是一堵牆，很高，很硬，把裡面的七萬口人和外面的兩支軍隊隔開。[wait=500]而你現在在外面。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "09391bb4-9c7f-4f3f-ba65-6bab1c0798dc",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "0fcbe843-9367-438e-b105-47272f17ed50"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0fcbe843-9367-438e-b105-47272f17ed50",
+      "name": "章末·走",
+      "blocks": [
+        {
+          "id": "3c7352c2-1a12-4f03-8ac6-ab2cbc67ad65",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你在牆根下站著，理了理衣服。[wait=500]膝蓋那塊皮在火辣辣地疼，你彎腰摸了一下，手上有血。[wait=600]你把手在褲子上擦乾淨。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "2e418291-f2e7-4684-8bd6-c47f213476b5",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "一個念頭很清楚地浮上來：[wait=700]你上不去了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "ea68ec85-71ea-4731-b507-f6846828d472",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "不是說沒有人會再放繩子——是說，這件事到這裡就沒有回頭的餘地了。[wait=600]你不能敲城門說我改主意了。你不能在牆根下坐到天亮。[wait=500]你只剩下一個方向可以走。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "6e7b5ed8-cfcb-4612-ac70-e817699805af",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你七十年來做過的每一個決定，都是可以反悔的。[wait=600]守不守那場喪、[wait=250] 燒不燒那卷策論、[wait=250] 記不記那些諸侯的事、[wait=250] 雨天出不出去換那副蹄鐵[wait=500] ——這些事做了或沒做，第二天太陽照樣出來，日子照樣過。[wait=800]今夜這一件不是。[wait=600]今夜這一件，繩子已經收上去了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "3c8b0e0c-a908-4d33-b4a0-c9d5757d94ee",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你朝南邊轉過身。[wait=500]氾南在那個方向，秦軍在那裡。三十里外的函陵是晉軍，不能去；你這一夜只能見秦君，因為秦晉沒有駐在一起——這是鄭國最後的運氣，也是佚之狐在城上反覆交代的那一句。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "5c9de7f4-a676-4aa2-a475-cbd4a839a293",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你看不見路。[wait=600]你就順著風走。風是從南邊來的，帶著一點很淡的、燒柴的味道——那是幾萬人的營火，燒了五天。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "cd91d709-57f9-4624-bea2-c7487225ace4",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你邁出第一步。[wait=800]然後是第二步。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "168bbf70-67f3-45df-b2e0-0939da7ccfa6",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "七十年。[wait=600]你這一生走過的所有路，都是別人讓你走的：讓你去馬廄，讓你留在馬廄，讓你在馬廄裡待四十年。[wait=900]只有這一段路，是你自己要走的。",
+              "styles": {}
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

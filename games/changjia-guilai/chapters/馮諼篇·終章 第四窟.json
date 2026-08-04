@@ -531,6 +531,15 @@
               "styles": {}
             }
           ]
+        },
+        {
+          "id": "07cbfd3b-fe8f-46da-8743-a9e86d3b8468",
+          "type": "callExtensionFunction",
+          "props": {
+            "disabled": false,
+            "target": "avg.internal.default-shell/add-to-endings",
+            "paramsJson": "{\"id\":{\"kind\":\"lit\",\"value\":\"ending-retire-after-success\"}}"
+          }
         }
       ]
     },
@@ -676,6 +685,15 @@
               "styles": {}
             }
           ]
+        },
+        {
+          "id": "fc17bc86-b9b2-4613-b4b3-06a8564e6551",
+          "type": "callExtensionFunction",
+          "props": {
+            "disabled": false,
+            "target": "avg.internal.default-shell/add-to-endings",
+            "paramsJson": "{\"id\":{\"kind\":\"lit\",\"value\":\"ending-answer-of-half-contract\"}}"
+          }
         }
       ]
     },
@@ -834,6 +852,15 @@
           }
         },
         {
+          "id": "b3ddb100-c775-4c14-b0c4-82b846d1931e",
+          "type": "callExtensionFunction",
+          "props": {
+            "disabled": false,
+            "target": "avg.internal.default-shell/add-to-gallery",
+            "paramsJson": "{\"id\":{\"kind\":\"lit\",\"value\":\"e43029f3-3768-4c7a-a9be-6dd4771b149c\"},\"scene\":{\"kind\":\"lit\",\"value\":\"845a9ea4-b832-4d7a-b592-d6024825400c\"},\"_sceneLayers\":{\"kind\":\"lit\",\"value\":\"[{\\\"id\\\":\\\"07b41b18-5371-4eaa-a278-72e7514f2390\\\",\\\"name\\\":\\\"CG\\\",\\\"assetPath\\\":\\\"cg/cg_lantern_relay.jpeg\\\",\\\"distance\\\":1}]\"},\"_sceneName\":{\"kind\":\"lit\",\"value\":\"CG·萬家燈火\"},\"title\":{\"kind\":\"lit\",\"value\":\"萬家燈火\"}}"
+          }
+        },
+        {
           "id": "07166bfc-d953-426d-b2e8-8f87cbfd843f",
           "type": "narration",
           "props": {
@@ -865,6 +892,15 @@
             "position": "(50%,50%)",
             "anchor": "center",
             "size": ""
+          }
+        },
+        {
+          "id": "b63e935b-058f-48f9-a171-fa315726cfba",
+          "type": "callExtensionFunction",
+          "props": {
+            "disabled": false,
+            "target": "avg.internal.default-shell/add-to-gallery",
+            "paramsJson": "{\"id\":{\"kind\":\"lit\",\"value\":\"1d909328-007d-4e38-ae57-8b5f1c89ba0c\"},\"scene\":{\"kind\":\"lit\",\"value\":\"2f581b0b-57bb-4cff-b188-0ba9fe40c787\"},\"_sceneLayers\":{\"kind\":\"lit\",\"value\":\"[{\\\"id\\\":\\\"8db38665-6482-45dc-af70-9f213fbae1b3\\\",\\\"name\\\":\\\"CG\\\",\\\"assetPath\\\":\\\"cg/cg_sword_in_ashes.jpeg\\\",\\\"distance\\\":1}]\"},\"_sceneName\":{\"kind\":\"lit\",\"value\":\"CG·插劍焦土\"},\"title\":{\"kind\":\"lit\",\"value\":\"劍插焦土\"}}"
           }
         },
         {
@@ -942,6 +978,15 @@
               "styles": {}
             }
           ]
+        },
+        {
+          "id": "7978d49e-c56c-4399-a7c1-b610b7c0a264",
+          "type": "callExtensionFunction",
+          "props": {
+            "disabled": false,
+            "target": "avg.internal.default-shell/add-to-endings",
+            "paramsJson": "{\"id\":{\"kind\":\"lit\",\"value\":\"ending-hidden-in-hearts\"}}"
+          }
         }
       ]
     }

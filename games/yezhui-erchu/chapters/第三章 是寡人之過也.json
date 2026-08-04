@@ -1,0 +1,1463 @@
+{
+  "id": "b9ba13cd-33bb-4f48-b130-c837281fa80e",
+  "name": "第三章 是寡人之過也",
+  "fragments": [
+    {
+      "id": "a3fc7765-d346-4b10-ab50-27026f449f5d",
+      "name": "main",
+      "blocks": [
+        {
+          "id": "5a635720-2bb3-4239-be1f-fe5a6ed4dff8",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "d7489de1-2972-4543-9cec-5fcc8a38574b",
+            "sceneName": "鄭國馬廄·夜",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "900",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "b40f4485-d0f5-4ac7-a4ff-79042240946f",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
+        },
+        {
+          "id": "9d1268af-7448-4b2d-9000-06d3fb85fb8d",
+          "type": "sound",
+          "props": {
+            "disabled": false,
+            "soundType": "BGM",
+            "soundId": "bgm",
+            "uri": "bgm/bgm_siege.mp3",
+            "volume": "52",
+            "loop": "true",
+            "fadeDuration": ""
+          }
+        },
+        {
+          "id": "25f8886f-8b41-4e3c-bba9-462f128e44e4",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "圍城的第五天。[wait=500]城裡已經沒有人在街上走了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "7b0398b3-705e-4846-a71b-491b38318dba",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "糧還夠，水也還夠——真正先垮的從來不是糧水，是人。[wait=600]頭兩天大家還在說「晉侯不會真打」，第三天開始有人往城南搬東西，第四天夜裡，東邊有一戶人家整家吊死在自己屋樑上，一個沒剩。[wait=700]他們不是等不下去，是不想等到城破那一天，讓別人來決定他們怎麼死。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "81a6f792-7a0c-495a-8866-8fd9495394d8",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "馬廄裡倒還安靜。[wait=500]馬不知道城外有兩支軍隊。牠們只知道草料比前幾天少了一半，於是吃得慢一點，把嚼的時間拉長。[wait=600]你也一樣。你把每天的活兒做得比平常更慢、更仔細——刷毛、清蹄、換水。[wait=500]七十歲的人，在一件事快要結束的時候，會下意識把手上的事做得很慢。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "6f2420c2-ace8-4493-89cc-d4d6338a71e9",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你不怕死。[wait=700]你怕的是另一件事，一件說出來會被人笑的事：[wait=600]你怕你死的時候，這一輩子還是那個樣子——一個叫「燭地那個武」的人，在馬廄裡，被人順手埋掉。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "1756ebde-bdd0-442c-88ff-993918ea65f3",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "e633d649-a078-48bf-a3ce-b4c389dd678f"
+          }
+        }
+      ]
+    },
+    {
+      "id": "e633d649-a078-48bf-a3ce-b4c389dd678f",
+      "name": "佚之狐",
+      "blocks": [
+        {
+          "id": "14197173-ad26-4a90-8c89-b20ad7684a4f",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "天快黑的時候，有人走進馬廄。[wait=500]不是餵馬的雜役——那人穿著大夫的衣裳，鞋上全是泥。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "7c00c39e-37f8-4f70-beee-bf5f6cfe4db3",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "6ad98deb-8c22-49e4-b799-54365566b814",
+            "characterName": "佚之狐",
+            "expression": "憂色",
+            "position": "center",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「請問，這裡是不是有一位……[wait=500]燭之武先生。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "decf92d5-7be5-429d-b4f5-813e6f450490",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "先生。[wait=800]七十年裡，沒有人這樣叫過你。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "cbdaa037-2970-4841-a4ea-08f54eaf4b93",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "e0328378-2eea-4cd7-abf4-474cd3f4d7ff",
+            "characterName": "燭之武",
+            "expression": "蒼老",
+            "position": "right",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「我姓武。[wait=500]燭之武是別人叫的。[wait=400]大夫找我，是要馬？」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "95a85938-d291-4749-90f3-e25596534fa0",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "6ad98deb-8c22-49e4-b799-54365566b814",
+            "characterName": "佚之狐",
+            "expression": "懇切",
+            "position": "center",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「不要馬。」[wait=600]他往前走了一步，「我今日在朝上跟君上說——國危矣。若使燭之武見秦君，師必退。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "27909c11-175f-4521-84f0-e3563764763b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你手裡的刷子停了。[wait=800]你聽見自己心裡有個很久沒響過的東西，響了一下。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "36bf3249-d017-4778-973f-2e6008318500",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "e0328378-2eea-4cd7-abf4-474cd3f4d7ff",
+            "characterName": "燭之武",
+            "expression": "抬眼",
+            "position": "right",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「……大夫認得我？」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "6a2d0dac-f94d-40e8-9961-e082b194a234",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "6ad98deb-8c22-49e4-b799-54365566b814",
+            "characterName": "佚之狐",
+            "expression": "憂色",
+            "position": "center",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「四十五年前，選行人的那份名單。」[wait=700]他說得很慢，「我那時候剛入朝，管抄錄。名單上有一個馬廄裡的人，能背《詩》。[wait=600]我把那個名字抄了上去，一直記到今天。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d72c7c49-8b9c-4fed-885a-19de64e9775b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "四十五年。[wait=600]原來這世上真的有一個人，記得那張紙上有過你的名字。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "b67bf546-fb52-43e0-9411-65479e7c8acf",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你沒有問他為什麼不早說。[wait=500]你自己心裡清楚：他就算早說了，也沒有用。他那時候管抄錄，說話沒有分量；等他有分量的時候，你已經七十了。[wait=700]不是沒有人替你說話。[wait=500]是替你說話的人，得先等自己說得上話——而那要等很多年，多到你已經不需要了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "72bb3c49-7f53-4da1-bb1a-dd9b150b4cbc",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "580c69a5-59b0-4f1e-8906-7c7250bdb522"
+          }
+        }
+      ]
+    },
+    {
+      "id": "580c69a5-59b0-4f1e-8906-7c7250bdb522",
+      "name": "鄭伯至",
+      "blocks": [
+        {
+          "id": "faf01f45-0a7f-47a3-8ca2-21dbc0c08bc3",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "國君來了。[wait=800]不是傳你進宮——是他自己走進了馬廄。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "9346cc2d-6e4b-45d3-90da-1163467e05c8",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你在鄭國活了七十年，見過這位國君三次：兩次是他的車從馬廄門口過，一次是祭祀時遠遠望見的一片衣角。[wait=600]現在他站在你面前，站在馬糞和草料中間，衣服下擺沾了一圈土。他身後沒有帶儀仗，只有兩個人提著燈。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "7b75c4f6-c2da-426d-862e-693645391b7e",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "be3d844a-07ca-4b37-9bf1-5ec4dfc12832",
+            "characterName": "鄭文公",
+            "expression": "焦灼",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「先生。」[wait=700]他先開了口，「寡人有一事相求。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "b1bba935-ac44-4507-bd93-3aed612755bd",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "求。[wait=600]一個國君，對一個養馬的人，說「相求」。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "77d46a8c-50a1-4e92-afa3-f416f9c6f18a",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你這一輩子想過無數次這樣的場面。[wait=500]三十歲的時候想，四十五歲的時候想，六十三歲那年下雨的秋天也想過。你想過自己會怎麼答、怎麼行禮、怎麼把那些準備了一輩子的話說出來。[wait=800]可是真到了這一刻，你發現你心裡浮上來的第一樣東西，不是那些話。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c740cfcc-bf77-4d2f-b60a-1e3eab851d9e",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "是一句很小、很酸、很難看的話。[wait=600]它在你胸口堵了四十年，此刻幾乎要自己跳出來：[wait=700]——現在才來。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "54d66168-34f5-4309-96e3-98200fb87388",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "你開口。這一句，是你等了七十年才等到的機會，說給一個等了七十年才來的人聽——",
+            "choices": "[{\"text\":\"平平地訴說年老力衰，不多不少\",\"mode\":\"jump\",\"fragmentId\":\"3b085795-df6d-4967-b39d-66b990bf9f72\"},{\"text\":\"同樣的話，可你要讓他聽見那七十年。每個字都咬著說\",\"mode\":\"jump\",\"fragmentId\":\"84572806-6ad3-4caa-a1e5-905d254dc1f9\"},{\"text\":\"說實話：不是不肯。是我真的老了，我怕我做不到\",\"mode\":\"jump\",\"fragmentId\":\"c02eecb1-49c6-47be-96d9-53145a9bf0d2\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "3b085795-df6d-4967-b39d-66b990bf9f72",
+      "name": "辭-平",
+      "blocks": [
+        {
+          "id": "2753984d-9ae2-4518-81e8-ebe0d95aeb80",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "e0328378-2eea-4cd7-abf4-474cd3f4d7ff",
+            "characterName": "燭之武",
+            "expression": "垂目",
+            "position": "right",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「臣之壯也，猶不如人；[wait=600]今老矣，無能為也已。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "905633ea-054e-4a33-9839-004bc9b0524b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你把這句話說得很平。[wait=500]不高不低，不快不慢，像在說今天的草料不夠。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "3d1d158b-64f6-4da0-b44c-0b454e964b82",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "可是這句話本身就是刺。[wait=600]「臣之壯也，猶不如人」——我年輕力壯的時候，尚且比不上別人。[wait=500]這是自貶嗎？不是。這是把四十年前那份名單、那個被選上的二十二歲的次子，輕輕地放回這位國君面前。[wait=700]你不必加重語氣。有些話說得越平，聽的人越無處可躲。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c1c75bdc-91ae-4920-93a6-fdadd85447fa",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "國君的臉在燈下白了一下。[wait=600]他聽懂了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "b77cea2d-3b77-4c6a-99f2-f8d729f30827",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "f895f3bb-cff1-4653-889c-ed1a39706f29"
+          }
+        }
+      ]
+    },
+    {
+      "id": "84572806-6ad3-4caa-a1e5-905d254dc1f9",
+      "name": "辭-刺",
+      "blocks": [
+        {
+          "id": "39fa2e32-c761-4050-be02-6e6cf70b5736",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "e0328378-2eea-4cd7-abf4-474cd3f4d7ff",
+            "characterName": "燭之武",
+            "expression": "隱忍",
+            "position": "right",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「臣之壯也——[wait=700]猶不如人。[wait=800]今老矣。[wait=600]無能為也已。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "80142d12-3fa8-400c-af48-2b9a59bf04e7",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你一個字一個字地說。每說完一句就停一下，停得比該停的久一點。[wait=600]你要他在那些停頓裡，把四十年一段一段地聽完。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "f3ab4cb2-4d7e-43bf-9f62-6342d96d4e63",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "說完你就閉了嘴，看著他。[wait=500]你很清楚自己在做什麼：城外有兩個大國的軍隊，城裡有七萬口人，而你，一個七十歲的養馬人，正在拿這件事——拿這一整座城——在跟你的國君討一句話。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "3c4543ae-3471-464b-85d4-4d8bdec8c494",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你也很清楚這樣不對。[wait=700]可是四十年了。[wait=500]你這一輩子沒有跟任何人討過什麼；就這一次，就一次，你想聽見有人親口說：[wait=600]是我錯了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "27985380-e022-4fda-8756-2d1345959f98",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "怨",
+            "op": "+=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "59d4eaec-3a11-41df-8cdf-28dc6add48e6",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "f895f3bb-cff1-4653-889c-ed1a39706f29"
+          }
+        }
+      ]
+    },
+    {
+      "id": "c02eecb1-49c6-47be-96d9-53145a9bf0d2",
+      "name": "辭-真",
+      "blocks": [
+        {
+          "id": "1e79f491-cc29-4b5c-83a4-1144ce839326",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "e0328378-2eea-4cd7-abf4-474cd3f4d7ff",
+            "characterName": "燭之武",
+            "expression": "蒼老",
+            "position": "right",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「臣之壯也，猶不如人；今老矣，無能為也已。」[wait=800]頓了一下，你又說：「……君上，老臣不是推辭。[wait=600]我七十了。走三里路要歇兩回，夜裡看不清東西。[wait=500]我怕的是應了，卻做不到。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "55534818-08bf-4e03-90da-f58f09425cb1",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你把那句刺人的話說完了，然後你自己把刺拔了。[wait=600]你沒有拿它去換那句道歉。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "554be8e7-8aff-4e34-ae8b-516fa2633683",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "說出來的一瞬間你才發現，這是真的——你確實怕。[wait=500]你怕的不是死在秦營裡，是這輩子唯一一次被人需要，最後被你自己搞砸了。[wait=700]那樣的話，那七十年就不只是白過，還變成了一個證明：[wait=500]他們當年不選你，是對的。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "f11a7887-b904-461f-90ba-b9dfdb21fbfb",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "國君看著你。他沒有立刻說話。[wait=600]你這才注意到，他也老了——他在位三十多年，此刻站在馬廄裡，鬢角全白。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "caad44cb-23cc-4536-a48e-ec885084f382",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "怨",
+            "op": "+=",
+            "aKind": "lit",
+            "aLit": "-1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "f238ee1f-1b04-4e0a-a41f-0d75f3975014",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "f895f3bb-cff1-4653-889c-ed1a39706f29"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f895f3bb-cff1-4653-889c-ed1a39706f29",
+      "name": "是寡人之過也",
+      "blocks": [
+        {
+          "id": "cf7174ea-8ad2-4dcd-98ca-262ac61c11b2",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "國君沉默了很久。[wait=800]燈芯爆了一聲。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "179901ec-863e-45ca-9b53-5f5c187f5ac9",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "be3d844a-07ca-4b37-9bf1-5ec4dfc12832",
+            "characterName": "鄭文公",
+            "expression": "愧色",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「吾不能早用子，[wait=700]今急而求子，[wait=800]是寡人之過也。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "879e485e-5a93-481c-99c4-9410172d4281",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "是寡人之過也。[wait=1000]你等了四十年的那句話，用了六個字，說完了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "e16de656-9e90-42f3-a4e4-341ae35c21a9",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你以為你會哭，或者至少會覺得痛快。[wait=600]都沒有。[wait=500]你只覺得很空——像一個扛了很久重物的人，忽然被拿走了那件東西，兩隻手不知道該放在哪裡。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "2192013d-2d38-4bb9-b1b4-f53c057a6cb7",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "原來一句道歉是這樣的。[wait=700]它不能把四十年還給你。它甚至不能讓那四十年變得比較好一點。[wait=600]它只是承認：那四十年，本來不必是那樣的。[wait=800]——可你還是等了它四十年。因為沒有這句話，那四十年連「本來不必」都算不上，只能算你自己不行。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d19f053c-e3f5-4e0d-9324-8dc47dc8dba4",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你以為話就到這裡了。[wait=600]可他沒有走。他站在那裡，看著馬廄裡那盞燈，忽然又開口——這一次不像在對你說話。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "91703030-adac-423c-9970-95106224c56c",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "be3d844a-07ca-4b37-9bf1-5ec4dfc12832",
+            "characterName": "鄭文公",
+            "expression": "愧色",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「七年前，晉公子重耳過鄭。[wait=700]叔詹勸寡人以禮相待，說此人賢，天將立之。[wait=600]寡人說——流亡的公子那麼多，一個一個禮遇得過來嗎。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "cdc74f02-3952-4406-980a-a7fba95254a4",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "be3d844a-07ca-4b37-9bf1-5ec4dfc12832",
+            "characterName": "鄭文公",
+            "expression": "焦灼",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「他連城門都沒進。」[wait=800]國君的聲音低了下去，「今夜駐在函陵的那個人，就是他。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d9c64f5b-2bbe-42bf-ae85-856a31dc3f20",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你沒有說話。[wait=600]你想起那個下雨的秋天，想起那五匹瘦馬，想起走在最前面那匹左前蹄鐵脫了半邊、一步一顛。[wait=500]你當時就站在這座馬廄的門口。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c62c0a66-3b50-4382-a42c-4cc16bef3434",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "原來這位國君心裡一直都清楚。[wait=700]城外那兩支軍隊，晉國的那一支是他自己請來的——用七年前一次不肯見面請來的。[wait=600]他今夜走進馬廄，說「是寡人之過也」，說的其實不只是四十年前那份名單。[wait=800]他是在說：這一整座城，這七萬口人，是我惹來的。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "3ee507e6-ea9f-4c78-a517-998bc8e6403d",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "而他能想到的補救，是來找一個被他擱了四十年的老頭。[wait=700]你忽然覺得，你們兩個站在這座馬廄裡的樣子，實在不太體面——一個把一輩子錯過去的人，來求一個被錯過了一輩子的人。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "b0a619db-e479-410c-97a6-a42405060571",
+          "type": "dialogue",
+          "props": {
+            "disabled": false,
+            "characterId": "be3d844a-07ca-4b37-9bf1-5ec4dfc12832",
+            "characterName": "鄭文公",
+            "expression": "決斷",
+            "position": "left",
+            "showCharacter": true,
+            "keepCharacter": true,
+            "keepDialogue": true,
+            "isFirst": true,
+            "isLast": true,
+            "prevExpression": "",
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「然——[wait=600]鄭亡，子亦有不利焉。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "3a00ad37-8e12-4009-84d1-ead4ff28ab50",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "道完歉，他緊接著補了這一句。[wait=700]鄭國亡了，你也活不成。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "202b2112-b823-495c-97cf-3a1ccd1f2668",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你差一點笑出來。[wait=600]這才是國君。前一句是他這輩子少有的坦誠，後一句是他坐在那個位子上三十多年練出來的本能——道歉歸道歉，該壓的還是要壓。[wait=500]他怕你不肯，所以他提醒你：你沒有別的路。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "520716d4-4d39-4b76-8bda-0a7a70416dda",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "可他不知道的是——[wait=800]從他走進這座馬廄、開口說「先生」的那一刻起，你就已經要去了。[wait=600]後面這句威脅，白費了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "4f9afff2-4531-4f27-9a53-183fb43f73f4",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "3d619c83-3d5d-4f60-b969-0f2a331f15d5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "3d619c83-3d5d-4f60-b969-0f2a331f15d5",
+      "name": "許之",
+      "blocks": [
+        {
+          "id": "40d7db0a-3664-4f54-94fc-dfc80f4278b6",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "「許之。」[wait=600]史官將來會用這兩個字，記下這一夜你點頭的樣子。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "6889d0f3-edcc-4dd2-ba50-19e11d678876",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "兩個字。[wait=700]可你心裡清楚，你答應的不只是「去見秦君」這一件事。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c96d0dba-5a48-4ed9-bf54-8b283b094f8c",
+          "type": "branch",
+          "props": {
+            "disabled": false,
+            "branchId": "",
+            "title": "你點了頭。可是在你心裡，你答應的是——",
+            "choices": "[{\"text\":\"那句道歉。他說了，你就去。四十年就值這六個字\",\"mode\":\"jump\",\"fragmentId\":\"7978654f-0e16-4488-8b15-0f2e8ed9da4c\"},{\"text\":\"城裡那七萬口人。跟他沒有關係，跟你的四十年也沒有關係\",\"mode\":\"jump\",\"fragmentId\":\"e6e86ce6-3e63-4c0f-bba5-4adfb40d259d\"},{\"text\":\"你自己。你要親手證明，那七十年不是白過的\",\"mode\":\"jump\",\"fragmentId\":\"e3909b99-5182-49ed-a150-318fc44385ac\"}]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "7978654f-0e16-4488-8b15-0f2e8ed9da4c",
+      "name": "許-道歉",
+      "blocks": [
+        {
+          "id": "8e7db524-76bc-4845-87a1-7aa4fb309d1c",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你答應的是那六個字。[wait=600]說出來很小氣，可你不騙自己：如果他今夜沒有說那句話，只是命你去，你也會去——但你會恨著去。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "b5bfa9f0-b0a4-4c71-bf71-0c3c12273d6e",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "他說了。[wait=500]於是四十年那筆帳，在這一刻結清了。不是他還了你什麼，是你自己終於肯把它放下。[wait=700]放下之後你才發現，那筆帳一直不是壓在他身上的，是壓在你身上的。你扛著它，扛了四十年。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d75e9102-9cb9-4a41-9819-3daca3471cd4",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "現在你兩手空了。[wait=600]空著手，才好去做今夜要做的事。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "88757bea-0b4f-44c8-8674-0325213f16ad",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "許之為何",
+            "op": "=",
+            "aKind": "lit",
+            "aLit": "1",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "985c505a-9f0f-4e0e-9971-ba23c1287a83",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "71abbacc-4d2a-493d-be9b-36cf303b9c8f"
+          }
+        }
+      ]
+    },
+    {
+      "id": "e6e86ce6-3e63-4c0f-bba5-4adfb40d259d",
+      "name": "許-城中人",
+      "blocks": [
+        {
+          "id": "d9e835b8-1ea9-4857-80f4-94336bf87c04",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你答應的是城裡那七萬口人。[wait=600]跟國君沒有關係，跟那六個字也沒有關係。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "5210f394-1d9c-49af-9dae-15788e84c72a",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你想起昨夜東邊那一家人。[wait=500]他們吊死在自己屋樑上的時候，不知道城裡有一個養馬的老頭，腦子裡裝著三十年的諸侯舊事和每一條路的腳程。[wait=700]他們不知道，所以他們死了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "32632356-6556-4992-b020-340c2d78cb2b",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你這輩子沒有救過任何人。[wait=600]你連自己都沒救成。[wait=500]可是今夜，那些從來不認識你、將來也不會知道你名字的人，他們的命，忽然就擺在了你的嘴上。[wait=800]——這件事跟公不公平沒有關係。它只是輪到你了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "69aab830-c11e-43ff-86ef-f05c08c7ba22",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "許之為何",
+            "op": "=",
+            "aKind": "lit",
+            "aLit": "2",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "1fb5074f-b5de-47e8-936b-6f2606f1e230",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "71abbacc-4d2a-493d-be9b-36cf303b9c8f"
+          }
+        }
+      ]
+    },
+    {
+      "id": "e3909b99-5182-49ed-a150-318fc44385ac",
+      "name": "許-證明",
+      "blocks": [
+        {
+          "id": "ead7771e-1127-4883-9f13-2034aad7b468",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你答應的是你自己。[wait=700]你要去證明一件事，一件憋了七十年的事：[wait=600]他們錯了。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "d3835850-3d00-4041-9e5a-2f349e1a01af",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "不是錯在沒有給你官做——官算什麼。[wait=500]是錯在他們看了你七十年，一直看不見。你在馬廄裡，就只是馬廄裡的東西；你說的話，就只是馬廄裡的話。[wait=700]今夜你要走出這座馬廄，走到兩軍之間去，把那七十年一件一件拿出來用——用給他們看。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "3cac10b0-f008-419b-99ca-523f052286d7",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你知道這樣的念頭不夠乾淨。[wait=600]可是它有力氣。[wait=500]一個七十歲的人要在半夜裡爬下城牆，光靠慈悲是爬不下去的；有時候得靠一口氣，一口很不服的氣。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "491de357-0098-4d1d-bd6f-fcd7c62e7b6f",
+          "type": "setver",
+          "props": {
+            "disabled": false,
+            "key": "許之為何",
+            "op": "=",
+            "aKind": "lit",
+            "aLit": "3",
+            "aVar": "",
+            "bKind": "none",
+            "bLit": "",
+            "bVar": "",
+            "binOp": "+"
+          }
+        },
+        {
+          "id": "a232cd6e-f832-4e19-bf38-98a7c8e99dd0",
+          "type": "callFragment",
+          "props": {
+            "disabled": false,
+            "fragmentId": "71abbacc-4d2a-493d-be9b-36cf303b9c8f"
+          }
+        }
+      ]
+    },
+    {
+      "id": "71abbacc-4d2a-493d-be9b-36cf303b9c8f",
+      "name": "章末·等天黑",
+      "blocks": [
+        {
+          "id": "2c24df9c-9300-4195-b3e8-3625543cb933",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "國君走了。佚之狐留下來，跟你交代了幾件事——從哪一段城牆下去，繩子誰來放，秦軍的營在氾南，晉軍在函陵，兩軍分駐，中間隔著三十里。[wait=600]這是今夜唯一的一線生機：秦晉沒有駐在一起。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "0e97b9cf-e130-44ff-826b-7ae4cde8ad26",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "他說完，看著你，像是還想說點什麼，最後只說了四個字：[wait=500]「先生保重。」",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "c363fdd7-0778-4987-bd77-e34b9943e0d6",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "他也走了。馬廄裡只剩下你和十七匹馬。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "b5212629-1020-46ba-a825-baaf77355bcb",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你做的第一件事，是把馬餵了。[wait=800]草料本來要留到明天早上的，你把它全倒了出去。[wait=600]——明天早上，也許沒有你來餵。牠們總不能餓著。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "3bb0172c-6c03-4391-8fb3-15a9b5f38302",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "餵完馬，你在廄門口坐下來，等天黑。[wait=500]你沒有告訴任何人今夜要做什麼。沒有人可以告訴：你沒有妻，沒有子，父母死了五十年了。[wait=700]你這一生走到這裡，能替你送行的，只有十七匹不知道發生了什麼事的馬。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "2c15f54a-25a0-43b6-bdd9-84746fd3f7a4",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你把那三十年裡聽來的東西，在腦子裡又過了一遍。[wait=500]路程、關口、渡口、諸侯的舊事、誰欠過誰、誰背過誰。[wait=600]一件一件，像把一堆生鏽的舊工具翻出來，一樣一樣擦乾淨，擺好。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "9f4d957a-4685-4811-8208-8be719eff212",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "你這輩子攢的東西，今夜全部要用上了。[wait=800]而且只有這一夜。",
+              "styles": {}
+            }
+          ]
+        },
+        {
+          "id": "10da789a-3b03-4b56-88b8-a7936f73b818",
+          "type": "narration",
+          "props": {
+            "disabled": false,
+            "keepDialogue": true,
+            "voiceHash": ""
+          },
+          "content": [
+            {
+              "type": "text",
+              "text": "天黑了。",
+              "styles": {}
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -906,6 +906,15 @@
           }
         },
         {
+          "id": "3f47c726-9dd0-4f14-8f51-c539240ce0f6",
+          "type": "callExtensionFunction",
+          "props": {
+            "disabled": false,
+            "target": "avg.internal.default-shell/add-to-gallery",
+            "paramsJson": "{\"id\":{\"kind\":\"lit\",\"value\":\"5d9c58ff-7d52-42da-b28a-f2ce94272fe8\"},\"scene\":{\"kind\":\"lit\",\"value\":\"1a023b17-68a0-47e3-a6d5-554513a069ee\"},\"_sceneLayers\":{\"kind\":\"lit\",\"value\":\"[{\\\"id\\\":\\\"19bdafd1-6cc0-437d-a594-79f4ba9eab71\\\",\\\"name\\\":\\\"CG\\\",\\\"assetPath\\\":\\\"cg/cg_beggar_guide.jpeg\\\",\\\"distance\\\":1}]\"},\"_sceneName\":{\"kind\":\"lit\",\"value\":\"CG·岔路乞丐\"},\"title\":{\"kind\":\"lit\",\"value\":\"岔路乞丐\"}}"
+          }
+        },
+        {
           "id": "e92c2d79-49a1-4992-a351-43037be4965c",
           "type": "narration",
           "props": {

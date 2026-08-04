@@ -581,6 +581,15 @@
           }
         },
         {
+          "id": "39b5ed55-811b-44fe-926d-b3448da21346",
+          "type": "callExtensionFunction",
+          "props": {
+            "disabled": false,
+            "target": "avg.internal.default-shell/add-to-gallery",
+            "paramsJson": "{\"id\":{\"kind\":\"lit\",\"value\":\"7ea37eba-6320-4a22-a4f0-66574cff27b7\"},\"scene\":{\"kind\":\"lit\",\"value\":\"9d34adcc-663a-4ce4-85fa-5837c90c8551\"},\"_sceneLayers\":{\"kind\":\"lit\",\"value\":\"[{\\\"id\\\":\\\"5bb97290-f6c6-4159-8e68-1182e8258c48\\\",\\\"name\\\":\\\"CG\\\",\\\"assetPath\\\":\\\"cg/cg_hundred_li_welcome.jpeg\\\",\\\"distance\\\":1}]\"},\"_sceneName\":{\"kind\":\"lit\",\"value\":\"CG·百里相迎\"},\"title\":{\"kind\":\"lit\",\"value\":\"百里相迎\"}}"
+          }
+        },
+        {
           "id": "d794a8bb-ae39-4c74-88b8-189223d4c3d8",
           "type": "sound",
           "props": {

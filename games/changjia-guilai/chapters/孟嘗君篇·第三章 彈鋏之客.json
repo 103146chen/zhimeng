@@ -481,6 +481,15 @@
           }
         },
         {
+          "id": "3cc255b2-e2ef-4245-a2fa-f55f22b764f8",
+          "type": "callExtensionFunction",
+          "props": {
+            "disabled": false,
+            "target": "avg.internal.default-shell/add-to-gallery",
+            "paramsJson": "{\"id\":{\"kind\":\"lit\",\"value\":\"54b10fb6-4cde-44d2-bd3b-2e52d2b7bd34\"},\"scene\":{\"kind\":\"lit\",\"value\":\"8ef1ffa7-5868-4d04-9ef4-4784486f035f\"},\"_sceneLayers\":{\"kind\":\"lit\",\"value\":\"[{\\\"id\\\":\\\"3382b6b3-b409-4e81-93ba-dd15a94df68a\\\",\\\"name\\\":\\\"CG\\\",\\\"assetPath\\\":\\\"cg/cg_sword_song_epic.jpeg\\\",\\\"distance\\\":1}]\"},\"_sceneName\":{\"kind\":\"lit\",\"value\":\"CG·三彈其鋏\"},\"title\":{\"kind\":\"lit\",\"value\":\"三彈其鋏\"}}"
+          }
+        },
+        {
           "id": "81759f71-8c13-4aa9-9aae-e74223270d75",
           "type": "sound",
           "props": {

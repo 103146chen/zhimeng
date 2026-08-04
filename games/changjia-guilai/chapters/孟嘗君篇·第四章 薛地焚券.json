@@ -460,6 +460,15 @@
           }
         },
         {
+          "id": "3b6ff8c3-ae73-48ba-bcc6-cf2999aad69a",
+          "type": "callExtensionFunction",
+          "props": {
+            "disabled": false,
+            "target": "avg.internal.default-shell/add-to-gallery",
+            "paramsJson": "{\"id\":{\"kind\":\"lit\",\"value\":\"b0199535-57ba-4f83-9310-3bc5d3ce345c\"},\"scene\":{\"kind\":\"lit\",\"value\":\"d579cec5-5627-4615-b63e-802426e07c6a\"},\"_sceneLayers\":{\"kind\":\"lit\",\"value\":\"[{\\\"id\\\":\\\"cfe64b7e-b82d-4ab7-a49f-b5882fad3f73\\\",\\\"name\\\":\\\"CG\\\",\\\"assetPath\\\":\\\"cg/cg_burn_debt_epic.jpeg\\\",\\\"distance\\\":1}]\"},\"_sceneName\":{\"kind\":\"lit\",\"value\":\"CG·薛地焚券·表\"},\"title\":{\"kind\":\"lit\",\"value\":\"薛地焚券．表\"}}"
+          }
+        },
+        {
           "id": "bbd2989d-6ea8-453e-990e-9d2fea638221",
           "type": "narration",
           "props": {

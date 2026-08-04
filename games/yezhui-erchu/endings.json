@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "ending-seventy-seen",
+      "title": "七十而遇",
+      "description": "你受下爵、田與宅，也替那一夜留下可被記錄的憑據。",
+      "lockedTitle": "？？？",
+      "hint": "在被看見之後，接受國君給你的賞賜。",
+      "category": "歸來的選擇",
+      "order": 1,
+      "thumbnailAssetPath": "",
+      "hideUntilUnlocked": false
+    },
+    {
+      "id": "ending-feed-the-horses",
+      "title": "馬還是要餵的",
+      "description": "你辭去封賞，走回那座熟悉了一生的馬廄。",
+      "lockedTitle": "？？？",
+      "hint": "爵位不懂馬，但你知道牠們明早仍要吃草。",
+      "category": "歸來的選擇",
+      "order": 2,
+      "thumbnailAssetPath": "",
+      "hideUntilUnlocked": false
+    },
+    {
+      "id": "ending-a-word-for-zheng",
+      "title": "留一句話給鄭國",
+      "description": "你把四十五年前沒能說出口的治國之言，留在了朝堂。",
+      "lockedTitle": "？？？",
+      "hint": "不要賞賜，只請國君聽完一句話。",
+      "category": "歸來的選擇",
+      "order": 3,
+      "thumbnailAssetPath": "",
+      "hideUntilUnlocked": false
+    },
+    {
+      "id": "ending-the-words-you-wanted",
+      "title": "要的那句話",
+      "description": "你不要補償；那句遲了四十年的承認，已經足夠。",
+      "lockedTitle": "？？？",
+      "hint": "先在馬廄裡聽見國君真正認錯。",
+      "category": "歸來的選擇",
+      "order": 4,
+      "thumbnailAssetPath": "",
+      "hideUntilUnlocked": false
+    },
+    {
+      "id": "ending-seventy-thousand-minus-one",
+      "title": "七萬減一戶",
+      "description": "你替沒能等到城獲救的那戶人家，求來一場遲到的葬禮。",
+      "lockedTitle": "？？？",
+      "hint": "記住圍城時沒能活到天亮的人。",
+      "category": "歸來的選擇",
+      "order": 5,
+      "thumbnailAssetPath": "",
+      "hideUntilUnlocked": false
+    },
+    {
+      "id": "ending-the-eleventh-name",
+      "title": "第十一個名字",
+      "description": "你終於親眼確認，四十五年前那個差一點被選中的名字確實存在。",
+      "lockedTitle": "？？？",
+      "hint": "追問那份塵封四十五年的行人名單。",
+      "category": "歸來的選擇",
+      "order": 6,
+      "thumbnailAssetPath": "",
+      "hideUntilUnlocked": false
+    },
+    {
+      "id": "ending-the-memorial",
+      "title": "那卷策論",
+      "description": "七十三歲的你不替七十年下結論，只把那個問題繼續背著。",
+      "lockedTitle": "？？？",
+      "hint": "讓未被看見的歲月，在心裡留下更深的重量。",
+      "category": "崤山終局",
+      "order": 7,
+      "thumbnailAssetPath": "",
+      "hideUntilUnlocked": false
+    },
+    {
+      "id": "ending-that-child",
+      "title": "那個孩子",
+      "description": "你想起城頭握著繩子的年輕人，並希望他仍記得那一夜。",
+      "lockedTitle": "？？？",
+      "hint": "在漫長的一生裡，少怨一些，也多記住一個人。",
+      "category": "崤山終局",
+      "order": 8,
+      "thumbnailAssetPath": "",
+      "hideUntilUnlocked": false
+    },
+    {
+      "id": "ending-bring-in-the-horses",
+      "title": "收馬",
+      "description": "天下仍在一千里外，而你關好廄門，握住眼前的日子。",
+      "lockedTitle": "？？？",
+      "hint": "不回望大事，只做明日以前該做的事。",
+      "category": "崤山終局",
+      "order": 9,
+      "thumbnailAssetPath": "",
+      "hideUntilUnlocked": false
+    },
+    {
+      "id": "ending-westward-gaze",
+      "title": "西望",
+      "description": "你替一千里外的陌生死者，安靜地向崤山望了一眼。",
+      "lockedTitle": "？？？",
+      "hint": "天黑以前，往崤山的方向多坐一會兒。",
+      "category": "崤山終局",
+      "order": 10,
+      "thumbnailAssetPath": "",
+      "hideUntilUnlocked": false
+    },
+    {
+      "id": "ending-that-lamp",
+      "title": "那盞燈",
+      "description": "三年後你才懂，那一夜真正刺中秦伯的是他自己的舊傷。",
+      "lockedTitle": "？？？",
+      "hint": "在帳中找出足以讓秦伯動搖的焦、瑕舊事。",
+      "category": "崤山終局",
+      "order": 11,
+      "thumbnailAssetPath": "",
+      "hideUntilUnlocked": false
+    },
+    {
+      "id": "ending-eastward",
+      "title": "東出",
+      "description": "你無意留下的一句話，將在三百年後替秦國打開東方。",
+      "lockedTitle": "？？？",
+      "hint": "認出秦伯的戒心、看懂他的舊傷，也讓他完整聽進你的話。",
+      "category": "隱藏終局",
+      "order": 12,
+      "thumbnailAssetPath": "",
+      "hideUntilUnlocked": false
+    }
+  ]
+}

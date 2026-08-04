@@ -575,6 +575,15 @@
           }
         },
         {
+          "id": "c20205be-13e6-4f1f-94a1-3f05b26dbd4c",
+          "type": "callExtensionFunction",
+          "props": {
+            "disabled": false,
+            "target": "avg.internal.default-shell/add-to-endings",
+            "paramsJson": "{\"id\":{\"kind\":\"lit\",\"value\":\"ending-twilight-of-knowing\"}}"
+          }
+        },
+        {
           "id": "76300649-788e-4ac8-ade6-5ee9fc9708d9",
           "type": "callFragment",
           "props": {
@@ -644,6 +653,15 @@
               "styles": {}
             }
           ]
+        },
+        {
+          "id": "9ca0a31b-6d3c-4c25-aeeb-b7680bf4f3a4",
+          "type": "callExtensionFunction",
+          "props": {
+            "disabled": false,
+            "target": "avg.internal.default-shell/add-to-endings",
+            "paramsJson": "{\"id\":{\"kind\":\"lit\",\"value\":\"ending-twilight-of-knowing\"}}"
+          }
         },
         {
           "id": "d856c434-34ec-42eb-b5ef-e9ed91f7b885",
@@ -742,6 +760,15 @@
           ]
         },
         {
+          "id": "28f47f04-4a62-4b4c-b1d0-99d5e23ae1b7",
+          "type": "callExtensionFunction",
+          "props": {
+            "disabled": false,
+            "target": "avg.internal.default-shell/add-to-endings",
+            "paramsJson": "{\"id\":{\"kind\":\"lit\",\"value\":\"ending-history-verbatim\"}}"
+          }
+        },
+        {
           "id": "e5c5332b-ac4d-499e-ba3c-c74021ff8284",
           "type": "callFragment",
           "props": {
@@ -820,6 +847,15 @@
               "styles": {}
             }
           ]
+        },
+        {
+          "id": "cc757e1e-cbb9-4b1f-a18c-bed98d968d44",
+          "type": "callExtensionFunction",
+          "props": {
+            "disabled": false,
+            "target": "avg.internal.default-shell/add-to-endings",
+            "paramsJson": "{\"id\":{\"kind\":\"lit\",\"value\":\"ending-lonely-lord\"}}"
+          }
         },
         {
           "id": "a420a927-be79-4ace-9fb1-7e4bfd99af3a",
@@ -947,7 +983,7 @@
           ]
         },
         {
-          "id": "blk-1785378799304-axcc5u",
+          "id": "96f0745a-2fee-45ef-9aab-cc073781597d",
           "type": "storyParagraph",
           "props": {
             "disabled": false,

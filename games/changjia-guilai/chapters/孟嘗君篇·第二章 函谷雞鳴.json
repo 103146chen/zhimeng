@@ -1530,6 +1530,15 @@
           }
         },
         {
+          "id": "e27eca68-fa21-443a-9850-1899f4e709d7",
+          "type": "callExtensionFunction",
+          "props": {
+            "disabled": false,
+            "target": "avg.internal.default-shell/add-to-gallery",
+            "paramsJson": "{\"id\":{\"kind\":\"lit\",\"value\":\"5131ee07-d519-4004-b90b-08f0b40aba02\"},\"scene\":{\"kind\":\"lit\",\"value\":\"b1b79cfd-549e-4bbd-8b3c-e1d56f3756a2\"},\"_sceneLayers\":{\"kind\":\"lit\",\"value\":\"[{\\\"id\\\":\\\"54896371-ea28-4090-bf78-e8c4d4c792a3\\\",\\\"name\\\":\\\"CG\\\",\\\"assetPath\\\":\\\"cg/cg_hangu_escape.jpeg\\\",\\\"distance\\\":1}]\"},\"_sceneName\":{\"kind\":\"lit\",\"value\":\"CG·函谷雞鳴\"},\"title\":{\"kind\":\"lit\",\"value\":\"函谷雞鳴\"}}"
+          }
+        },
+        {
           "id": "0015ae92-1faa-44d2-85f0-638f06e5ede9",
           "type": "narration",
           "props": {

@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "ending-twilight-of-knowing",
+      "title": "知人者的黃昏",
+      "description": "你在萬民與親族的守候裡走完一生，留下溫厚而未解的疑問。",
+      "lockedTitle": "？？？",
+      "hint": "以足以容人的器量走到孟嘗君篇終章。",
+      "category": "孟嘗君篇",
+      "order": 1,
+      "thumbnailAssetPath": "",
+      "hideUntilUnlocked": false
+    },
+    {
+      "id": "ending-history-verbatim",
+      "title": "史書的原文",
+      "description": "一生功過不多不少，最終如史書所載，歸於蒼茫。",
+      "lockedTitle": "？？？",
+      "hint": "讓器量停在盛與衰之間。",
+      "category": "孟嘗君篇",
+      "order": 2,
+      "thumbnailAssetPath": "",
+      "hideUntilUnlocked": false
+    },
+    {
+      "id": "ending-lonely-lord",
+      "title": "孤家寡人",
+      "description": "門客與民心俱散，你在空堂秋風中獨自闔眼。",
+      "lockedTitle": "？？？",
+      "hint": "當一次次選擇耗盡容人的器量，暮年自會回答。",
+      "category": "孟嘗君篇",
+      "order": 3,
+      "thumbnailAssetPath": "",
+      "hideUntilUnlocked": false
+    },
+    {
+      "id": "ending-retire-after-success",
+      "title": "功成身退",
+      "description": "你將真相帶走，名字消失在史冊空白，第四窟終究未成。",
+      "lockedTitle": "？？？",
+      "hint": "沒有足夠的信任，有些話只能帶進土裡。",
+      "category": "馮諼篇",
+      "order": 4,
+      "thumbnailAssetPath": "",
+      "hideUntilUnlocked": false
+    },
+    {
+      "id": "ending-answer-of-half-contract",
+      "title": "半券之答",
+      "description": "二十年的真相終於說盡，彼此懂得，卻仍遲了一步。",
+      "lockedTitle": "？？？",
+      "hint": "先取得主公的信任；第四窟若仍缺一角，半券會給出另一個答案。",
+      "category": "馮諼篇",
+      "order": 5,
+      "thumbnailAssetPath": "",
+      "hideUntilUnlocked": false
+    },
+    {
+      "id": "ending-hidden-in-hearts",
+      "title": "藏於民心",
+      "description": "城雖破，人未亡；萬家燈火把史書的句號改成了逗號。",
+      "lockedTitle": "？？？",
+      "hint": "器量、三件信物、乾淨的暗線與君臣信任，缺一不可。",
+      "category": "真結局",
+      "order": 6,
+      "thumbnailAssetPath": "",
+      "hideUntilUnlocked": false
+    }
+  ]
+}

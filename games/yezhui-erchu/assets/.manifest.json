@@ -1,0 +1,340 @@
+{
+  "version": 2,
+  "entries": {
+    "612a6bffe761b623b2fb89baa66ffef6": {
+      "path": "bg/sc_fannan_camp.jpeg",
+      "size": 700540,
+      "updatedAt": 1785811603068.5488
+    },
+    "2dc1bd9598a0ffbaa060d49d84f1a259": {
+      "path": "bg/sc_hanling_jin.jpeg",
+      "size": 733938,
+      "updatedAt": 1785811602967.9275
+    },
+    "47f418c1bdb5919625e6a93482b678cf": {
+      "path": "bg/sc_qin_eastgate.jpeg",
+      "size": 656203,
+      "updatedAt": 1785811603090.8135
+    },
+    "ffdc7555cd2eb513c4cb817939d1c8eb": {
+      "path": "bg/sc_qin_tent.jpeg",
+      "size": 728311,
+      "updatedAt": 1785811603046.1326
+    },
+    "016aa77105bf201a79cccfe580e850d3": {
+      "path": "bg/sc_stable_dawn.jpeg",
+      "size": 869484,
+      "updatedAt": 1785811603214.2888
+    },
+    "870d5bdd34bfbb1a2f86ab5890a10b28": {
+      "path": "bg/sc_stable_night.jpeg",
+      "size": 646254,
+      "updatedAt": 1785811603187.129
+    },
+    "7da1bac788dc5fbd9c1a795c574a5574": {
+      "path": "bg/sc_title.jpeg",
+      "size": 599764,
+      "updatedAt": 1785811603024.4395
+    },
+    "60f1376c08c3cecf55c394522cf4eb24": {
+      "path": "bg/sc_xiaoshan.jpeg",
+      "size": 722852,
+      "updatedAt": 1785811603003.799
+    },
+    "325f5e8db55aeee07943abf54e03639d": {
+      "path": "bg/sc_zheng_palace.jpeg",
+      "size": 791435,
+      "updatedAt": 1785811603138.621
+    },
+    "7622d1d82c068ef86ec9fadbd46f5334": {
+      "path": "bg/sc_zheng_street.jpeg",
+      "size": 656208,
+      "updatedAt": 1785811603161.7417
+    },
+    "ea3655d2d70dc37caafbf86331d405c5": {
+      "path": "bg/sc_zheng_wall_night.jpeg",
+      "size": 574833,
+      "updatedAt": 1785811603113.4114
+    },
+    "12f953aeda5053391497ded989d8ec95": {
+      "path": "bg/sc_ziren_gate.jpeg",
+      "size": 702795,
+      "updatedAt": 1785817677671.2905
+    },
+    "2293da9574fab90af0517c37378d7f69": {
+      "path": "bgm/bgm_alliance.mp3",
+      "size": 3805952,
+      "updatedAt": 1785813697381.1328
+    },
+    "e9072797431667b9670f023023ff739e": {
+      "path": "bgm/bgm_bones.mp3",
+      "size": 4348254,
+      "updatedAt": 1785813854391.8613
+    },
+    "5bb19b2b31afbb35be740cfc40eda636": {
+      "path": "bgm/bgm_descent.mp3",
+      "size": 3583388,
+      "updatedAt": 1785813361057.7976
+    },
+    "defa7cd03cb4fcc066e941b17db7e3e7": {
+      "path": "bgm/bgm_eastward.mp3",
+      "size": 3509409,
+      "updatedAt": 1785814009164.893
+    },
+    "e127164928599f88716cf871140f286d": {
+      "path": "bgm/bgm_negotiation.mp3",
+      "size": 3673667,
+      "updatedAt": 1785813546483.3613
+    },
+    "6a627088839d570f9097a1c42e2d4cde": {
+      "path": "bgm/bgm_siege.mp3",
+      "size": 3922562,
+      "updatedAt": 1785813254156.5857
+    },
+    "6bf18f422fc049c168d3aced37438743": {
+      "path": "bgm/bgm_stable.mp3",
+      "size": 4283052,
+      "updatedAt": 1785813227566.4885
+    },
+    "34954a68cf85db6ccd2b133fae32e58d": {
+      "path": "cg/cg_jianshu_cry.jpeg",
+      "size": 684545,
+      "updatedAt": 1785811609899.4438
+    },
+    "169c0c6324de9cbd957d7f37f3e8d19a": {
+      "path": "cg/cg_qinbo_yue.jpeg",
+      "size": 788620,
+      "updatedAt": 1785811609848.745
+    },
+    "dba86e923f77912163071794f3d161b1": {
+      "path": "cg/cg_sufu_jiaoci.jpeg",
+      "size": 684409,
+      "updatedAt": 1785811609874.9387
+    },
+    "2ed3ed95cfe507163f539247fb1fe24d": {
+      "path": "cg/cg_tent_talk.jpeg",
+      "size": 764755,
+      "updatedAt": 1785811609824.2886
+    },
+    "2f74cfb88f2b0809269a3d8577c27dff": {
+      "path": "cg/cg_xiaoshan_bones.jpeg",
+      "size": 809952,
+      "updatedAt": 1785811609796.804
+    },
+    "13bf22268bcab83fea05f1ea7806e240": {
+      "path": "cg/cg_yezhui.jpeg",
+      "size": 624922,
+      "updatedAt": 1785811609769.7288
+    },
+    "292ba11c83bc71be99c45f699e96ff99": {
+      "path": "characters/佚之狐/憂色.png",
+      "size": 1135882,
+      "updatedAt": 1785814751605.962
+    },
+    "bad20d4b1d96ee845a42aeb885f60c2d": {
+      "path": "characters/佚之狐/懇切.png",
+      "size": 1081410,
+      "updatedAt": 1785814747424.113
+    },
+    "1d82d7d4f3131edae9337a5b1f670857": {
+      "path": "characters/子人氏/端詳.png",
+      "size": 722833,
+      "updatedAt": 1785814720034.868
+    },
+    "c64183d43f0d20e8ca2da84372d66107": {
+      "path": "characters/子犯/請戰.png",
+      "size": 1090471,
+      "updatedAt": 1785814770599.602
+    },
+    "88fb94d66d2eb6ca90a8b156f990f964": {
+      "path": "characters/孟明視/囚首.png",
+      "size": 816760,
+      "updatedAt": 1785814819299.6924
+    },
+    "41a01e7ed75ce308d0fda242042c515f": {
+      "path": "characters/孟明視/驕矜.png",
+      "size": 1017134,
+      "updatedAt": 1785814815151.5095
+    },
+    "e87b139dc637b77dbc7bccee66beddb4": {
+      "path": "characters/弦高/機敏.png",
+      "size": 1091799,
+      "updatedAt": 1785814802194.4546
+    },
+    "7c67804fb98d860540f6efa6d9632f7b": {
+      "path": "characters/晉文公/沉吟.png",
+      "size": 1258405,
+      "updatedAt": 1785814762662.0066
+    },
+    "4b2a71dd049ebb6764efe548145745e2": {
+      "path": "characters/晉文公/霸主.png",
+      "size": 1212055,
+      "updatedAt": 1785814759029.9211
+    },
+    "f0e2a31ea6460cba3cf946465dbc612e": {
+      "path": "characters/杞子/恭謹.png",
+      "size": 975214,
+      "updatedAt": 1785814790846.5703
+    },
+    "de658c2d9e76a8046dcf9bfcd4e9cbf9": {
+      "path": "characters/杞子/暗算.png",
+      "size": 992237,
+      "updatedAt": 1785814795148.0168
+    },
+    "e90dc95b002b5e8b1e16bcb47c47736f": {
+      "path": "characters/燭之武/垂目.png",
+      "size": 767682,
+      "updatedAt": 1785814683879.2976
+    },
+    "953a9a32c3433a8c98ab74df02003c32": {
+      "path": "characters/燭之武/壯年.png",
+      "size": 755237,
+      "updatedAt": 1785814697429.4177
+    },
+    "a1b755fbecb91cb400387940696c4f22": {
+      "path": "characters/燭之武/夜行.png",
+      "size": 903717,
+      "updatedAt": 1785814695208.3618
+    },
+    "a6819327b352b734a23f4fc20b3abe30": {
+      "path": "characters/燭之武/抬眼.png",
+      "size": 766815,
+      "updatedAt": 1785814686126.7673
+    },
+    "2bc98eae9e72259e52277f224a172fac": {
+      "path": "characters/燭之武/疲憊.png",
+      "size": 770458,
+      "updatedAt": 1785814693058.5935
+    },
+    "f1a1417eec841d7d7246fbe123067eb6": {
+      "path": "characters/燭之武/蒼老.png",
+      "size": 717429,
+      "updatedAt": 1785814681581.963
+    },
+    "1c6486d70bf4333524d5a6e4504e2e36": {
+      "path": "characters/燭之武/鋒芒.png",
+      "size": 768653,
+      "updatedAt": 1785814690811.8032
+    },
+    "89a1ee58f6b49e6760cc2adf0ea9f712": {
+      "path": "characters/燭之武/隱忍.png",
+      "size": 768982,
+      "updatedAt": 1785814688506.5842
+    },
+    "a126b149eaf4105093ae5f5f3692e63e": {
+      "path": "characters/秦穆公/動容.png",
+      "size": 991489,
+      "updatedAt": 1785814709594.2964
+    },
+    "4a9a87030131968ab64273766e6e4114": {
+      "path": "characters/秦穆公/威儀.png",
+      "size": 967166,
+      "updatedAt": 1785814702293.9114
+    },
+    "ff13d084309230ed2534925c487d8ad7": {
+      "path": "characters/秦穆公/審視.png",
+      "size": 990032,
+      "updatedAt": 1785814704807.908
+    },
+    "037942516b734a4cf643ebc34dc6131f": {
+      "path": "characters/秦穆公/悔恨.png",
+      "size": 991030,
+      "updatedAt": 1785814714517.944
+    },
+    "ae295f2da5781bfa41c79df7a1ce9b48": {
+      "path": "characters/秦穆公/決斷.png",
+      "size": 988817,
+      "updatedAt": 1785814712063.4856
+    },
+    "01716cd2c42bb46f1c4e2a2a886a9760": {
+      "path": "characters/秦穆公/沉吟.png",
+      "size": 984814,
+      "updatedAt": 1785814707206.7332
+    },
+    "3963c7431b5561edfc78c461d8857825": {
+      "path": "characters/蹇叔/慟哭.png",
+      "size": 897216,
+      "updatedAt": 1785814782548.101
+    },
+    "385ce8be2d35f6938aa7bf74f85eaf15": {
+      "path": "characters/蹇叔/老諫.png",
+      "size": 916034,
+      "updatedAt": 1785814779125.912
+    },
+    "4b6c2d4a924d41e8d9aa2a9c6a5c56e6": {
+      "path": "characters/鄭文公/愧色.png",
+      "size": 1084224,
+      "updatedAt": 1785814733756.0864
+    },
+    "0ceaaf3c17ffd3c1567f939742e22819": {
+      "path": "characters/鄭文公/決斷.png",
+      "size": 1088399,
+      "updatedAt": 1785814737712.7727
+    },
+    "3364ddbd42cd823b8c10c506458f7b09": {
+      "path": "characters/鄭文公/焦灼.png",
+      "size": 1021043,
+      "updatedAt": 1785814729488.329
+    },
+    "5e32789fad886eb2a746b58f2b516691": {
+      "path": "characters/鄭穆公/年輕.png",
+      "size": 1035903,
+      "updatedAt": 1785814807229.7307
+    },
+    "35c808bf333f051a602725bb6f68f2f4": {
+      "path": "items/item_burnt_scroll.jpeg",
+      "size": 731987,
+      "updatedAt": 1785811778137.673
+    },
+    "7a2db8e1d0f3172f89a292df1bb1c569": {
+      "path": "items/item_horseshoe.jpeg",
+      "size": 515438,
+      "updatedAt": 1785811778160.1719
+    },
+    "fcddc03ea636628fe293da03db4c9013": {
+      "path": "items/item_lamp.jpeg",
+      "size": 583108,
+      "updatedAt": 1785811778112.6711
+    },
+    "ad9f7bef4b2d3bf67e99ad51fba505ad": {
+      "path": "items/item_rope.jpeg",
+      "size": 639418,
+      "updatedAt": 1785811778092.3591
+    },
+    "349bf9d4ea240d7e922dfe8959e884c8": {
+      "path": "items/item_sand.jpeg",
+      "size": 898765,
+      "updatedAt": 1785811778071.1985
+    },
+    "6319674faed157e994f55b02719144b0": {
+      "path": "se/se_fire_crackling.mp3",
+      "size": 226533,
+      "updatedAt": 1785812435301.1924
+    },
+    "339be9a1d267e3dfc4f107d76d850839": {
+      "path": "se/se_footsteps_tent.mp3",
+      "size": 67437,
+      "updatedAt": 1785812695906.7805
+    },
+    "585af4d8376e3a2597aab2e60bb6c180": {
+      "path": "se/se_horse_stable.mp3",
+      "size": 361197,
+      "updatedAt": 1785812534576.2065
+    },
+    "e771a8006732a78c31a8c845d3bc55b3": {
+      "path": "se/se_impact_dark.mp3",
+      "size": 178944,
+      "updatedAt": 1785812740197.0735
+    },
+    "15843d50ac8008957dd546171fe94c46": {
+      "path": "se/se_rope_tension.mp3",
+      "size": 1263072,
+      "updatedAt": 1785812578303.7266
+    },
+    "329f201ffb9eed2975ae4ffae7f0ade2": {
+      "path": "se/se_wind_desolate.mp3",
+      "size": 257462,
+      "updatedAt": 1785812847761.402
+    }
+  }
+}

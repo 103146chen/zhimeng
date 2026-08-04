@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "variables": [
+    { "name": "聽商旅", "initialValue": "0" },
+    { "name": "記諸侯事", "initialValue": "0" },
+    { "name": "認馬認人", "initialValue": "0" },
+    { "name": "怨", "initialValue": "0" },
+    { "name": "許之為何", "initialValue": "0" },
+    { "name": "秦伯戒心", "initialValue": "0" },
+    { "name": "打出焦瑕", "initialValue": "0" },
+    { "name": "留了釘子", "initialValue": "0" },
+    { "name": "記住三張臉", "initialValue": "0" },
+    { "name": "歸來的選擇", "initialValue": "0" }
+  ]
+}

@@ -355,6 +355,15 @@
           }
         },
         {
+          "id": "d07c7304-a2c9-4091-a0c9-d9c4a18bf015",
+          "type": "callExtensionFunction",
+          "props": {
+            "disabled": false,
+            "target": "avg.internal.default-shell/add-to-gallery",
+            "paramsJson": "{\"id\":{\"kind\":\"lit\",\"value\":\"1c88c0f0-b30a-4ee3-b0fa-4a7744e41c00\"},\"scene\":{\"kind\":\"lit\",\"value\":\"765a2281-3fcd-43a9-8f35-c57937f848d4\"},\"_sceneLayers\":{\"kind\":\"lit\",\"value\":\"[{\\\"id\\\":\\\"63fa65ce-784e-4fd2-bd81-78876e3cdc2c\\\",\\\"name\\\":\\\"CG\\\",\\\"assetPath\\\":\\\"cg/cg_burn_debt_secret.jpeg\\\",\\\"distance\\\":1}]\"},\"_sceneName\":{\"kind\":\"lit\",\"value\":\"CG·薛地焚券·裡\"},\"title\":{\"kind\":\"lit\",\"value\":\"薛地焚券．裏\"}}"
+          }
+        },
+        {
           "id": "c9bab691-ed84-4bc7-a9a7-dcb6648c6900",
           "type": "sound",
           "props": {

@@ -1,0 +1,281 @@
+{
+  "version": 3,
+  "scenes": [
+    {
+      "id": "fa8bb116-8439-4799-9457-0ea2ced461b4",
+      "name": "標題·馬廄剪影",
+      "layers": [
+        {
+          "id": "7597d733-456f-47ce-b65e-7b876471726d",
+          "name": "背景",
+          "assetPath": "bg/sc_title.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "2c9d572d-ad71-4545-bfbb-62667cf60017",
+      "name": "鄭國馬廄·晨",
+      "layers": [
+        {
+          "id": "b8efd6c7-e0f1-469f-a1b8-c22474632d0f",
+          "name": "背景",
+          "assetPath": "bg/sc_stable_dawn.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "d7489de1-2972-4543-9cec-5fcc8a38574b",
+      "name": "鄭國馬廄·夜",
+      "layers": [
+        {
+          "id": "ea5643d6-f823-4a15-89be-4a55d02f07ee",
+          "name": "背景",
+          "assetPath": "bg/sc_stable_night.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "c08dd892-cc44-46fc-8f04-71f6b8b7d298",
+      "name": "鄭國宮室",
+      "layers": [
+        {
+          "id": "44427f8a-7ce1-4248-9d9a-09f51a8729e4",
+          "name": "背景",
+          "assetPath": "bg/sc_zheng_palace.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "5175cf0c-2cfc-43eb-8983-20c8331712ab",
+      "name": "子人氏宅·門外",
+      "layers": [
+        {
+          "id": "ad44abfb-d1f9-4391-b9d1-1c7a9c837a23",
+          "name": "背景",
+          "assetPath": "bg/sc_ziren_gate.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "b848923c-94f2-4b5b-8238-d7416a8a513b",
+      "name": "鄭國街市·兵臨",
+      "layers": [
+        {
+          "id": "231931d2-cd79-4ae4-ae78-9f1746d9994e",
+          "name": "背景",
+          "assetPath": "bg/sc_zheng_street.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "d0b07818-d819-4ee2-a702-520131d6069d",
+      "name": "鄭國城牆·夜",
+      "layers": [
+        {
+          "id": "18e1e660-1c58-4945-b448-68b6aacca2e3",
+          "name": "背景",
+          "assetPath": "bg/sc_zheng_wall_night.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "151fa6c3-956d-4481-8b03-494f1eb672f7",
+      "name": "函陵晉軍·遠景",
+      "layers": [
+        {
+          "id": "de566bac-bafb-49c3-a3d5-91c17751723f",
+          "name": "背景",
+          "assetPath": "bg/sc_hanling_jin.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "c57eff0f-43bd-4ecb-a5e6-9d7e38722f5f",
+      "name": "氾南秦軍營·夜",
+      "layers": [
+        {
+          "id": "21f8b22b-8ba0-4287-9909-93b4c32d8d11",
+          "name": "背景",
+          "assetPath": "bg/sc_fannan_camp.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "c11224cb-93c4-460b-9069-aae2a23df597",
+      "name": "氾南秦軍大帳",
+      "layers": [
+        {
+          "id": "e9dec5ea-3701-4c23-8b65-60b3e2c7b916",
+          "name": "背景",
+          "assetPath": "bg/sc_qin_tent.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "d2ee0015-c2c7-480e-b5dc-4baff3d400b8",
+      "name": "崤山",
+      "layers": [
+        {
+          "id": "a2b3b6cb-d8b8-4756-89b7-c2c4651f99ea",
+          "name": "背景",
+          "assetPath": "bg/sc_xiaoshan.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "ef03f0a0-9efd-48a7-8be0-f9862a318643",
+      "name": "秦國東門外",
+      "layers": [
+        {
+          "id": "98707860-9b4d-484d-bd59-1b41eb842091",
+          "name": "背景",
+          "assetPath": "bg/sc_qin_eastgate.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "b4e2f9f1-221f-4ff3-8c53-159077ad4437",
+      "name": "CG·夜縋而出",
+      "layers": [
+        {
+          "id": "dda349b2-ae3f-4200-b7be-ac8363561d2b",
+          "name": "背景",
+          "assetPath": "cg/cg_yezhui.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "111f370d-4581-42d7-b6a9-4aba7f9bc292",
+      "name": "CG·帳中對坐",
+      "layers": [
+        {
+          "id": "f3bf3c99-fded-4b7e-920d-314874ab8bdd",
+          "name": "背景",
+          "assetPath": "cg/cg_tent_talk.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "6cac46b4-7b2a-4a54-bf52-bbe48740410f",
+      "name": "CG·秦伯說",
+      "layers": [
+        {
+          "id": "4fdf290b-dfe1-4b6f-b640-084300f01059",
+          "name": "背景",
+          "assetPath": "cg/cg_qinbo_yue.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "fe1b4d64-c4b8-401b-8522-5ae5d751a1f0",
+      "name": "CG·蹇叔哭師",
+      "layers": [
+        {
+          "id": "97dfb256-515b-4dc9-b462-fd5fcbb2c1cb",
+          "name": "背景",
+          "assetPath": "cg/cg_jianshu_cry.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "2f3f1099-b3e4-4e74-8741-107f9680be0f",
+      "name": "CG·崤山白骨",
+      "layers": [
+        {
+          "id": "847cda91-a2b1-43cb-bd11-735988cae8e9",
+          "name": "背景",
+          "assetPath": "cg/cg_xiaoshan_bones.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "b18da3c7-c7f8-432d-9ad4-d4f86c48924c",
+      "name": "CG·素服郊次",
+      "layers": [
+        {
+          "id": "30a994da-a014-457c-8256-36f9afc1fd6b",
+          "name": "背景",
+          "assetPath": "cg/cg_sufu_jiaoci.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "0c9f705d-279a-490b-ac24-ebea768af782",
+      "name": "物·磨偏的蹄鐵",
+      "layers": [
+        {
+          "id": "8a4e0340-7717-4084-89e1-25fb69992885",
+          "name": "背景",
+          "assetPath": "items/item_horseshoe.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "21199571-3602-479b-b620-49f0b33de6b5",
+      "name": "物·一把黃沙",
+      "layers": [
+        {
+          "id": "b330f3a6-c05e-412b-893b-6a3b16317f0a",
+          "name": "背景",
+          "assetPath": "items/item_sand.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "4e8291db-ca8b-4c39-ab2e-7521afe6eb3e",
+      "name": "物·燒掉的策論",
+      "layers": [
+        {
+          "id": "256d872c-2056-4bd5-bbb5-43f36bfde7a1",
+          "name": "背景",
+          "assetPath": "items/item_burnt_scroll.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "ca35e8d6-d8b8-4601-a2ae-cea1119b21ba",
+      "name": "物·夜縋而出的繩子",
+      "layers": [
+        {
+          "id": "851e54a7-71e5-446a-bff9-c59496b7771e",
+          "name": "背景",
+          "assetPath": "items/item_rope.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "2726ffb7-7c5e-4102-b67f-b6a9116b993c",
+      "name": "物·案面上的那盞燈",
+      "layers": [
+        {
+          "id": "1062237c-fca5-4926-a739-7bca9f080966",
+          "name": "背景",
+          "assetPath": "items/item_lamp.jpeg",
+          "distance": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "c9911d5f-824b-4423-8312-26b2d8a639d5",
+  "name": "言與國：夜縋而出",
+  "version": "1.0.0",
+  "engineVersion": "1.0.0",
+  "resolution": {
+    "width": 1920,
+    "height": 1080
+  },
+  "backgroundColor": "#000000",
+  "window": {
+    "lockAspectRatio": true,
+    "allowMaximize": true,
+    "allowFullscreen": true,
+    "launchMode": "windowed"
+  },
+  "chapterOrder": [
+    "開始",
+    "序章 圉人七十",
+    "第一章 宮牆之外",
+    "第二章 函陵與氾南",
+    "第三章 是寡人之過也",
+    "第四章 夜縋而出",
+    "第五章 一夜之言",
+    "第六章 秦伯說",
+    "終章 歸來的路",
+    "後日談 崤山"
+  ],
+  "extensions": {},
+  "extensionSettings": {},
+  "publishSettings": {
+    "allowDialogueSkip": false,
+    "siteSlug": "yezhui-erchu"
+  }
+}

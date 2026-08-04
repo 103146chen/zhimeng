@@ -169,6 +169,15 @@
           }
         },
         {
+          "id": "0ae319aa-c7ab-4e67-b39f-8f5c9220858d",
+          "type": "callExtensionFunction",
+          "props": {
+            "disabled": false,
+            "target": "avg.internal.default-shell/add-to-gallery",
+            "paramsJson": "{\"id\":{\"kind\":\"lit\",\"value\":\"1d913b52-05f6-46e7-83cb-7e9c893ffbcf\"},\"scene\":{\"kind\":\"lit\",\"value\":\"56ab1f80-da10-48c6-809c-a4a8dd71496e\"},\"_sceneLayers\":{\"kind\":\"lit\",\"value\":\"[{\\\"id\\\":\\\"329801f0-07d4-473b-8c30-3ed2770ab0b5\\\",\\\"name\\\":\\\"CG\\\",\\\"assetPath\\\":\\\"cg/cg_sword_song_secret.jpeg\\\",\\\"distance\\\":1}]\"},\"_sceneName\":{\"kind\":\"lit\",\"value\":\"CG·彈鋏之意\"},\"title\":{\"kind\":\"lit\",\"value\":\"彈鋏之意\"}}"
+          }
+        },
+        {
           "id": "16c05b7f-627c-4038-9243-40ea2baafba1",
           "type": "narration",
           "props": {
