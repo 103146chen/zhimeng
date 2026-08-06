@@ -276,6 +276,54 @@
           "distance": 1
         }
       ]
+    },
+    {
+      "id": "b23b05e0-d7c0-41bb-8022-da702a3b2e4d",
+      "name": "子人氏宅·院內",
+      "layers": [
+        {
+          "id": "9d5d0a8e-0ec4-4c0d-b785-f27cb66f7858",
+          "name": "背景",
+          "assetPath": "bg/sc_ziren_courtyard.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "3b74431c-1a59-43e3-bfd3-d711cfbebd44",
+      "name": "燭之武家·灶房",
+      "layers": [
+        {
+          "id": "076601d5-95cb-43b0-b784-8a1395e2417b",
+          "name": "背景",
+          "assetPath": "bg/sc_zhuwu_hearth.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "49c1b3bc-b628-4c82-85f6-32a4279fbf1c",
+      "name": "CG·是寡人之過也",
+      "layers": [
+        {
+          "id": "73358c6f-b9e0-4794-8f53-7919e10dd4e3",
+          "name": "背景",
+          "assetPath": "cg/cg_fault_is_mine.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "c3442f63-f884-46cf-abe7-13ac40cdaaa7",
+      "name": "CG·東出",
+      "layers": [
+        {
+          "id": "524a0bd0-8173-41b8-a4a6-2f822c08a382",
+          "name": "背景",
+          "assetPath": "cg/cg_eastward_legacy.jpeg",
+          "distance": 1
+        }
+      ]
     }
   ]
 }

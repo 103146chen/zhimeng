@@ -54,6 +54,24 @@
       "thumbnailAssetPath": "",
       "category": "CG",
       "order": 5
+    },
+    {
+      "id": "afe77635-335e-4cb4-991f-4039727b1b4f",
+      "title": "是寡人之過也",
+      "description": "兩個老人，一句遲了四十年的認錯。",
+      "sceneId": "49c1b3bc-b628-4c82-85f6-32a4279fbf1c",
+      "thumbnailAssetPath": "",
+      "category": "CG",
+      "order": 6
+    },
+    {
+      "id": "19dc92f1-ee11-43a2-8073-4d74c73967c1",
+      "title": "東出",
+      "description": "你為鄭國留下的一句話，三百年後替秦國打開了東方。",
+      "sceneId": "c3442f63-f884-46cf-abe7-13ac40cdaaa7",
+      "thumbnailAssetPath": "",
+      "category": "CG",
+      "order": 7
     }
   ]
 }

@@ -4,7 +4,7 @@
     "name": "織夢",
     "description": "",
     "url": "",
-    "updatedAt": "2026-08-06T01:35:56.364Z"
+    "updatedAt": "2026-08-06T01:37:46.043Z"
   },
   "games": [
     {
@@ -24,7 +24,7 @@
       "description": "",
       "cover": "bg/sc_title.jpeg",
       "chapters": 10,
-      "bytes": 75169064,
+      "bytes": 77883666,
       "updatedAt": "2026-08-04T23:43:50.033Z"
     }
   ]

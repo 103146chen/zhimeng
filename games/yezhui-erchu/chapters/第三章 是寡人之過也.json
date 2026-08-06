@@ -799,6 +799,42 @@
           ]
         },
         {
+          "id": "4d26fdfb-2648-4662-b631-0c9390b3a8da",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
+        },
+        {
+          "id": "70b654b5-8d1f-4263-ae70-53aedd7a037e",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "49c1b3bc-b628-4c82-85f6-32a4279fbf1c",
+            "sceneName": "CG·是寡人之過也",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "800",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "71fa86c0-3fea-4a2e-89a1-ebbb599f5059",
+          "type": "callExtensionFunction",
+          "props": {
+            "disabled": false,
+            "target": "avg.internal.default-shell/add-to-gallery",
+            "paramsJson": "{\"id\":{\"kind\":\"lit\",\"value\":\"afe77635-335e-4cb4-991f-4039727b1b4f\"},\"scene\":{\"kind\":\"lit\",\"value\":\"49c1b3bc-b628-4c82-85f6-32a4279fbf1c\"},\"_sceneLayers\":{\"kind\":\"lit\",\"value\":\"[{\\\"id\\\":\\\"73358c6f-b9e0-4794-8f53-7919e10dd4e3\\\",\\\"name\\\":\\\"背景\\\",\\\"assetPath\\\":\\\"cg/cg_fault_is_mine.jpeg\\\",\\\"distance\\\":1}]\"},\"_sceneName\":{\"kind\":\"lit\",\"value\":\"CG·是寡人之過也\"},\"title\":{\"kind\":\"lit\",\"value\":\"是寡人之過也\"}}"
+          }
+        },
+        {
           "id": "879e485e-5a93-481c-99c4-9410172d4281",
           "type": "narration",
           "props": {
@@ -861,6 +897,24 @@
               "styles": {}
             }
           ]
+        },
+        {
+          "id": "3912414c-5fd0-4476-ace5-21b836e87bcf",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "d7489de1-2972-4543-9cec-5fcc8a38574b",
+            "sceneName": "鄭國馬廄·夜",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "600",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
         },
         {
           "id": "91703030-adac-423c-9970-95106224c56c",

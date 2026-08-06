@@ -335,6 +335,26 @@
       "path": "se/se_wind_desolate.mp3",
       "size": 257462,
       "updatedAt": 1785812847761.402
+    },
+    "527b74d69258c787328c4ecf081f77c0": {
+      "path": "bg/sc_zhuwu_hearth.jpeg",
+      "size": 645293,
+      "updatedAt": 1785927065176
+    },
+    "9510a1b0fcfd22ead648b3c9220416f0": {
+      "path": "bg/sc_ziren_courtyard.jpeg",
+      "size": 656724,
+      "updatedAt": 1785927066754
+    },
+    "535c62569dc24efa60ca383ed7a338a0": {
+      "path": "cg/cg_fault_is_mine.jpeg",
+      "size": 712149,
+      "updatedAt": 1785926925133
+    },
+    "178cdbd20cbbf0ec69d4844624617a66": {
+      "path": "cg/cg_eastward_legacy.jpeg",
+      "size": 699849,
+      "updatedAt": 1785926927280
     }
   }
 }

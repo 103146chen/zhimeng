@@ -145,8 +145,8 @@
           "type": "scene",
           "props": {
             "disabled": false,
-            "sceneId": "c08dd892-cc44-46fc-8f04-71f6b8b7d298",
-            "sceneName": "鄭國宮室",
+            "sceneId": "b23b05e0-d7c0-41bb-8022-da702a3b2e4d",
+            "sceneName": "子人氏宅·院內",
             "uri": "",
             "transitionMode": "fade",
             "transitionDuration": "700",
@@ -459,8 +459,8 @@
           "type": "scene",
           "props": {
             "disabled": false,
-            "sceneId": "4e8291db-ca8b-4c39-ab2e-7521afe6eb3e",
-            "sceneName": "物·燒掉的策論",
+            "sceneId": "3b74431c-1a59-43e3-bfd3-d711cfbebd44",
+            "sceneName": "燭之武家·灶房",
             "uri": "",
             "transitionMode": "fade",
             "transitionDuration": "600",
@@ -487,6 +487,24 @@
               "styles": {}
             }
           ]
+        },
+        {
+          "id": "575ed238-941d-477a-9483-1e1e0b78c040",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "4e8291db-ca8b-4c39-ab2e-7521afe6eb3e",
+            "sceneName": "物·燒掉的策論",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "600",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
         },
         {
           "id": "2830b083-984f-4bd3-bed0-ee64365f3fc4",

@@ -4359,6 +4359,42 @@
           ]
         },
         {
+          "id": "8abded3f-d654-4437-bd55-f3ff3af6b317",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
+        },
+        {
+          "id": "2f308de9-1295-4b53-82f2-68357e75447d",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "c3442f63-f884-46cf-abe7-13ac40cdaaa7",
+            "sceneName": "CG·東出",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "1200",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "66941f4c-b032-4897-9d3e-84e8c77b26b1",
+          "type": "callExtensionFunction",
+          "props": {
+            "disabled": false,
+            "target": "avg.internal.default-shell/add-to-gallery",
+            "paramsJson": "{\"id\":{\"kind\":\"lit\",\"value\":\"19dc92f1-ee11-43a2-8073-4d74c73967c1\"},\"scene\":{\"kind\":\"lit\",\"value\":\"c3442f63-f884-46cf-abe7-13ac40cdaaa7\"},\"_sceneLayers\":{\"kind\":\"lit\",\"value\":\"[{\\\"id\\\":\\\"524a0bd0-8173-41b8-a4a6-2f822c08a382\\\",\\\"name\\\":\\\"背景\\\",\\\"assetPath\\\":\\\"cg/cg_eastward_legacy.jpeg\\\",\\\"distance\\\":1}]\"},\"_sceneName\":{\"kind\":\"lit\",\"value\":\"CG·東出\"},\"title\":{\"kind\":\"lit\",\"value\":\"東出\"}}"
+          }
+        },
+        {
           "id": "30aad55b-a929-4734-854b-bc3a2fbd5383",
           "type": "narration",
           "props": {
