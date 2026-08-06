@@ -503,8 +503,8 @@
           "type": "scene",
           "props": {
             "disabled": false,
-            "sceneId": "aa0a2e7c-f196-4c9e-bbc3-1fc700e10a02",
-            "sceneName": "薛公府邸",
+            "sceneId": "4aa348d8-4c86-494e-a221-18c1ef38784c",
+            "sceneName": "薛公府·病榻",
             "uri": "",
             "transitionMode": "fade",
             "transitionDuration": "1000",
@@ -655,6 +655,42 @@
           ]
         },
         {
+          "id": "f79b7e77-ead0-4b0b-b59a-a78ccf5caa7c",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
+        },
+        {
+          "id": "55f6a144-4688-4994-b193-6ec998d5a698",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "66ab95be-bad6-475a-8c63-4369d5d98312",
+            "sceneName": "CG·知人者的黃昏",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "1000",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "12923d27-8434-457c-bdf9-0cb1ed0531f9",
+          "type": "callExtensionFunction",
+          "props": {
+            "disabled": false,
+            "target": "avg.internal.default-shell/add-to-gallery",
+            "paramsJson": "{\"id\":{\"kind\":\"lit\",\"value\":\"8a72bf60-c17a-40fb-899b-137f37e46970\"},\"scene\":{\"kind\":\"lit\",\"value\":\"66ab95be-bad6-475a-8c63-4369d5d98312\"},\"_sceneLayers\":{\"kind\":\"lit\",\"value\":\"[{\\\"id\\\":\\\"c42aa888-3734-4e5a-bccb-1a608c56150c\\\",\\\"name\\\":\\\"CG\\\",\\\"assetPath\\\":\\\"cg/cg_twilight_of_knowing.jpeg\\\",\\\"distance\\\":1}]\"},\"_sceneName\":{\"kind\":\"lit\",\"value\":\"CG·知人者的黃昏\"},\"title\":{\"kind\":\"lit\",\"value\":\"知人者的黃昏\"}}"
+          }
+        },
+        {
           "id": "9ca0a31b-6d3c-4c25-aeeb-b7680bf4f3a4",
           "type": "callExtensionFunction",
           "props": {
@@ -682,8 +718,8 @@
           "type": "scene",
           "props": {
             "disabled": false,
-            "sceneId": "aa0a2e7c-f196-4c9e-bbc3-1fc700e10a02",
-            "sceneName": "薛公府邸",
+            "sceneId": "4aa348d8-4c86-494e-a221-18c1ef38784c",
+            "sceneName": "薛公府·病榻",
             "uri": "",
             "transitionMode": "fade",
             "transitionDuration": "1000",
@@ -760,6 +796,42 @@
           ]
         },
         {
+          "id": "63d97813-4db3-4bb0-9911-3edee0b1bdd8",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
+        },
+        {
+          "id": "4bc60d25-c5c2-48e3-b81f-776417aea3db",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "3eb00645-b195-40e9-812f-24fba0c9412f",
+            "sceneName": "CG·史書的原文",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "1000",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "34413cf7-1150-49c8-a947-f760c88b27d2",
+          "type": "callExtensionFunction",
+          "props": {
+            "disabled": false,
+            "target": "avg.internal.default-shell/add-to-gallery",
+            "paramsJson": "{\"id\":{\"kind\":\"lit\",\"value\":\"137c5edc-7a70-4f3a-af15-5a22439107c0\"},\"scene\":{\"kind\":\"lit\",\"value\":\"3eb00645-b195-40e9-812f-24fba0c9412f\"},\"_sceneLayers\":{\"kind\":\"lit\",\"value\":\"[{\\\"id\\\":\\\"a59fea79-828a-4a44-ab2c-665e3229c591\\\",\\\"name\\\":\\\"CG\\\",\\\"assetPath\\\":\\\"cg/cg_history_verbatim.jpeg\\\",\\\"distance\\\":1}]\"},\"_sceneName\":{\"kind\":\"lit\",\"value\":\"CG·史書的原文\"},\"title\":{\"kind\":\"lit\",\"value\":\"史書的原文\"}}"
+          }
+        },
+        {
           "id": "28f47f04-4a62-4b4c-b1d0-99d5e23ae1b7",
           "type": "callExtensionFunction",
           "props": {
@@ -787,8 +859,8 @@
           "type": "scene",
           "props": {
             "disabled": false,
-            "sceneId": "aa0a2e7c-f196-4c9e-bbc3-1fc700e10a02",
-            "sceneName": "薛公府邸",
+            "sceneId": "4aa348d8-4c86-494e-a221-18c1ef38784c",
+            "sceneName": "薛公府·病榻",
             "uri": "",
             "transitionMode": "fade",
             "transitionDuration": "1000",
@@ -847,6 +919,42 @@
               "styles": {}
             }
           ]
+        },
+        {
+          "id": "9ebdc739-0f1a-406c-b06a-767506f65924",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
+        },
+        {
+          "id": "1050a0e4-5cc2-40af-b3de-54abb4382892",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "af508180-a643-45e5-b2b9-719cb8494bce",
+            "sceneName": "CG·孤家寡人",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "1000",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "989501a0-7bd3-4fbd-8e3e-b4c06cf7b1a0",
+          "type": "callExtensionFunction",
+          "props": {
+            "disabled": false,
+            "target": "avg.internal.default-shell/add-to-gallery",
+            "paramsJson": "{\"id\":{\"kind\":\"lit\",\"value\":\"b6a0ad6f-cc6a-4cc3-9245-9fa403bd44b4\"},\"scene\":{\"kind\":\"lit\",\"value\":\"af508180-a643-45e5-b2b9-719cb8494bce\"},\"_sceneLayers\":{\"kind\":\"lit\",\"value\":\"[{\\\"id\\\":\\\"4c45836b-b211-40ee-9e93-7341f60930f5\\\",\\\"name\\\":\\\"CG\\\",\\\"assetPath\\\":\\\"cg/cg_lonely_lord.jpeg\\\",\\\"distance\\\":1}]\"},\"_sceneName\":{\"kind\":\"lit\",\"value\":\"CG·孤家寡人\"},\"title\":{\"kind\":\"lit\",\"value\":\"孤家寡人\"}}"
+          }
         },
         {
           "id": "cc757e1e-cbb9-4b1f-a18c-bed98d968d44",

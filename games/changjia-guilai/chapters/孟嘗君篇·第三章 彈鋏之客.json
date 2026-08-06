@@ -401,8 +401,8 @@
           "type": "scene",
           "props": {
             "disabled": false,
-            "sceneId": "aa0a2e7c-f196-4c9e-bbc3-1fc700e10a02",
-            "sceneName": "薛公府邸",
+            "sceneId": "8f6dc96d-cd8e-4a12-a845-5414efcf43fa",
+            "sceneName": "薛公府·末等傳舍",
             "uri": "",
             "transitionMode": "cover",
             "transitionDuration": "600",
@@ -541,8 +541,8 @@
           "type": "scene",
           "props": {
             "disabled": false,
-            "sceneId": "aa0a2e7c-f196-4c9e-bbc3-1fc700e10a02",
-            "sceneName": "薛公府邸",
+            "sceneId": "8f6dc96d-cd8e-4a12-a845-5414efcf43fa",
+            "sceneName": "薛公府·末等傳舍",
             "uri": "",
             "transitionMode": "fade",
             "transitionDuration": "500",

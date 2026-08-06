@@ -523,10 +523,10 @@
       "updatedAt": 1784943348316,
       "tags": []
     },
-    "604864d1486daa0ce2cd787f9d3cb137": {
+    "9117a8eb4ab3d606c1110ea73d491c46": {
       "path": "characters/馮諼/少年.png",
-      "size": 273875,
-      "updatedAt": 1784946501150,
+      "size": 1455276,
+      "updatedAt": 1785026941000,
       "tags": []
     },
     "b11f3f4b266dfce24de0c3bd1f7ea30c": {
@@ -653,6 +653,54 @@
       "path": "characters/孟嘗君/少年.png",
       "size": 1422475,
       "updatedAt": 1785026784023,
+      "tags": []
+    },
+    "82efbc1091e5b07cae3fc2265ca8b47a": {
+      "path": "bg/sc_guest_quarters.jpeg",
+      "size": 731292,
+      "updatedAt": 1785927629014,
+      "tags": []
+    },
+    "c7a04fb80b8c9ee18616d32e84490b2b": {
+      "path": "bg/sc_fudi_gate.jpeg",
+      "size": 779436,
+      "updatedAt": 1785927623259,
+      "tags": []
+    },
+    "5c5bd73ecf45c9d1f2c44f68b72eb959": {
+      "path": "bg/sc_xue_backstreets.jpeg",
+      "size": 740286,
+      "updatedAt": 1785927625224,
+      "tags": []
+    },
+    "9c9566643e1d61a32e3ee1183caa9c3f": {
+      "path": "bg/sc_sickroom.jpeg",
+      "size": 703415,
+      "updatedAt": 1785927626999,
+      "tags": []
+    },
+    "6f890ff7446d950e937f498bd447b2af": {
+      "path": "cg/cg_twilight_of_knowing.jpeg",
+      "size": 722604,
+      "updatedAt": 1785927269410,
+      "tags": []
+    },
+    "d3892be66b573f2423d27125863b2550": {
+      "path": "cg/cg_history_verbatim.jpeg",
+      "size": 715620,
+      "updatedAt": 1785927291260,
+      "tags": []
+    },
+    "a629a7edd28f9b044c23309e729e3e6b": {
+      "path": "cg/cg_lonely_lord.jpeg",
+      "size": 618367,
+      "updatedAt": 1785927293657,
+      "tags": []
+    },
+    "dcca2f06174d5c36c155600e06f80c40": {
+      "path": "cg/cg_half_contract_answer.jpeg",
+      "size": 705184,
+      "updatedAt": 1785927295759,
       "tags": []
     }
   }

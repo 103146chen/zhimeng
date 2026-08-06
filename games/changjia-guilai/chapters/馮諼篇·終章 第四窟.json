@@ -279,8 +279,8 @@
           "type": "scene",
           "props": {
             "disabled": false,
-            "sceneId": "aa0a2e7c-f196-4c9e-bbc3-1fc700e10a02",
-            "sceneName": "薛公府邸",
+            "sceneId": "4aa348d8-4c86-494e-a221-18c1ef38784c",
+            "sceneName": "薛公府·病榻",
             "uri": "",
             "transitionMode": "cover",
             "transitionDuration": "800",
@@ -423,8 +423,8 @@
           "type": "scene",
           "props": {
             "disabled": false,
-            "sceneId": "9e645682-cf1c-45c3-baed-b41d56adfcee",
-            "sceneName": "臨淄相府正堂",
+            "sceneId": "4aa348d8-4c86-494e-a221-18c1ef38784c",
+            "sceneName": "薛公府·病榻",
             "uri": "",
             "transitionMode": "cover",
             "transitionDuration": "900",
@@ -552,8 +552,8 @@
           "type": "scene",
           "props": {
             "disabled": false,
-            "sceneId": "aa0a2e7c-f196-4c9e-bbc3-1fc700e10a02",
-            "sceneName": "薛公府邸",
+            "sceneId": "4aa348d8-4c86-494e-a221-18c1ef38784c",
+            "sceneName": "薛公府·病榻",
             "uri": "",
             "transitionMode": "cover",
             "transitionDuration": "900",
@@ -636,6 +636,42 @@
           ]
         },
         {
+          "id": "ab8d11db-66ee-4700-bf86-f27bc041d1ee",
+          "type": "removeCharacter",
+          "props": {
+            "disabled": false,
+            "characterId": "",
+            "characterName": ""
+          }
+        },
+        {
+          "id": "0e62feb7-a8ac-4f72-bf0c-a62ee51f5a42",
+          "type": "scene",
+          "props": {
+            "disabled": false,
+            "sceneId": "ce934131-c36d-412f-a105-2b39aa0f36fd",
+            "sceneName": "CG·半券之答",
+            "uri": "",
+            "transitionMode": "fade",
+            "transitionDuration": "1000",
+            "waitForComplete": "false",
+            "resetCamera": "false",
+            "displayType": "cover",
+            "position": "(50%,50%)",
+            "anchor": "center",
+            "size": ""
+          }
+        },
+        {
+          "id": "d1ee00bf-51a2-40ca-a59f-e7c910f4aecb",
+          "type": "callExtensionFunction",
+          "props": {
+            "disabled": false,
+            "target": "avg.internal.default-shell/add-to-gallery",
+            "paramsJson": "{\"id\":{\"kind\":\"lit\",\"value\":\"afec1185-1a59-43fc-bc45-9feee184b3cc\"},\"scene\":{\"kind\":\"lit\",\"value\":\"ce934131-c36d-412f-a105-2b39aa0f36fd\"},\"_sceneLayers\":{\"kind\":\"lit\",\"value\":\"[{\\\"id\\\":\\\"b0cab344-8a37-487e-9467-29ef568f5c5a\\\",\\\"name\\\":\\\"CG\\\",\\\"assetPath\\\":\\\"cg/cg_half_contract_answer.jpeg\\\",\\\"distance\\\":1}]\"},\"_sceneName\":{\"kind\":\"lit\",\"value\":\"CG·半券之答\"},\"title\":{\"kind\":\"lit\",\"value\":\"半券之答\"}}"
+          }
+        },
+        {
           "id": "768caed8-55df-4935-9fe3-d1403c52fec9",
           "type": "narration",
           "props": {
@@ -706,8 +742,8 @@
           "type": "scene",
           "props": {
             "disabled": false,
-            "sceneId": "aa0a2e7c-f196-4c9e-bbc3-1fc700e10a02",
-            "sceneName": "薛公府邸",
+            "sceneId": "4aa348d8-4c86-494e-a221-18c1ef38784c",
+            "sceneName": "薛公府·病榻",
             "uri": "",
             "transitionMode": "cover",
             "transitionDuration": "900",

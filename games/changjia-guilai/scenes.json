@@ -336,6 +336,102 @@
           "distance": 1
         }
       ]
+    },
+    {
+      "id": "8f6dc96d-cd8e-4a12-a845-5414efcf43fa",
+      "name": "薛公府·末等傳舍",
+      "layers": [
+        {
+          "id": "57080ae8-1682-4215-8b7b-253c0eb41485",
+          "name": "背景",
+          "assetPath": "bg/sc_guest_quarters.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "c876bb89-0477-40b7-87be-0dc81cbd1647",
+      "name": "薛公府·府門外",
+      "layers": [
+        {
+          "id": "77856d37-266b-4392-b5d1-a3a19d9dd5ae",
+          "name": "背景",
+          "assetPath": "bg/sc_fudi_gate.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "fa69b425-b185-46fb-9096-39de78fbfa31",
+      "name": "薛地市井·賭坊巷",
+      "layers": [
+        {
+          "id": "06bf1413-5689-4b37-9800-cd3aaf7782c6",
+          "name": "背景",
+          "assetPath": "bg/sc_xue_backstreets.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "4aa348d8-4c86-494e-a221-18c1ef38784c",
+      "name": "薛公府·病榻",
+      "layers": [
+        {
+          "id": "2376099d-1866-4342-b3d0-e3d000ffb08d",
+          "name": "背景",
+          "assetPath": "bg/sc_sickroom.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "66ab95be-bad6-475a-8c63-4369d5d98312",
+      "name": "CG·知人者的黃昏",
+      "layers": [
+        {
+          "id": "c42aa888-3734-4e5a-bccb-1a608c56150c",
+          "name": "CG",
+          "assetPath": "cg/cg_twilight_of_knowing.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "3eb00645-b195-40e9-812f-24fba0c9412f",
+      "name": "CG·史書的原文",
+      "layers": [
+        {
+          "id": "a59fea79-828a-4a44-ab2c-665e3229c591",
+          "name": "CG",
+          "assetPath": "cg/cg_history_verbatim.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "af508180-a643-45e5-b2b9-719cb8494bce",
+      "name": "CG·孤家寡人",
+      "layers": [
+        {
+          "id": "4c45836b-b211-40ee-9e93-7341f60930f5",
+          "name": "CG",
+          "assetPath": "cg/cg_lonely_lord.jpeg",
+          "distance": 1
+        }
+      ]
+    },
+    {
+      "id": "ce934131-c36d-412f-a105-2b39aa0f36fd",
+      "name": "CG·半券之答",
+      "layers": [
+        {
+          "id": "b0cab344-8a37-487e-9467-29ef568f5c5a",
+          "name": "CG",
+          "assetPath": "cg/cg_half_contract_answer.jpeg",
+          "distance": 1
+        }
+      ]
     }
   ],
   "groups": [],
